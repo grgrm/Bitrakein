@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bitrakein</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Bitrakein</description>
+    <title>Биткоин и Экология on Bitrakein</title>
+    <link>http://localhost:1313/articles/bitcoin-and-ecology/</link>
+    <description>Recent content in Биткоин и Экология on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/articles/bitcoin-and-ecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Дезинформация экоактивистов из Гринпис США</title>
       <link>http://localhost:1313/dezinformaciya-ekoaktivistov/</link>
