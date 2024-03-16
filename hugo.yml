@@ -2,3 +2,65 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Bitrakein
 theme: ["PaperMod"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+
+
+
+params:
+  profileMode:
+    enabled: true 
+    title: "<Bitrakein>"
+    subtitle: "Свободные деньги, свободный мир!"
+    imageUrl: 'img/mtitle.png'
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 870 # custom size
+    imageHeight: 390 # custom size
+    buttons:
+      - name: Изучай
+        url: "/categories"
+      - name: Зарабатывай
+        url: "https://cryptorake.in"
+  socialIcons: # optional
+    - name: x
+      url: "https://x.com/itsmegrgrm"
+    - name: nostr
+      url: "https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p"
+      
+  
+    
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Категории
+      url: /categories/
+      weight: 10
+    - identifier: search
+      name: Поиск
+      url: /search/
+      weight: 20
+    - identifier: articles
+      name: Статьи
+      url: /articles/
+      weight: 10
+    - identifier: donation
+      name: Поддержать
+      url: /donation/
+      weight: 30
+    - identifier: links
+      name: Ссылки
+      url: "https://nostree.me/grgrm@getalby.com/"
+      weight: 40
+
