@@ -18,7 +18,7 @@ params:
     title: "<Bitrakein>"
     subtitle: "Свободные деньги, свободный мир!"
     imageUrl: "img/4.png"
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Деньги людей" # optional
     imageWidth: 337 # custom size
     imageHeight: 449 # custom size
     buttons:
