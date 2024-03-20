@@ -35,7 +35,7 @@ params:
   
     
   ShowBreadCrumbs: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowToc: true
 
