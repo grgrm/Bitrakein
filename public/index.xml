@@ -35,5 +35,12 @@
       <guid>http://localhost:1313/svoboda-i-konfidencialnost/</guid>
       <description>Две стороны одной медали</description>
     </item>
+    <item>
+      <title>Что такое халвинг?</title>
+      <link>http://localhost:1313/chto-takoe-halving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chto-takoe-halving/</guid>
+      <description>Какую роль он играет в экономике биткоина и в целом криптовалют. Динамика цен во время прошлых халвингов и когда стоило покупать биткоин</description>
+    </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ description: "Дезинформирующие нападки экоактиви
 categories: ["Экология и Биткоин"]
 ---
 
-> Перевод подготовлен Grgrm, Bitrakein
+> Перевод подготовлен [Grgrm](https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
 
 ### <h3> Часть 1. В этой статье мы расскажем как дезинформация, разоблаченная в ходе кампании Greenpeace USA "Change The Code", только сплотила биткоин-сообщество. </h3>
 
