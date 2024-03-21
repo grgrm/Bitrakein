@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lightning-кошельки</title>
+      <link>http://localhost:1313/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B8/</guid>
+      <description>Начните совершать дешевые и быстрые переводы в сети Lightning, найдите свой LN-кошелек и получите сразу свои первые саты от нас.</description>
+    </item>
+    <item>
       <title>Биткоин защищает Права Человека</title>
       <link>http://localhost:1313/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B0%D0%B5%D1%82-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/svoboda-i-konfidencialnost/</guid>
       <description>Две стороны одной медали</description>
+    </item>
+    <item>
+      <title>Что такое Lightning?</title>
+      <link>http://localhost:1313/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</guid>
+      <description>Рассказываем, кто создал молниеносные биткоин-переводы, что такое сеть 2-ого уровня, как она масштабирует Биткоин и зачем она вообще нужна.</description>
     </item>
     <item>
       <title>Что такое халвинг?</title>

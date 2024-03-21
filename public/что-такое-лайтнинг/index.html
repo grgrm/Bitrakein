@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Что такое Lightning? | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="Рассказываем, кто создал молниеносные биткоин-переводы, что такое сеть 2-ого уровня, как она масштабирует Биткоин и зачем она вообще нужна.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Статьи">
+                    <span>Статьи</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="Поиск (Alt &#43; /)" accesskey=/>
+                    <span>Поиск</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Поддержать">
+                    <span>Поддержать</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://nostree.me/grgrm@getalby.com/" title="Ссылки">
+                    <span>Ссылки</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/">Статьи</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Что такое Lightning?
+    </h1>
+    <div class="post-description">
+      Рассказываем, кто создал молниеносные биткоин-переводы, что такое сеть 2-ого уровня, как она масштабирует Биткоин и зачем она вообще нужна.
+    </div>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/img/chto-takoe-lightning-network/lnbtclogo.png" alt="*Источник статьи: Bitcoin Magazine, перевод: Bitrakein*">
+        <p><em>Источник статьи: Bitcoin Magazine, перевод: Bitrakein</em></p>
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#h3%d0%b8%d0%bd%d1%82%d1%80%d0%beh3" aria-label="ИНТРО">ИНТРО</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d1%82%d0%be-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bb-%d1%81%d0%b5%d1%82%d1%8c-lightningh3" aria-label="КТО СОЗДАЛ СЕТЬ LIGHTNING?">КТО СОЗДАЛ СЕТЬ LIGHTNING?</a></li>
+                <li>
+                    <a href="#h3%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d1%81%d0%b0%d1%82%d1%8bh3" aria-label="ЧТО ТАКОЕ САТЫ?">ЧТО ТАКОЕ САТЫ?</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d1%8e%d1%82-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d1%81%d0%b8%d0%b8-%d0%b2-%d1%81%d0%b5%d1%82%d0%b8-lightningh3" aria-label="КАК РАБОТАЮТ КОМИССИИ В СЕТИ LIGHTNING?">КАК РАБОТАЮТ КОМИССИИ В СЕТИ LIGHTNING?</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d0%b9-%d1%83%d0%b7%d0%b5%d0%bb-lighthing-networkh3" aria-label="КАК НАСТРОИТЬ СВОЙ УЗЕЛ LIGHTHING NETWORK">КАК НАСТРОИТЬ СВОЙ УЗЕЛ LIGHTHING NETWORK</a></li>
+                <li>
+                    <a href="#h3lightning-%d0%ba%d0%be%d1%88%d0%b5%d0%bb%d1%8c%d0%ba%d0%b8h3" aria-label="LIGHTNING-КОШЕЛЬКИ">LIGHTNING-КОШЕЛЬКИ</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d1%8c-%d0%ba%d0%b0%d0%bd%d0%b0%d0%bb-lightningh3" aria-label="КАК НАСТРОИТЬ КАНАЛ LIGHTNING?">КАК НАСТРОИТЬ КАНАЛ LIGHTNING?</a></li>
+                <li>
+                    <a href="#h3%d0%bc%d0%be%d0%b3%d1%83-%d0%bb%d0%b8-%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-%d0%b8%d0%bb%d0%b8-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d1%82%d0%b5%d0%b6%d0%b8-%d0%b1%d0%b5%d0%b7-%d1%81%d0%b2%d0%be%d0%b5%d0%b3%d0%be-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d0%ba%d0%b0%d0%bd%d0%b0%d0%bb%d0%b0h3" aria-label="МОГУ ЛИ Я ОТПРАВЛЯТЬ ИЛИ ПОЛУЧАТЬ ПЛАТЕЖИ БЕЗ СВОЕГО СОБСТВЕННОГО КАНАЛА?">МОГУ ЛИ Я ОТПРАВЛЯТЬ ИЛИ ПОЛУЧАТЬ ПЛАТЕЖИ БЕЗ СВОЕГО СОБСТВЕННОГО КАНАЛА?</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-lightning-%d1%80%d0%b5%d1%88%d0%b0%d0%b5%d1%82-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d1%83-%d0%bc%d0%b0%d1%81%d1%88%d1%82%d0%b0%d0%b1%d0%b8%d1%80%d1%83%d0%b5%d0%bc%d0%be%d1%81%d1%82%d0%b8-bitcoinh3" aria-label="КАК LIGHTNING РЕШАЕТ ПРОБЛЕМУ МАСШТАБИРУЕМОСТИ BITCOIN?">КАК LIGHTNING РЕШАЕТ ПРОБЛЕМУ МАСШТАБИРУЕМОСТИ BITCOIN?</a></li>
+                <li>
+                    <a href="#h3%d0%b7%d0%b0%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5h3" aria-label="ЗАКЛЮЧЕНИЕ">ЗАКЛЮЧЕНИЕ</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><blockquote>
+<p>Перевод подготовлен <a href="https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p" title="Nostr">Grgrm</a></p>
+</blockquote>
+<h3 id="h3интроh3"><!-- raw HTML omitted -->ИНТРО<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3интроh3">#</a></h3>
+<p><strong>Сеть Lightning (Lightning Network)</strong> - это протокол 2-ого уровня для биткоина, специально разработанный для дешевых, быстрых и конфиденциальных микроплатежей. Lightning Network состоит из платежных каналов и платежи через нее не записываются в блокчейне. Вместо этого записываются только транзакции по финансированию каналов и закрытию каналов. Это позволяет проводить множество платежей через Lightning уменьшая нагрузку основной сети Биткоина.</p>
+<p>Когда множество мелких операций в сети Lightning объединяются в несколько крупных операций в сети Биткоина, это позволяет пользователям и майнерам не проверять и не сохранять каждую микротранзакцию. Главное преимущество заключается в снижении комиссий для пользователей. Кроме того, пользователи Lightning больше не должны ждать подтверждений в блокчейне: транзакции выполняются молниеносно.</p>
+<p>И как дополнительный бонус, то, что операции не записываются в блокчейн (в сочетании с алгоритмом маршрутизации Lightning, подобным Tor), это обеспечивает конфиденциальность для пользователей сети Lightning.</p>
+<h3 id="h3кто-создал-сеть-lightningh3"><!-- raw HTML omitted -->КТО СОЗДАЛ СЕТЬ LIGHTNING?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3кто-создал-сеть-lightningh3">#</a></h3>
+<p>Технология была впервые предложена в 2015 году в белой книге сети Lightning (полное название: «Сеть молний Bitcoin: масштабируемые мгновенные внебиржевые платежи»), авторами которой были Джозеф Пун и Таддеус Дридж. Но различные аспекты дизайна сети Lightning уходят еще дальше назад во времени.</p>
+<p>С тех пор несколько команд разработали разные реализации Lightning, включая c-lightning от Blockstream, lnd от Lightning Labs и Eclair от Acinq. Все реализации совместимы благодаря спецификациям протокола BOLT.</p>
+<p>Сеть Lightning по-прежнему совершенствуется каждый день; это проект, над которым постоянно работают.</p>
+<h3 id="h3что-такое-сатыh3"><!-- raw HTML omitted -->ЧТО ТАКОЕ САТЫ?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3что-такое-сатыh3">#</a></h3>
+<p><strong>Саты или &ldquo;сатоши&rdquo; (sats, &ldquo;satoshis&rdquo;)</strong> - это наименьшая денежная единица биткоина, которая записывается в блокчейне. Один сат представляет собой 0,00000001 BTC или одну стомиллионную часть биткоина. Название взято от псевдонима создателя биткоина, Сатоши Накамото.</p>
+<p>Поскольку стоимость биткоина выросла до такого уровня, что дробные части BTC достаточны для оплаты множества товаров и услуг, включая регулярные инвестиции и различного рода микрозадачи, часто используется обозначение биткоина в сатах. Использование сатов также позволяет пользователям проводить транзакции на суммы даже меньше 1 цента США.</p>
+<p>Хэштег #StackingSats используется в социальных сетях в контексте регулярного накопления сатош. А платформы, где можно получать вознаграждения, такие как Carrot или приложение Bitcoin Magazine, начисляют награды в сатах за выполнение задач.</p>
+<h3 id="h3как-работают-комиссии-в-сети-lightningh3"><!-- raw HTML omitted -->КАК РАБОТАЮТ КОМИССИИ В СЕТИ LIGHTNING?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-работают-комиссии-в-сети-lightningh3">#</a></h3>
+<p>В основной сети комиссии выплачиваются майнерам для включения транзакций в блок. Однако сеть Lightning сама по себе не имеет майнеров и блоков. (Хотя, как решение второго уровня, она в конечном итоге, зависит от майнеров и блоков; без майнеров и блоков не было бы биткоина и, следовательно, не было бы сети Lightning.)</p>
+<p>Вместо этого комиссии выплачиваются Lightning нодам (узлам) в сети, которые выполняют работу по предоставлению ликвидности (финансируют каналы) и пересылают транзакции. Некоторые узлы могут брать больше, чем другие, но обычно комиссии невелики и, так как любой может настроить конкурирующий узел, конкуренция, вероятно, будет удерживать комиссии на достаточно низком уровне.</p>
+<p>Оплата комиссий обычно абстрагирована в кошельке и не представляет собой что-то, о чем вам нужно слишком беспокоиться. В отличие от транзакций на блокчейне, нет риска включить слишком низкую комиссию - ваша транзакция либо выполняется немедленно, либо совсем не выполняется.</p>
+<p>Если вы хотите зарабатывать на комиссии сами, вам придется поднять свой собственный узел Lightning, желательно тот, который будет подключен к многим другим узлам в сети Lightning и соответственно иметь хорошую ликвидности в разных каналах. Также полезно иметь этот узел в сети как можно дольше.</p>
+<h3 id="h3как-настроить-свой-узел-lighthing-networkh3"><!-- raw HTML omitted -->КАК НАСТРОИТЬ СВОЙ УЗЕЛ LIGHTHING NETWORK<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-настроить-свой-узел-lighthing-networkh3">#</a></h3>
+<p>Как и узел Bitcoin, узел сети Lightning Network - это программное обеспечение, которое подключается к сети для отправки и приема BTC через Lightning от других узлов. По сути, сеть Lightning состоит из таких узлов.</p>
+<p>Чтобы действительно участвовать в сети Lightning, пользователи должны рассмотреть возможность запуска собственных узлов. Вам, конечно, не обязательно запускать свой узел, чтобы отправлять саты через Lightning-каналы, но запуск собственного узла помогает сети расти, увеличивает ликвидность и может помочь вам получить прибыль.</p>
+<h3 id="h3lightning-кошелькиh3"><!-- raw HTML omitted -->LIGHTNING-КОШЕЛЬКИ<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3lightning-кошелькиh3">#</a></h3>
+<p>Биткоин-кошельки - это программы или приложения, которые позволяют пользователям отправлять и получать BTC. Биткоин-кошельки, способные работать с Lightning Network, позволяют пользователям проводить и принимать платежи через сеть Lightning.</p>
+<p>Как и в случае с биткоин-кошельками, существует различные версии кошельков, поддерживающих Lightning, каждый из которых имеет свои уникальные характеристики и компромиссы. Например, десктопные кошельки Lightning могут быть предпочтительным выбором для тех, кто хочет следить за состоянием своих каналов. Но сеть Lightning изначально разрабатывалась для проведения относительно небольших транзакций в BTC, и многие пользователи не уделяют особого внимания безопасности полного узла. Для многих мобильные кошельки Lightning предпочтительнее, даже если на мобильном устройстве сложно установить полный узел, потому что они наиболее удобны.</p>
+<blockquote>
+<p>Ознакомиться со списком LN-кошельков и выбрать свой вы можете в <strong>этой статье</strong>.</p>
+</blockquote>
+<h3 id="h3как-настроить-канал-lightningh3"><!-- raw HTML omitted -->КАК НАСТРОИТЬ КАНАЛ LIGHTNING?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-настроить-канал-lightningh3">#</a></h3>
+<p>Для настройки канала Lightning вам необходимо запустить узел или иметь кошелек Lightning. Популярными вариантами являются c-lightning и lnd (узлы) и Eclair, Zap и Lightning App (wallets). После установки вы можете создать платежный канал с другим узлом или кошельком Lightning с помощью уникального кода, соответствующего этому узлу. Как именно это делается, немного разнится в зависимости от выбранного решения.</p>
+<p>После установки вы можете проводить транзакции через канал до тех пор, пока в канале есть средства. В зависимости от вашей конфигурации, вы также можете пересылать транзакции других пользователей и, возможно, зарабатывать комиссии.</p>
+<h3 id="h3могу-ли-я-отправлять-или-получать-платежи-без-своего-собственного-каналаh3"><!-- raw HTML omitted -->МОГУ ЛИ Я ОТПРАВЛЯТЬ ИЛИ ПОЛУЧАТЬ ПЛАТЕЖИ БЕЗ СВОЕГО СОБСТВЕННОГО КАНАЛА?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3могу-ли-я-отправлять-или-получать-платежи-без-своего-собственного-каналаh3">#</a></h3>
+<p>Строго говоря, вам необходимо иметь как минимум один открытый платежный канал, чтобы отправлять или принимать платежи Lightning. Однако, если по какой-либо причине вы не хотите пока открывать канал Lightning, есть несколько обходных путей.</p>
+<p>Например, некоторые кошельки Lightning, такие как Blue Wallet, предлагают кастодиальные решения. Это, по сути, означает, что когда пользователь получает платеж, то это операционная команда, стоящая за кошельком, получает платеж от его имени. Средства могут быть выведены пользователем кошелька, но до этого момента они действительно контролируются командой Blue Wallet. Это имеет преимущество в том, что пользователи могут начать принимать платежи сразу же, но у него есть очевидный недостаток: пользователи должны доверять команде кошелька, чтобы они позволили им вывести средства, когда они решат это сделать.</p>
+<p>В качестве альтернативы можно использовать сервис Submarine Swaps, который позволяет пользователям осуществлять платежи без необходимости открывать канал Lightning. Вместо этого пользователи отправляют обычную он-чейн транзакцию к сервису, который пересылает платеж в виде Lightning-платежа конечному получателю. Хотя такие платежи и более безопасные с точки зрения доверия, но это означает, что пользователи должны оплатить комиссии за транзакции в блокчейне и дополнительную комиссию сервиса за предоставление услуги.</p>
+<blockquote>
+<p><em>Примечание Bitrakein: для начинающих мы рекомендуем кастодиальные кошельки, не требующих специальной подкованности и знаний в области различных настроек. Несмотря на правило &ldquo;не ваши ключи - не ваши деньги&rdquo; в данном случае это будет самым оптимальным решением. Так как лайтнинг, будучи протоколом второго уровня, то есть надстройкой над протоколом Биткоин, довольно сложный в плане настройки.</em></p>
+<p><em>Такими кошельками являются, например, Wallet Of Satoshi и Alby (про который мы упоминали в статье про Nostr и в статье Lightning-кошельки)</em></p>
+</blockquote>
+<h3 id="h3как-lightning-решает-проблему-масштабируемости-bitcoinh3"><!-- raw HTML omitted -->КАК LIGHTNING РЕШАЕТ ПРОБЛЕМУ МАСШТАБИРУЕМОСТИ BITCOIN?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-lightning-решает-проблему-масштабируемости-bitcoinh3">#</a></h3>
+<p>Сеть Lightning изначально создана для решения &ldquo;проблемы масштабируемости Bitcoin&rdquo;, как это было сформулировано в белой книге и как описали авторы, Bitcoin не может эффективно служить платформой для мировых платежей, потому что он передает все транзакции всем участникам сети.</p>
+<p>&ldquo;Если каждый узел в сети биткоина должен знать о каждой отдельной транзакции, то это может вызвать значительное замедление сети&rdquo;.
+&ldquo;Следует охватить все транзакции таким образом, чтобы не подвергать риску децентрализацию и безопасность, которую обеспечивает сеть&rdquo;.</p>
+<p>Традиционная платежная сеть, например, Visa, может обрабатывать 47 000 транзакций в секунду, в то время как Bitcoin поддерживал менее семи транзакций в секунду из-за ограничения блока в 1 МБ. Их предложенным решением для данной проблемы масштабирования стал Lightning Network, протокол второго уровня, который позволяет пользователям проводить транзакции с BTC, регистрируя эти транзакции в блокчейне только при финансировании или закрытии каналов. То есть транзакции в сети лайтнинг проходят вне блокчейна, не требуют делегировать доверие и права собственности, что позволяет пользователям проводить практически неограниченное количество операций.</p>
+<h3 id="h3заключениеh3"><!-- raw HTML omitted -->ЗАКЛЮЧЕНИЕ<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3заключениеh3">#</a></h3>
+<p>Мы перевели для вас основную информацию статьи Bitcoin Magazing, касающуюся сети Lightning. Теперь можно подытожить и выделить основное.</p>
+<p>Lightning Network - это децентрализованный протокол второго уровня, надстройка над Биткоин-протоколом, предназначенный для быстрых, дешевых и анонимных транзакций. Технология решает основную проблему - масштабируемости Биткоина. По сути можно совершать неограниченное количество транзакций в секунду.</p>
+<p>В последние годы разработка LN фокусировалась на создании инфраструктуры и тестировании протокола. Сегодня мы видим, что это решение становится всё более популярным среди пользователей. Например, согласно исследованию, проведенному Arcane Research и OpenNode, за последние два года ёмкость сети увеличилась более чем в 3 раза, достигнув отметки в 3 тысячи BTC. В некоторой степени этому способствовало принятие Биткоина как официального средства платежа в Сальвадоре, где LN используется для проведения транзакций.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="http://localhost:1313/svoboda-i-konfidencialnost/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>Свобода и конфиденциальность</span>
+  </a>
+  <a class="next" href="http://localhost:1313/chto-takoe-halving/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Что такое халвинг?</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
