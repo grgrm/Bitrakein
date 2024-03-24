@@ -1,6 +1,6 @@
 ---
 title: Протокол Биткоин
 layout: protocol bitcoin
-url: /protocol-bitcoin/
+url: /articles/protocol-bitcoin/
 ---
 

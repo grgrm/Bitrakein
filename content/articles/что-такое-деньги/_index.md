@@ -1,6 +1,6 @@
 ---
 title: Что такое деньги?
 layout: chto takoe dengi
-url: /что-такое-деньги/
+url: /articles/что-такое-деньги/
 ---
 
