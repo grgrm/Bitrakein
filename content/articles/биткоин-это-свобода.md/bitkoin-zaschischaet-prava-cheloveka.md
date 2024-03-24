@@ -1,7 +1,7 @@
 ---
 title: Биткоин защищает Права Человека
 layout: bitkoin zaschischaet prava cheloveka
-url: /биткоин-защищает-права-человека/
+url: /articles/биткоин-это-свобода/биткоин-защищает-права-человека/
 cover:
     image: img/bitcoiniprava chelovekaaposh.png
     alt: 
