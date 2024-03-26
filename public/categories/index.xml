@@ -2,79 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Bitrakein</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:61617/categories/</link>
     <description>Recent content in Categories on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61617/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lightning Network</title>
-      <link>http://localhost:1313/categories/lightning-network/</link>
+      <link>http://localhost:61617/categories/lightning-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/lightning-network/</guid>
+      <guid>http://localhost:61617/categories/lightning-network/</guid>
       <description></description>
     </item>
     <item>
       <title>Lightning Wallet</title>
-      <link>http://localhost:1313/categories/lightning-wallet/</link>
+      <link>http://localhost:61617/categories/lightning-wallet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/lightning-wallet/</guid>
+      <guid>http://localhost:61617/categories/lightning-wallet/</guid>
       <description></description>
     </item>
     <item>
       <title>Nostr &#43; Bitcoin</title>
-      <link>http://localhost:1313/categories/nostr-&#43;-bitcoin/</link>
+      <link>http://localhost:61617/categories/nostr-&#43;-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/nostr-&#43;-bitcoin/</guid>
+      <guid>http://localhost:61617/categories/nostr-&#43;-bitcoin/</guid>
       <description></description>
     </item>
     <item>
       <title>Биткоин И Права Человека</title>
-      <link>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</link>
+      <link>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</guid>
+      <guid>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Биткоин Это Свобода</title>
-      <link>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
+      <link>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</guid>
+      <guid>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Лин Алден</title>
+      <link>http://localhost:61617/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61617/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>Протокол Биткоин</title>
-      <link>http://localhost:1313/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
+      <link>http://localhost:61617/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</guid>
+      <guid>http://localhost:61617/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>Фиатные Деньги</title>
-      <link>http://localhost:1313/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</link>
+      <link>http://localhost:61617/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</guid>
+      <guid>http://localhost:61617/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Халвинг</title>
-      <link>http://localhost:1313/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</link>
+      <link>http://localhost:61617/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</guid>
+      <guid>http://localhost:61617/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>Что Такое Деньги?</title>
-      <link>http://localhost:1313/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</link>
+      <link>http://localhost:61617/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</guid>
+      <guid>http://localhost:61617/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Экология И Биткоин</title>
-      <link>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
+      <link>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</guid>
+      <guid>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Экономика И Биткоин</title>
+      <link>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</guid>
       <description></description>
     </item>
   </channel>
