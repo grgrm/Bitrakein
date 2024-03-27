@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Экономика и биткоин on Bitrakein</title>
-    <link>http://localhost:61617/articles/the-economy-and-bitcoin/</link>
+    <link>http://localhost:1313/articles/the-economy-and-bitcoin/</link>
     <description>Recent content in Экономика и биткоин on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:61617/articles/the-economy-and-bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/articles/the-economy-and-bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✨Лин Алден о биткоине и глобальных макросах</title>
-      <link>http://localhost:61617/lyn-alden-on-bitcoin-and-global-macro/</link>
+      <link>http://localhost:1313/lyn-alden-on-bitcoin-and-global-macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61617/lyn-alden-on-bitcoin-and-global-macro/</guid>
+      <guid>http://localhost:1313/lyn-alden-on-bitcoin-and-global-macro/</guid>
       <description>Корпоративные акции надежнее денег, приближающийся конец долларового стандарта и новый колониализм современного мира.</description>
     </item>
     <item>
       <title>Что такое деньги?</title>
-      <link>http://localhost:61617/chto-takoe-denjgi/</link>
+      <link>http://localhost:1313/chto-takoe-denjgi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61617/chto-takoe-denjgi/</guid>
+      <guid>http://localhost:1313/chto-takoe-denjgi/</guid>
       <description>Деньги играют важную роль в регулировании нашей жизни и экономики. Вот основное руководство по пониманию денег и их роли в современной экономической системе.</description>
     </item>
     <item>
       <title>Что такое фиатные деньги?</title>
-      <link>http://localhost:61617/chto-takoe-fiatnye-denjgi/</link>
+      <link>http://localhost:1313/chto-takoe-fiatnye-denjgi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61617/chto-takoe-fiatnye-denjgi/</guid>
+      <guid>http://localhost:1313/chto-takoe-fiatnye-denjgi/</guid>
       <description>Фиатные деньги - это денежные средства, не обеспеченные материальным активом или товаром, таким как золото. Обычно они устанавливаются правительствами и оказывают разрушительное воздействие на общество.</description>
     </item>
   </channel>

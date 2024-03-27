@@ -2,76 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:61617/lyn-alden-on-bitcoin-and-global-macro/</loc>
+    <loc>http://localhost:1313/lyn-alden-on-bitcoin-and-global-macro/</loc>
   </url><url>
-    <loc>http://localhost:61617/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/lightning-network/</loc>
+    <loc>http://localhost:1313/categories/lightning-network/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/lightning-wallet/</loc>
+    <loc>http://localhost:1313/categories/lightning-wallet/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B8/</loc>
+    <loc>http://localhost:1313/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B8/</loc>
   </url><url>
-    <loc>http://localhost:61617/nostr&#43;bitcoin/</loc>
+    <loc>http://localhost:1313/nostr&#43;bitcoin/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/nostr-&#43;-bitcoin/</loc>
+    <loc>http://localhost:1313/categories/nostr-&#43;-bitcoin/</loc>
   </url><url>
-    <loc>http://localhost:61617/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:61617/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/bitcoin&#43;nostr/</loc>
+    <loc>http://localhost:1313/articles/bitcoin&#43;nostr/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B0%D0%B5%D1%82-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</loc>
+    <loc>http://localhost:1313/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B0%D0%B5%D1%82-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</loc>
+    <loc>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/bitcoin-and-ecology/</loc>
+    <loc>http://localhost:1313/articles/bitcoin-and-ecology/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</loc>
+    <loc>http://localhost:1313/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</loc>
+    <loc>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/</loc>
   </url><url>
-    <loc>http://localhost:61617/dezinformaciya-ekoaktivistov/</loc>
+    <loc>http://localhost:1313/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/bitcoin-not-crypto/</loc>
   </url><url>
-    <loc>http://localhost:61617/donation/</loc>
+    <loc>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%BD%D0%B5-%D1%89%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</loc>
+    <loc>http://localhost:1313/dezinformaciya-ekoaktivistov/</loc>
   </url><url>
-    <loc>http://localhost:61617/oproverzhenie-doklada-GreenpeaceUSA/</loc>
+    <loc>http://localhost:1313/donation/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
+    <loc>http://localhost:1313/categories/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/protocol-bitcoin/</loc>
+    <loc>http://localhost:1313/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/samoe-vremya-ujti-iz-X/</loc>
+    <loc>http://localhost:1313/oproverzhenie-doklada-GreenpeaceUSA/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/svoboda-i-konfidencialnost/</loc>
+    <loc>http://localhost:1313/categories/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/</loc>
+    <loc>http://localhost:1313/articles/protocol-bitcoin/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</loc>
+    <loc>http://localhost:1313/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/samoe-vremya-ujti-iz-X/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/articles/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D1%8D%D1%82%D0%BE-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0/freedom-and-privacy/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</loc>
+    <loc>http://localhost:1313/articles/</loc>
   </url><url>
-    <loc>http://localhost:61617/chto-takoe-denjgi/</loc>
+    <loc>http://localhost:1313/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</loc>
+    <loc>http://localhost:1313/categories/%D1%85%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD%D0%B3/</loc>
   </url><url>
-    <loc>http://localhost:61617/chto-takoe-fiatnye-denjgi/</loc>
+    <loc>http://localhost:1313/articles/%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BB%D0%B0%D0%B9%D1%82%D0%BD%D0%B8%D0%BD%D0%B3/</loc>
   </url><url>
-    <loc>http://localhost:61617/chto-takoe-halving/</loc>
+    <loc>http://localhost:1313/chto-takoe-denjgi/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
+    <loc>http://localhost:1313/categories/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</loc>
   </url><url>
-    <loc>http://localhost:61617/articles/the-economy-and-bitcoin/</loc>
+    <loc>http://localhost:1313/chto-takoe-fiatnye-denjgi/</loc>
   </url><url>
-    <loc>http://localhost:61617/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
+    <loc>http://localhost:1313/chto-takoe-halving/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/the-economy-and-bitcoin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
   </url>
 </urlset>
