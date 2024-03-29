@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Покупаем биткоин on Bitrakein</title>
+    <link>http://localhost:1313/articles/buy-bitcoin/</link>
+    <description>Recent content in Покупаем биткоин on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/articles/buy-bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P2P обмен</title>
+      <link>http://localhost:1313/articles/buy-bitcoin/p2p-exchange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/buy-bitcoin/p2p-exchange/</guid>
+      <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
+    </item>
+  </channel>
+</rss>

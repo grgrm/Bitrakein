@@ -7,7 +7,7 @@ cover:
     alt: 
     caption: 
 description: "Две стороны одной медали"
-categories: ["Конфиденциальность", "Биткоин это свобода"]
+categories: ["Конфиденциальность", "Биткоин = свобода"]
 ---
 
 > Перевод подготовлен [Grgrm](https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")

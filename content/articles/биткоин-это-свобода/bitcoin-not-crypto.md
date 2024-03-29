@@ -7,7 +7,7 @@ cover:
     alt: 
     caption: 
 description: "Вы слышали эти модные словечки: Web3, NFT, DeFi. Но что они на самом деле значат? По сравнению с Биткоином, практически ничто."
-categories: ["Биткоин, не щиткоин", "Биткоин это свобода"]
+categories: ["Биткоин, не щиткоин", "Биткоин = свобода"]
 ---
 
 > Перевод подготовлен [Grgrm](https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")

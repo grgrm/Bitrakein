@@ -51,6 +51,13 @@
       <description>Что такое протокол Nostr, почему он меняет будущее онлайн-коммуникаций и почему традиционные социальные сети сломаны.</description>
     </item>
     <item>
+      <title>P2P обмен</title>
+      <link>http://localhost:1313/articles/buy-bitcoin/p2p-exchange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/buy-bitcoin/p2p-exchange/</guid>
+      <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
+    </item>
+    <item>
       <title>RakeinDef Bot</title>
       <link>http://localhost:1313/trading/rakeindef-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

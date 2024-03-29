@@ -7,7 +7,7 @@ cover:
     alt: 
     caption:
 description: "Биткоинеры понимают, что централизация денег вредна для общества, но при этом используют централизованные социальные медиаплатформы."
-categories: ["Биткоин это свобода"]
+categories: ["Биткоин = свобода"]
 ---
 
 > Перевод подготовлен [Grgrm](https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
