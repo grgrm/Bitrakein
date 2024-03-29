@@ -25,7 +25,7 @@ params:
       - name: Изучай
         url: "/categories"
       - name: Зарабатывай
-        url: "https://cryptorake.in"
+        url: "/trading"
   socialIcons: # optional
    # - name: x
    #   url: "https://x.com/itsmegrgrm"
