@@ -71,6 +71,13 @@
       <description></description>
     </item>
     <item>
+      <title>Торговля</title>
+      <link>http://localhost:1313/categories/%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Фиатные Деньги</title>
       <link>http://localhost:1313/categories/%D1%84%D0%B8%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

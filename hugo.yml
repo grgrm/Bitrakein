@@ -52,17 +52,21 @@ menu:
     - identifier: search
       name: Поиск
       url: /search/
-      weight: 20
+      weight: 60
     - identifier: articles
       name: Статьи
       url: /articles/
-      weight: 10
+      weight: 20
+    - identifier: trading
+      name: Торговля
+      url: /trading/
+      weight: 30
     - identifier: donation
       name: Поддержать
       url: /donation/
-      weight: 30
+      weight: 40
     - identifier: links
       name: Ссылки
       url: "https://nostree.me/grgrm@getalby.com/"
-      weight: 40
+      weight: 50
 
