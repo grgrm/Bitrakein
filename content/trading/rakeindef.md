@@ -78,6 +78,18 @@ categories: ["Торговля"]
 
 Стоимость бота символическая, вы скорее поддерживаете образовательный проект Bitrakein и в дополнение приобретаете торгового помощника, крипто-бро, который еще и развивается. Мы уже работает над дальнейшими обновлениями.
 
-> Оплатить можно твердыми деньгами - в основной сети биткоина и лайтнингом
+> Оплатить можно твердыми деньгами - в основной сети биткоина или лайтнингом
 >
-> А также в криптовалюте - usdt и monero
+> А также в криптовалюте - usdt или monero
+
+### <h3>Bitcoin on-chain:</h3>
+
+> bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
+
+![](/img/donat/bitpay-on/IMG_8042.jpg "")
+
+ ### <h3>Лайтнинг:</h3> 
+
+> [⚡️rakeindef_bot@legend.lnbits.com](https://legend.lnbits.com/lnurlp/link/nTsw5v)
+
+![](/img/trading/rakeindef-pics/rakeindef-bot-LNpay.png "")
