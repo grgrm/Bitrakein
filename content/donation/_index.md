@@ -1,5 +1,5 @@
 ---
-title: Донат
+title: Донат⚡️
 layout: донат
 url: /donation/
 ---

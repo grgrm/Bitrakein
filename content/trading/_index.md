@@ -1,5 +1,5 @@
 ---
-title: Торговля
+title: Торговля🤖
 layout: trading
 url: /trading/
 ---
