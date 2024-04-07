@@ -3,7 +3,7 @@ title: Что такое халвинг?
 layout: Chto takoe halving?
 url: /chto-takoe-halving/
 cover:
-    image: img/chto-takoe-halving/photo_2023-08-30_113.jpeg
+    image: img/kak-ustroen-bitcoin-protocol/chto-takoe-halving/photo_2023-08-30_113.jpeg
     alt:
 description: "Какую роль он играет в экономике биткоина и в целом криптовалют. Динамика цен во время прошлых халвингов и когда стоило покупать биткоин"
 categories: ["Протокол Биткоин", "Халвинг"]
