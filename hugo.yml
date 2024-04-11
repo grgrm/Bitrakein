@@ -50,7 +50,7 @@ menu:
       url: /categories/
       weight: 10
     - identifier: search
-      name: Поиск
+      name: 🔍
       url: /search/
       weight: 70
     - identifier: articles
