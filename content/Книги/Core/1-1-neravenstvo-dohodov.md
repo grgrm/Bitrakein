@@ -1,5 +1,5 @@
 ---
-title: Экономика 1.0
+title: 1. Экономика 1.0
 layout: neravenstvo dohodov
 url: /1-ekonomika-1-1-neravenstvo-dohodov/
 ---
