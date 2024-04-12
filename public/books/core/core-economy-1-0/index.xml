@@ -8,7 +8,7 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/books/core/core-economy-1-0/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0. Комментарий от автора перевода</title>
+      <title>0. Комментарий от авторов перевода</title>
       <link>http://localhost:1313/books/core/avtor-perevoda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/books/core/avtor-perevoda/</guid>
@@ -25,7 +25,7 @@
 • Данный процесс был связан с возникновением новой экономической системы, получившей название «капитализм», в которой основную роль играют (а) частная собственность, (б) рынки и (в) предприятия [фирмы];</description>
     </item>
     <item>
-      <title>Экономика 1.0</title>
+      <title>1. Экономика 1.0</title>
       <link>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</guid>
