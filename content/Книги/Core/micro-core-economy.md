@@ -1,5 +1,5 @@
 ---
-title: 0.1 Введение
+title: 0.1 Введение — CoreEconomy
 layout: vvedenie
 url: /books/core/vvedenie/
 ---

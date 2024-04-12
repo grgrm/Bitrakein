@@ -35,6 +35,6 @@ categories: ["Книги"]
 
 ### <h3>Содержание</h3>
 
-**[0.1 Введение](/books/core/vvedenie/)**
+**[0.1 Введение — CoreEconomy](/books/core/vvedenie/)**
 
-**[1. Экономика 1.0 — CoreEconomy](/1-ekonomika-1-1-neravenstvo-dohodov/)**
+**[1. Экономика 1.0](/1-ekonomika-1-1-neravenstvo-dohodov/)**

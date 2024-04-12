@@ -29,7 +29,7 @@
       <description>Экономика меняет мир</description>
     </item>
     <item>
-      <title>0.1 Введение</title>
+      <title>0.1 Введение — CoreEconomy</title>
       <link>http://localhost:1313/books/core/vvedenie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/books/core/vvedenie/</guid>
@@ -166,7 +166,7 @@
       <description>Какую роль он играет в экономике биткоина и в целом криптовалют. Динамика цен во время прошлых халвингов и когда стоило покупать биткоин</description>
     </item>
     <item>
-      <title>Экономика 1.0 — CoreEconomy</title>
+      <title>Экономика 1.0</title>
       <link>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</guid>
