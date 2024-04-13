@@ -1,7 +1,7 @@
 ---
 title: Lightning-кошельки
 layout: lightning-kosheljki
-url: /articles/лайтнинг/лайтнинг-кошельки/
+url: /lightning-kosheljki/
 cover:
     image: img/chto-takoe-lightning-network/lightning-wallet/bitcoin-7678816_1280.jpg
     alt: 

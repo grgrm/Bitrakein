@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Сеть лайтнинг on Bitrakein</title>
+    <link>http://localhost:1313/articles/lightning-network/</link>
+    <description>Recent content in Сеть лайтнинг on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/articles/lightning-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lightning-кошельки</title>
+      <link>http://localhost:1313/lightning-kosheljki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lightning-kosheljki/</guid>
+      <description>Начните совершать дешевые и быстрые переводы в сети Lightning, найдите свой LN-кошелек и получите сразу свои первые саты от нас.</description>
+    </item>
+    <item>
+      <title>Что такое Lightning?</title>
+      <link>http://localhost:1313/chto-takoe-lightning-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chto-takoe-lightning-network/</guid>
+      <description>Рассказываем, кто создал молниеносные биткоин-переводы, что такое сеть 2-ого уровня, как она масштабирует Биткоин и зачем она вообще нужна.</description>
+    </item>
+  </channel>
+</rss>

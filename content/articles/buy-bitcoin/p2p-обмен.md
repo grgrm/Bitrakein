@@ -1,7 +1,7 @@
 ---
 title: P2P обмен
 layout: p2p обмен
-url: /articles/buy-bitcoin/p2p-exchange
+url: /p2p-exchange/
 cover:
     image: img/buy-bitcoin/p2p-exchange-1/ex1.jpg
     alt: 

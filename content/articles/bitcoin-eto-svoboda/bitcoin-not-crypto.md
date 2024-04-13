@@ -1,7 +1,7 @@
 ---
 title: Биткоин, не "крипто"
 layout: bitcoin not crypto
-url: /articles/биткоин-это-свобода/bitcoin-not-crypto/
+url: /bitcoin-not-crypto/
 cover:
     image: img/bitcoin-eto-svoboda/bitcoin-not-crypto/dsdc.png
     alt: 

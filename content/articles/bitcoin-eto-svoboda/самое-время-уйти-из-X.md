@@ -1,7 +1,7 @@
 ---
 title: Самое время уйти из X (Twitter)
 layout: Samoe vremya ujti iz X (Twitter)
-url: /articles/биткоин-это-свобода/samoe-vremya-ujti-iz-X/
+url: /samoe-vremya-ujti-iz-X/
 cover:
     image: /img/bitcoin-eto-svoboda/samoe-vremya-ujti-iz-X/at_0033_1.jpg
     alt: 

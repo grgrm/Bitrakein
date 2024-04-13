@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Биткоин = свобода on Bitrakein</title>
+    <link>http://localhost:1313/articles/bitcoin-eto-svoboda/</link>
+    <description>Recent content in Биткоин = свобода on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/articles/bitcoin-eto-svoboda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Биткоин защищает Права Человека</title>
+      <link>http://localhost:1313/bitkoin-zaschischaet-prava-cheloveka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitkoin-zaschischaet-prava-cheloveka/</guid>
+      <description>Биткоин это не инструмент для спекуляций. В этой статье мы расскажем вам как биткоин защищает права человека по всему миру.</description>
+    </item>
+    <item>
+      <title>Биткоин и приватность</title>
+      <link>http://localhost:1313/bitcoin-privacy-best-practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-privacy-best-practices/</guid>
+      <description>Существует священная область приватности, где основные права и свободы, в общем, не должны нарушаться никаким законом</description>
+    </item>
+    <item>
+      <title>Биткоин, не &#34;крипто&#34;</title>
+      <link>http://localhost:1313/bitcoin-not-crypto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-not-crypto/</guid>
+      <description>Вы слышали эти модные словечки: Web3, NFT, DeFi. Но что они на самом деле значат? По сравнению с Биткоином, практически ничто.</description>
+    </item>
+    <item>
+      <title>Самое время уйти из X (Twitter)</title>
+      <link>http://localhost:1313/samoe-vremya-ujti-iz-X/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/samoe-vremya-ujti-iz-X/</guid>
+      <description>Биткоинеры понимают, что централизация денег вредна для общества, но при этом используют централизованные социальные медиаплатформы.</description>
+    </item>
+    <item>
+      <title>Свобода и конфиденциальность</title>
+      <link>http://localhost:1313/freedom-and-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/freedom-and-privacy/</guid>
+      <description>Две стороны одной медали</description>
+    </item>
+  </channel>
+</rss>

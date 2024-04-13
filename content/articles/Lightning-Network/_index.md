@@ -1,5 +1,5 @@
 ---
-title: Lightning Network
+title: Сеть лайтнинг
 layout: lightning network
-url: /articles/лайтнинг/
+url: /articles/lightning-network/
 ---

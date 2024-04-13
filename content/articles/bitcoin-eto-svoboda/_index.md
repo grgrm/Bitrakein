@@ -1,5 +1,5 @@
 ---
 title: Биткоин = свобода
 layout: биткоин = свобода
-url: /articles/биткоин-это-свобода/
+url: /articles/bitcoin-eto-svoboda/
 ---

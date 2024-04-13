@@ -1,7 +1,7 @@
 ---
 title: Свобода и конфиденциальность
 layout: freedom and privacy
-url: /articles/биткоин-это-свобода/freedom-and-privacy/
+url: /freedom-and-privacy/
 cover:
     image: img/bitcoin-eto-svoboda/freedom-and-privacy/cyber-4747175_1280.jpg
     alt: 

@@ -1,7 +1,7 @@
 ---
 title: Биткоин антихрупок
 layout: Bitcoin is Antifragile
-url: как-устроен-биткоин-протокол/bitcoin-is-antifragile/
+url: /bitcoin-is-antifragile/
 cover:
     image: img/kak-ustroen-bitcoin-protocol/bitcoin-is-antifragile/btc-antifragile.png
     alt:

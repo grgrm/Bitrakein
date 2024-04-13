@@ -1,7 +1,7 @@
 ---
 title: Биткоин и приватность
 layout: bitcoin privacy best practices
-url: /articles/биткоин-это-свобода/bitcoin-privacy-best-practices/
+url: /bitcoin-privacy-best-practices/
 cover:
     image: img/bitcoin-eto-svoboda/bitcoin-privacy-best-practices/1664817452-crowd-hats-3.png
     alt: 
