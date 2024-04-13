@@ -1,7 +1,7 @@
 ---
 title: 0. Индивид, экономика и государство
 layout: Man Economy and State
-url: books/man-economy-and-state/
+url: /man-economy-and-state/
 cover:
     image: img/books/man-economy-and-state/rothbard-man1.png
     alt: 
