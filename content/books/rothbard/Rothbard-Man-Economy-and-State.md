@@ -10,14 +10,16 @@ description: "Да здравствует Свобода!"
 categories: ["Книги", "Мюррей Ротбард"]
 ---
 
-> *Над переводом работают Иванъ Голтъ, рыцарь анархо-капитализма, энтузиаст и создатель проекта [Liberty, Libertad, Liberté](https://t.me/rand_philosophy), [Денис Усольцев](https://t.me/twoNumbaNinez) и проект [Bitrakein](https://bitrakein.org/)*
->
-> Поддержать перевод звонкой монеткой:
+> ***Над переводом работают Иванъ Голтъ, рыцарь анархо-капитализма, энтузиаст и создатель проекта [Liberty, Libertad, Liberté](https://t.me/rand_philosophy), [Денис Усольцев](https://t.me/twoNumbaNinez) и проект [Bitrakein](https://bitrakein.org/)***
+
+-----
+
+### <h3>Поддержать перевод звонкой монеткой:</h3>
 >
 > BTC:
 >
-> **Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/B58hwC)
-или отсканируйте qr-код в своем LТ-кошельке
+> **⚡️Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/B58hwC)
+или отсканируйте qr-код в своем LN-кошельке
 >
 >![](/img/books/man-economy-and-state/rothbard-ln1.png "")
 

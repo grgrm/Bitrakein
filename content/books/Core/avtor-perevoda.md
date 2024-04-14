@@ -12,12 +12,14 @@ categories: ["Книги"]
 
 
 > *Над переводом работают Иванъ Голтъ, рыцарь анархо-капитализма, энтузиаст и создатель проекта [Liberty, Libertad, Liberté](https://t.me/rand_philosophy), [Денис Усольцев](https://t.me/twoNumbaNinez) и проект [Bitrakein](https://bitrakein.org/)*
->
-> Поддержать перевод звонкой монетой:
+
+------
+
+### <h3>Поддержать перевод звонкой монетой:</h3>
 >
 > BTC:
 >
-> **Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/deLqm8)
+> **⚡️Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/deLqm8)
 или отсканируйте qr-код в своем LN-кошельке
 >
 >![](/img/books/micro-core/core-economy1-0.png "")
