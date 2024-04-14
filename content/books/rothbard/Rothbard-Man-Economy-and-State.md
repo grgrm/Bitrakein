@@ -16,7 +16,7 @@ categories: ["Книги", "Мюррей Ротбард"]
 
 ### <h3>Поддержать перевод звонкой монеткой:</h3>
 >
-> BTC:
+> **BTC**: bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
 >
 > **⚡️Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/B58hwC)
 или отсканируйте qr-код в своем LN-кошельке

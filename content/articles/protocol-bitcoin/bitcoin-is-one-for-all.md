@@ -3,7 +3,7 @@ title: Биткоин один для всех
 layout: Bitcoin odin dlya vsekh
 url: /bitcoin-odin-dlya-vsekh/
 cover:
-    image: img/kak-ustroen-bitcoin-protocol/bitcoin-is-antifragile/btc-antifragile.png
+    image: img/kak-ustroen-bitcoin-protocol/bitcoin-is-one-for-all/bitcoin-is-one-for-all.png
     alt:
 description: "Серия статей: постепенно, затем внезапно"
 categories: ["Протокол Биткоин", "Постепенно, затем внезапно"]
