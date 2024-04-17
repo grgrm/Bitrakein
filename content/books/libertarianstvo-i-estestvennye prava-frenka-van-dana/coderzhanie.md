@@ -3,7 +3,7 @@ title:  0. Содержание
 layout: Coderzhanie
 url: /coderzhanie/
 cover:
-    image: img/books/man-economy-and-state/.png
+    image: 
     alt: 
     caption: 
 description: "Да здравствует Свобода!"
@@ -14,7 +14,7 @@ categories: ["Книги", "Либертарианство"]
 
 -----
 
-### <h3>Поддержать перевод звонкой монеткой:</h3>
+### <h3>Поддержать перевод звонкой монетой:</h3>
 >
 > **BTC**: bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
 >
