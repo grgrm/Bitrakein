@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Либертарианство и «естественные права» Фрэнка ван Дана on Bitrakein</title>
+    <link>http://localhost:1313/books/libertarianstvo-i-estestvennye-prava-frenka-van-dana/</link>
+    <description>Recent content in Либертарианство и «естественные права» Фрэнка ван Дана on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/books/libertarianstvo-i-estestvennye-prava-frenka-van-dana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0. Содержание</title>
+      <link>http://localhost:1313/coderzhanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/coderzhanie/</guid>
+      <description>Да здравствует Свобода!</description>
+    </item>
+    <item>
+      <title>1. Введение</title>
+      <link>http://localhost:1313/1-vvedenie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/1-vvedenie/</guid>
+      <description>(a) §1 Спросим в очередной раз:
+Что такое либертарианство? [&amp;hellip;]
+§2 Лью Рокуэлл, среди прочих, дал следующую элегантную дефиницию — «Набор правовых теорий» [just law; У. Блок]:
+«Либертарианство рассуждает об использовании насилия в обществе. Это всё».
+§3 В условиях конкуренции за ограниченные ресурсы [с альтернативным применением] акторы могут разрешать споры, опираясь на:
+(а) насилие; (б) мирное соглашение; (в) судебное разбирательство — последние два способа представляют собой разумный уход от насильственных практик.</description>
+    </item>
+  </channel>
+</rss>
