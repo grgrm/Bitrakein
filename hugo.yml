@@ -26,6 +26,8 @@ params:
         url: "/categories"
       - name: Зарабатывай
         url: "/trading"
+      - name: Покупай
+        url: "https://tipybit.com/bitrakein/products/"
   socialIcons: # optional
    # - name: x
    #   url: "https://x.com/itsmegrgrm"
