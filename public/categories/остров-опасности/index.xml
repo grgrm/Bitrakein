@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Остров Опасности on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+    <description>Recent content in Остров Опасности on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0. Остров опасности</title>
+      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
+      <description>[Liberté]</description>
+    </item>
+    <item>
+      <title>1. Капитал</title>
+      <link>http://localhost:1313/ostrov-opasnosti-kapital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ostrov-opasnosti-kapital/</guid>
+      <description>[Художник: Жорно]
+§1 Представьте себе, что вас выбросило на берег тропического острова, вы голый и голодный. В полном одиночестве. Разыскивая долгое время еду, вы начинаете чувствовать боль в ногах, так как пляж усеян большими и острыми камнями. Чёрт возьми, вы ненавидите эти камни.
+Какое это всё-таки недружелюбное место&amp;hellip; Вы решаете назвать его «Островом Опасности».
+§2 Вы пробираетесь по пляжу, а затем продираетесь сквозь ветви деревьев, чтобы попасть в глубь леса.</description>
+    </item>
+    <item>
+      <title>1. Капитал (ч.2)</title>
+      <link>http://localhost:1313/ostrov-opasnosti-kapital-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ostrov-opasnosti-kapital-2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
