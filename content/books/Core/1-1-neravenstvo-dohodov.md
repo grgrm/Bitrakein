@@ -76,5 +76,5 @@ categories: ["Книги", "CoreEconomy"]
 
 -----
 
-|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Прыдущая глава](/books/core/vvedenie/) |[Следующая глава](/1-2-izmerenie-dohodov-i-urovnya-zhizni/)| [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3/)    |
+|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Предыдущая глава](/books/core/vvedenie/) |[Следующая глава](/1-2-izmerenie-dohodov-i-urovnya-zhizni/)| [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3/)    |
 |-------------------------------|:-----------------------------------:|------------------------------------------:|--------------------------------:|

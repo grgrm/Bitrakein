@@ -65,5 +65,5 @@ categories: ["Книги", "CoreEconomy"]
 
 -----
 
-|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Прыдущая глава](/books/core/avtor-perevoda/) |[Следующая глава](/1-ekonomika-1-1-neravenstvo-dohodov/)|  [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3/)    |
+|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Предыдущая глава](/books/core/avtor-perevoda/) |[Следующая глава](/1-ekonomika-1-1-neravenstvo-dohodov/)|  [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3/)    |
 |-------------------------------|:-----------------------------------:|------------------------------------------:|--------------------------------------:|
