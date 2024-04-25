@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Микроэкономика от команды «CoreEconomy» on Bitrakein</title>
-    <link>http://localhost:1313/books/core/core-economy-1-0/</link>
-    <description>Recent content in Микроэкономика от команды «CoreEconomy» on Bitrakein</description>
+    <title>CoreEconomy on Bitrakein</title>
+    <link>http://localhost:1313/categories/coreeconomy/</link>
+    <description>Recent content in CoreEconomy on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/books/core/core-economy-1-0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>0. Комментарий от авторов перевода</title>
-      <link>http://localhost:1313/books/core/avtor-perevoda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/books/core/avtor-perevoda/</guid>
-      <description>Экономика меняет мир</description>
-    </item>
+    <atom:link href="http://localhost:1313/categories/coreeconomy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0.1 Введение — Экономика 1.0</title>
       <link>http://localhost:1313/books/core/vvedenie/</link>
@@ -38,8 +31,7 @@
       <link>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</guid>
-      <description>Посвящается Роме; мне тебя не хватает, друг
-Оценка уровня жизни, которую мы изобразили на графике 1.1а [«ВВП на душу населения»], представляет собой показатель общего объёма товаров и услуг, произведённых в стране [называемого «валовым внутренним продуктом», или ВВП], который затем делится на численность населения страны. ВВП позволяет измерить рыночную стоимость выпуска конечных товаров и услуг в экономике за определённый период. Выпуск промежуточных товаров, которые используются в качестве сырья для конечного производства, исключён, чтобы избежать двойного учёта.</description>
+      <description>Посвящается Роме; мне тебя не хватает, друг</description>
     </item>
   </channel>
 </rss>

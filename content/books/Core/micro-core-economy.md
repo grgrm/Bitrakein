@@ -1,7 +1,13 @@
 ---
-title: 0.1 Введение — CoreEconomy
+title: 0.1 Введение — Экономика 1.0
 layout: vvedenie
 url: /books/core/vvedenie/
+cover:
+    image: 
+    alt: 
+    caption: 
+description:
+categories: ["Книги", "CoreEconomy"]
 ---
 
 --------------

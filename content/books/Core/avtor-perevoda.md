@@ -42,6 +42,8 @@ categories: ["Книги"]
 
 ### <h3>Содержание</h3>
 
-**[0.1 Введение — CoreEconomy](/books/core/vvedenie/)**
+**[0.1 Введение — Экономика 1.0](/books/core/vvedenie/)**
 
-**[1. Экономика 1.0](/1-ekonomika-1-1-neravenstvo-dohodov/)**
+**[1.1 Неравенство доходов](/1-ekonomika-1-1-neravenstvo-dohodov/)**
+
+**[1.2 Измерение доходов и уровня жизни](/1-2-izmerenie-dohodov-i-urovnya-zhizni/)**
