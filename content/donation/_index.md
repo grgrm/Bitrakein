@@ -4,7 +4,7 @@ layout: донат
 url: /donation/
 ---
 
-## <h2>Поддержите проект Bitrakein звонкой монеткой</h2>
+## <h2>Поддержите проект Bitrakein звонкой монетой</h2>
 
 ### <h3>Bitcoin on-chain:</h3>
 
