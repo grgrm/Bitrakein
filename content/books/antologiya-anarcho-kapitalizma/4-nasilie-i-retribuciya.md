@@ -1,5 +1,5 @@
 ---
-title: 4. Насилие и ретрибуция
+title: 0.4. Насилие и ретрибуция
 layout: nasilie i retribuciya
 url: /nasilie-i-retribuciya/
 cover:

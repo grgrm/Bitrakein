@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0. Глава 1.</title>
+      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
+      <description>[Liberté]</description>
+    </item>
+    <item>
       <title>1. Капитал (ч.1)</title>
       <link>http://localhost:1313/ostrov-opasnosti-kapital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,6 +23,13 @@
 §1 Представьте себе, что вас выбросило на берег тропического острова, вы голый и голодный. В полном одиночестве. Разыскивая долгое время еду, вы начинаете чувствовать боль в ногах, так как пляж усеян большими и острыми камнями. Чёрт возьми, вы ненавидите эти камни.
 Какое это всё-таки недружелюбное место&amp;hellip; Вы решаете назвать его «Островом Опасности».
 §2 Вы пробираетесь по пляжу, а затем продираетесь сквозь ветви деревьев, чтобы попасть в глубь леса.</description>
+    </item>
+    <item>
+      <title>10. Глава 2.</title>
+      <link>http://localhost:1313/glava-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glava-2/</guid>
+      <description> </description>
     </item>
     <item>
       <title>2. Капитал (ч.2)</title>
@@ -96,13 +110,6 @@
       <description>(а) §1 Что же, если бы вы не могли изменить своё место в обществе, но могли бы выбрать в каком обществе жить, то очевидным выбором стало бы то сообщество, где люди ценят сотрудничество. Однако, это не значит, что выбор преступников иррационален.
 §2 Преступники, которым удаётся избегать наказания, могут увеличивать свою свободу за счёт других. История полна занятных примеров:
 Вот босс мафии Карло Гамбино, что выбрал насилие и добился больших успехов. Всё хорошее себе и другим негодяям, всё плохое всем остальным.</description>
-    </item>
-    <item>
-      <title>Часть 1.</title>
-      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
-      <description>[Liberté]</description>
     </item>
   </channel>
 </rss>

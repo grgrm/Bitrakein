@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0. Глава 1.</title>
+      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
+      <description>[Liberté]</description>
+    </item>
+    <item>
       <title>0. Индивид, экономика и государство</title>
       <link>http://localhost:1313/slovo-avtora-perevoda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,6 +71,13 @@
       <guid>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</guid>
       <description>Посвящается Роме; мне тебя не хватает, друг
 Оценка уровня жизни, которую мы изобразили на графике 1.1а [«ВВП на душу населения»], представляет собой показатель общего объёма товаров и услуг, произведённых в стране [называемого «валовым внутренним продуктом», или ВВП], который затем делится на численность населения страны. ВВП позволяет измерить рыночную стоимость выпуска конечных товаров и услуг в экономике за определённый период. Выпуск промежуточных товаров, которые используются в качестве сырья для конечного производства, исключён, чтобы избежать двойного учёта.</description>
+    </item>
+    <item>
+      <title>10. Глава 2.</title>
+      <link>http://localhost:1313/glava-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glava-2/</guid>
+      <description> </description>
     </item>
     <item>
       <title>2. Капитал (ч.2)</title>
@@ -144,13 +158,6 @@
       <description>(а) §1 Что же, если бы вы не могли изменить своё место в обществе, но могли бы выбрать в каком обществе жить, то очевидным выбором стало бы то сообщество, где люди ценят сотрудничество. Однако, это не значит, что выбор преступников иррационален.
 §2 Преступники, которым удаётся избегать наказания, могут увеличивать свою свободу за счёт других. История полна занятных примеров:
 Вот босс мафии Карло Гамбино, что выбрал насилие и добился больших успехов. Всё хорошее себе и другим негодяям, всё плохое всем остальным.</description>
-    </item>
-    <item>
-      <title>Часть 1.</title>
-      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
-      <description>[Liberté]</description>
     </item>
   </channel>
 </rss>

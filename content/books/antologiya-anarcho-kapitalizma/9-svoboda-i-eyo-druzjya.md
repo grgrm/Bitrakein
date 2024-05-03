@@ -1,5 +1,5 @@
 ---
-title: 9. Свобода и её друзья
+title: 0.9. Свобода и её друзья
 layout: svoboda i eyo druzjya
 url: /svoboda-i-eyo-druzjya/
 cover:

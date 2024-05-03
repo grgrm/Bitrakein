@@ -1,5 +1,5 @@
 ---
-title: 3. Свобода или конфронтация?
+title: 0.3. Свобода или конфронтация?
 layout: Svoboda ili konfrontaciya
 url: /svoboda-ili-konfrontaciya/
 cover:

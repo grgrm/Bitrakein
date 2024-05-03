@@ -1,5 +1,5 @@
 ---
-title: 7. Кто объявил охоту на свободную торговлю?
+title: 0.7. Кто объявил охоту на свободную торговлю?
 layout: kto objyavil ochotu na svobodnuyu torgovlyu
 url: /kto-objyavil-ochotu-na-svobodnuyu-torgovlyu/
 cover:

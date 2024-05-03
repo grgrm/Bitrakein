@@ -1,5 +1,5 @@
 ---
-title: 6. Эмергенция рынка неизбежна
+title: 0.6. Эмергенция рынка неизбежна
 layout: emergenciya rynka neizbezhna
 url: /emergenciya-rynka-neizbezhna/
 cover:

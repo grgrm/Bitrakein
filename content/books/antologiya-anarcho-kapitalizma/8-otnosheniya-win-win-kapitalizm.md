@@ -1,5 +1,5 @@
 ---
-title: 8. Отношения win-win = капитализм
+title: 0.8. Отношения win-win = капитализм
 layout: Otnosheniya win-win = kapitalizm
 url: /otnosheniya-win-win-kapitalizm/
 cover:

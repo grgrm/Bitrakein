@@ -1,5 +1,5 @@
 ---
-title: 5. Деньги! Деньги! Деньги!
+title: 0.5. Деньги! Деньги! Деньги!
 layout: denjgi! denjgi! denjgi!
 url: /denjgi-denjgi-denjgi/
 cover:

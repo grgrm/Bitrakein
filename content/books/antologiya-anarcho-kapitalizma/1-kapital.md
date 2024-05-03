@@ -1,5 +1,5 @@
 ---
-title: 1. Капитал (ч.1)
+title: 0.1. Капитал (ч.1)
 layout: kapital
 url: /ostrov-opasnosti-kapital/
 cover:
