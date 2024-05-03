@@ -1,6 +1,6 @@
 ---
-title: 0. Остров опасности
-layout: ostrov opasnosti
+title: 0. Глава 1.
+layout: glava-1
 url: /0-ostrov-opasnosti/
 cover:
     image: img/books/antologiya-anarho-kapitalizma/1.jpg

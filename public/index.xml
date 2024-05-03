@@ -15,6 +15,13 @@
       <description>Корпоративные акции надежнее денег, приближающийся конец долларового стандарта и новый колониализм современного мира.</description>
     </item>
     <item>
+      <title>0. Глава 1.</title>
+      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
+      <description>[Liberté]</description>
+    </item>
+    <item>
       <title>0. Индивид, экономика и государство</title>
       <link>http://localhost:1313/slovo-avtora-perevoda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/books/core/avtor-perevoda/</guid>
       <description>Экономика меняет мир</description>
-    </item>
-    <item>
-      <title>0. Остров опасности</title>
-      <link>http://localhost:1313/0-ostrov-opasnosti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/0-ostrov-opasnosti/</guid>
-      <description>[Liberté]</description>
     </item>
     <item>
       <title>0. Содержание</title>
