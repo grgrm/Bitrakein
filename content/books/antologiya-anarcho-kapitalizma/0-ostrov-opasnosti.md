@@ -22,10 +22,10 @@ categories: ["Книги", "Остров опасности"]
 >
 > **BTC**: bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
 >
-> **⚡️Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/B58hwC)
+> **⚡️Lightning**: перейдите по [ссылке](https://getalby.com/p/grgrm)
 или отсканируйте qr-код в своем LN-кошельке
 >
->![](/img/books/man-economy-and-state/rothbard-ln1.png "")
+> ![](/img/donat/bitpay-ln/222.png "")
 
 -----
 

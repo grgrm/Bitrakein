@@ -19,10 +19,10 @@ categories: ["Книги"]
 >
 > **BTC**: bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
 >
-> **⚡️Lightning**: перейдите по [ссылке](https://legend.lnbits.com/lnurlp/link/deLqm8)
+> **⚡️Lightning**: перейдите по [ссылке](https://getalby.com/p/grgrm)
 или отсканируйте qr-код в своем LN-кошельке
 >
->![](/img/books/micro-core/core-economy1-0.png "")
+>![](/img/donat/bitpay-ln/222.png "")
 
 ------
 

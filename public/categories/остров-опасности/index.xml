@@ -15,7 +15,7 @@
       <description>[Liberté]</description>
     </item>
     <item>
-      <title>1. Капитал (ч.1)</title>
+      <title>0.1. Капитал (ч.1)</title>
       <link>http://localhost:1313/ostrov-opasnosti-kapital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ostrov-opasnosti-kapital/</guid>
@@ -25,14 +25,7 @@
 §2 Вы пробираетесь по пляжу, а затем продираетесь сквозь ветви деревьев, чтобы попасть в глубь леса.</description>
     </item>
     <item>
-      <title>10. Глава 2.</title>
-      <link>http://localhost:1313/glava-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glava-2/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>2. Капитал (ч.2)</title>
+      <title>0.2. Капитал (ч.2)</title>
       <link>http://localhost:1313/ostrov-opasnosti-kapital-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ostrov-opasnosti-kapital-2/</guid>
@@ -43,7 +36,7 @@
 §4 Капитал — абстрактная идея, охватывающая «вещи, помогающие вам делать то, что вы желаете».</description>
     </item>
     <item>
-      <title>3. Свобода или конфронтация?</title>
+      <title>0.3. Свобода или конфронтация?</title>
       <link>http://localhost:1313/svoboda-ili-konfrontaciya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/svoboda-ili-konfrontaciya/</guid>
@@ -56,7 +49,7 @@
 Когда он не отвечает, вы говорите:</description>
     </item>
     <item>
-      <title>4. Насилие и ретрибуция</title>
+      <title>0.4. Насилие и ретрибуция</title>
       <link>http://localhost:1313/nasilie-i-retribuciya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nasilie-i-retribuciya/</guid>
@@ -65,7 +58,7 @@
 §2 Нет ничего идеального, поэтому те, у кого есть выбор где жить, часто выбирают между жизнью с большим капиталом и жизнью с большей свободой.</description>
     </item>
     <item>
-      <title>5. Деньги! Деньги! Деньги!</title>
+      <title>0.5. Деньги! Деньги! Деньги!</title>
       <link>http://localhost:1313/denjgi-denjgi-denjgi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/denjgi-denjgi-denjgi/</guid>
@@ -75,7 +68,7 @@
 §3 Итак, настал момент, когда все вы можете обеспечить себе сбалансированное питание, занимаясь торговлей.</description>
     </item>
     <item>
-      <title>6. Эмергенция рынка неизбежна</title>
+      <title>0.6. Эмергенция рынка неизбежна</title>
       <link>http://localhost:1313/emergenciya-rynka-neizbezhna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/emergenciya-rynka-neizbezhna/</guid>
@@ -86,7 +79,7 @@
 Индивиды стремятся продавать меньше рыбы по низким ценам и больше по высоким.</description>
     </item>
     <item>
-      <title>7. Кто объявил охоту на свободную торговлю?</title>
+      <title>0.7. Кто объявил охоту на свободную торговлю?</title>
       <link>http://localhost:1313/kto-objyavil-ochotu-na-svobodnuyu-torgovlyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kto-objyavil-ochotu-na-svobodnuyu-torgovlyu/</guid>
@@ -94,7 +87,7 @@
 §2 К примеру, при строительстве хижины вы сделали немного пряжи из растительного волокна. После того как Энни попала на остров, вы продали ей чуть-чуть своей пряжи. С тех пор оставшаяся часть лежит около одной из стен вашей хижины.</description>
     </item>
     <item>
-      <title>8. Отношения win-win = капитализм</title>
+      <title>0.8. Отношения win-win = капитализм</title>
       <link>http://localhost:1313/otnosheniya-win-win-kapitalizm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/otnosheniya-win-win-kapitalizm/</guid>
@@ -103,13 +96,22 @@
 — «О, когда я была моложе, я посещала зал боевых искусств, чтобы добавить несколько пунктов в своё резюме. Мне хотелось научиться сражаться на мечах, но тренер сказал, что начинать нужно с посоха бо. Оружие довольно простое — длинный деревянный шест. К сожалению, у меня в скором времени закончились деньги, так что я не успела освоить другую экипировку, но я успела узнать пару хитростей о том, как драться, используя, эм, большую палку».</description>
     </item>
     <item>
-      <title>9. Свобода и её друзья</title>
+      <title>0.9. Свобода и её друзья</title>
       <link>http://localhost:1313/svoboda-i-eyo-druzjya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/svoboda-i-eyo-druzjya/</guid>
       <description>(а) §1 Что же, если бы вы не могли изменить своё место в обществе, но могли бы выбрать в каком обществе жить, то очевидным выбором стало бы то сообщество, где люди ценят сотрудничество. Однако, это не значит, что выбор преступников иррационален.
 §2 Преступники, которым удаётся избегать наказания, могут увеличивать свою свободу за счёт других. История полна занятных примеров:
 Вот босс мафии Карло Гамбино, что выбрал насилие и добился больших успехов. Всё хорошее себе и другим негодяям, всё плохое всем остальным.</description>
+    </item>
+    <item>
+      <title>1. Глава 2</title>
+      <link>http://localhost:1313/glava-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glava-2/</guid>
+      <description>(а) §1 Оставшись один на острове, Робинзон Крузо сможет делать всё, что ему заблагорассудится. Для него попросту не будет стоять вопрос о правилах упорядоченного человеческого поведения — «социального сотрудничества».
+§2 Естественно, этот вопрос возникнет после того, как на остров прибудет второй человек — Пятница. Но и в этом случае вопрос останется отчасти неактуальным до тех пор, пока не существует дефицита.
+§3 Предположим, Остров — это Эдемский сад; все внешние блага доступны в избытке.</description>
     </item>
   </channel>
 </rss>

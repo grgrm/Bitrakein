@@ -16,4 +16,4 @@ url: /donation/
 
 > [⚡️grgrm@getalby.com](https://getalby.com/p/grgrm)
 >
-> ![](/img/donat/bitpay-ln/lnbit-bitrakein.png "")
+> ![](/img/donat/bitpay-ln/222.png "")

@@ -14,23 +14,9 @@
   </url><url>
     <loc>http://localhost:1313/books/core/vvedenie/</loc>
   </url><url>
-    <loc>http://localhost:1313/1-vvedenie/</loc>
-  </url><url>
     <loc>http://localhost:1313/ostrov-opasnosti-kapital/</loc>
   </url><url>
-    <loc>http://localhost:1313/1-koncept-dejstviya/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</loc>
-  </url><url>
-    <loc>http://localhost:1313/glava-2/</loc>
-  </url><url>
     <loc>http://localhost:1313/ostrov-opasnosti-kapital-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/2-pervye-sledstviya-koncepcii/</loc>
-  </url><url>
-    <loc>http://localhost:1313/3-daljnejshie-vyvody/</loc>
   </url><url>
     <loc>http://localhost:1313/svoboda-ili-konfrontaciya/</loc>
   </url><url>
@@ -45,6 +31,20 @@
     <loc>http://localhost:1313/otnosheniya-win-win-kapitalizm/</loc>
   </url><url>
     <loc>http://localhost:1313/svoboda-i-eyo-druzjya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/1-vvedenie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/glava-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/1-koncept-dejstviya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</loc>
+  </url><url>
+    <loc>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2-pervye-sledstviya-koncepcii/</loc>
+  </url><url>
+    <loc>http://localhost:1313/3-daljnejshie-vyvody/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
