@@ -90,6 +90,6 @@ categories: ["Торговля"]
 
  ### <h3>Лайтнинг:</h3> 
 
-> [⚡️rakeindef_bot@legend.lnbits.com](https://legend.lnbits.com/lnurlp/link/nTsw5v)
+> [⚡️45 000 sats по ссылке](https://getalby.com/p/grgrm)
 
-![](/img/trading/rakeindef-pics/rakeindef-bot-LNpay.png "")
+![](/img/trading/rakeindef-pics/45000bot.png "")
