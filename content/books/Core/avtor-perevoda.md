@@ -47,3 +47,5 @@ categories: ["Книги"]
 **[1.1 Неравенство доходов](/1-ekonomika-1-1-neravenstvo-dohodov/)**
 
 **[1.2 Измерение доходов и уровня жизни](/1-2-izmerenie-dohodov-i-urovnya-zhizni/)**
+
+**[1.3 Хоккейная клюшка истории: Рост доходов](/1-3-hokkejnaya-klyushka-istorii-rost-dohodov/)**
