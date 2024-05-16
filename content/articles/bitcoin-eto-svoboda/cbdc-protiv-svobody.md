@@ -3,7 +3,7 @@ title: CBDC ПРОТИВ СВОБОДЫ
 layout: CBDC protiv svobody
 url: /cbdc-protiv-svobody/
 cover:
-    image: img/bitcoin-eto-svoboda/cbdc-protiv-svobody/1-cbdc.png
+    image: img/bitcoin-eto-svoboda/cbdc-protiv-svobody/1-1-cbdc.png
     alt: 
     caption: 
 description: "Когда речь заходит о свободе или угнетении, ни одна технология не имеет такого же огромного значения, как сами деньги."
