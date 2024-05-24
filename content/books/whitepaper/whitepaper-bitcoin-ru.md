@@ -3,7 +3,7 @@ title: Биткойн - система цифровой пиринговой н�
 layout: White paper
 url: /whitepaper-bitcoin-ru/
 cover:
-    image: img/books/whitepaper/.png
+    image:
     alt: 
     caption: 
 description: ""
