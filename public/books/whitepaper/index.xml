@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>0. Белая книга Биткоина on Bitrakein</title>
+    <link>http://localhost:1313/books/whitepaper/</link>
+    <description>Recent content in 0. Белая книга Биткоина on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/books/whitepaper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Белая книга</title>
+      <link>http://localhost:1313/whitepaper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/whitepaper/</guid>
+      <description>31 октября 2008 года Сатоши Накамото опубликовал &amp;ldquo;white paper&amp;rdquo;. В этом документе он впервые изложил основы функционирования децентрализованной сети пиринговой электронной наличности, в которой пользователи могут проводить транзакции напрямую друг с другом без посредников, таких как банки и других финансовых учреждений. Публикация &amp;ldquo;белой книги&amp;rdquo; вместе с последующим запуском сети Биткоина стало историческим событием.
+Скачать в PDF на русском
+Читать на сайте
+Интересные факты:
+• Белая книга Биткоина, состоит из 2736 слов!</description>
+    </item>
+    <item>
+      <title>Биткойн - система цифровой пиринговой наличности</title>
+      <link>http://localhost:1313/whitepaper-bitcoin-ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/whitepaper-bitcoin-ru/</guid>
+      <description>Сатоши Накамото, satoshin@gmx.com www.bitcoin.org
+Перевод: arvicco, grich – www.bitnovosti.com
+Редакция: Nikolaev, Ivan – www.ivan-nikolaev.com
+Аннотация Полностью одноранговое устройство системы электронных денег позволяет совершать электронные транзакции между участниками напрямую, минуя любые финансовые институты. Частично, эту задачу решает использование цифровых подписей, но необходимость доверенного лица для контроля за двойной тратой лишает этот подход основных преимуществ. Мы предлагаем децентрализованное решение проблемы двойной траты с использованием одноранговой (пиринговой) сети. Сеть ставит метки времени на транзакции, соединяя их в цепочку доказательств проделанной работы на основе хэширования.</description>
+    </item>
+  </channel>
+</rss>
