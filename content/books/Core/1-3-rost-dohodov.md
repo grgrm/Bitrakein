@@ -64,5 +64,5 @@ categories: ["Книги", "CoreEconomy"]
 
 -----
 
-|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Предыдущая глава](/1-2-izmerenie-dohodov-i-urovnya-zhizni/) |[Следующая глава]()| [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3)    |
+|[Cодержание](/books/core/avtor-perevoda/#h3содержаниеh3)|[Предыдущая глава](/1-2-izmerenie-dohodov-i-urovnya-zhizni/) |[Следующая глава](/1-4-permanentnaya-tekhnologicheskaya-revolyuciya/)| [Поддержать перевод](/books/core/avtor-perevoda/#h3поддержать-перевод-звонкой-монетойh3)    |
 |-------------------------------|:-----------------------------------:|------------------------------------------:|--------------------------------:|
