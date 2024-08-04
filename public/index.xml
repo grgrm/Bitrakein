@@ -274,6 +274,13 @@
 • Белая книга Биткоина, состоит из 2736 слов!</description>
     </item>
     <item>
+      <title>Биткоин — чистая анархия</title>
+      <link>http://localhost:1313/bitkoin-chistaya-anarhiya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitkoin-chistaya-anarhiya/</guid>
+      <description>Процесс «управления» биткоином коротко определяется одним словом: анархия. Добровольная и распределенная система буквально не может «управляться» каким-либо другим способом.</description>
+    </item>
+    <item>
       <title>Биткоин антихрупок</title>
       <link>http://localhost:1313/bitcoin-is-antifragile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -347,7 +354,7 @@
       <description>Хотя путь в мир Биткоина может показаться сложным, новичкам будет легче, если они настроят своё мышление соответствующим образом.</description>
     </item>
     <item>
-      <title>Последствия открытых монетарных и информационных сетей</title>
+      <title>Последствия открытых информационных и монетарных систем</title>
       <link>http://localhost:1313/open-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/open-networks/</guid>

@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Культура on Bitrakein</title>
-    <link>http://localhost:1313/articles/kuljtura/</link>
-    <description>Recent content in Культура on Bitrakein</description>
+    <title>Биткоин - Чистая Анархия on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD---%D1%87%D0%B8%D1%81%D1%82%D0%B0%D1%8F-%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F/</link>
+    <description>Recent content in Биткоин - Чистая Анархия on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/articles/kuljtura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD---%D1%87%D0%B8%D1%81%D1%82%D0%B0%D1%8F-%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Биткоин — чистая анархия</title>
       <link>http://localhost:1313/bitkoin-chistaya-anarhiya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/bitkoin-chistaya-anarhiya/</guid>
       <description>Процесс «управления» биткоином коротко определяется одним словом: анархия. Добровольная и распределенная система буквально не может «управляться» каким-либо другим способом.</description>
-    </item>
-    <item>
-      <title>ОТКРЫТОЕ ПИСЬМО НОВЫМ БИТКОИНЕРАМ</title>
-      <link>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</guid>
-      <description>Хотя путь в мир Биткоина может показаться сложным, новичкам будет легче, если они настроят своё мышление соответствующим образом.</description>
     </item>
   </channel>
 </rss>
