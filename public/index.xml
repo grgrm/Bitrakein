@@ -263,6 +263,13 @@
       <description>Надежный и безопасный бот для торговли криптовалютой, который поможет вам автоматизировать свою торговлю и преумножить инвестиции.</description>
     </item>
     <item>
+      <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
+      <link>http://localhost:1313/robosats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/robosats/</guid>
+      <description>Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.</description>
+    </item>
+    <item>
       <title>Белая книга</title>
       <link>http://localhost:1313/whitepaper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -316,6 +323,13 @@
       <description>Серия статей: постепенно, затем внезапно</description>
     </item>
     <item>
+      <title>Биткоин-ваучеры</title>
+      <link>http://localhost:1313/bitcoin-voucher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-voucher/</guid>
+      <description>Дарите своим близким деньги, которые не обесцениваются.</description>
+    </item>
+    <item>
       <title>Биткоин, не &#34;крипто&#34;</title>
       <link>http://localhost:1313/bitcoin-not-crypto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -352,6 +366,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</guid>
       <description>Хотя путь в мир Биткоина может показаться сложным, новичкам будет легче, если они настроят своё мышление соответствующим образом.</description>
+    </item>
+    <item>
+      <title>Покупай Биткоин анонимно</title>
+      <link>http://localhost:1313/buy-bitcoin-without-kyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/buy-bitcoin-without-kyc/</guid>
+      <description>Покупай биткоин без KYC!</description>
     </item>
     <item>
       <title>Последствия открытых информационных и монетарных систем</title>
