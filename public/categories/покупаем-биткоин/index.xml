@@ -15,6 +15,20 @@
       <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
     </item>
     <item>
+      <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
+      <link>http://localhost:1313/robosats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/robosats/</guid>
+      <description>Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.</description>
+    </item>
+    <item>
+      <title>Биткоин-ваучеры</title>
+      <link>http://localhost:1313/bitcoin-voucher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-voucher/</guid>
+      <description>Дарите своим близким деньги, которые не обесцениваются.</description>
+    </item>
+    <item>
       <title>Покупай Биткоин анонимно</title>
       <link>http://localhost:1313/buy-bitcoin-without-kyc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

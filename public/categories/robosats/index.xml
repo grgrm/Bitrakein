@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Robosats on Bitrakein</title>
+    <title>RoboSats on Bitrakein</title>
     <link>http://localhost:1313/categories/robosats/</link>
-    <description>Recent content in Robosats on Bitrakein</description>
+    <description>Recent content in RoboSats on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/robosats/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Robosats. Покупай биткоин безопасно, с сохранением конфиденциальности и контролем над своими деньгами.</title>
+      <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
       <link>http://localhost:1313/robosats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/robosats/</guid>
-      <description>Покупай биткоин без KYC!</description>
+      <description>Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.</description>
     </item>
   </channel>
 </rss>
