@@ -69,3 +69,7 @@ categories: ["Покупаем биткоин", "Биткоин-ваучеры"]
 Буду рад ответить на любые вопросы и помочь с покупкой и пополнением биткоин-открытки. Написать можно в [телеграме](https://t.me/itsmegrgrm).
 
 Выбрать открытку можно здесь: [https://tipybit.com/bitrakein](https://tipybit.com/bitrakein)
+
+> Подписаться в инстаграме: [https://www.instagram.com/bitcards_gift/](https://www.instagram.com/bitcards_gift/)
+
+> Телеграмм-канал (новости-события): [https://t.me/bitrakein](https://t.me/bitrakein)
