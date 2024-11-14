@@ -42,5 +42,12 @@
       <guid>http://localhost:1313/buy-bitcoin-without-kyc/</guid>
       <description>Покупай биткоин без KYC!</description>
     </item>
+    <item>
+      <title>Храни свои монеты в безопасности - Electrum.</title>
+      <link>http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/</guid>
+      <description>Electrum — это легкий биткоин-кошелек для Mac, Linux и Windows.</description>
+    </item>
   </channel>
 </rss>

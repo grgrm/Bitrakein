@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Храни свои монеты в безопасности - Electrum. | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="Electrum — это горячий биткоин-кошелек для Mac, Linux и Windows.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Статьи">
+                    <span>Статьи</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/trading/" title="Торговля">
+                    <span>Торговля</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/books/" title="Книги">
+                    <span>Книги</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Поддержать">
+                    <span>Поддержать</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://nostree.me/grgrm@getalby.com/" title="Ссылки">
+                    <span>Ссылки</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)" accesskey=/>
+                    <span>🔍</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/">Статьи</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/buy-bitcoin/">Покупаем биткоин</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Храни свои монеты в безопасности - Electrum.
+    </h1>
+    <div class="post-description">
+      Electrum — это горячий биткоин-кошелек для Mac, Linux и Windows.
+    </div>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/img/buy-bitcoin/electrum/0el.png" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#h3%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d0%be%d0%b3%d0%be-%d0%ba%d0%be%d1%88%d0%b5%d0%bb%d1%8c%d0%ba%d0%b0-electrumh3" aria-label="Создание стандартного кошелька Electrum">Создание стандартного кошелька Electrum</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d1%82%d0%b5%d0%b6-%d0%b8%d0%b7-electrumh3" aria-label="Как отправить платеж из Electrum">Как отправить платеж из Electrum</a></li>
+                <li>
+                    <a href="#h3%d0%ba%d0%b0%d0%ba-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d1%82%d0%b5%d0%b6-%d0%b2-electrumh3" aria-label="Как получить платеж в Electrum">Как получить платеж в Electrum</a></li>
+                <li>
+                    <a href="#h3%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81%d0%b0-electrumh3" aria-label="Обзор интерфейса Electrum">Обзор интерфейса Electrum</a></li>
+                <li>
+                    <a href="#h3%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%80%d0%b5%d0%b7%d0%b5%d1%80%d0%b2%d0%bd%d0%be%d0%b9-%d0%ba%d0%be%d0%bf%d0%b8%d0%b8-%d0%ba%d0%be%d1%88%d0%b5%d0%bb%d1%8c%d0%ba%d0%b0-electrumh3" aria-label="Создание резервной копии кошелька Electrum">Создание резервной копии кошелька Electrum</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><hr>
+<p>Electrum — это популярный и несложный биткоин-кошелёк, который разработан для быстрой и простой работы для Mac, Linux и Windows, при этом он занимает минимальное количество места на устройстве. Помимо настольных компьютеров, его можно использовать и на андроид-устройствах с теми же функциями, что и в настольной версии.</p>
+<hr>
+<h3 id="h3создание-стандартного-кошелька-electrumh3"><!-- raw HTML omitted -->Создание стандартного кошелька Electrum<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3создание-стандартного-кошелька-electrumh3">#</a></h3>
+<p>Прежде чем начать вам нужно будет скачать и установить electrum. В целях безопасности загрузите его с официального сайта <a href="https://electrum.org/">https://electrum.org/</a>.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/1el.png" alt="https://electrum.org"  title="https://electrum.org"  />
+</p>
+<p>После установки, открываем кошелек.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/2el.png" alt=""  />
+</p>
+<p>Откроется окно с возможностью выбрать действующий кошелек или создать новый. Создаем новый и вводим уникальное имя файла.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/3el.png" alt=""  />
+</p>
+<p>Как вы видите, Electrum поддерживает разные типы кошельков. Если вы только начинаете, вам для начала работы лучше выбрать «Стандартный кошелек».</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/4el.png" alt=""  />
+</p>
+<p>Выбираем &ldquo;Создать новую сид-фразу&rdquo;</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/5el.png" alt=""  />
+</p>
+<p>Seed-фраза - это секретный пароль, с помощью которого вы легко восстановите все свои биткоины. При создании нового кошелька вы должны позволить electrum сгенерировать seed для вас.</p>
+<p>Как правило он выглядит в виде 12 слов. На этом этапе важно надежно сохранить свой секретный ключ в той последователньости, в которой он был сгенерирован. И лучше не хранить его на компьютере!</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/6el.png" alt=""  />
+</p>
+<p>Обратите внимание на кнопку &ldquo;Опции&rdquo;, если вы откроете их, то вы увидите вот такую табличку с возможностью дополнить seed-фразу своими словами. Поставьте галочку и нажмите &ldquo;Ок&rdquo;.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/7el.png" alt=""  />
+</p>
+<p>В пустой строке допишите любое слово на латинице к уже имеющемуся сгенерированному seed-паролю.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/8el.png" alt=""  />
+</p>
+<p>На следующем этапе кошелек попросит вас проверить, правильно ли вы записали seed (здесь пишем только сгенерированные системой 12 слов):</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/9el.png" alt=""  />
+</p>
+<p>Далее в отдельном окне вам нужно повторить слово, которое вы придумали самостоятельно:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/10el.png" alt=""  />
+</p>
+<p>Следующий этап - создание пароля, чтобы защитить файл кошелька.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/11el.png" alt=""  />
+</p>
+<p>Лучше всего, чтобы пароль был сложный и длинный. В таблице снизу вы можете наглядно посмотреть, сколько примерно нужно времени, чтобы взломать пароль методом перебора. Пароль должен состоять не только из букв, но и других знаков.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/12el.png" alt=""  />
+</p>
+<p>Теперь ваш кошелек создан. В &ldquo;Настройках&rdquo; кошелька вы можете сменить язык интерфейса на русский (и любой другой). После того, когда вы вносите изменения в настройках, кошелек нужно перезапускать заново.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/13el.png" alt="интерфейс"  />
+</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/14el.png" alt="настройки"  />
+</p>
+<p>Вам следует надежно сохранить и спрятать seed-фразу и пароль в безопасном месте. Если вы забудете пароль от кошелька или ваш компьютер сломается и вы потеряете файл, вы все равно сможете восстановить доступ к кошельку с помощью seed-фразы. Это также означает, что любой другой человек может получить доступ к вашим деньгам, используя только ваш seed. Поэтому храните его в безопасном месте.</p>
+<hr>
+<h3 id="h3как-отправить-платеж-из-electrumh3"><!-- raw HTML omitted -->Как отправить платеж из Electrum<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-отправить-платеж-из-electrumh3">#</a></h3>
+<p>Переходим во вкладку &ldquo;Отправить&rdquo;:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/15el.png" alt="отправить"  />
+</p>
+<p>В поле &ldquo;Получатель&rdquo; необходимо указать биткоин-адрес, куда вы будете переводить. В строке &ldquo;Сумма&rdquo; указывается желаемое количество монет.</p>
+<p>Вкладка &ldquo;Описание&rdquo; необязательна. Все, что вы там напишите, будет отображаться во вкладке истории для этой транзакции. Описание хранится только в файле вашего кошелька и никому не передается.</p>
+<p>За транзакции взимается комиссия сети, которая выплачивается майнерам. После того, как вы нажмете на кнопку &ldquo;Оплатить&hellip;&rdquo;, у вас откроется окошко с настройкой комиссии, где вы можете самостоятельно комиссию за перевод. Вы можете как уменьшить комиссию, так и увеличить ее. Чем выше комиссия, тем быстрее будет подтверждена ваша транзакция. Если вы наведете курсор мыши на ползунок комиссии, он предоставит вам полезную информацию о размере комиссии.</p>
+<p>Комиссия вычитается с баланса кошелька, поэтому общая сумма, которая будет потрачена, - это значение, указанное в поле «Сумма», плюс комиссия.</p>
+<blockquote>
+<p>После того, как вы заполнили данные, пожалуйста, перепроверьте их, чтобы убедиться, что они верны. Транзакции необратимы, поэтому, если вы допустите ошибку, вы не сможете вернуть свои биткоины обратно.</p>
+</blockquote>
+<p>Как только вы убедитесь, что все правильно, нажмите на кнопку “ОК”. На этом этапе electrum попросит вас ввести пароль от кошелька. Введите свой пароль и нажмите &ldquo;Ок&rdquo; еще раз. Затем кошелек отправит монеты и отобразит идентификатор транзакции платежа. Вы также можете найти идентификатор транзакции на вкладке &ldquo;История&rdquo;, дважды щелкнув по соответствующей транзакции.</p>
+<blockquote>
+<p>С недавнего времени Electrum также поддерживает сеть Лайтнинг, но для работы с лайтнингом нужно сначала открыть лайтнинг-канал.</p>
+</blockquote>
+<p>Кошелек позволяет заплатить нескольким получателям одновременно, что может снизить транзакционные издержки.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/18el.png" alt="отправить"  />
+</p>
+<p>Во вкладке &ldquo;Отправить&rdquo; нажмите справа вверху <em>настройки</em> и выберите &ldquo;Заплатить нескольким&rdquo;. После этого останется ввести все нужные адреса - каждый с новой строки - и соответствующие суммы напротив каждого адреса.</p>
+<hr>
+<h3 id="h3как-получить-платеж-в-electrumh3"><!-- raw HTML omitted -->Как получить платеж в Electrum<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3как-получить-платеж-в-electrumh3">#</a></h3>
+<p>Переходим во вкладку &ldquo;Получение&rdquo;.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/16el.png" alt="получить"  />
+</p>
+<p>Чтобы получить транзакцию, нужно сгенерировать адрес, нажав на &ldquo;Создать предложение&rdquo;. У вас автоматически сгенерируется адрес и QR-код, используйте то, что больше нравится. Вы можете указать точную сумму в строке &ldquo;Запрашиваемая сумма&rdquo;, тогда у вас сгенерируется счет.</p>
+<p>На этот адрес вы (или кто-то другой) отправляете монеты.</p>
+<hr>
+<h3 id="h3обзор-интерфейса-electrumh3"><!-- raw HTML omitted -->Обзор интерфейса Electrum<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3обзор-интерфейса-electrumh3">#</a></h3>
+<p>В принципе, интерфейс не сложный, поэтому Electrum идеально подходит не только опытным пользователям, но и начинающим.</p>
+<p>Во вкладке &ldquo;Вид&rdquo; вы можете добавлять в шапку те параметры, которыми вы будете пользоваться.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/17el.png" alt="вид"  />
+</p>
+<p>Во кладке “История” будут отражаться все ваши транзакции.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/20el.png" alt="history"  />
+</p>
+<p>В нижнем левом углу - ваш текущий баланс в BTC, в настройках можно изменить это и выбрать, например, саты.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/19el.png" alt="btc-set"  />
+</p>
+<hr>
+<h3 id="h3создание-резервной-копии-кошелька-electrumh3"><!-- raw HTML omitted -->Создание резервной копии кошелька Electrum<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#h3создание-резервной-копии-кошелька-electrumh3">#</a></h3>
+<p>Последний и важный шаг, который лучше сделать после создания кошелька - это создание резервной копии файла вашего кошелька.</p>
+<p>Файл кошелька - это зашифрованная программа кошелька, которую и расшифровывает пароль, созданный вами вначале пути. Если с файлом что-то случится - потеряется, случайно удалится, - вы сможете восстановить доступ к кошельку через seed-фразу. Поэтому сохраните резервную копию файла на стороннем носителе для большей безопасности ваших средств.</p>
+<p>Выбираем пункт меню “Файл” и жмем “Сохранить резервную копию”.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/21el.png" alt="res"  />
+</p>
+<p>Выбираем место, куда сохранить и жмем &ldquo;Ок&rdquo;.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/electrum/22el.png" alt="res"  />
+</p>
+<hr>
+<p>Впрочем, на этом все. Если данная инструкция была для вас полезной, поделитесь ей с теми, кто ищет простой и надежный кошелек для хранения своих монет и не забудьте <a href="/donation/">поддержать</a> нас сатошами.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
