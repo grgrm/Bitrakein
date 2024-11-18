@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Покупаем биткоин on Bitrakein</title>
+    <title>Покупаем и храним биткоин on Bitrakein</title>
     <link>http://localhost:1313/articles/buy-bitcoin/</link>
-    <description>Recent content in Покупаем биткоин on Bitrakein</description>
+    <description>Recent content in Покупаем и храним биткоин on Bitrakein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/articles/buy-bitcoin/index.xml" rel="self" type="application/rss+xml" />
@@ -41,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/obzor-bitkoin-kosheljka-wallet-of-satoshi/</guid>
       <description>WoS — идеальный выбор новичков благодаря своей простоте и удобству. Долгое время этот кошелек был самым популярным и загружаемым среди кошельков, поддерживающих сеть Lightning (LN).</description>
+    </item>
+    <item>
+      <title>Основное руководство биткоин-кошелька Sparrow</title>
+      <link>http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/</guid>
+      <description>Удобный и многофункциональный биткоин-кошелек, созданный для максимальной безопасности и контроля над средствами. Подходит как начинающим, так и опытным пользователям.</description>
     </item>
     <item>
       <title>Покупай Биткоин анонимно</title>
