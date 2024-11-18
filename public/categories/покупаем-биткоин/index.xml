@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>P2P обмен</title>
-      <link>http://localhost:1313/p2p-exchange/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/p2p-exchange/</guid>
-      <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
-    </item>
-    <item>
       <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
       <link>http://localhost:1313/robosats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

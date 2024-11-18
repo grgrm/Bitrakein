@@ -3,7 +3,7 @@ title: Покупай Биткоин анонимно
 layout: buy-bitcoin-without-kyc
 url: /buy-bitcoin-without-kyc/
 cover:
-    image: img/buy-bitcoin/buy-bitcoin-without-kyc/privacy.png
+    image: img/services-and-tricks/buy-bitcoin-without-kyc/privacy.png
     alt: 
     caption: 
 description: "Покупай биткоин без KYC!"

@@ -256,13 +256,6 @@
       <description>Что такое протокол Nostr, почему он меняет будущее онлайн-коммуникаций и почему традиционные социальные сети сломаны.</description>
     </item>
     <item>
-      <title>P2P обмен</title>
-      <link>http://localhost:1313/p2p-exchange/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/p2p-exchange/</guid>
-      <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
-    </item>
-    <item>
       <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
       <link>http://localhost:1313/robosats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -382,6 +375,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/obzor-bitkoin-kosheljka-wallet-of-satoshi/</guid>
       <description>WoS — идеальный выбор новичков благодаря своей простоте и удобству. Долгое время этот кошелек был самым популярным и загружаемым среди кошельков, поддерживающих сеть Lightning (LN).</description>
+    </item>
+    <item>
+      <title>Обмен P2P</title>
+      <link>http://localhost:1313/p2p-exchange-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/p2p-exchange-1/</guid>
+      <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
     </item>
     <item>
       <title>Опровержение доклада GreenpeaceUSA о Биткоине</title>
