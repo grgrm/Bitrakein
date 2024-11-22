@@ -9,6 +9,10 @@ description: "Граница всё ещё широко открыта."
 categories: ["Культура", "Вы не опоздали к биткоину"]
 ---
 
+> Статья [Дэвида Кинга](https://stacker.news/dk) на [stacker.news](https://stacker.news/items/777275) переведена и подготовлена [Grgrm](https://iris.to/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
+
+-----
+
 *Вдохновлен классической записью Кевина Келли [«Вы не опоздали»](https://kk.org/thetechnium/you-are-not-late/).*
 
 -----
