@@ -8,10 +8,10 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-p2p/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>P2P обмен</title>
-      <link>http://localhost:1313/services-and-tricks/</link>
+      <title>Обмен P2P</title>
+      <link>http://localhost:1313/p2p-exchange-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services-and-tricks/</guid>
+      <guid>http://localhost:1313/p2p-exchange-1/</guid>
       <description>На каких площадках и биржах лучше совершать P2P-операции c валютой в условиях санкционных ограничений. Краткий список бирж, как анонимных, так и не очень, но еще работающих с гражданами России.</description>
     </item>
   </channel>
