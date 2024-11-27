@@ -3,7 +3,7 @@ title: Как обменять фиат на криптовалюты на Bybit
 layout: kak-obmenyatj-fiat-na-kriptovalyuty-na-bybit?
 url: /kak-obmenyatj-fiat-na-kriptovalyuty-na-bybit/
 cover:
-    image: img/buy-bitcoin/kak-obmenyatj-fiat-na-kriptovalyuty-na-bb/0bb.png
+    image: img/buy-bitcoin/kak-obmenyatj-fiat-na-kriptovalyuty-na-bb/01bb.png
     alt: 
     caption: 
 description: "Объясняем для мам и пап, бабушек и дедушек, как купить криптовалюту на крупнейшей централизованной бирже ByBit"
