@@ -82,6 +82,8 @@
   </url><url>
     <loc>http://localhost:1313/lightning-kosheljki/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/liquid-network/</loc>
+  </url><url>
     <loc>http://localhost:1313/articles/liquid-network/</loc>
   </url><url>
     <loc>http://localhost:1313/nostr&#43;bitcoin/</loc>
@@ -103,6 +105,8 @@
     <loc>http://localhost:1313/articles/services-and-tricks/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/types-of-hazards/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/wallet-of-satoshi/</loc>
   </url><url>
@@ -237,6 +241,8 @@
     <loc>http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/</loc>
   </url><url>
     <loc>http://localhost:1313/chto-takoe-lightning-network/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chto-takoe-liquid-network/</loc>
   </url><url>
     <loc>http://localhost:1313/chto-takoe-denjgi/</loc>
   </url><url>

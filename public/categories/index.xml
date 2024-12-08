@@ -43,6 +43,13 @@
       <description></description>
     </item>
     <item>
+      <title>Liquid Network</title>
+      <link>http://localhost:1313/categories/liquid-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/liquid-network/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Nostr &#43; Bitcoin</title>
       <link>http://localhost:1313/categories/nostr-&#43;-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
