@@ -86,6 +86,8 @@
   </url><url>
     <loc>http://localhost:1313/articles/liquid-network/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+  </url><url>
     <loc>http://localhost:1313/nostr&#43;bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/nostr-&#43;-bitcoin/</loc>
@@ -245,6 +247,8 @@
     <loc>http://localhost:1313/chto-takoe-lightning-network/</loc>
   </url><url>
     <loc>http://localhost:1313/chto-takoe-liquid-network/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kriptovalyuta-ne-zaslujivaet-osvobojdeniya-ot-nalogov/</loc>
   </url><url>
     <loc>http://localhost:1313/chto-takoe-denjgi/</loc>
   </url><url>
