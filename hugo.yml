@@ -54,7 +54,7 @@ menu:
     - identifier: search
       name: 🔍
       url: /search/
-      weight: 70
+      weight: 80
     - identifier: articles
       name: Статьи
       url: /articles/
@@ -67,12 +67,16 @@ menu:
       name: Книги
       url: /books/
       weight: 40
+    - identifier: news
+      name: Новости
+      url: /news/
+      weight: 50
     - identifier: donation
       name: Поддержать
       url: /donation/
-      weight: 50
+      weight: 60
     - identifier: links
       name: Ссылки
       url: "https://nostree.me/grgrm@getalby.com/"
-      weight: 60
+      weight: 70
 
