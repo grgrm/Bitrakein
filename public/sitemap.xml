@@ -86,8 +86,6 @@
   </url><url>
     <loc>http://localhost:1313/articles/liquid-network/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
-  </url><url>
     <loc>http://localhost:1313/nostr&#43;bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/nostr-&#43;-bitcoin/</loc>

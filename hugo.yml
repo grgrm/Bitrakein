@@ -68,7 +68,7 @@ menu:
       url: /books/
       weight: 40
     - identifier: news
-      name: Новости
+      name: Новости🗞
       url: /news/
       weight: 50
     - identifier: donation
