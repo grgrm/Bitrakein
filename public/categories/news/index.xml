@@ -8,7 +8,14 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Что такое Liquid Network?</title>
+      <title>Имеет ли значение кто такой Сатоши Накамото?</title>
+      <link>http://localhost:1313/kto-takoj-satoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kto-takoj-satoshi/</guid>
+      <description>Определение личности Сатоши Накамото важно по экономическим, финансовым и политическим причинам.</description>
+    </item>
+    <item>
+      <title>Следует ли освободить криптовалюту от налогов?</title>
       <link>http://localhost:1313/kriptovalyuta-ne-zaslujivaet-osvobojdeniya-ot-nalogov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kriptovalyuta-ne-zaslujivaet-osvobojdeniya-ot-nalogov/</guid>
