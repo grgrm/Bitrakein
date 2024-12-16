@@ -14,7 +14,7 @@ categories: ["Лин Алден", "Экономика и биткоин"]
 
 -----
 
-Это ежегодный [экономический выпуск](https://www.lynalden.com/december-2024-newsletter/) от Лин Алден, переведен [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
+Это [экономический выпуск](https://www.lynalden.com/december-2024-newsletter/) от Лин Алден, переведен [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
 
 -----
 
