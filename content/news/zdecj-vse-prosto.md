@@ -1,9 +1,9 @@
 ---
-title: Отсюда все просто
-layout: Otsyuda vse prosto
-url: /otsyuda-vse-prosto/
+title: Здесь все просто
+layout: Zdecj vse prosto
+url: /zdecj-vse-prosto/
 cover:
-    image: img/news/otsyuda-vse-prosto/1kyar.jpg
+    image: img/news/zdecj-vse-prosto/1kyar.jpg
     alt: 
     caption: ''
 description: "Власть убеждает тебя, что принадлежит тебе. На самом деле, это ты принадлежишь ей."
@@ -315,7 +315,7 @@ OMB (Office of Management and Budget, Управление по вопросам
 
 -----
 
-### <h3>Отсюда все просто</h3>
+### <h3>Здесь все просто</h3>
 
 Решение очевидно: захватить Конгресс. Законными методами, конечно. Сделать так, чтобы выборы имели значение.
 
