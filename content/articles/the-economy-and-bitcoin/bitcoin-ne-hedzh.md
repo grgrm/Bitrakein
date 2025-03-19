@@ -3,7 +3,7 @@ title: Биткоин - это не хедж
 layout: bitcoin ne hedzh
 url: /bitcoin-ne-hedzh/
 cover:
-    image: img/the-economy-and-bitcoin/bitcoin-ne-hedzh/h1.png
+    image: img/the-economy-and-bitcoin/bitcoin-ne-hedzh/h0.png
     alt: 
     caption: 
 description: "Биткоин — не просто хедж против инфляции, он её решение."
@@ -12,7 +12,7 @@ categories: ["Экономика и биткоин", "Постепенно, за
 
 -----
 
-> Статья [Паркера Льюиса](https://www.unchained.com/blog/bitcoin-is-not-a-hedge) из цикла "Постепенно, затем внезапно переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")
+> *Статья [Паркера Льюиса](https://www.unchained.com/blog/bitcoin-is-not-a-hedge) из цикла "Постепенно, затем внезапно" переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
 
 -----
 
