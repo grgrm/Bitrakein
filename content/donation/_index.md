@@ -4,16 +4,16 @@ layout: донат
 url: /donation/
 ---
 
-## <h2>Поддержите проект Bitrakein звонкой монетой</h2>
-
-### <h3>Bitcoin on-chain:</h3>
-
-> bc1qvmgdpt8ekfykwzsvfsltuqh33m3gfjkc4dj3n0
->
-> ![](/img/donat/bitpay-on/IMG_8042.jpg "")
+## <h2>Если вам нравится Bitrakein, вы можете помочь ему развиваться!</h2>
 
  ### <h3>Лайтнинг:</h3> 
 
-> [⚡️grgrm@getalby.com](https://getalby.com/p/grgrm)
+> [⚡️rakein@coinos.io](lightning:rakein@coinos.io)
 >
-> ![](/img/donat/bitpay-ln/333-its.png "")
+> ![](/img/donat/bitpay-ln/LN-coinos-pay.png "")
+
+### <h3>On-chain:</h3>
+
+> bc1q654gp2s7ce07la6l6mhgtmq9sk0zhu57mr7uux
+>
+> ![](/img/donat/bitpay-on/BTC-coinos-pay.png "")
