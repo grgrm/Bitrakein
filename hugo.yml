@@ -72,7 +72,7 @@ menu:
       url: /news/
       weight: 50
     - identifier: donation
-      name: Поддержать
+      name: Вклад
       url: /donation/
       weight: 60
     - identifier: links
