@@ -1,0 +1,63 @@
+<div class="profile">
+  <div class="profile_inner">
+    {{ with .Site.Params.profileMode }}
+      {{ if .imageUrl }}
+        <img draggable="false" src="{{ .imageUrl | relURL }}" alt="{{ .imageTitle }}" title="{{ .imageTitle }}" height="{{ .imageHeight }}" width="{{ .imageWidth }}" />
+      {{ end }}
+      <h1>{{ .title | default (T "home") | markdownify }}</h1>
+      <span>{{ .subtitle | markdownify }}</span>
+      {{ partial "social_icons.html" .socialIcons }}
+      {{ with .buttons }}
+        <div class="buttons">
+          {{ range . }}
+            <a class="button" href="{{ .url }}" rel="noopener" title="{{ .name }}">
+              <span class="button-inner">
+                {{ .name }}
+                {{ if .icon }}
+                  {{ partial "svg.html" .icon }}
+                {{ end }}
+              </span>
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+<!-- Элементы для цен -->
+<div class="price-container price-left">
+  <p><span class="price-icon"></span> 1 ₿ = <span id="btc-price">loading...</span></p>
+</div>
+<div class="price-container price-right">
+  <p><span class="price-icon"></span> 1 sat = <span id="sat-price">loading...</span></p>
+</div>
+
+<style>
+.price-container {
+  position: fixed;
+  bottom: 10px;
+  font-size: 14px;
+  z-index: 1000;
+}
+
+/* Цвет текста в зависимости от темы */
+.theme-light .price-container {
+  color: black; /* Чёрный текст в светлой теме */
+}
+
+.theme-dark .price-container {
+  color: white; /* Белый текст в тёмной теме */
+}
+
+.price-left {
+  left: 10px;
+}
+
+.price-right {
+  right: 10px;
+}
+
+</style>
+
+<script src="/script.js"></script>
