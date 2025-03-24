@@ -40,6 +40,8 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: false
   ShowToc: true
+  enableThemeToggle: true
+  defaultTheme: auto
 
 
 
