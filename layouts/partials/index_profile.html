@@ -25,39 +25,62 @@
   </div>
 </div>
 
-<!-- Элементы для цен -->
-<div class="price-container price-left">
-  <p><span class="price-icon"></span> 1 ₿ = <span id="btc-price">loading...</span></p>
-</div>
-<div class="price-container price-right">
-  <p><span class="price-icon"></span> 1 ⚡️ = <span id="sat-price">loading...</span></p>
-</div>
-
 <style>
-.price-container {
-  position: fixed;
-  bottom: 10px;
-  font-size: 14px;
+.price-wrapper {
+  position: absolute;
+  bottom: 50px; /* Поднимаем на уровень футера */
+  left: 0;
+  right: 0;
+  width: 100%;
   z-index: 1000;
+}
+
+.price-container {
+  position: absolute;
+  font-size: 14px;
 }
 
 /* Цвет текста в зависимости от темы */
 .theme-light .price-container {
-  color: black; /* Чёрный текст в светлой теме */
+  color: black;
 }
 
 .theme-dark .price-container {
-  color: white; /* Белый текст в тёмной теме */
+  color: white;
 }
 
 .price-left {
-  left: 10px;
+  left: 5px; /* Четко по левому краю */
 }
 
 .price-right {
-  right: 10px;
+  right: 5px; /* Четко по правому краю */
 }
 
+/* Медиа-запрос для мобильных устройств (ширина экрана ≤ 768px) */
+@media (max-width: 768px) {
+  .price-wrapper {
+    position: relative; /* В мобильной версии обертка становится частью потока */
+    bottom: 0;
+    margin-top: 30px; /* Отступ сверху, чтобы цены были ниже кнопок */
+    display: flex; /* Используем flex для горизонтального расположения */
+    justify-content: space-between; /* Распределяем цены: одна слева, другая справа */
+    align-items: center; /* Выравниваем по вертикали */
+  }
+
+  .price-container {
+    position: static; /* Убираем absolute, чтобы цены шли в потоке */
+    margin: 0; /* Убираем лишние отступы */
+  }
+
+  .price-left {
+    text-align: left;
+  }
+
+  .price-right {
+    text-align: right;
+  }
+}
 </style>
 
 <script src="/script.js"></script>
