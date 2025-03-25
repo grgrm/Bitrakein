@@ -26,10 +26,10 @@
 </div>
 
 <!-- Элементы для цен -->
-<div class="price-container price-left">
+<div class="price-container price-left" data-currency="USD">
   <p><span class="price-icon"></span> 1 ₿ = <span id="btc-price">loading...</span></p>
 </div>
-<div class="price-container price-right">
+<div class="price-container price-right" data-currency="USD">
   <p><span class="price-icon"></span> 1 ⚡️ = <span id="sat-price">loading...</span></p>
 </div>
 
@@ -52,10 +52,12 @@
 
 .price-left {
   left: -315px;
+  cursor: pointer; /* Показываем, что элемент кликабелен */
 }
 
 .price-right {
   right: -325px;
+  cursor: pointer; /* Показываем, что элемент кликабелен */
 }
 
 /* Адаптация для мобильных устройств */
