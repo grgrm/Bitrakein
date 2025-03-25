@@ -58,14 +58,32 @@
   right: -325px;
 }
 
+/* Адаптация для мобильных устройств */
+@media (max-width: 768px) {
+  .price-container {
+    position: static;
+    bottom: 0;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .price-left {
+    margin-bottom: 10px;
+  }
+
+  .price-right {
+    margin-top: 10px;
+  }
+}
+
 .profile_inner {
   position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%; /* Растягиваем на всю ширину */
-  max-width: none; /* Убираем ограничение ширины */
+  width: 100%;
+  max-width: none;
 }
 </style>
 
-<script src="/script.js"></script>
+<script defer src="{{ "script.js" | relURL }}"></script>
