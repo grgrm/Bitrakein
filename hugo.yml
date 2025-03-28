@@ -21,13 +21,6 @@ params:
     imageTitle: "Деньги людей" # optional
     imageWidth: 337 # custom size
     imageHeight: 449 # custom size
-    buttons:
-      - name: Изучай
-        url: "/articles"
-      - name: Зарабатывай
-        url: "/trading"
-      - name: Покупай
-        url: "/articles/buy-bitcoin/"
   socialIcons: # optional
    # - name: x
    #   url: "https://x.com/itsmegrgrm"
@@ -58,16 +51,16 @@ menu:
       url: /search/
       weight: 80
     - identifier: articles
-      name: Статьи
+      name: Биткоин
       url: /articles/
       weight: 20
     - identifier: trading
       name: Торговля
       url: /trading/
       weight: 30
-    - identifier: books
-      name: Книги
-      url: /books/
+    - identifier: economy
+      name: Экономика
+      url: /economy/
       weight: 40
     - identifier: news
       name: Новости🗞

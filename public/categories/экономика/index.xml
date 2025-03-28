@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Экономика on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/</link>
+    <description>Recent content in Экономика on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему важно понимать «экономические издержки»</title>
+      <link>http://localhost:1313/ekonomicheskie-izderzhki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ekonomicheskie-izderzhki/</guid>
+      <description>&lt;h3 id=&#34;почему-важно-понимать-экономические-издержки&#34;&gt;Почему важно понимать «экономические издержки»&lt;/h3&gt;
+&lt;p&gt;Понятие экономических издержек часто сбивает людей с толку. Это не просто цена, которую вы платите за товар, а причина, по которой вы её платите.&lt;/p&gt;
+&lt;p&gt;Стоимость одного действия — это ценность, которую вы могли бы получить, выбрав другое действие. Другими словами, если у вас есть 100 долларов и вы можете выбрать между двумя товарами, каждый из которых стоит 100 долларов, вы, естественно, купите тот, который для вас важнее (ценнее). Однако его стоимость — это не те 100 долларов, которые вы потратили, а ценность второго товара, который вы уже не сможете приобрести. Этот второй товар — это упущенная возможность, истинная цена вашего выбора, то есть экономические издержки.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -290,9 +290,9 @@
     </item>
     <item>
       <title>Белая книга</title>
-      <link>http://localhost:1313/whitepaper/</link>
+      <link>http://localhost:1313/whitepaper-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/whitepaper/</guid>
+      <guid>http://localhost:1313/whitepaper-bitcoin/</guid>
       <description>&lt;p&gt;31 октября 2008 года Сатоши Накамото опубликовал &amp;ldquo;white paper&amp;rdquo;. В этом документе он впервые изложил основы функционирования децентрализованной сети пиринговой электронной наличности, в которой пользователи могут проводить транзакции напрямую друг с другом без посредников, таких как банки и других финансовых учреждений. Публикация &amp;ldquo;белой книги&amp;rdquo; вместе с последующим запуском сети Биткоина стало историческим событием.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf&#34;&gt;Скачать в PDF на русском&lt;/a&gt;&lt;/p&gt;
@@ -513,6 +513,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/open-networks/</guid>
       <description>Последние десятилетия характеризуются в основном закрытыми системами, как в финансовом, так и в сетевом плане.</description>
+    </item>
+    <item>
+      <title>Почему важно понимать «экономические издержки»</title>
+      <link>http://localhost:1313/ekonomicheskie-izderzhki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ekonomicheskie-izderzhki/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;20 июня 2019 года на &lt;a href=&#34;https://mises.org/mises-wire/why-its-important-understand-economic-costs&#34;&gt;Mises Wire&lt;/a&gt;, автор статьи — Пер Бюлунд, перевел &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Понятие экономических издержек часто сбивает людей с толку. Это не просто цена, которую вы платите за товар, а причина, по которой вы её платите.&lt;/p&gt;
+&lt;p&gt;Стоимость одного действия — это ценность, которую вы могли бы получить, выбрав другое действие. Другими словами, если у вас есть 100 долларов и вы можете выбрать между двумя товарами, каждый из которых стоит 100 долларов, вы, естественно, купите тот, который для вас важнее (ценнее). Однако его стоимость — это не те 100 долларов, которые вы потратили, а ценность второго товара, который вы уже не сможете приобрести. Этот второй товар — это упущенная возможность, истинная цена вашего выбора, то есть экономические издержки.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Реформа субсидий для развития экономики штатов и муниципалитетов</title>

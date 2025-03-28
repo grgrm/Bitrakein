@@ -1,7 +1,7 @@
 ---
 title: Белая книга
 layout: White paper
-url: /whitepaper/
+url: /whitepaper-bitcoin/
 cover:
     image: img/books/whitepaper/wp1.png
     alt: 

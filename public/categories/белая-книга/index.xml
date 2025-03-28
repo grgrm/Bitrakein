@@ -9,9 +9,9 @@
     <atom:link href="http://localhost:1313/categories/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Белая книга</title>
-      <link>http://localhost:1313/whitepaper/</link>
+      <link>http://localhost:1313/whitepaper-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/whitepaper/</guid>
+      <guid>http://localhost:1313/whitepaper-bitcoin/</guid>
       <description>&lt;p&gt;31 октября 2008 года Сатоши Накамото опубликовал &amp;ldquo;white paper&amp;rdquo;. В этом документе он впервые изложил основы функционирования децентрализованной сети пиринговой электронной наличности, в которой пользователи могут проводить транзакции напрямую друг с другом без посредников, таких как банки и других финансовых учреждений. Публикация &amp;ldquo;белой книги&amp;rdquo; вместе с последующим запуском сети Биткоина стало историческим событием.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf&#34;&gt;Скачать в PDF на русском&lt;/a&gt;&lt;/p&gt;
