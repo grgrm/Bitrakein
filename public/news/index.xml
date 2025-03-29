@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>FedNow — это не CBDC, но это опасно</title>
+      <link>http://localhost:1313/fednow-eto-opasno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fednow-eto-opasno/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Статья Дэвида Брэди-младшего, опубликованная в &lt;a href=&#34;https://mises.org/mises-wire/fednow-isnt-cbdc-it-dangerous&#34;&gt;Mises Wire&lt;/a&gt; 24 июля 2023 года, перевел &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Начиная с июля 2023 года, Федеральная резервная система запустила новый платёжный сервис под названием «FedNow». Среди оппозиционно настроенных политических кругов растёт обеспокоенность, что этот сервис может оказаться троянским конём для цифровой валюты центрального банка (CBDC).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Что такое CBDC и какая опасность скрывается за этим экспериентом, читайте в нашей статье тут: &lt;a href=&#34;https://bitrakein.org/cbdc-protiv-svobody/&#34;&gt;CBDC ПРОТИВ СВОБОДЫ&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;p&gt;Эта тревога оправдана. В зависимости от реализации, CBDC может уничтожить конфиденциальность наличных денег, упростить заморозку счетов и открыть дорогу системе социального кредитного рейтинга. Но оправдан ли страх перед FedNow именно в этом ключе? Или же он несёт другую угрозу?&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Здесь все просто</title>
       <link>http://localhost:1313/zdecj-vse-prosto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,13 +48,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pojarnaya-katastrofa-v-kalifornii/</guid>
       <description>Смертоносные лесные пожары этого года были необязательны и предсказаны.</description>
-    </item>
-    <item>
-      <title>Реформа субсидий для развития экономики штатов и муниципалитетов</title>
-      <link>http://localhost:1313/reforma-subsidy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reforma-subsidy/</guid>
-      <description>Субсидии для бизнеса на уровне штатов и муниципалитетов обходятся дорого и продолжают расти. Их полная ликвидация была бы идеальной, но постепенные реформы также могут снизить их политическую привлекательность и частоту применения.</description>
     </item>
     <item>
       <title>Следует ли освободить криптовалюту от налогов?</title>

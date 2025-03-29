@@ -3,7 +3,7 @@ title: Реформа субсидий для развития экономик�
 layout: Reforma subsidy dlya razvitiya ekonomiki shtatov i municipalitetov
 url: /reforma-subsidy/
 cover:
-    image: img/news/reforma-subsidy/0re.png
+    image: img/articles-econ/reforma-subsidy/0re.png
     alt: 
     caption: ''
 description: "Субсидии для бизнеса на уровне штатов и муниципалитетов обходятся дорого и продолжают расти. Их полная ликвидация была бы идеальной, но постепенные реформы также могут снизить их политическую привлекательность и частоту применения."
@@ -16,7 +16,7 @@ categories: ["News", "Исследования Института Катона"]
 
 *Доклад Скотта Линсикома, Марка Джоффe и Крита Чанвонг Коуэна из [Института Катона](https://www.cato.org/policy-analysis/reforming-state-local-economic-development-subsidies) переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
 
-[**Ознакомиться с оригиналом в PDF**](/img/news/reforma-subsidy/Policy-Analysis-980.pdf)
+[**Ознакомиться с оригиналом в PDF**](/img/articles-econ/reforma-subsidy/Policy-Analysis-980.pdf)
 
 -----
 

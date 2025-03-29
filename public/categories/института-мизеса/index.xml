@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Института Мизеса on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%B0-%D0%BC%D0%B8%D0%B7%D0%B5%D1%81%D0%B0/</link>
+    <description>Recent content in Института Мизеса on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%B0-%D0%BC%D0%B8%D0%B7%D0%B5%D1%81%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FedNow — это не CBDC, но это опасно</title>
+      <link>http://localhost:1313/fednow-eto-opasno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fednow-eto-opasno/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Статья Дэвида Брэди-младшего, опубликованная в &lt;a href=&#34;https://mises.org/mises-wire/fednow-isnt-cbdc-it-dangerous&#34;&gt;Mises Wire&lt;/a&gt; 24 июля 2023 года, перевел &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Начиная с июля 2023 года, Федеральная резервная система запустила новый платёжный сервис под названием «FedNow». Среди оппозиционно настроенных политических кругов растёт обеспокоенность, что этот сервис может оказаться троянским конём для цифровой валюты центрального банка (CBDC).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Что такое CBDC и какая опасность скрывается за этим экспериентом, читайте в нашей статье тут: &lt;a href=&#34;https://bitrakein.org/cbdc-protiv-svobody/&#34;&gt;CBDC ПРОТИВ СВОБОДЫ&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;p&gt;Эта тревога оправдана. В зависимости от реализации, CBDC может уничтожить конфиденциальность наличных денег, упростить заморозку счетов и открыть дорогу системе социального кредитного рейтинга. Но оправдан ли страх перед FedNow именно в этом ключе? Или же он несёт другую угрозу?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
