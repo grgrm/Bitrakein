@@ -148,6 +148,8 @@
   </url><url>
     <loc>http://localhost:1313/filosofiya-svobodnogo-vybora/</loc>
   </url><url>
+    <loc>http://localhost:1313/categories/%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%B8-%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</loc>
+  </url><url>
     <loc>http://localhost:1313/bitcoin-odin-dlya-vsekh/</loc>
   </url><url>
     <loc>http://localhost:1313/bitcoin-voucher/</loc>
@@ -191,6 +193,8 @@
     <loc>http://localhost:1313/kak-obmenyatj-fiat-na-kriptovalyuty-na-bybit/</loc>
   </url><url>
     <loc>http://localhost:1313/kak-sovershitj-obmen-kriptovalyut-na-fixed-float/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kapitalisticheskaya-revolyuciya/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</loc>
   </url><url>
@@ -303,8 +307,6 @@
     <loc>http://localhost:1313/chto-takoe-halving/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%B8-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0/</loc>
   </url><url>
