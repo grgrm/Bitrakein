@@ -12,7 +12,7 @@ categories: ["News", "Торговые Тарифы Трампа", "Торгов
 
 -----
 
-*Статья Уолтера Блока для [Фонда экономического образования](https://fee.org/articles/tariffs-are-awful-but-the-income-tax-may-be-worse/) от 21.03.25 переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
+*Статья Уолтера Блока для [Фонда экономического образования](https://fee.org/articles/tariffs-are-awful-but-the-income-tax-may-be-worse/) от 21.03.25 переведена каналом [Либертарианские Лоулайты](https://t.me/libertarian_lowlights)*
 
 -----
 
