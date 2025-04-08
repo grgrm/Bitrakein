@@ -1,5 +1,5 @@
 ---
-title: 21.01.2025 - Против кейнсианской иллюзии: расходы — не двигатель экономики
+title: Против кейнсианской иллюзии. Расходы — не двигатель экономики
 layout: Protiv kejnsianskoj illyuzii
 url: /protiv-kejnsianskoj-illyuzii/
 cover:
