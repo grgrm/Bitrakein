@@ -54,10 +54,6 @@ menu:
       name: Биткоин
       url: /articles/
       weight: 20
-    - identifier: trading
-      name: Торговля
-      url: /trading/
-      weight: 30
     - identifier: economy
       name: Экономика
       url: /economy/

@@ -29,6 +29,17 @@
       <description>Этот выпуск посвящен росту цифровых активов: мы проанализируем текущие тенденции и рассмотрим, как управлять рисками при инвестировании в них.</description>
     </item>
     <item>
+      <title>Идеальная денежно-кредитная политика Центрального Биткоин Банка</title>
+      <link>http://localhost:1313/denezhno-kreditnaya-politika-centralnogo-bitkoin-banka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/denezhno-kreditnaya-politika-centralnogo-bitkoin-banka/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Статья из &lt;a href=&#34;https://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/&#34;&gt;Института Сатоши Накамото&lt;/a&gt;, автор Пьер Рошар, перевел &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ниже приводится аналитическая схема, позволяющая критикам и сторонникам денежно-кредитной политики Биткойна вести конструктивную дискуссию.&lt;/p&gt;
+&lt;p&gt;У Биткоина есть центральный банк под названием «сеть Биткоин», который мы будем называть Центральным Биткоин Банком (ЦББ). Этот центральный банк выпускает валюту под названием «биткоины» и обрабатывает переводы биткоинов между счетами. Правила денежно-кредитной политики ЦББ были заданы при его создании, а его независимость обеспечивается децентрализованной природой основной сети. Эту недискреционную денежно-кредитную политику лучше всего описывает термин «асимптотическое таргетирование денежного предложения» (AMST).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Настоящее значение инфляции и дефляции</title>
       <link>http://localhost:1313/realjnoe-znachenie-inflyacii-i-deflyacii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
