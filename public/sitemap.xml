@@ -6,45 +6,13 @@
   </url><url>
     <loc>http://localhost:1313/whitepaper/</loc>
   </url><url>
-    <loc>http://localhost:1313/0-ostrov-opasnosti/</loc>
-  </url><url>
     <loc>http://localhost:1313/slovo-avtora-perevoda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/books/core/avtor-perevoda/</loc>
-  </url><url>
-    <loc>http://localhost:1313/books/core/vvedenie/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ostrov-opasnosti-kapital/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ostrov-opasnosti-kapital-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/svoboda-ili-konfrontaciya/</loc>
-  </url><url>
-    <loc>http://localhost:1313/nasilie-i-retribuciya/</loc>
-  </url><url>
-    <loc>http://localhost:1313/denjgi-denjgi-denjgi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/emergenciya-rynka-neizbezhna/</loc>
-  </url><url>
-    <loc>http://localhost:1313/kto-objyavil-ochotu-na-svobodnuyu-torgovlyu/</loc>
-  </url><url>
-    <loc>http://localhost:1313/otnosheniya-win-win-kapitalizm/</loc>
-  </url><url>
-    <loc>http://localhost:1313/svoboda-i-eyo-druzjya/</loc>
   </url><url>
     <loc>http://localhost:1313/decarbonizaciaya-v-africe/</loc>
   </url><url>
-    <loc>http://localhost:1313/glava-2/</loc>
+    <loc>http://localhost:1313/problema-trampovskogo-merkantilizma/</loc>
   </url><url>
     <loc>http://localhost:1313/1-koncept-dejstviya/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-ekonomika-1-1-neravenstvo-dohodov/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-2-izmerenie-dohodov-i-urovnya-zhizni/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-3-hokkejnaya-klyushka-istorii-rost-dohodov/</loc>
-  </url><url>
-    <loc>http://localhost:1313/1-4-permanentnaya-tekhnologicheskaya-revolyuciya/</loc>
   </url><url>
     <loc>http://localhost:1313/tramp-prav-naschyot-torgovli/</loc>
   </url><url>
@@ -63,8 +31,6 @@
     <loc>http://localhost:1313/categories/cbdc/</loc>
   </url><url>
     <loc>http://localhost:1313/cbdc-protiv-svobody/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/coreeconomy/</loc>
   </url><url>
     <loc>http://localhost:1313/articles/kuljtura/</loc>
   </url><url>
@@ -128,8 +94,6 @@
   </url><url>
     <loc>http://localhost:1313/economy/books/monetary-anarchy/</loc>
   </url><url>
-    <loc>http://localhost:1313/books/antologiya-anarcho-kapitalizma/</loc>
-  </url><url>
     <loc>http://localhost:1313/whitepaper-bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0/</loc>
@@ -173,6 +137,8 @@
     <loc>http://localhost:1313/vy-ne-opozdali-v-bitcoin/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%B2%D1%8B-%D0%BD%D0%B5-%D0%BE%D0%BF%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB%D0%B8-%D0%BA-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D1%83/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mencius-moldbug/glava-1-gorizont-sotkannyj-iz-holsta/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8F/</loc>
   </url><url>
@@ -220,11 +186,11 @@
   </url><url>
     <loc>http://localhost:1313/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</loc>
   </url><url>
-    <loc>http://localhost:1313/books/core/core-economy-1-0/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D0%B7%D0%BC/</loc>
   </url><url>
     <loc>http://localhost:1313/the-separation-of-money-and-state/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Mencius%20Moldbug/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%BC%D1%8E%D1%80%D1%80%D0%B5%D0%B9-%D1%80%D0%BE%D1%82%D0%B1%D0%B0%D1%80%D0%B4/</loc>
   </url><url>
@@ -246,9 +212,9 @@
   </url><url>
     <loc>http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2-%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</loc>
-  </url><url>
     <loc>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</loc>
+  </url><url>
+    <loc>http://localhost:1313/otkrytoe-pismo-progressistam/otkrytoe-pismo-progressistam-sposobnym-somnevatsya/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/%D0%BF%D0%B0%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC/</loc>
   </url><url>
@@ -269,8 +235,6 @@
     <loc>http://localhost:1313/categories/%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B7%D0%B0%D1%82%D0%B5%D0%BC-%D0%B2%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D0%BE/</loc>
   </url><url>
     <loc>http://localhost:1313/ekonomicheskie-izderzhki/</loc>
-  </url><url>
-    <loc>http://localhost:1313/problema-trampovskogo-merkantilizma/</loc>
   </url><url>
     <loc>http://localhost:1313/protiv-kejnsianskoj-illyuzii/</loc>
   </url><url>
