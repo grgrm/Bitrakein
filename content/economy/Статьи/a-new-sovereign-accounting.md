@@ -3,7 +3,7 @@ title: Новый суверенный учёт
 layout: Novyj suverennyj uchyot
 url: /novyj-suverennyj-uchyot/
 cover:
-    image: img/articles-econ/novyj-suverennyj-uchyot/.png
+    image: img/articles-econ/novyj-suverennyj-uchyot/0nsu.png
     alt: 
     caption: 
 description: «Разделение между Казначейством и ФРС внешне не имеет значения»
