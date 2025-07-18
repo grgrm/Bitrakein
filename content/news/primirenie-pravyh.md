@@ -14,11 +14,10 @@ categories: ["News", "Gray Mirror"]
 
 -----
 
-*[Статья](https://graymirror.substack.com/p/its-easy-from-here) Кертиса Ярвина, также известного под псевдонимом Мэнциус Молдбаг, переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
+*[Статья](https://graymirror.substack.com/p/reconciling-the-right) Кертиса Ярвина, также известного под псевдонимом Мэнциус Молдбаг, переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
 
 -----
 
-### <h3>Интро</h3>
 
 После бурного начала администрация Трампа начала сбавлять темп. Самая тревожная тенденция — всё более явное стремление сосредоточить усилия не на публичной активности, а вне поля зрения общественности.
 
