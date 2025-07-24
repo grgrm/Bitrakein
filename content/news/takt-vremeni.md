@@ -1,5 +1,5 @@
 ---
-title: Такт времени
+title: 24.07.25 - Такт времени
 layout: Takt vremeni
 url: /takt-vremeni/
 cover:

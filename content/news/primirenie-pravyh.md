@@ -1,5 +1,5 @@
 ---
-title: Примирение правых
+title: 18.07.25 - Примирение правых
 layout: Primirenie pravyh
 url: /primirenie-pravyh/
 cover:
