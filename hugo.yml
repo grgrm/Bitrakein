@@ -9,7 +9,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-
+googleAnalytics: G-H7GKHB2WC9
 
 
 params:
