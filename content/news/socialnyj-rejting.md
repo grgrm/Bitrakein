@@ -1,5 +1,5 @@
 ---
-title: 31.08.2025 - У вашего смартфона уже есть социальный рейтинг. Мы просто притворяемся, что это не так.
+title: У вашего смартфона уже есть социальный рейтинг. Мы просто притворяемся, что это не так.
 layout: Socialnyj rejting v vashem smartfone
 url: /socialnyj-rejting-v-vashem-smartfone/
 cover:
@@ -13,7 +13,7 @@ categories: ["News"]
 31 Августа 2025
 
 -----
-*[Статья](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/) Натали Панг, создательницы издания [The Nexus](https://www.thenexus.media/about/)  переведа переведена [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
+*[Статья](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/) Натали Панг, создательницы издания [The Nexus](https://www.thenexus.media/about/)  переведа [Grgrm](https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p "Nostr")*
 
 -----
 
