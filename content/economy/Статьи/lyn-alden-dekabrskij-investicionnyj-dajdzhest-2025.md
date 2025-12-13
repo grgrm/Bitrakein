@@ -1,7 +1,7 @@
 ---
 title: Декабрьский инвестиционный дайджест 2025
 layout: Lyn Alden Dekabrskij investicionnyj dajdzhest 2025
-url: /lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/
+url: /articles-econ//lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/
 cover:
     image: img/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/investment-newsletter-feature.jpg
     alt: 
