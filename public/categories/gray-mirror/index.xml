@@ -19,11 +19,25 @@
 &lt;p&gt;Вот современная версия. Представьте, что у вас есть дрон, который также является и машиной времени: он может отправляться в прошлое, даже в альтернативное, но только чтобы пролететь над ним и заснять всё на видео. Просматривая записи двух версий одного и того же города, вы решаете, какая выглядит более благополучной. Потом сверяете это с реальной статистикой, чтобы понять, были ли вы правы.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>18.07.25 - Примирение правых</title>
+      <link>http://localhost:1313/primirenie-pravyh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/primirenie-pravyh/</guid>
+      <description>Что происходит? Кто мы такие? Чем мы вообще занимаемся?</description>
+    </item>
+    <item>
       <title>Здесь все просто</title>
       <link>http://localhost:1313/zdecj-vse-prosto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zdecj-vse-prosto/</guid>
       <description>Власть убеждает тебя, что принадлежит тебе. На самом деле, это ты принадлежишь ей.</description>
+    </item>
+    <item>
+      <title>Новый суверенный учёт</title>
+      <link>http://localhost:1313/novyj-suverennyj-uchyot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/novyj-suverennyj-uchyot/</guid>
+      <description>«Разделение между Казначейством и ФРС внешне не имеет значения»</description>
     </item>
   </channel>
 </rss>

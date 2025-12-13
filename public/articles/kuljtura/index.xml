@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/articles/kuljtura/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bitcoin Core против Bitcoin Knots. Поступки говорят громче слов</title>
+      <link>http://localhost:1313/core-vs-knots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/core-vs-knots/</guid>
+      <description>Активисты Knots утверждают, что поддерживают децентрализацию Биткоина и его использование как цензуроустойчивых денег, но их действия не соответствуют этим заявлениям.</description>
+    </item>
+    <item>
       <title>Биткоин — чистая анархия</title>
       <link>http://localhost:1313/bitkoin-chistaya-anarhiya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

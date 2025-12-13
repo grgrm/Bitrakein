@@ -36,11 +36,31 @@
       <description>Существует обоснованный аргумент в пользу тарифов. Но президенту нужно объяснить его публике — так, чтобы это выглядело эффектно на телевидении.</description>
     </item>
     <item>
+      <title>18.07.25 - Примирение правых</title>
+      <link>http://localhost:1313/primirenie-pravyh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/primirenie-pravyh/</guid>
+      <description>Что происходит? Кто мы такие? Чем мы вообще занимаемся?</description>
+    </item>
+    <item>
       <title>21.03.25 - Тарифы ужасны, но подоходный налог еще хуже</title>
       <link>http://localhost:1313/tarify-uzhasny-no-podohodnyj-nalog-eshe-huzhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tarify-uzhasny-no-podohodnyj-nalog-eshe-huzhe/</guid>
       <description>Как выбрать между двумя вредными мерами.</description>
+    </item>
+    <item>
+      <title>24.07.25 - Такт времени</title>
+      <link>http://localhost:1313/takt-vremeni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/takt-vremeni/</guid>
+      <description>&lt;p&gt;&lt;em&gt;23 июля 2025 г.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://cryptohayes.medium.com/time-signature-27c516884c71&#34;&gt;Статья&lt;/a&gt; Артура Хейса, переведена &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;(Все высказанные здесь мнения являются личными взглядами автора и не должны служить основанием для принятия инвестиционных решений, а также не являются рекомендацией или советом участвовать в инвестиционных сделках.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Высшая форма восхищения, которую человечество может выразить Вселенной, — это счастье, получаемое от танца. Большинство религий включает в себя музыку и танец как часть поклонения. Моя организованная религия — хаус-музыка — «заводит твое тело» не в церкви в воскресное утро, а примерно в то же время — в клубе Space.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FedNow — это не CBDC, но это опасно</title>
@@ -90,6 +110,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kriptovalyuta-ne-zaslujivaet-osvobojdeniya-ot-nalogov/</guid>
       <description>Если администрация Трампа хочет снизить налоги на прирост капитала, то стоит сделать это для всех категорий активов.</description>
+    </item>
+    <item>
+      <title>У вашего смартфона уже есть социальный рейтинг. Мы просто притворяемся, что это не так.</title>
+      <link>http://localhost:1313/socialnyj-rejting-v-vashem-smartfone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/socialnyj-rejting-v-vashem-smartfone/</guid>
+      <description>&lt;p&gt;31 Августа 2025&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/&#34;&gt;Статья&lt;/a&gt; Натали Панг, создательницы издания &lt;a href=&#34;https://www.thenexus.media/about/&#34;&gt;The Nexus&lt;/a&gt;  переведа &lt;a href=&#34;https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p&#34; title=&#34;Nostr&#34;&gt;Grgrm&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ваш кредитный рейтинг — это социальный рейтинг. Ваши рекомендации на LinkedIn — это социальный рейтинг. Ваша пассажирская оценка в Uber, показатели вовлечённости в Instagram, отзывы на Amazon и статус хоста на Airbnb — всё это социальные рейтинговые системы, которые отслеживают вас, оценивают и вознаграждают в зависимости от вашего поведения.&lt;/p&gt;
+&lt;p&gt;Социальный кредит в своём изначальном экономическом определении означал распределение прибыли отрасли среди потребителей для увеличения покупательской способности. Но этот термин давно вышел за пределы экономики. Сегодня он описывает любую систему показателей, которая отслеживает индивидуальное поведение, присваивает баллы на основе этого поведения и использует их для определения доступа к услугам, возможностям или социальному положению.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
