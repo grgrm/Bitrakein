@@ -6,7 +6,7 @@ cover:
     image: img/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/investment-newsletter-feature.jpg
     alt: 
     caption: 
-description: "Корпоративные акции надежнее денег, приближающийся конец долларового стандарта и новый колониализм современного мира."
+description: "Эпоха простых инвестиционных стратегий в условиях валютного обесценивания подошла к концу."
 categories: ["Лин Алден", "Экономика и биткоин", "Инвестиционный дайджест"]
 ---
 
