@@ -67,7 +67,7 @@ menu:
       url: /donation/
       weight: 60
     - identifier: links
-      name: Ссылки
-      url: "https://nostree.me/grgrm@getalby.com/"
+      name: Youtube
+      url: "https://www.youtube.com/@bitrakein"
       weight: 70
 
