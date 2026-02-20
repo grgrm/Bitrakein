@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true 
     title: "<Bitrakein>"
-    subtitle: "Лучшиe дeньги. Лучший миp."
+    subtitle: "Цена не имеет значения, свобода бесценна."
     imageUrl: "img/4.png"
     imageTitle: "Деньги людей" # optional
     imageWidth: 337 # custom size
