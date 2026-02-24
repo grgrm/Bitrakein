@@ -1,7 +1,7 @@
 ---
 title: LN Markets — торговля биткоин-деривативами
 layout: ln markets
-url: trading/ln-markets/
+url: /ln-markets/
 cover:
     image: 
     alt: 
