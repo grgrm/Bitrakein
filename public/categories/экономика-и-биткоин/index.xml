@@ -22,6 +22,13 @@
       <description>Биткоин — не просто хедж против инфляции, он её решение.</description>
     </item>
     <item>
+      <title>Все — спекулянты</title>
+      <link>http://localhost:1313/vse-spekulyanty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vse-spekulyanty/</guid>
+      <description>Все активы спекулятивны, а мы - спекулянты.</description>
+    </item>
+    <item>
       <title>Декабрьский выпуск 2024 года - Рост цифровых активов</title>
       <link>http://localhost:1313/lyn-alden-dekabrskij-vipusk-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,10 +37,10 @@
     </item>
     <item>
       <title>Декабрьский инвестиционный дайджест 2025</title>
-      <link>http://localhost:1313/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</link>
+      <link>http://localhost:1313/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</guid>
-      <description>Корпоративные акции надежнее денег, приближающийся конец долларового стандарта и новый колониализм современного мира.</description>
+      <guid>http://localhost:1313/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</guid>
+      <description>Эпоха простых инвестиционных стратегий в условиях валютного обесценивания подошла к концу.</description>
     </item>
     <item>
       <title>Идеальная денежно-кредитная политика Центрального Биткоин Банка</title>
