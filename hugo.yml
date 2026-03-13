@@ -63,7 +63,7 @@ menu:
       url: /news/
       weight: 50
     - identifier: donation
-      name: Вклад
+      name: ❤️
       url: /donation/
       weight: 60
     - identifier: links
