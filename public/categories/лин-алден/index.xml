@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Лин Алден on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/</link>
+    <description>Recent content in Лин Алден on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/%D0%BB%D0%B8%D0%BD-%D0%B0%D0%BB%D0%B4%D0%B5%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>✨Лин Алден о биткоине и глобальных макросах</title>
+      <link>http://localhost:1313/lyn-alden-on-bitcoin-and-global-macro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lyn-alden-on-bitcoin-and-global-macro/</guid>
+      <description>Корпоративные акции надежнее денег, приближающийся конец долларового стандарта и новый колониализм современного мира.</description>
+    </item>
+    <item>
+      <title>Декабрьский выпуск 2024 года - Рост цифровых активов</title>
+      <link>http://localhost:1313/lyn-alden-dekabrskij-vipusk-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lyn-alden-dekabrskij-vipusk-2024/</guid>
+      <description>Этот выпуск посвящен росту цифровых активов: мы проанализируем текущие тенденции и рассмотрим, как управлять рисками при инвестировании в них.</description>
+    </item>
+    <item>
+      <title>Декабрьский инвестиционный дайджест 2025</title>
+      <link>http://localhost:1313/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles-econ/lyn-alden-dekabrskij-investicionnyj-dajdzhest-2025/</guid>
+      <description>Эпоха простых инвестиционных стратегий в условиях валютного обесценивания подошла к концу.</description>
+    </item>
+    <item>
+      <title>Последствия открытых информационных и монетарных систем</title>
+      <link>http://localhost:1313/open-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/open-networks/</guid>
+      <description>Последние десятилетия характеризуются в основном закрытыми системами, как в финансовом, так и в сетевом плане.</description>
+    </item>
+  </channel>
+</rss>

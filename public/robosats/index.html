@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>RoboSats. Простой и конфиденциальный способ обмена биткоинов | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/robosats/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/robosats/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Биткоин">
+                    <span>Биткоин</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/economy/" title="Экономика">
+                    <span>Экономика</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/news/" title="Новости🗞">
+                    <span>Новости🗞</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Вклад">
+                    <span>Вклад</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/@bitrakein" title="Youtube">
+                    <span>Youtube</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)" accesskey=/>
+                    <span>🔍</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/">Статьи и пособия</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/buy-bitcoin/">Buy and Hodl | Покупаем и храним биткоин</a></div>
+    <h1 class="post-title entry-hint-parent">
+      RoboSats. Простой и конфиденциальный способ обмена биткоинов
+    </h1>
+    <div class="post-description">
+      Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.
+    </div>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/img/buy-bitcoin/robosats/robosats-logo.jpg" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#%d0%b8%d0%bd%d1%82%d1%80%d0%be" aria-label="ИНТРО">ИНТРО</a></li>
+                <li>
+                    <a href="#%d0%b7%d0%b0%d1%88%d0%b8%d1%84%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d0%b0%d1%8f-%d1%82%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%bb%d1%8f-%d0%b2%d0%be%d0%b7%d1%8c%d0%bc%d0%b8%d1%82%d0%b5-%d1%81%d0%b5%d0%b1%d0%b5-%d0%bb%d0%b8%d1%87%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%80%d0%be%d0%b1%d0%be%d1%82%d0%b0-%d0%bd%d0%b0-robosats" aria-label="Зашифрованная торговля: возьмите себе личность робота на RoboSats">Зашифрованная торговля: возьмите себе личность робота на RoboSats</a></li>
+                <li>
+                    <a href="#robosatsonion-%d1%83%d0%bf%d1%80%d0%be%d1%89%d1%91%d0%bd%d0%bd%d1%8b%d0%b9-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d1%84%d0%b5%d0%b9%d1%81-%d0%ba%d0%b0%d0%ba-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b4%d0%bb%d1%8f-%d1%81%d0%bc%d0%b0%d1%80%d1%82%d1%84%d0%be%d0%bd%d0%b0" aria-label="Robosats.onion: Упрощённый интерфейс, как приложение для смартфона">Robosats.onion: Упрощённый интерфейс, как приложение для смартфона</a></li>
+                <li>
+                    <a href="#%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d1%8c-tor-%d0%b6%d0%b5%d0%bb%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be" aria-label="Использовать Tor желательно">Использовать Tor желательно</a></li>
+                <li>
+                    <a href="#%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%b0%d0%b5%d0%bc%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b5%d0%bc-%d0%b1%d0%b8%d1%82%d0%ba%d0%be%d0%b8%d0%bd" aria-label="Покупаем/продаем биткоин">Покупаем/продаем биткоин</a></li>
+                <li>
+                    <a href="#%d0%ba%d0%b0%d0%ba-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d1%82%d1%8c-%d0%be%d1%80%d0%b4%d0%b5%d1%80-%d1%81%d0%b0%d0%bc%d0%be%d0%bc%d1%83" aria-label="Как создать ордер самому">Как создать ордер самому</a></li>
+                <li>
+                    <a href="#%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d1%8b" aria-label="Методы оплаты">Методы оплаты</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h3 id="интро"><!-- raw HTML omitted -->ИНТРО<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#интро">#</a></h3>
+<p>RoboSats — это пиринговая (P2P) биржа для обмена биткоинов на фиатные деньги (национальную валюту) и наоборот. Её миссия заключается в том, чтобы максимально снизить необходимость доверия между пользователями. Это проект с открытым исходным кодом, в котором участвуют более 40 активных программистов, сосредоточенных на обеспечении скорости, безопасности и анонимности в использовании этой глобальной финансовой платформы.</p>
+<p>RoboSats работает на второй слое сети Биткоин, известном как <a href="/chto-takoe-lightning-network/">Lightning Network</a>, и через <a href="https://www.torproject.org/ru/">Tor</a> — браузер, который шифрует интернет-коммуникации от начала до конца, обеспечивая конфиденциальность и анонимность пользователей.</p>
+<p>Всё, что нужно, чтобы начать пользоваться биржей, - это немножко биткоинов в кошельке сети Молния. Да, чтобы купить немного биткоинов нужно иметь уже некоторое количество сатош в лайтнинг-кошельке. Это нужно для того, чтобы оплатить страховой взнос для создания ордера или взятия ордера. Страховой взнос необходим, чтобы избежать фейковых ордеров и фейковых откликов. Взнос возвращается после успешного проведения сделки или после отмены ордера, на который никто не откликнулся.</p>
+<p>Покупатели и продавцы должны пополнить счет, обычно это около 3% от суммы сделки.</p>
+<blockquote>
+<p><strong>Если вы решили использовать RoboSats для покупки своих первых сатоши в лайтнинг сети, можете попросить друга одолжить вам небольшую сумму или обратитесь в <a href="https://t.me/robosats_ru">русскоязычный чат</a> RoboSats — там наверняка найдется кто-то из сообщества, кто с радостью поможет вам начать.</strong></p></blockquote>
+<hr>
+<p>Поехали! Чтобы начать пользоваться RoboSats, вам нужен только кошелек Lightning Wallet и браузер с поддержкой TOR.</p>
+<blockquote>
+<p><strong>Выбрать лайтнинг кошелек можно в нашей статье <a href="/lightning-kosheljki/">тут</a></strong></p></blockquote>
+<blockquote>
+<p><strong>Скачать <a href="https://www.torproject.org/download/">ТОР</a></strong></p></blockquote>
+<hr>
+<h3 id="зашифрованная-торговля-возьмите-себе-личность-робота-на-robosats"><!-- raw HTML omitted -->Зашифрованная торговля: возьмите себе личность робота на RoboSats<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#зашифрованная-торговля-возьмите-себе-личность-робота-на-robosats">#</a></h3>
+<p>В RoboSats, чтобы торговать с другими пользователями, вы будете использовать (анонимную) личность одного или нескольких аватаров роботов, которые автоматически генерируются с их уникальными именами.</p>
+<blockquote>
+<p><em><strong>После того, как скачали Тор, заходим на RoboSats онион <a href="http://robodexarjwtfryec556cjdz3dfa7u47saek6lkftnkgshvgg2kcumqd.onion/">здесь</a> (рекомендуется).</strong></em></p>
+<p><em><strong>Можно через обычный браузер <a href="http://dex.robosats.com">здесь</a> (не рекомендуется).</strong></em></p></blockquote>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robot-bot.png" alt=""  />
+</p>
+<p>Этот генератор фиктивной идентичности регулируется интересным механизмом: у каждого аватара есть токен, то есть буквенно-цифровая серия, содержащая информацию о «личности». Этот токен содержит закрытый ключ, открытый ключ, оба с шифрованием PGP (Pretty Good Privacy) и ключ или хэш.</p>
+<p>Короче говоря, сохранив токен, желательно в надежном месте, и введя его в генератор идентификационных данных RoboSats, вы сможете получить информацию о том же аватаре, включая имя пользователя.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo1.png" alt=""  />
+</p>
+<p>Для торговли на RoboSats нет необходимости в получении одного постоянного анонимного бота. Можно сказать, что торговать каждую сессию разными случайно сгенерированными токенами даже безопаснее.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo2.png" alt=""  />
+</p>
+<p>Однако, сохранив свой токен, вы сможете получить доступ к истории ордеров с этим профилем или создать репутацию хорошего трейдера, не передавая приватных данных, как это происходит на централизованных биржах. Таким образом, RoboSats изобретательно предоставляет определенные преимущества в использовании одного анонимного профиля, не раскрывая личность пользователя.</p>
+<h3 id="robosatsonion-упрощённый-интерфейс-как-приложение-для-смартфона"><!-- raw HTML omitted -->Robosats.onion: Упрощённый интерфейс, как приложение для смартфона<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#robosatsonion-упрощённый-интерфейс-как-приложение-для-смартфона">#</a></h3>
+<p>Сайт RoboSats легкий, строгий, чистый, минималистичный и удобный в плане навигации. Иногда создается впечатление, что вы используете облегченную версию приложения для смартфона.</p>
+<p>Навигация по странице включает несколько кнопок и вкладок, которые позволяют генерировать роботов, просматривать предложения, создавать новый ордер или управлять уже существующими, а также настраивать интерфейс. Кроме того, есть несколько дополнительных опций меню, таких как экран профиля и дополнительные настройки.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo3.png" alt=""  />
+</p>
+<p>К счастью, RoboSats предлагает очень удобрные возможности настройки интерфейса, например, в настоящий момент платформа предоставляет перевод на 17 языков, включая русский, на который мы и переключили для удобства. Размер шрифта на экранах также можно изменять (от XS до XL), как и их цвет, а также активировать опцию темного фона, чтобы избежать нагрузки на зрение. Все это очень простые опции настройки, но очень полезные для пользователя.</p>
+<p>Надо отметить, что пользовательский интерфейс разработан таким образом, чтобы любой пользователь мог легко обменивать биткоины на RoboSats. Хотя Тор браузер, на котором он работает, сложнее остальных, эта сложность не отражается на использовании обменной платформы.</p>
+<p>Легкость приложения и его относительная простота дают RoboSats преимущество перед Bisq — платформой, работающей через тяжёлое настольное программное обеспечение, которое необходимо скачивать (про этот сервис мы тоже обязательно подготовим материал).</p>
+<hr>
+<h3 id="использовать-tor-желательно"><!-- raw HTML omitted -->Использовать Tor желательно<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#использовать-tor-желательно">#</a></h3>
+<p>Одной из причин, почему RoboSats безопасен для торговли биткоинами, является то, что он работает через Tor — сеть, которая защищает IP-адреса и данные пользователей, скрывая их местоположение и передаваемую информацию.</p>
+<p>Это особенно верно благодаря технике, называемой «луковичная маршрутизация» (onion routing). Сам домен сайта зашифрован буквенно-цифровой последовательностью, которую трудно идентифицировать и запомнить, что затрудняет его отслеживание.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/tor-br.png" alt=""  />
+</p>
+<p>Использование RoboSats в сети Tor означает анонимность при обмене биткоина - привилегия, недоступная централизованным биржам. Это соответствует философии биткоина и понравится тем, кто ценит право на анонимность и приватность.</p>
+<hr>
+<h3 id="покупаемпродаем-биткоин"><!-- raw HTML omitted -->Покупаем/продаем биткоин<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#покупаемпродаем-биткоин">#</a></h3>
+<p>После того, как вы нажали &ldquo;Старт&rdquo;, получили своего Робота, <strong>обязательно сохранили токен</strong>, - это нужно на случай, если в момент совершение сделки у вас прервется соединение и все слетит. По токену вы сможете восстановить всю историю сделок и даже создать собственный Гараж Роботов.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-garazh.png" alt=""  />
+</p>
+<p>Здесь вы можете отфильтровать ордера так, как вам захочется. Настроить валюту, способ обмена или выбрать свопы, чтобы менять биткоин из осной сети в лайтнинг и обратно.</p>
+<p>После настройки фильтров, выберите наиболее подходящее для вас предложение.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-take-order.png" alt=""  />
+</p>
+<p>На примере мы выбираем рубль. Ордер, который мы создали сами для того, чтобы продемонстрировать работу Робосатс. Проблема в том, что ликвидности в рублевом сегменте нет, а если и бывает, то крайне редко. На личном опыте мне пару раз попадались такие ордера. Из-за этого я обычно предпочитаю менять USDT на Биткоин, для этого просто нужно выбрать доллар США и таких ордеров полно.</p>
+<p>Итак, едем дальше. Мы нашли ордер, выбрали его, у нас открылся QR-код для внесения залога. Сканируйте куаркод лайтнинг-кошельком, средства замораживаются только на время проведения сделки.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-lnadd.png" alt=""  />
+</p>
+<p>Дальше вам надо предоставить реквизиты (лайтнинг-инвойс), на которые будут переведены биткоины. Создайте в приложении лайтнинг-кошелька инвойс на получении конкретной суммы. в данном случае у нас указано: &ldquo;Отправьте счет на 41,178 Сатоши&rdquo;.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-buy.png" alt=""  />
+</p>
+<p>После того, как вы вставили адрес получения средств, у вас откроется чат с продавцом, где вы оговариваете способ отправки фиата. В данном случае это карта Тинькоф, номер которой должны прислать в чате. После того, как вы отправили фиат, нужно будет нажать активную кнопку &ldquo;подтвердить отправку&rdquo;. Несколько минут придется подождать пока продавец проверит получение фиата. Как только он подвтвердит, вы получите сатоши и сделка будет завершена.</p>
+<h3 id="как-создать-ордер-самому"><!-- raw HTML omitted -->Как создать ордер самому<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#как-создать-ордер-самому">#</a></h3>
+<p>Создать ордер также просто, как и взять чей-то.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-make.png" alt=""  />
+</p>
+<p>Нажимаете на плюсик &ldquo;создать&rdquo; внизу (показан стрелкой), после чего нужно выбрать &ldquo;покупку или продажу&rdquo;, на примере мы создаем ордер на продажу Биткоина. Хотим продать биткоин и купить рубль. Указывается сумма, выбирается валюта и также добалвяется метод оплаты, либо выбираете из предложенных.</p>
+<p>Если хотите провести встречу лицом к лицу, отметьте место встречи на карте.</p>
+<p>Либо ничего не трогаете и идем дальше. Пишите наценку в процентах, либо оставляете как есть, желая продать по рыночной цене.</p>
+<p>Проверяйте информацию, затем жмите на “Create Order” (создать ордер), после чего вновь напомнят, чтобы вы сохранили токен робота.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-make-lock.png" alt=""  />
+</p>
+<p>Замораживаете на время действия ордера сумму на вашем кошельке. Для этого отсканируйте QR-код в лайтнинг-кошельке и просто ожидайте, когда кто-то возьмет ваш ордер - теперь он отображается в общем списке ордеров.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-notice.png" alt=""  />
+</p>
+<p>В самом нижнем левом углу нужно нажать на иконку робота, чтобы включить уведомления, которые будут приходить в телеграм. Это желательно сделать для того, чтобы не пропустить, когда кто-то примет ваш ордер. Нужно отреагировать в течении 3-часов, чтобы не сгорел залог.</p>
+<p>У вас высветится сообщение, в котором будет сказано, что тейкер сейчас внесет залог, затем тейкер отправит свой лайтнинг инвойс (все это вы уже знаете, т.к. это описано выше), после чего можно будет совершить операцию.</p>
+<p>Вам высветится QR-код с просьбой заблокировать сумму, которую вы продаете в сатах. Эта сумма не будет переведа тейкеру сразу, эта сумма блокируется до тех пор, пока тейкер не переведет вам сумму в фиате и пока вы это не подтвердите, что получили.</p>
+<p>Далее откроется окно чата, в котором вы напишите свои реквизиты для перевода средств. Тейкер переведет необходимую сумму, вы подтвердите и сделка будет завершена.</p>
+<p>По интерфейсу все одинаково, что у тейкера, что у мейкера. Все просто и интуитивно понятно. Можно оставить отзыв.</p>
+<hr>
+<h3 id="методы-оплаты"><!-- raw HTML omitted -->Методы оплаты<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#методы-оплаты">#</a></h3>
+<p>Еще любопытный момент. Вы можете менять саты на любые валюты, ваучеры, подарочные карты любых сервисов в мире. Включая любые подарочные карточки российских организаций. Например, вы можете поменять биткоин на карточку Ozon, для этого вы просто пишите Ozon и данный метод оплаты уже добавлен на платформе. То есть вы просто покупаете за сатоши карточку Озон и покупаете на нее абсолютно любой товар, который представлен на озоне. Такие варианты повышают уровень приватности.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/robosats/robo-p-method.png" alt=""  />
+</p>
+<p>Если же вашего метода оплаты нет, сама биржа предложит вам добавить новый метод.</p>
+<hr>
+<p>Дополнительную информацию вы можете найти непосредственно на самом сайте Робосатс: <a href="https://learn.robosats.com/">https://learn.robosats.com/</a></p>
+<hr>
+<p>Если наш гайд был вам полезен, поддержите нас сатошами <a href="/donation/">здесь</a>.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

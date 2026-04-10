@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>FedNow — это не CBDC, но это опасно | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+Статья Дэвида Брэди-младшего, опубликованная в Mises Wire 24 июля 2023 года, перевел Grgrm
+
+Начиная с июля 2023 года, Федеральная резервная система запустила новый платёжный сервис под названием «FedNow». Среди оппозиционно настроенных политических кругов растёт обеспокоенность, что этот сервис может оказаться троянским конём для цифровой валюты центрального банка (CBDC).
+
+
+Что такое CBDC и какая опасность скрывается за этим экспериентом, читайте в нашей статье тут: CBDC ПРОТИВ СВОБОДЫ
+Эта тревога оправдана. В зависимости от реализации, CBDC может уничтожить конфиденциальность наличных денег, упростить заморозку счетов и открыть дорогу системе социального кредитного рейтинга. Но оправдан ли страх перед FedNow именно в этом ключе? Или же он несёт другую угрозу?">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/fednow-eto-opasno/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/fednow-eto-opasno/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Биткоин">
+                    <span>Биткоин</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/economy/" title="Экономика">
+                    <span>Экономика</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/news/" title="Новости🗞">
+                    <span>Новости🗞</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Вклад">
+                    <span>Вклад</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/@bitrakein" title="Youtube">
+                    <span>Youtube</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)" accesskey=/>
+                    <span>🔍</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/news/">Лента новостей</a></div>
+    <h1 class="post-title entry-hint-parent">
+      FedNow — это не CBDC, но это опасно
+    </h1>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/img/news/fednow-eto-opasno/0fed.png" alt="">
+        
+</figure>
+
+  <div class="post-content"><hr>
+<p><em>Статья Дэвида Брэди-младшего, опубликованная в <a href="https://mises.org/mises-wire/fednow-isnt-cbdc-it-dangerous">Mises Wire</a> 24 июля 2023 года, перевел <a href="https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p" title="Nostr">Grgrm</a></em></p>
+<hr>
+<p>Начиная с июля 2023 года, Федеральная резервная система запустила новый платёжный сервис под названием «FedNow». Среди оппозиционно настроенных политических кругов растёт обеспокоенность, что этот сервис может оказаться троянским конём для цифровой валюты центрального банка (CBDC).</p>
+<blockquote>
+<blockquote>
+<p><em>Что такое CBDC и какая опасность скрывается за этим экспериентом, читайте в нашей статье тут: <a href="https://bitrakein.org/cbdc-protiv-svobody/">CBDC ПРОТИВ СВОБОДЫ</a></em></p></blockquote></blockquote>
+<p>Эта тревога оправдана. В зависимости от реализации, CBDC может уничтожить конфиденциальность наличных денег, упростить заморозку счетов и открыть дорогу системе социального кредитного рейтинга. Но оправдан ли страх перед FedNow именно в этом ключе? Или же он несёт другую угрозу?</p>
+<p>Чтобы проанализировать, является ли FedNow троянским конём для CBDC, сначала нужно понять, что такое CBDC с функциональной точки зрения. CBDC, согласно определению самой Федеральной резервной системы, — это «деньги, являющиеся обязательством центрального банка». По сути, это цифровой доллар, счета которого хранятся непосредственно в ФРС, аналогично тому, как сегодня Федеральная резервная система обслуживает банки. Председатель ФРС Джером Пауэлл назвал такой формат «оптовым» CBDC и неоднократно заявлял, что введение такой валюты возможно только по решению Конгресса. Согласно действующему законодательству, частные лица не могут открывать счета в Федеральной резервной системе. Изменения в этом вопросе должны быть внесены Конгрессом, и Пауэлл пока не выразил по этому поводу своего мнения.</p>
+<p>Пауэлл — не единственный представитель Федеральной резервной системы, выражающий обеспокоенность или скептицизм по поводу возможных преимуществ CBDC. В апреле 2023 года член Совета управляющих ФРС Мишель Боумен выступила с речью в Джорджтаунском университете, где затронула этот вопрос. Боумен перечислила заявленные преимущества CBDC, такие как ускорение финансовой системы и расширение доступа американцев к банковским услугам. Однако она отвергла все эти аргументы. Вместо этого она подчеркнула достоинства FedNow в ускорении межбанковских операций, но также выразила опасения по поводу возможной политизации CBDC. Пауэлл высказывался в том же ключе. На слушаниях в Комитете по финансовым услугам Палаты представителей он заявил: «В нашей стране появятся платежи в режиме реального времени уже очень скоро», намекая на то, что необходимость в CBDC для ускорения транзакций отсутствует. Говоря о возможном улучшении платёжной системы, Боумен представила FedNow как решение, которое делает CBDC ненужным.</p>
+<p>Что касается расширения доступа американцев к банковским услугам, она отметила существующий скептицизм в отношении банков. По её мнению, CBDC никоим образом не решит эту проблему. Среди ключевых членов Совета управляющих ФРС явно прослеживается сопротивление введению CBDC.</p>
+<p>Но давайте поговорим о слоне: является ли FedNow троянским конём для CBDC? Короткий ответ: нет. Длинный ответ: FedNow — это новая система расчётов для банков-членов Федеральной резервной системы. Исторически расчёты между банками осуществлялись физически — с помощью перевозки денег в конце рабочего дня. Сегодня этот процесс в основном выполняется через систему Fedwire. Название похоже, но это совершенно разные системы.</p>
+<p>Многие американцы пользуются услугами разных банков, что приводит к постоянным переводам денег между ними — ежедневно совершаются миллиарды транзакций. Этот бесконечный поток переводов создаёт своего рода «спагетти-монстра» из активов и обязательств, переходящих из рук в руки каждую секунду. Ни один банк не способен обработать все эти операции одновременно. Fedwire накапливает платежи между банками, позволяя им самостоятельно управлять балансами клиентов, а в конце рабочего дня проводит расчёты между банками крупными суммами.</p>
+<p>В результате к концу дня между финансовыми учреждениями проходят огромные переводы. Однако эта система работает только в банковские часы и не действует по выходным или в периоды закрытия банков. В отличие от неё, FedNow проводит расчёты между банками мгновенно и продолжает работать даже за пределами стандартного банковского времени. Проще говоря, это обновление старых расчётных систем Федеральной резервной системы. Это не CBDC, но оно несёт в себе новую угрозу.</p>
+<p>Недавно обанкротившийся Silicon Valley Bank за два дня чуть не лишился 81% своих вкладов на сумму $142 млрд. То, что в эпоху наличных денег заняло бы гораздо больше времени, ускорилось благодаря онлайн-банкингу. Приложения вроде Cash App, Zelle, PayPal и банковские мобильные сервисы сделали традиционные «набеги» на банки гораздо более эффективными — и смертоносными для самих банков. В итоге Silicon Valley Bank оказался на грани краха и был захвачен регуляторами.</p>
+<p>FedNow лишь усугубит этот риск. Как давно отмечают экономисты австрийской школы, банковская система с частичным резервированием — это игра на доверии. Выдавая больше обязательств, чем у него есть активов, банк надеется, что у него всегда будет достаточно наличности, если вкладчики захотят забрать свои деньги. Рыночная коррекция наступает в виде «набегов» на банки, когда клиенты массово снимают депозиты. Банк, не имея достаточных резервов, становится неплатёжеспособным и вынужден распродавать активы, чтобы покрыть обязательства.</p>
+<p>Риск банка с частичным резервированием заключается в прогнозировании спроса вкладчиков на их депозиты. Пока лишь небольшая часть клиентов обналичивает свои средства, банк может продолжать работу. Именно поэтому эта система держится на доверии — она функционирует до тех пор, пока никто не заглядывает под стол.</p>
+<p>FedNow увеличивает риск банкротства банков. Хотя либертарианцы признают, что «набеги» на банки — это рыночный механизм, все банки в США работают по модели частичного резервирования.</p>
+<p>Работая в связке с онлайн-банкингом, FedNow ускорит «набеги» на банки и приведёт к системным банкротствам. Хотя это и является рыночным механизмом, последствия могут быть катастрофическими. Те вкладчики, кто окажется в конце очереди, рискуют потерять всё. Компании, хранящие средства в обычных банках, могут лишиться своих активов. Жертвы банковского мошенничества, возможно, не смогут получить компенсацию.</p>
+<p>Хотя FedNow и не является цифровой валютой центрального банка (CBDC), он представляет собой другую угрозу для экономики. Вместо того, чтобы создавать риск чрезмерного вмешательства правительства через Федеральную резервную систему, он открывает огромную дверь к краху самой системы. FedNow, будучи созданным для улучшения расчетов на рынке, станет почти смертельной реформой для системы, которая его породила.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

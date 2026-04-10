@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Основное руководство биткоин-кошелька Sparrow | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="Удобный и многофункциональный биткоин-кошелек, созданный для максимальной безопасности и контроля над средствами. Подходит как начинающим, так и опытным пользователям.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Биткоин">
+                    <span>Биткоин</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/economy/" title="Экономика">
+                    <span>Экономика</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/news/" title="Новости🗞">
+                    <span>Новости🗞</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Вклад">
+                    <span>Вклад</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/@bitrakein" title="Youtube">
+                    <span>Youtube</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)" accesskey=/>
+                    <span>🔍</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/">Статьи и пособия</a>&nbsp;»&nbsp;<a href="http://localhost:1313/articles/buy-bitcoin/">Buy and Hodl | Покупаем и храним биткоин</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Основное руководство биткоин-кошелька Sparrow
+    </h1>
+    <div class="post-description">
+      Удобный и многофункциональный биткоин-кошелек, созданный для максимальной безопасности и контроля над средствами. Подходит как начинающим, так и опытным пользователям.
+    </div>
+    <div class="post-meta">
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:1313/img/buy-bitcoin/sparrow/sparrow.png" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-sparrow" aria-label="Что такое Sparrow?">Что такое Sparrow?</a></li>
+                <li>
+                    <a href="#%d0%b4%d0%be%d0%b1%d1%80%d0%be-%d0%bf%d0%be%d0%b6%d0%b0%d0%bb%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d0%b2-sparrow" aria-label="Добро пожаловать в Sparrow">Добро пожаловать в Sparrow</a></li>
+                <li>
+                    <a href="#%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bd%d0%be%d0%b2%d0%be%d0%b3%d0%be-%d0%ba%d0%be%d1%88%d0%b5%d0%bb%d1%8c%d0%ba%d0%b0" aria-label="Создание нового кошелька">Создание нового кошелька</a></li>
+                <li>
+                    <a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-utxo" aria-label="Что такое UTXO?">Что такое UTXO?</a></li>
+                <li>
+                    <a href="#fake-two-person-coinjoin---%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b5%d0%bc-%d1%84%d0%b5%d0%b9%d0%ba%d0%be%d0%b2%d1%8b%d0%b9-coinjoin-%d0%b2-sparrow" aria-label="Fake two person coinjoin - создаем фейковый coinjoin в Sparrow">Fake two person coinjoin - создаем фейковый coinjoin в Sparrow</a></li>
+                <li>
+                    <a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-paynym" aria-label="Что такое PayNym?">Что такое PayNym?</a></li>
+                <li>
+                    <a href="#%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d0%b0-%d1%87%d0%b5%d1%80%d0%b5%d0%b7-paynym" aria-label="Оплата через PayNym">Оплата через PayNym</a></li>
+                <li>
+                    <a href="#%d0%b7%d0%b0%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5" aria-label="Заключение">Заключение</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><hr>
+<h3 id="что-такое-sparrow"><!-- raw HTML omitted -->Что такое Sparrow?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#что-такое-sparrow">#</a></h3>
+<p><strong><a href="https://www.sparrowwallet.com/download/">Sparrow</a></strong> — это биткоин-кошелёк для тех, кто ценит финансовую независимость и собственный контроль. Основное внимание уделяется безопасности, конфиденциальности и удобству использования. Sparrow не скрывает информацию от вас — напротив, он старается предоставить максимально подробные данные о ваших транзакциях и UTXO, но в удобном и понятном интерфейсе.</p>
+<p>Sparrow поддерживает все функции, которые вы ожидаете от современного Биткоин-кошелька:</p>
+<ul>
+<li>Полная поддержка одно- и мультиподписных кошельков с использованием популярных типов скриптов.</li>
+<li>Диапазон вариантов подключения: публичные серверы, Bitcoin Core и частные серверы Electrum.</li>
+<li>Соответствие стандартам, включая полную поддержку PSBT.</li>
+<li>Поддержка всех распространенных аппаратных кошельков в режимах USB и airgapped mode (в автономном режиме)</li>
+<li>Полный контроль над монетами и настройкой комиссий в процессе отправки транзакции.</li>
+<li>Метки для всех транзакций, входов и выходов.</li>
+<li>Лёгкий и мультиплатформенный.</li>
+<li>Отправка и получение через PayNyms, как напрямую (BIP47), так и в сотрудничестве.</li>
+<li>Встроенная поддержка Tor.</li>
+<li>Поддержка Testnet, regtest и signet.</li>
+</ul>
+<p>Sparrow также уникален благодаря встроенному редактору транзакций, который функционирует в виде блокчейн-сканера. Эта функция позволяет не только редактировать все транзакции, но и легко просматривать её байты перед отправкой. Sparrow включает и множество других функций.</p>
+<blockquote>
+<p>Скачайте Sparrow c официального сайта на любую ОС: <a href="https://www.sparrowwallet.com/download/">https://www.sparrowwallet.com/download/</a> и следуйте инструкции.</p></blockquote>
+<hr>
+<h3 id="добро-пожаловать-в-sparrow"><!-- raw HTML omitted -->Добро пожаловать в Sparrow<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#добро-пожаловать-в-sparrow">#</a></h3>
+<p>Каждая новая установка Sparrow начинается с приветствия мастера, который объясняет различные способы подключения Sparrow к блокчейну биткоина. Также Sparrow можно использовать оффлайн для проверки адресов кошельков, анализа, подписания транзакций и сообщений.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/5sp.png" alt=""  />
+
+Есть три способа подключения Sparrow к серверу для просмотра баланса, отправки и получения транзакций:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/1sp.png" alt="Public server"  title="Public server"  />
+
+<em>Public server</em></p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/2sp.png" alt="Bitcoin Core node"  title="Bitcoin Core node"  />
+
+<em>Bitcoin Core node</em></p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/3sp.png" alt="Private Electrum server"  title="Private Electrum server"  />
+
+<em>Private Electrum server</em></p>
+<p>В этом руководстве мы подключимся к публичному серверу. Это означает, что информация о вашем публичном ключе (а значит, частично и ваша конфиденциальность) будет доступна владельцу сервера. Этот способ не рекомендуется использовать для хранения значительных средств, но он простой и удобный для начала работы со Sparrow.</p>
+<p>На приветственном экране также объясняется, как переключаться между онлайн- и офлайн-режимами с помощью кнопки в строке статуса. Цвет кнопки меняется в зависимости от выбранного типа подключения из трёх доступных вариантов.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/4sp.png" alt=""  />
+</p>
+<p>Обратите внимание, что URL-адрес в диалоговом окне может быть другим, поскольку Sparrow выбирает сервер случайным образом, если он не настроен. Дополнительная настройка не требуется.</p>
+<p>Здесь нужно нажать кнопку <strong>&ldquo;Создать новый кошелек&rdquo;</strong>.</p>
+<hr>
+<h3 id="создание-нового-кошелька"><!-- raw HTML omitted -->Создание нового кошелька<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#создание-нового-кошелька">#</a></h3>
+<p>Введите имя вашего кошелька и нажмите кнопку &ldquo;Create Wallet&rdquo;:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/6sp.png" alt=""  />
+</p>
+<p>Теперь вам показан экран настроек для вашего нового кошелька. Каждый кошелёк Sparrow имеет следующие параметры:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/7sp.png" alt=""  />
+</p>
+<p><strong>Тип политики:</strong></p>
+<ul>
+<li>Одноподписной: для управления кошельком нужен только один ключ (обычно это ваш основной ключ).</li>
+<li>Мультиподписной: для управления кошельком необходимо несколько подписей, что повышает уровень безопасности.</li>
+</ul>
+<p><strong>Тип скрипта:</strong></p>
+<ul>
+<li>Native Segwit (bech32): используется для повышения скорости и снижения комиссии при транзакциях.</li>
+<li>Nested Segwit (P2SH-P2WPKH): компромисс между совместимостью с более старыми адресами и улучшениями Segwit.
+И другие.</li>
+</ul>
+<p><strong>Хранилища ключей:</strong></p>
+<ul>
+<li>Кошелёк будет использовать данные о публичных и приватных ключах, которые необходимы для создания транзакций. Важно выбрать безопасное место для их хранения.</li>
+</ul>
+<p>Выбирайте эти параметры в зависимости от ваших нужд и уровня безопасности, который вы хотите достичь.</p>
+<p>В данном руководстве мы создаем кошелек с одной подписью, используя тип скрипта <strong>Native Segwit (P2WPKH)</strong>. Он используется по умолчанию, поэтому мы можем оставить настройки такими, как они есть.</p>
+<p>Теперь нужно выбрать, какой тип хранилища ключей мы хотим использовать для этого кошелька. Вы можете выбрать один из четырех видов:</p>
+<p><strong>Подключаемый аппаратный кошелёк:</strong></p>
+<ul>
+<li>Этот вариант подходит для подключения аппаратных кошельков, таких как Coldcard, Trezor и т.д., через USB к вашему компьютеру. Это очень безопасный способ, так как приватные ключи остаются в оффлайне и используются только в самом аппаратном кошельке.</li>
+</ul>
+<p><strong>Изолированный аппаратный кошелёк:</strong></p>
+<ul>
+<li>Этот вариант позволяет использовать аппаратные кошельки, такие как Coldcard или Cobo Vault, без подключения к компьютеру. Вы взаимодействуете с кошельком в оффлайне и передаете данные через QR-коды или SD-карты. Это добавляет дополнительный уровень безопасности, так как ключи никогда не касаются онлайн-устройств.</li>
+</ul>
+<p><strong>Новый или импортированный программный кошелёк:</strong></p>
+<ul>
+<li>Этот вариант подходит для создания нового кошелька или импорта существующего (например, из Electrum). Приватные ключи хранятся непосредственно в Sparrow, что удобно, но менее безопасно по сравнению с аппаратными кошельками, так как ключи остаются на вашем компьютере.</li>
+</ul>
+<p><strong>Только для наблюдения (xPub):</strong></p>
+<ul>
+<li>Этот тип кошелька позволяет генерировать xPub (расширенный публичный ключ), который может отслеживать и мониторить транзакции, но не может тратить средства. Это отличный вариант, если вам нужно просто отслеживать балансы и транзакции без возможности взаимодействовать как-то иначе.</li>
+</ul>
+<p>В этом руководстве мы создаем программный кошелек. Выберите 3-й вариант, <strong>Новый или импортированный программный кошелек (New or Imported Software Wallet)</strong>.</p>
+<p>Это откроет окно Хранилище ключей, где можно увидеть слева первые 3 типа хранилищ из списка выше. Для программных кошельков вы можете выбрать мнемонические слова (BIP39) или импорт Electrum. В этом руководстве мы создадим хранилище ключей с помощью <strong>BIP39</strong> - распространенного стандарта, который использует набор слов для создания закрытого ключа или seed. Мы выберем количество слов (15), нажав на стрелку рядом с надписью <strong>Enter 24 Words</strong>, чтобы открыть выпадающий список:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/8sp.png" alt=""  />
+</p>
+<p>Нажмите кнопку <strong>Use 15 Words</strong>. Вы увидите 15 текстовых полей, которые будут содержать секретные слова. Нажмите кнопку Generate New, чтобы Sparrow случайным образом выбрал 15 слов (обратите внимание, чтобы ваши слова были разными!):</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/9sp.png" alt=""  />
+</p>
+<p>После того, как кошелек сгененирует слова, вам нужно будет записать эти слова для сохранности. Sparrow проверит, правильно ли вы выполнили этот процесс, и попросит вас повторно ввести слова. Нажмите кнопку <strong>Подтвердить резервное копирование&hellip; (Confirm Backup…)</strong>, затем <strong>Повторный ввод слов&hellip; (Re-enter Words…)</strong> и введите 15 слов по порядку. Если слова введены правильно, Sparrow покажет сообщение <strong>&lsquo;Valid checksum&rsquo;</strong>. Теперь нажмите кнопку <strong>Создать хранилище ключей (Create Keystore)</strong>, чтобы создать ваш файл.</p>
+<p>После этого Sparrow предоставит вам возможность проверить путь деривации. Ничего не нужно менять, поэтому нажимаем <strong>Import Keystore:</strong></p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/10sp.png" alt=""  />
+</p>
+<p>Sparrow будет использовать ваши seed для вычисления xpub указанного пути деривации и отобразит его на экране настроек:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/11sp.png" alt=""  />
+</p>
+<p><strong>Каждое хранилище ключей имеет следующие поля:</strong></p>
+<p><strong>Label</strong></p>
+<ul>
+<li>Название хранилища ключей, которое используется для его идентификации при подписании транзакций.</li>
+</ul>
+<p><strong>Master fingerprint</strong></p>
+<ul>
+<li>Он определяет главный закрытый ключ хранилища ключей, который остаётся неизменным независимо от пути деривации.</li>
+</ul>
+<p><strong>Derivation</strong></p>
+<ul>
+<li>Путь деривации для xpub, который обычно отличается для каждого типа сценария</li>
+</ul>
+<p><strong>xpub</strong></p>
+<ul>
+<li>Публичный ключ для заданного пути деривации. Некоторые типы скриптов имеют альтернативные обозначения для xpub, такие как ypub или zpub, которые указывают на тип скрипта. Эти обозначения являются взаимозаменяемыми и Sparrow позволяет переключаться между ними с помощью кнопки переключения xpub справа:
+<img loading="lazy" src="/img/buy-bitcoin/sparrow/switch-xpub-2x.png" alt=""  />
+</li>
+</ul>
+<p>Поскольку мы уже указали все эти детали при создании seed, здесь нам не нужно ничего менять. Нажимаем <strong>Apply</strong> и кошелек завершен!</p>
+<p>Серые вкладки слева станут синими, что означает, что у нас есть действующий кошелек.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/12sp.png" alt=""  />
+</p>
+<p>Вы можете перейти на вкладку <strong>Addresses</strong>, чтобы просмотреть адреса для этого кошелька, или перейти на вкладку <strong>Receive</strong>, чтобы получить адрес для получения средств. На вкладке Receive нажмите <strong>Get Next Address</strong>, чтобы получить первый адрес:</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/13sp.png" alt=""  />
+</p>
+<p>Как только вы отправите средства на этот адрес, он появится на вкладке <strong>Transactions</strong>.</p>
+<p>Вы можете создавать мультисиговые кошельки, добавлять аппаратные кошельки, создавать и редактировать транзакции, управлять UTXO - поэтому отправляемся дальше!</p>
+<hr>
+<h3 id="что-такое-utxo"><!-- raw HTML omitted -->Что такое UTXO?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#что-такое-utxo">#</a></h3>
+<p>UTXO (Unspent Transaction Output - Неизрасходованный Транзакционный Выход) - это некая &ldquo;сдача&rdquo; в биткоин-сети, которая остаётся после каждой транзакции. Это базовая единица, которая фиксирует баланс пользователя, но не как сумму, а как набор неиспользованных транзакций.</p>
+<p>Чтобы было проще понять, что это такое и как это работает, давайте представим, что вы хотите потратить 12 долларов на обед, используя купюру в 20 долларов, у вас останется 8 долларов. В этом примере оставшиеся 8 долларов будут неизрасходованным результатом транзакции. Они вернутся в ваш кошелек-копилку, чтобы быть использованными для покупки чего-то еще в будущем.</p>
+<p>Именно так работают биткоин UTXO. Когда вы совершаете транзакцию, результаты прошлых биткоин-транзакций, то есть ваша сдача, используются в качестве исходных данных для новых транзакций.</p>
+<p>Одно дело, когда вы себе на кошелек зачисляете 100 долларов одной купюрой, другое же дело когда вы зачисляете 5 купюр по 20, общая сумма будет та же - 100 долларов, но каждый депозит (каждая купюра) в биткоине является отдельной единицей, отдельным объектом. Поэтому несмотря на то, что общая сумма в кошельке одинаковая (100$), в биткоине каждая транзакция остаётся отдельным объектом. В первом случае — одна &ldquo;монета&rdquo; на 100$, во втором — 5 &ldquo;монет&rdquo; по 20$.</p>
+<p>И вот теперь вы решили перевести 12 долларов за обед (или просто на другой адрес), в вашей &ldquo;копилке&rdquo; самая мелкая монета - 20$, используется вся монета UTXO целиков, то есть монета в 20 долларов, после совершения транзакции, на ваш баланс возращается остаток (сдача) в виде нового UTXO, 8 долларов.</p>
+<p><strong>Поскольку блокчейн биткоина является публичным, это влечёт за собой несколько последствий для конфиденциальности:</strong></p>
+<ul>
+<li>
+<p>Получатель любой транзакции (а также любые посторонние наблюдатели, которые могут узнать его адрес) может определить некоторую информацию о сумме ваших средств на счете, анализируя входящие UTXO, которые вы потратили.</p>
+</li>
+<li>
+<p>Если в вашей транзакции есть UTXO для сдачи, те же третьи лица смогут увидеть, когда эта сдача (и сдача от неё) была потрачена, и таким образом узнать больше о вашей истории расходов со временем.</p>
+</li>
+<li>
+<p>Все входящие UTXO в транзакции обычно предполагаются принадлежащими одному владельцу, что позволяет наблюдателям объединять их в «кластер». (Позже мы рассмотрим, как нарушить это предположение).</p>
+</li>
+</ul>
+<p>Анализ блокчейна использует некоторые общеприменимые правила или догадки, чтобы узнать, какая часть денег в транзакции — это оплата, а какая — сдача. Главная цель этого — выявить моменты изменения собственности, проще говоря, когда деньги переходят от одного человека к другому, чтобы понять, сколько у вас средств и как вы ими распоряжаетесь. Хотя такие догадки и основаны на вероятностях, они могут работать очень эффективно. Без инструментов конфиденциальности, как только ваша личность будет связана с одним UTXO, с высокой долей вероятности можно будет определить достаточно информации о вашем состоянии и истории транзакций.</p>
+<p>Инструменты конфиденциальности направлены на разрушение таких догадок. Некоторые из них, такие как фейковые транзакции с участием двух сторон (fake two-person coinjoins), создают путаницу (или энтропию) в графе транзакций. Другие, такие как payjoin, нарушают предположения, на которых основаны распространённые предположения. При совместном использовании этих инструментов можно сохранять относительную конфиденциальность при совершении транзакций в биткоин-сети.</p>
+<hr>
+<h3 id="fake-two-person-coinjoin---создаем-фейковый-coinjoin-в-sparrow"><!-- raw HTML omitted -->Fake two person coinjoin - создаем фейковый coinjoin в Sparrow<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#fake-two-person-coinjoin---создаем-фейковый-coinjoin-в-sparrow">#</a></h3>
+<p><em>Транзакция фейкового второго участника</em></p>
+<p><strong>Основной подход</strong></p>
+<p>Для обеспечения конфиденциальности при расходах часто используют coinjoin с равными выходами.</p>
+<p><strong>Что такое коинджоин с равными выходами?</strong></p>
+<p>Это метод, при котором несколько человек объединяют свои входы в одну транзакцию, создавая выходы одинакового размера.</p>
+<p>Такая структура усложняет отслеживание, поскольку становится неясно, какой выход к кому относится.
+Например, в coinjoin на двух участников с равными выходами каждый из них может принадлежать любому из участников.
+Более того, выход coinjoin может быть как внешним платежом, так и возвращён обратно в кошелёк владельца (например, для консолидации или разбиения UTXO).</p>
+<p><strong>Что такое фейковый coinjoin?</strong></p>
+<p>Самый простой способ повысить конфиденциальность — создать фейковый coinjoin (он же Stonewall-транзакция).</p>
+<p>Это транзакция, созданная одним человеком, но выглядящая так, будто в её создании участвовали несколько.
+С точки зрения сторонних наблюдателей, такая транзакция выглядит двусмысленно и они не могут определить, настоящий это coinjoin или нет.
+Для этого не требуется сотрудничество с другими людьми и такой метод работает с любым типом кошелька, включая аппаратные.</p>
+<p><strong>Как создать фейковый coinjoin в Sparrow?</strong></p>
+<p>Откройте вкладку <strong>Send</strong>.
+Создайте транзакцию, как обычно.
+Включите опцию <strong>Privacy</strong> (переключатель в нижнем левом углу).
+Если в кошельке достаточно средств, Sparrow автоматически создаст фейковый коинджоин, повышая уровень конфиденциальности вашей транзакции.</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/14sp.png" alt=""  />
+</p>
+<p>Обратите внимание, что есть два набора входов (обозначенных скобками слева на диаграмме транзакции), представляющих каждого «участника» в coinjoin. Каждый «участник» должен внести больше, чем сумма платежа, что означает, что ваш кошелек должен иметь средства, которые в два раза превышают сумму транзакции. Если на вашем кошельке недостаточно средств, вы все равно можете выполнить совместный coinjoin, о котором речь пойдет ниже.</p>
+<p>Что касается выходов, то первый выход представляет собой платеж на адрес, указанный в поле <strong>Pay to</strong>. Второй выход — это «маскировка» той же суммы (5670 сатоши), который отправляется на один из адресов сдачи в этом кошельке. Далее идут два выхода сдачи, которые представляют сдачу для каждого из «участников» — оба этих выхода также отправляются обратно в этот кошелек как сдача.</p>
+<p>Как указывает всплывающее окно <strong>&ldquo;Analysis&hellip;&rdquo;</strong> рядом с Privacy, для внешнего наблюдателя это выглядит как возможный coinjoin для двух участников. Однако на самом деле это транзакция, где все входы принадлежат одному кошельку. Теперь вы можете создать, подписать и передать эту транзакцию как обычно, получив дополнительную приватность за счет немного более высокой комиссии из-за дополнительных входов и выходов.</p>
+<p>Обратите внимание, что для создания такого coinjoin в Sparrow адрес, на который вы платите, должен быть того же типа, что и ваш кошелек (чтобы выходы выглядели одинаково).</p>
+<hr>
+<h3 id="что-такое-paynym"><!-- raw HTML omitted -->Что такое PayNym?<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#что-такое-paynym">#</a></h3>
+<p>PayNym — это специальный идентификатор, который получатель использует для получения монет. Это не обычный адрес, это псевдоним для кошелька.</p>
+<p>С помощью BIP47, при каждом новом платеже генерируется уникальный адрес для транзакции. Это значит, что для каждой транзакции будет свой новый адрес, что помогает скрыть основной адрес получателя.</p>
+<blockquote>
+<p><em>BIP (Bitcoin Improvement Proposal) — это документ, который описываеь изменения или новые функции для биткоин-сети, которые могут улучшить её безопасность, производительность или другие аспекты. BIP может быть предложен любым участником сообщества, но чтобы стать частью сети, он должен быть принят большинством.</em></p></blockquote>
+<p>Получатель всегда использует один и тот же PayNym (псевдоним в виде робота) для получения денег. То есть, вам не нужно каждый раз давать новый адрес — достаточно одного PayNym. Когда вы отправляете деньги на этот PayNym, система автоматически генерирует новый уникальный адрес для каждого платежа, при этом PayNym остается прежним.</p>
+<hr>
+<h3 id="оплата-через-paynym"><!-- raw HTML omitted -->Оплата через PayNym<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#оплата-через-paynym">#</a></h3>
+<p>Можно отправить платеж напрямую в PayNym, который пересылает его непосредственно на частный адрес, известный только вам и получателю.</p>
+<p>Чтобы выполнить такой платеж, нажмите стрелку <strong>&ldquo;вниз&rdquo;</strong> справа от поля <strong>Pay To</strong> на вкладке <strong>Send</strong> и выберите <strong>PayNym&hellip;</strong></p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/15sp.png" alt=""  />
+</p>
+<p>Откроется окно, показывающее PayNym этого кошелька (при необходимости нажмите <strong>Retrieve PayNym</strong>).</p>
+<p><img loading="lazy" src="/img/buy-bitcoin/sparrow/16sp.png" alt=""  />
+</p>
+<p>Теперь вам нужно найти PayNym кошелька, на который вы отправляете платеж, в списке Контактов. Если PayNym ещё нет в вашем списке, введите его в поле <strong>Find Contact</strong> и нажмите Add Contact, когда он появится.</p>
+<p>Чтобы отправить на PayNym, нужно нажать кнопку <strong>Link Contact</strong>, которая появится после добавления контакта. Привязка контакта требует отправки уведомляющей транзакции на адрес, который отслеживается кошельком PayNym, на который вы отправляете деньги. Это будет стоить 546 сатоши плюс комиссия за майнинг.</p>
+<blockquote>
+<p><em>Примечание: Также можно отправить напрямую на платежный код, вставив его в поле Pay to. Отправка напрямую на PayNym в настоящее время не поддерживается для кошельков <strong>Taproot (P2TR)</strong>.</em></p></blockquote>
+<p>После этого будет создан набор уникальных адресов для отправки и получения как в кошельке Sparrow, так и в кошельке PayNym, что позволяет отправлять на PayNym независимо и анонимно. Уведомляющая транзакция требуется только один раз, и если PayNym решит добавить вас в список контактов,  он уже будет связан с вами и сможет отправлять вам деньги тем же способом. Эта привязка сохраняется в блокчейне, и любые средства, отправленные на эти адреса, можно найти, используя только seed-фразу кошелька, если вам нужно восстановить кошелек из резервной копии. Средства, отправленные с помощью этой функции, будут отображаться в первом (основном) кошельке, если у вас настроено несколько аккаунтов.</p>
+<p>Нажмите <strong>Send To Contact</strong>, чтобы отправить напрямую на привязанный PayNym. Окно закроется и поле <strong>Pay to</strong> укажет, что вы отправляете на PayNym. Вы можете ввести Label и Amount как обычно.</p>
+<hr>
+<h3 id="заключение"><!-- raw HTML omitted -->Заключение<!-- raw HTML omitted --><a hidden class="anchor" aria-hidden="true" href="#заключение">#</a></h3>
+<p>Используя эти инструменты, можно оставаться относительно анонимным при совершении транзакций. Привязка и отправка напрямую через PayNym — мощная функция, особенно полезная для отправки и получения платежей независимо и без необходимости использовать сервер для создания новых адресов. Рекомендуется использовать эти методы для каждой транзакции, которую вы отправляете. Никогда не поздно начать.</p>
+<hr>
+<p>👋 Мы разобрали с вами самые необходимые и полезные функции кошелька Sparrow. Если данная инструкция была вам полезной, поделитесь ей с теми, кто ищет удобный, функциональный и надежный кошелек для хранения своих монет и не забудьте <a href="/donation/">поддержать</a> нас сатошами.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

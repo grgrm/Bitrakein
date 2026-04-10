@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Лента новостей | Bitrakein</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/news/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/news/index.xml">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/news/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Bitrakein (Alt + H)">Bitrakein</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories/" title="Категории">
+                    <span>Категории</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/articles/" title="Биткоин">
+                    <span>Биткоин</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/economy/" title="Экономика">
+                    <span>Экономика</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/news/" title="Новости🗞">
+                    <span class="active">Новости🗞</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/donation/" title="Вклад">
+                    <span>Вклад</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/@bitrakein" title="Youtube">
+                    <span>Youtube</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)" accesskey=/>
+                    <span>🔍</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
+  <h1>
+    Лента новостей
+  </h1>
+</header>
+<div class="post-content"><p><img loading="lazy" src="/img/news/0news.png" alt=""  />
+</p>
+
+
+</div>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/decarbonizaciaya-v-africe/0de.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">04.04.25 - Западные правительства продолжают подталкивать африканские страны к декарбонизации
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Статья Липтона Мэтьюса для Института Мизеса от 04.04.2025 переведена Grgrm
+Западные чиновники продолжают оказывать давление на африканские страны с целью отказа от ископаемого топлива в пользу возобновляемых источников энергии, однако такой шаг может нанести ущерб экономическому росту Африки. Возобновляемая энергия по-прежнему остаётся дорогой и ненадёжной, тогда как ископаемое топливо обеспечивает стабильное электроснабжение, необходимое для индустриализации. Стремление Запада к “нулевому” уровню выбросов — это проект стоимостью в триллионы долларов, и маловероятно, что западные страны компенсируют Африке упущенные возможности для развития. Вместо следования сомнительной политике, африканские страны должны сосредоточиться на собственном экономическом прогрессе и не поддаваться западному давлению.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 04.04.25 - Западные правительства продолжают подталкивать африканские страны к декарбонизации" href="http://localhost:1313/decarbonizaciaya-v-africe/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/problema-trampovskogo-merkantilizma/0mer.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">05.04.25 - Проблема трамповского меркантилизма
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Статья Кертиса Ярвина, также известного под псевдонимом Мэнциус Молдбаг, переведена Grgrm
+Мне пишут люди (опечаленные люди!), которые всё ещё верят в свободную торговлю. Я настоятельно советую им прочитать Карлайла по «вопросу состояния Англии».
+Вот современная версия. Представьте, что у вас есть дрон, который также является и машиной времени: он может отправляться в прошлое, даже в альтернативное, но только чтобы пролететь над ним и заснять всё на видео. Просматривая записи двух версий одного и того же города, вы решаете, какая выглядит более благополучной. Потом сверяете это с реальной статистикой, чтобы понять, были ли вы правы.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 05.04.25 - Проблема трамповского меркантилизма" href="http://localhost:1313/problema-trampovskogo-merkantilizma/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/tramp-prav-naschyot-torgovli/0tfp.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">17.03.25 - Трамп прав насчёт торговли. Но он проигрывает спор.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Статья Кристофера Колдуэлла для The Free Press от 17.03.25 переведена Grgrm
+Журналисты всегда были склонны изображать Дональда Трампа чемпионом неких Олимпийских игр глупости. Но даже для них торговая война, которую он хаотично ведёт последние две недели, поражает своей нелогичностью и произвольностью. Он вводил тарифы — и на Китай, и на ближайших соседей и союзников США. Затем отменял их. Затем вводил снова.
+Сеющий недовольство, отпугивающий инвесторов, разоряющий пенсионные планы 401(k) тех, кто когда-то считал голос за него хорошей идеей, Трамп выглядит для читателей газет безумным королём — или одержимым капитаном флота в исполнении Хамфри Богарта в фильме Мятеж на «Кейне», человеком, у которого контроль надо отнять, и как можно скорее.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 17.03.25 - Трамп прав насчёт торговли. Но он проигрывает спор." href="http://localhost:1313/tramp-prav-naschyot-torgovli/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/primirenie-pravyh/1prpr.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">18.07.25 - Примирение правых
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>18 июля 2025 г.
+Статья Кертиса Ярвина, также известного под псевдонимом Мэнциус Молдбаг, переведена Grgrm
+После бурного начала администрация Трампа начала сбавлять темп. Самая тревожная тенденция — всё более явное стремление сосредоточить усилия не на публичной активности, а вне поля зрения общественности.
+Если это продолжится, все нынешние члены администрации с большой вероятностью окажутся в тюрьме — или, по крайней мере, проведут остаток жизни на юридических встречах. Почему? Сейчас увидим.
+А может, ещё хуже то, что администрация пережила некрасивый публичный разрыв со своим крупнейшим, самым энергичным и креативным сторонником — который теперь угрожает вложить свои силы в создание буквально третьей партии, идея столь же перспективная, как ракета на сливочном масле.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 18.07.25 - Примирение правых" href="http://localhost:1313/primirenie-pravyh/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/tarify-uzhasny-no-podohodnyj-nalog-eshe-huzhe/0tfu.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">21.03.25 - Тарифы ужасны, но подоходный налог еще хуже
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Статья Уолтера Блока для Фонда экономического образования от 21.03.25 переведена каналом Либертарианские Лоулайты
+Каждая фибра моей экономической души кричит против тарифов. Если они так хороши, почему бы каждому штату США не ввести их против продукции всех остальных 49? То есть Огайо может «защитить» свою промышленность от вторжения из Аризоны. Это очевидная глупость. Одна из важных причин процветания Америки заключается в том, что у нас есть гигантская внутренняя зона свободной торговли.
+Дональд Трамп поддерживает их на том основании, что администрация Маккинли была процветающей и опиралась на тарифы. Но это значит совершить логическое заблуждение post hoc ergo propter hoc: раз А предшествует Б, то А должно быть причиной Б. Нет, Америка действительно стала богатой в ту эпоху, но это произошло вопреки тарифам, а не благодаря их благотворному влиянию. Если вы ищете исторический эпизод, чтобы пролить свет на этот вопрос, то тариф Смута-Хоули 1930 года подойдет гораздо лучше: он значительно усугубил и без того плохую рецессию, погрузив нашу экономику в глубокую депрессию.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 21.03.25 - Тарифы ужасны, но подоходный налог еще хуже" href="http://localhost:1313/tarify-uzhasny-no-podohodnyj-nalog-eshe-huzhe/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/takt-vremeni/0tvr.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">24.07.25 - Такт времени
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>23 июля 2025 г.
+Статья Артура Хейса, переведена Grgrm
+(Все высказанные здесь мнения являются личными взглядами автора и не должны служить основанием для принятия инвестиционных решений, а также не являются рекомендацией или советом участвовать в инвестиционных сделках.)
+Высшая форма восхищения, которую человечество может выразить Вселенной, — это счастье, получаемое от танца. Большинство религий включает в себя музыку и танец как часть поклонения. Моя организованная религия — хаус-музыка — «заводит твое тело» не в церкви в воскресное утро, а примерно в то же время — в клубе Space.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to 24.07.25 - Такт времени" href="http://localhost:1313/takt-vremeni/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/fednow-eto-opasno/0fed.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">FedNow — это не CBDC, но это опасно
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Статья Дэвида Брэди-младшего, опубликованная в Mises Wire 24 июля 2023 года, перевел Grgrm
+Начиная с июля 2023 года, Федеральная резервная система запустила новый платёжный сервис под названием «FedNow». Среди оппозиционно настроенных политических кругов растёт обеспокоенность, что этот сервис может оказаться троянским конём для цифровой валюты центрального банка (CBDC).
+Что такое CBDC и какая опасность скрывается за этим экспериентом, читайте в нашей статье тут: CBDC ПРОТИВ СВОБОДЫ
+Эта тревога оправдана. В зависимости от реализации, CBDC может уничтожить конфиденциальность наличных денег, упростить заморозку счетов и открыть дорогу системе социального кредитного рейтинга. Но оправдан ли страх перед FedNow именно в этом ключе? Или же он несёт другую угрозу?
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to FedNow — это не CBDC, но это опасно" href="http://localhost:1313/fednow-eto-opasno/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/zdecj-vse-prosto/1kyar.jpg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Здесь все просто
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>26 ноября 2024 г.
+Статья Кертиса Ярвина, также известного под псевдонимом Мэнциус Молдбаг, переведена Grgrm
+Интро Просто. Слишком просто. Признавать это больно — потому что этого не случится. Этого не случится. Но всё же, это было бы слишком просто. И всё же, не случится.
+История полна такой боли. Ты думаешь, что хорошие парни всегда побеждают? Хорошие парни, если они вообще существуют (а это всегда спорный вопрос), всегда проигрывают. Но они никогда не проигрывают полностью. Это убеждает одних историков в существовании Бога, других — в его отсутствии. События всегда разные. Но всегда происходит одно и то же.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Здесь все просто" href="http://localhost:1313/zdecj-vse-prosto/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/kto-takoj-satoshi/1.png" alt="памятник Сатоши Накамото, Лугано, Швейцария.">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Имеет ли значение кто такой Сатоши Накамото?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>21 октября 2024 г. at 13:00 GMT&#43;4
+Статья Тайлера Коуэна из Bloomberg переведена Grgrm
+Кто такой (или был) Сатоши Накамото, создатель биткоина? В недавнем документальном фильме HBO называют Питера Тодда, возможно, не без участия Адама Бэка. Однако, кто это, все еще остается открытым вопросом, и стоит спросить по-другому: почему это вообще кого-то волнует?
+На самом деле, на кону стоит многое — как на интеллектуальном уровне, так и, вероятно, в финансовом и политическом плане. Естественно и даже полезно проявлять любопытство к тому, кто мог создать более $1 трлн рыночной капитализации. Предположим, что Сатоши уже скончался, что могло бы объяснить, почему мы больше ничего о нем не слышим. Хэл Финни — один из часто упоминаемых кандидатов на роль Сатоши, умер в 2014 году.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Имеет ли значение кто такой Сатоши Накамото?" href="http://localhost:1313/kto-takoj-satoshi/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/img/news/federaljnye-granty-korrupciya/0ko.jpeg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Исследование говорит, что большие федеральные гранты местным органам власти порождают коррупцию
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>24.02.2025
+Статья Джерома Tучилле для Reason переведена каналом Либертарианские Лоулайты
+Если вам нужна еще одна причина надеяться на успех Департамента эффективности государственного управления (DOGE) - а вы, скорее всего, ее не найдете, - то оказывается, что усилия этого органа, занимающегося борьбой с расточительством и сокращением (как мы надеемся) правительства, могут не только сэкономить деньги, но и помочь сделать людей более честными. Потому что после десятилетий увеличения потоков федеральных грантов местным органам власти появились убедительные доказательства того, что эти деньги подпитывают коррупцию.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Исследование говорит, что большие федеральные гранты местным органам власти порождают коррупцию" href="http://localhost:1313/federaljnye-granty-korrupciya/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="http://localhost:1313/news/page/2/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2026 <a href="http://localhost:1313/">Bitrakein</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

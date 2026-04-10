@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Покупаем Биткоин on Bitrakein</title>
+    <link>http://localhost:1313/categories/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/</link>
+    <description>Recent content in Покупаем Биткоин on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboSats. Простой и конфиденциальный способ обмена биткоинов</title>
+      <link>http://localhost:1313/robosats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/robosats/</guid>
+      <description>Есть много причин, по которым стоит использовать RoboSats — P2P биржу биткоинов, которая объединяет конфиденциальность Tor с быстротой Lightning Network.</description>
+    </item>
+    <item>
+      <title>Биткоин-ваучеры</title>
+      <link>http://localhost:1313/bitcoin-voucher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitcoin-voucher/</guid>
+      <description>Дарите своим близким деньги, которые не обесцениваются.</description>
+    </item>
+    <item>
+      <title>Как обменять фиат на криптовалюты на Bybit?</title>
+      <link>http://localhost:1313/kak-obmenyatj-fiat-na-kriptovalyuty-na-bybit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kak-obmenyatj-fiat-na-kriptovalyuty-na-bybit/</guid>
+      <description>Объясняем для мам и пап, бабушек и дедушек, как купить криптовалюту на крупнейшей централизованной бирже ByBit</description>
+    </item>
+    <item>
+      <title>Как совершить обмен криптовалют на FixedFloat?</title>
+      <link>http://localhost:1313/kak-sovershitj-obmen-kriptovalyut-na-fixed-float/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kak-sovershitj-obmen-kriptovalyut-na-fixed-float/</guid>
+      <description>FixedFloat — полностью автоматизированный сервис для обмена криптовалют без регистрации.</description>
+    </item>
+    <item>
+      <title>Обзор биткоин-кошелька Wallet of Satoshi</title>
+      <link>http://localhost:1313/obzor-bitkoin-kosheljka-wallet-of-satoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/obzor-bitkoin-kosheljka-wallet-of-satoshi/</guid>
+      <description>WoS — идеальный выбор новичков благодаря своей простоте и удобству. Долгое время этот кошелек был самым популярным и загружаемым среди кошельков, поддерживающих сеть Lightning (LN).</description>
+    </item>
+    <item>
+      <title>Основное руководство биткоин-кошелька Sparrow</title>
+      <link>http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/osnovnoe-rukovodstvo-bitcoin-kosheljka-sparrow/</guid>
+      <description>Удобный и многофункциональный биткоин-кошелек, созданный для максимальной безопасности и контроля над средствами. Подходит как начинающим, так и опытным пользователям.</description>
+    </item>
+    <item>
+      <title>Покупай Биткоин анонимно</title>
+      <link>http://localhost:1313/buy-bitcoin-without-kyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/buy-bitcoin-without-kyc/</guid>
+      <description>Покупай биткоин без KYC!</description>
+    </item>
+    <item>
+      <title>Храни свои монеты в безопасности - Electrum.</title>
+      <link>http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hrani-svoi-monety-v-bezopasnosti-electrum/</guid>
+      <description>Electrum — это горячий биткоин-кошелек для Mac, Linux и Windows.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Culture | Культура on Bitrakein</title>
+    <link>http://localhost:1313/articles/kuljtura/</link>
+    <description>Recent content in Culture | Культура on Bitrakein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/articles/kuljtura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin Core против Bitcoin Knots. Поступки говорят громче слов</title>
+      <link>http://localhost:1313/core-vs-knots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/core-vs-knots/</guid>
+      <description>Активисты Knots утверждают, что поддерживают децентрализацию Биткоина и его использование как цензуроустойчивых денег, но их действия не соответствуют этим заявлениям.</description>
+    </item>
+    <item>
+      <title>Биткоин — чистая анархия</title>
+      <link>http://localhost:1313/bitkoin-chistaya-anarhiya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bitkoin-chistaya-anarhiya/</guid>
+      <description>Процесс «управления» биткоином коротко определяется одним словом: анархия. Добровольная и распределенная система буквально не может «управляться» каким-либо другим способом.</description>
+    </item>
+    <item>
+      <title>Вы не опоздали</title>
+      <link>http://localhost:1313/vy-ne-opozdali-v-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vy-ne-opozdali-v-bitcoin/</guid>
+      <description>Граница всё ещё широко открыта.</description>
+    </item>
+    <item>
+      <title>ОТКРЫТОЕ ПИСЬМО НОВЫМ БИТКОИНЕРАМ</title>
+      <link>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/otkrytoe-pisjmo-novym-bitkoineram/</guid>
+      <description>Хотя путь в мир Биткоина может показаться сложным, новичкам будет легче, если они настроят своё мышление соответствующим образом.</description>
+    </item>
+    <item>
+      <title>Сколько биткоинов мне следует купить?</title>
+      <link>http://localhost:1313/skoljko-bitkoinov-mne-sleduet-kupitj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skoljko-bitkoinov-mne-sleduet-kupitj/</guid>
+      <description>Держать биткоины - это ощущение, что тебя многократно бьют в живот на протяжении многих лет, пока ты не станешь богатым</description>
+    </item>
+  </channel>
+</rss>

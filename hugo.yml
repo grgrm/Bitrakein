@@ -1,0 +1,73 @@
+baseURL: https://bitrakein.org
+languageCode: en-us
+title: Bitrakein
+theme: ["PaperMod"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+googleAnalytics: G-H7GKHB2WC9
+
+
+params:
+  profileMode:
+    enabled: true 
+    title: "<Bitrakein>"
+    subtitle: "Цена не имеет значения, свобода бесценна."
+    imageUrl: "img/4.png"
+    imageTitle: "Деньги людей" # optional
+    imageWidth: 337 # custom size
+    imageHeight: 449 # custom size
+  socialIcons: # optional
+   # - name: x
+   #   url: "https://x.com/bitrakein"
+   # - name: nostr
+   #   url: "https://yakihonne.com/users/npub1qzr3j58q0gwfhqdj33pc8wtfaj9ffn7nrdt6p7p7tvn0qrf7e0wsggv43p"
+      
+  
+    
+  ShowBreadCrumbs: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowToc: true
+  enableThemeToggle: true
+  defaultTheme: auto
+
+
+
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Категории
+      url: /categories/
+      weight: 10
+    - identifier: search
+      name: 🔍
+      url: /search/
+      weight: 80
+    - identifier: articles
+      name: Биткоин
+      url: /articles/
+      weight: 20
+    - identifier: economy
+      name: Экономика
+      url: /economy/
+      weight: 40
+    - identifier: news
+      name: Новости🗞
+      url: /news/
+      weight: 50
+    - identifier: donation
+      name: ❤️
+      url: /donation/
+      weight: 60
+    - identifier: links
+      name: Youtube
+      url: "https://www.youtube.com/@bitrakein"
+      weight: 70
+

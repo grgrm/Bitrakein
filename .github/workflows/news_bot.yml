@@ -1,0 +1,56 @@
+name: Bitrakein News Bot
+
+on:
+  # Запускается 3 раза в день: утром, днём и вечером (по UTC)
+  schedule:
+    - cron: '0 6 * * *'   # 09:00 по Батуми (UTC+3)
+    - cron: '0 11 * * *'  # 14:00 по Батуми
+    - cron: '0 17 * * *'  # 20:00 по Батуми
+
+  # Можно запустить вручную из GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    
+    # Нужны права для коммита seen_news.json и pending_posts.json обратно в репо
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout репозитория
+        uses: actions/checkout@v4
+
+      - name: Установка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Установка зависимостей
+        run: |
+          pip install feedparser groq requests
+
+      - name: Установка nak (Nostr CLI)
+        run: |
+          # nak — простой инструмент для публикации в Nostr
+          wget -q https://github.com/fiatjaf/nak/releases/latest/download/nak-linux-amd64 -O /usr/local/bin/nak
+          chmod +x /usr/local/bin/nak
+        continue-on-error: true  # не падаем если nak недоступен
+
+      - name: Запуск бота
+        env:
+          GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          NOSTR_NSEC:          ${{ secrets.NOSTR_NSEC }}
+        run: python news_bot.py
+
+      - name: Сохранить seen_news.json и pending_posts.json в репо
+        run: |
+          git config user.name  "Bitrakein Bot"
+          git config user.email "bot@bitrakein.org"
+          git add seen_news.json pending_posts.json || true
+          git diff --staged --quiet || git commit -m "bot: обновление состояния [skip ci]"
+          git push
