@@ -95,7 +95,7 @@ SYSTEM_PROMPT = """Ты редактор новостного канала Bitra
 2. Если релевантна — написать пост строго в формате:
 
 ЗАГОЛОВОК: [короткий заголовок на русском, 5-8 слов]
-ТЕКСТ: [2-4 предложения по сути. Можно добавить комментарий с точки зрения свободных денег.]
+ТЕКСТ: [2-4 предложения по сути новости. Только факты, без шаблонных подводок и комментариев.]
 ССЫЛКА: [оригинальная ссылка]
 
 Если не релевантна — ответь только: SKIP
@@ -136,8 +136,13 @@ def filter_and_write(news_item):
         return None
     return {"title": title, "body": body, "url": url}
 
-def format_post(post):
-    return f"<b>{post['title']}</b>\n\n{post['body']}\n\n{post['url']}"
+def format_post_channel(post):
+    """Для публикации в канал — только заголовок и текст."""
+    return f"<b>{post['title']}</b>\n\n{post['body']}"
+
+def format_post_preview(post, source):
+    """Для превью тебе — с источником и ссылкой."""
+    return f"📰 <b>Источник:</b> {source}\n🔗 {post['url']}\n\n<b>{post['title']}</b>\n\n{post['body']}"
 
 def tg_api(method, payload):
     r = requests.post(
@@ -176,12 +181,11 @@ def send_for_approval(news_item, post):
             {"text": "🗑 Пропустить",    "callback_data": f"skip:{news_item['id']}"},
         ]]
     }
-    preview = format_post(post)
-    message = f"📰 <b>Источник:</b> {news_item['source']}\n\n{preview}"
+    message = format_post_preview(post, news_item['source'])
     tg_send(TELEGRAM_CHAT_ID, message, reply_markup=keyboard)
 
 def publish_to_channel(post):
-    tg_send(TELEGRAM_CHANNEL_ID, format_post(post))
+    tg_send(TELEGRAM_CHANNEL_ID, format_post_channel(post))
     print("✅ Опубликовано в Telegram канал")
 
 def publish_to_nostr(post):
@@ -190,7 +194,7 @@ def publish_to_nostr(post):
         return
     try:
         import subprocess
-        plain = f"{post['title']}\n\n{post['body']}\n\n{post['url']}"
+        plain = f"{post['title']}\n\n{post['body']}"
         result = subprocess.run(
             ["nak", "event", "--sec", NOSTR_NSEC, "--content", plain,
              "wss://relay.damus.io", "wss://relay.primal.net", "wss://nos.lol"],
@@ -267,7 +271,7 @@ def process_approvals():
                             ]]
                         }
                         tg_send(TELEGRAM_CHAT_ID,
-                            f"📝 <b>Обновлённый пост:</b>\n\n{format_post(post)}",
+                            f"📝 <b>Обновлённый пост:</b>\n\n{format_post_channel(post)}",
                             reply_markup=keyboard)
                     break
 
