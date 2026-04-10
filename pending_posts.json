@@ -138,5 +138,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-10T17:44:38.203310+00:00",
     "awaiting_edit": false
+  },
+  "18b739122c77ce1f24d10514269c36bd": {
+    "title": "Неосуществимая биткоин-схема Ирана",
+    "body": "Иран требует оплачивать проход через Ормузский пролив в криптовалюте, но эксперты считают эту схему практически неосуществимой. Эта инициатива Ирана связана с попыткой обойти международные санкции. Аналитики ForkLog оценили перспективы реализации такой схемы.",
+    "url": "https://forklog.com/news/analitiki-nazvali-bitkoin-shemu-irana-prakticheski-neosushhestvimoj",
+    "source": "ForkLog",
+    "timestamp": "2026-04-10T17:49:45.694300+00:00",
+    "awaiting_edit": false
+  },
+  "828ada69573326be5949d929eb972126": {
+    "title": "Ралли биткоина вызвано новыми лонгами",
+    "body": "Рост котировок биткоина и Ethereum связан с открытием новых длинных позиций на рынке бессрочных фьючерсов, как следует из анализа CryptoQuant. Аналитики пришли к такому выводу, изучив рыночные тенденции. Это указывает на увеличение интереса к активам на рынке бессрочных фьючерсов.",
+    "url": "https://forklog.com/news/cryptoquant-ralli-bitkoina-vyzvano-novymi-longami-na-rynke-bessrochnyh-fyuchersov",
+    "source": "ForkLog",
+    "timestamp": "2026-04-10T17:49:48.591900+00:00",
+    "awaiting_edit": false
+  },
+  "0af902b6f853724ceded647c6ee85fa9": {
+    "title": "BingX расширила торговлю фьючерсами",
+    "body": "Криправалютная биржа BingX объявила о расширении функции фьючерсной сеточной торговли, интегрировав традиционные финансовые активы — золото, серебро и нефть. Это решение отражает тренд конвергенции крипторынка и традиционных финансов. Пользователи получают доступ к глобальным макроактивам в рамках единой экосистемы.",
+    "url": "https://incrypted.com/bingx-rasshyryla-setochnuju-torgovlju-fjuchersamy-na-zoloto-serebro-y-neft/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-10T17:49:51.390360+00:00",
+    "awaiting_edit": false
+  },
+  "9ecf822ad985c1d8591503f53ef0b99c": {
+    "title": "Ethereum меняет рынок DeFi и ИИ",
+    "body": "Исследование показало, что Ethereum становится ключевой финансовой инфраструктурой для автономных ИИ-агентов, которые могут зарабатывать, тратить и управлять капиталом. Это связано с развитием DeFi на платформе Ethereum. Автономные ИИ-агенты формируют новый сегмент цифровой экономики.",
+    "url": "https://incrypted.com/ethereum-stanovytsja-bazovoj-ynfrastrukturoj-dlja-yy-y-menjaet-rynok-defi-yssledovanye/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-10T17:49:54.446813+00:00",
+    "awaiting_edit": false
+  },
+  "06960c0057bd36e4c1ab3bb53f0f0a68": {
+    "title": "Bitget запускает торговлю pre-IPO активами",
+    "body": "Универсальная биржа Bitget запустила новый рыночный инструмент IPO Prime, позволяющий пользователям торговать экспозицией к компаниям-«единорогам» до выхода на IPO. Это решение реализовано при поддержке Republic и расширяет возможности торговли за пределы традиционного вторичного рынка.",
+    "url": "https://incrypted.com/bitget-rasshirila-vozmozhnosti-torgovli-pre-ipo-aktivami-cherez-novyj-produkt-ipo-prime/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-10T17:49:57.330326+00:00",
+    "awaiting_edit": false
   }
 }
