@@ -258,5 +258,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-11T11:27:31.502390+00:00",
     "awaiting_edit": false
+  },
+  "dc8e3464e2b02e6654cbe79d78711205": {
+    "title": "WLFI обновил минимум из-за критики",
+    "body": "Токен DeFi-платформы World Liberty Financial (WLFI) обновил локальные минимумы на фоне критики модели кредитования. Модель кредитования под собственный токен вызывает растущую критику. WLFI связана с семьей Трампов.",
+    "url": "https://forklog.com/news/wlfi-obnovil-minimum-na-fone-kritiki-zajmov-pod-sobstvennyj-token",
+    "source": "ForkLog",
+    "timestamp": "2026-04-11T17:28:29.336630+00:00",
+    "awaiting_edit": false
+  },
+  "f6314a66aa5c8cdacce858d3373d5eff": {
+    "title": "Dango запускает мейннет и фарм поинтов",
+    "body": "Dango — децентрализованная платформа для спотовой и фьючерсной торговли, запускает мейннет и объявляет о старте фарма поинтов и бейджей за торговлю 13 апреля. Проект привлек $3,6 млн инвестиций от различных фондов, включая Hack VC, Lemniscap и Delphi Ventures.",
+    "url": "https://incrypted.com/dango-activity-2/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-11T17:28:32.088676+00:00",
+    "awaiting_edit": false
+  },
+  "4c4ce5986ada5c6293369ecbf59bd9d6": {
+    "title": "Иран изучает криптовалюту для тарифов",
+    "body": "Иран якобы изучает возможность использования криптовалюты для оплаты тарифов за судоходство через Ормузский пролив. Это может стать еще одним примером адопшна биткоина и других криптовалют в международной торговле. С помощью криптовалюты Иран может обойти традиционные системы платежей.",
+    "url": "https://99bitcoins.com/news/bitcoin-btc/iran-crypto-strait-hormuz-shipping-tolls/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-04-11T17:28:35.040986+00:00",
+    "awaiting_edit": false
+  },
+  "b7dc8b6a1312e11707ba8f378fb3736a": {
+    "title": "Morgan Stanley развивает криптосферу",
+    "body": "Morgan Stanley планирует расширить свои услуги в сфере криптовалют, включая токенизацию и решения для уплаты налогов. По словам Эми Олденбург, представителя компании, Morgan Stanley намерена двигаться дальше и не останавливаться на биткоине. Это развитие является частью стратегии компании по расширению криптосервисов.",
+    "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
+    "source": "Decrypt",
+    "timestamp": "2026-04-11T17:28:38.180448+00:00",
+    "awaiting_edit": false
+  },
+  "6bb745fdfcb523efbc1b4649e50f8385": {
+    "title": "AI-инструменты для безопасности смарт-контрактов",
+    "body": "Инициатива Matterhorn и ASI Alliance направлена на добавление аудиторских инструментов и проверок безопасности для смарт-контрактов, генерируемых с помощью ИИ. Целью является повышение безопасности \"vibe coding\" в крипто-сфера. Новый набор инструментов giúp предотвращать потенциальные уязвимости в смарт-контрактах.",
+    "url": "https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto",
+    "source": "Decrypt",
+    "timestamp": "2026-04-11T17:28:41.038879+00:00",
+    "awaiting_edit": false
   }
 }
