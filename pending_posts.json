@@ -298,5 +298,45 @@
     "source": "Decrypt",
     "timestamp": "2026-04-11T17:28:41.038879+00:00",
     "awaiting_edit": false
+  },
+  "8a07d32d8703a453cbeddc8cb64ace2e": {
+    "title": "Обнаружена ошибка в майнинге биткоина",
+    "body": "В механизме майнинга биткоина обнаружена вычислительная ошибка, позволяющая добывать блоки с высокой скоростью. Об этом рассказал исследователь Лоик Морель. Ошибка присутствовала с момента запуска алгоритма.",
+    "url": "https://forklog.com/news/v-mehanizme-majninga-bitkoina-obnaruzhili-oshibku-nulevogo-dnya",
+    "source": "ForkLog",
+    "timestamp": "2026-04-12T11:31:38.328078+00:00",
+    "awaiting_edit": false
+  },
+  "e73cfa230f5b2b97d1a78f16cc8cc689": {
+    "title": "Эксперт назвал уровень бычьего тренда биткоина",
+    "body": "Макроаналитик Ж отметил, что биткоин и Ethereum находятся недалеко от уровней, сигнализирующих о развороте тренда. Инвесторы испытывают растущие переживания о медвежьем рынке.",
+    "url": "https://forklog.com/news/ekspert-nazval-uroven-bitkoina-dlya-zakrepleniya-bychego-trenda",
+    "source": "ForkLog",
+    "timestamp": "2026-04-12T11:31:40.987096+00:00",
+    "awaiting_edit": false
+  },
+  "59d1cc1eb05740044d8a2ccf855c4668": {
+    "title": "Ether Machine разорвала сделку с Dynamix",
+    "body": "Компания Ether Machine заявила о разрыве сделки со специализированной организацией (SPAC) Dynamix по взаимному согласию сторон из-за неблагоприятных рыночных условий. Это означает, что Ether Machine не будет выходить на биржу. Ether Machine - зонтичная организация, включающая в себя Ether Reserve LLC.",
+    "url": "https://incrypted.com/ether-machine-otkazalas-ot-slyjanyja-s-dynamix-y-vyhoda-na-byrzhu/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-12T11:31:43.729941+00:00",
+    "awaiting_edit": false
+  },
+  "4e12473fac52cd2c4edcc7f0f5195ffb": {
+    "title": "Книга CZ вызвала критику",
+    "body": "Книга основателя Binance Чжана Пеня \"Свобода денег\" подверглась критике и пари. Также на этой неделе новая ИИ-модель Mythos от Anthropic вызвала обеспокоенность среди регуляторов, а проект Bittensor оказался в скандале с \"театром децентрализации\".",
+    "url": "https://incrypted.com/weekly-skandal-vokrug-knygy-cz-opasnost-mythos-ot-anthropic-y-teatr-detsentralyzatsyy-v-bittensor/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-12T11:31:46.518029+00:00",
+    "awaiting_edit": false
+  },
+  "3d3d32b5625120f2d3ec94e5dd56b225": {
+    "title": "Децентрализованная платформа 01.XYZ запустила торги",
+    "body": "01.XYZ - децентрализованная платформа для торговли деривативами, является ключевым продуктом экосистемы N1 - нового Layer 1 блокчейна. Проект проводит программу фарма поинтов за торговлю на платформе, в рамках которой будет распределено 10 млн поинтов. Платформа ориентирована на трейдинг.",
+    "url": "https://incrypted.com/01-xyz-trade/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-12T11:31:49.281760+00:00",
+    "awaiting_edit": false
   }
 }
