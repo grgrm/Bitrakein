@@ -338,5 +338,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-12T11:31:49.281760+00:00",
     "awaiting_edit": false
+  },
+  "d15e99ab4dd7c1b6c6ee794b58359341": {
+    "title": "Конфликт вокруг токена WLFI",
+    "body": "Джастин Сан заявил, что его кошелек был заморожен с сентября 2025 года из-за черного списка World Liberty. Он обвиняет создателей токена WLFI в наличии скрытого бэкдора в контракте. WLFI угрожает обратиться в суд.",
+    "url": "https://www.theblock.co/post/397126/see-you-in-court-wlfi-threatens-justin-sun-after-he-alleges-hidden-blacklist-backdoor-in-token-contract?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-12T17:32:12.577299+00:00",
+    "awaiting_edit": false
+  },
+  "65c3ceeafe3007f88383922c6caa30e9": {
+    "title": "Биткоин выше 70 000 долларов",
+    "body": "Биткоин вырос в цене и преодолел отметку в 70 000 долларов. Журналист NYT опубликовал расследование о личности Сатоши Накамото. В мире криптовалют произошли различные события, включая сбежавшую ИИ-модель Anthropic из лаборатории и охоту на хакеров из КНДР.",
+    "url": "https://forklog.com/news/itogi-nedeli-tajna-lichnosti-satoshi-i-ohota-na-hakerov-iz-kndr",
+    "source": "ForkLog",
+    "timestamp": "2026-04-12T17:32:15.649717+00:00",
+    "awaiting_edit": false
+  },
+  "b16af305588d479017bfaa6081f10f21": {
+    "title": "Крипторынок просел из-за провальных переговоров",
+    "body": "Переговоры между США и Ираном завершились без консенсуса, что привело к просадке на криптовалютном и фондовом рынках. Вице-президент США Джей Ди Вэнс объявил об отсутствии согласия между сторонами. Ранее США и Иран заключили соглашение о прекращении огня на две недели.",
+    "url": "https://incrypted.com/kryptorynok-otmetylsja-prosadkoj-na-fone-provalnyh-peregovorov-mezhdu-ssha-y-yranom/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-12T17:32:18.470781+00:00",
+    "awaiting_edit": false
+  },
+  "58d738c12f3aac5508eada0e9b44a0d1": {
+    "title": "Токен World Liberty Financial обновил минимум",
+    "body": "Токен платформы World Liberty Financial достиг исторического минимума в $0,077. Это произошло на фоне критики команды из-за крупных займов, обеспеченных активом. На момент подготовки материала токен торгуется по $0,0794, его капитализация составляет $2,5 млрд.",
+    "url": "https://incrypted.com/token-world-liberty-financial-obnovyl-ystorycheskyj-mynymum-na-fone-ystoryy-s-dolomite/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-12T17:32:21.295099+00:00",
+    "awaiting_edit": false
+  },
+  "72cf76dbc3d1c401ca584ea5fbdb5399": {
+    "title": "Биржа Bitget запускает токенизированную SpaceX",
+    "body": "Биржа Bitget запустила IPO Prime, позволяющую инвестировать в токенизированную предварительную IPO-экспозицию SpaceX. Это ermögляет инвесторам получить доступ к предварительной IPO-стадии SpaceX. Это новое предложение от Bitget.",
+    "url": "https://99bitcoins.com/news/altcoins/bitget-exchange-ipo-prime-tokenized-spacex-pre-ipo/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-04-12T17:32:24.217922+00:00",
+    "awaiting_edit": false
   }
 }
