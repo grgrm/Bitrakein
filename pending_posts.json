@@ -378,5 +378,45 @@
     "source": "99Bitcoins",
     "timestamp": "2026-04-12T17:32:24.217922+00:00",
     "awaiting_edit": false
+  },
+  "91b9f35f76bc492b769d6971d62360f5": {
+    "title": "Атака на Hyperbridge: украдено 1 млрд DOT",
+    "body": "Неизвестный атакующий использовал уязвимость в Hyperbridge, платформе на базе Polkadot, и напечатал 1 миллиард токенов DOT, получив примерно 237 тысяч долларов. В результате инцидента биржи Upbit и Bithumb временно приостановили депозиты и выводы DOT.",
+    "url": "https://www.theblock.co/post/397167/bridged-dot-hyperbridge-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T07:59:26.906733+00:00",
+    "awaiting_edit": false
+  },
+  "bd5dcd6cf09d697a8e76724b35852e35": {
+    "title": "Банк Кореи требует усилить контроль крипто-бирж",
+    "body": "Банк Кореи призвал к ужесточению внутреннего контроля криптовалютных бирж, ссылаясь на случай ошибочной передачи 620 000 BTC на бирже Bithumb. Это заявление было сделано в связи с необходимости усилить регулирование на рынке криптовалют. Банк Кореи выступает за введение механизма \"circuitar breaker\" для стабилизации рынка.",
+    "url": "https://www.theblock.co/post/397162/bank-of-korea-circuit-breaker?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T07:59:29.972547+00:00",
+    "awaiting_edit": false
+  },
+  "3b707c5d21872faa4c1052da3d7dfec6": {
+    "title": "Музыкант потерял 5.9 BTC из-за фейкового приложения",
+    "body": "Американский музыкант Гарретт Даттон, также известный как G. Love, потерял 5.9 BTC после ввода своего сид-фразы в假евое приложение Ledger на App Store. Приложение было фальшивым и было создано для кражи средств пользователей. Даттон оказался жертвой этого приложения, потеряв свои биткоины.",
+    "url": "https://www.theblock.co/post/397155/g-love-loses-btc-fake-ledger?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T07:59:33.018943+00:00",
+    "awaiting_edit": false
+  },
+  "8640f5b5949bc40ade32bf2cbc15ed48": {
+    "title": "Биткоин падает из-за блокады",
+    "body": "Цена биткоина упала до $71 000 после того, как Дональд Трамп отдал приказ о блокаде в Ормузском проливе. Это произошло после провала высокоуровневых переговоров между США и Ираном. Новость может повлиять на глобальную экономику и рынки.",
+    "url": "https://www.theblock.co/post/397147/bitcoin-trump-blockade-hormuz?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T07:59:36.161328+00:00",
+    "awaiting_edit": false
+  },
+  "5b342e88afa23d825d44029f46681e80": {
+    "title": "Aave DAO одобрил грант в $25 млн",
+    "body": "DAO Aave проголосовал за выделение гранта в размере $25 млн на финансирование Aave Labs. Голосование было обязательным и получило название \"Aave Will Win\". Институт Aave Chan стал главным оппонентом предложения, в соответствии с ранее заявленной позицией основателя Марка Зеллера.",
+    "url": "https://www.theblock.co/post/397138/aave-dao-approves-25-million-aave-labs-funding-grant-in-binding-aave-will-win-vote?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T07:59:39.115476+00:00",
+    "awaiting_edit": false
   }
 }
