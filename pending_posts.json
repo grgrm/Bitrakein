@@ -418,5 +418,45 @@
     "source": "The Block",
     "timestamp": "2026-04-13T07:59:39.115476+00:00",
     "awaiting_edit": false
+  },
+  "a238d299b29bf646aa5ed1019e624a85": {
+    "title": "Криптовалютные фонды привлекли 1,1 млрд долларов",
+    "body": "Криптовалютные фонды привлекли 1,1 млрд долларов за неделю, что является сильнейшим притоком средств с января. Этот приток обусловлен снижением инфляции и геополитических напряжений. Продукты, связанные с биткоином, лидируют в притоке средств.",
+    "url": "https://www.theblock.co/post/397191/crypto-funds-pull-in-1-1-billion-as-bitcoin-products-lead-strongest-inflow-week-since-january-coinshares?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T12:00:46.454878+00:00",
+    "awaiting_edit": false
+  },
+  "db496582040f9497ae8982294cb1c9f5": {
+    "title": "Circle CEO оценивает решение по USDC",
+    "body": "Генеральный директор Circle Джереми Аллер заявил, что эмитент стейблкоина USDC имеет четкую обязанность действовать в соответствии с законом. Решение было принято после эксплойта в Drift. Аллер также отметил presence \"моральной дилеммы\".",
+    "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T12:00:49.594427+00:00",
+    "awaiting_edit": false
+  },
+  "41e8e39287c93835861a5fb6118a221f": {
+    "title": "StarkWare уменьшает штат и реорганизуется",
+    "body": "StarkWare сокращает персонал и переходит на структуру из двух подразделений. CEO Эли Бен-Сассон заявил, что компания слишком велика, чтобы быстро принимать решения. Это изменение направлено на увеличение доходов.",
+    "url": "https://www.theblock.co/post/397173/starkware-cuts-staff-reorganizes-into-two-units-as-it-targets-revenue?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T12:00:52.628545+00:00",
+    "awaiting_edit": false
+  },
+  "0160f128ad06942f4f878e2d4e6a7d1d": {
+    "title": "Централизация майнинга биткоина",
+    "body": "Майнинг биткоина становится все более централизованным. Это происходит в то время, как сфера искусственного интеллекта развивается в противоположном направлении. Майнеры адаптируются к новым реалиям и ставят на эффективность.",
+    "url": "https://forklog.com/news/mnenie-majning-bitkoina-stanovitsya-tsentralizovannym-v-otlichie-ot-ii",
+    "source": "ForkLog",
+    "timestamp": "2026-04-13T12:00:55.482104+00:00",
+    "awaiting_edit": false
+  },
+  "92360dd465732dd0bbfc2aa38752c90a": {
+    "title": "Джастин Сан критикует WLFI",
+    "body": "Основатель TRON Джастин Сан раскритиковал DeFi-платформу World Liberty Financial (WLFI) за непрозрачное управление. По его мнению, платформа использует сообщество как \"личный банкомат\". WLFI связана с сыновьями президента США Дональда Трампа.",
+    "url": "https://forklog.com/news/dzhastin-san-raskritikoval-wlfi-za-neprozrachnoe-upravlenie",
+    "source": "ForkLog",
+    "timestamp": "2026-04-13T12:00:58.459506+00:00",
+    "awaiting_edit": false
   }
 }
