@@ -458,5 +458,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-13T12:00:58.459506+00:00",
     "awaiting_edit": false
+  },
+  "37a08fa44dc61ecfa403159cd3378de3": {
+    "title": "Kraken отказывается от переговоров с хакерами",
+    "body": "Атакующие получили видеозаписи, на которых сотрудники поддержки Kraken получают доступ к внутренним системам поддержки клиентов и ограниченным данным клиентов. Эта информация используется для угроз и вымогательства. Kraken не намерена вести переговоры с хакерами.",
+    "url": "https://www.theblock.co/post/397260/kraken-security-says-exchange-wont-negotiate-faces-extortion-threat?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T17:57:25.210237+00:00",
+    "awaiting_edit": false
+  },
+  "b9effc7f409c27183f7a26df730d5d4a": {
+    "title": "Активы Coinbase после продаж",
+    "body": "Акции Coinbase по-прежнему находятся примерно на 60% ниже пика июля 2025 года. Стоимость акций составляла $445. Недавний рост в марте лишь частично компенсировал падение. Эксперты из William Blair считают, что рост USDC может улучшить перспективы для Circle.",
+    "url": "https://www.theblock.co/post/397233/coinbase-shares-de-risked-selloff-usdc-growth-circle-outlook-william-blair?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T17:57:28.210657+00:00",
+    "awaiting_edit": false
+  },
+  "e2198b6ac568f1f90ec8f50a13e3d14a": {
+    "title": "SEC облегчает жизнь некоторым крипто-интерфейсам",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) объявила, что определенные интерфейсы, позволяющие пользователям совершать транзакции и использовать свои криптовалютные кошельки, могут быть освобождены от необходимости регистрации как брокер-дилер. Это решение может повлиять на развитие криптовалютного рынка. SEC установила определенные условия для освобождения от регистрации.",
+    "url": "https://www.theblock.co/post/397237/sec-carves-out-path-for-some-crypto-interfaces-to-bypass-broker-registration?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T17:57:31.704179+00:00",
+    "awaiting_edit": false
+  },
+  "a1a2602c9ffcf497a56a80802f34047d": {
+    "title": "Bitmine владеет 4% эфира",
+    "body": "Компания Bitmine расширила своё хранилище эфира до 4,87 миллиона ETH, что соответствует 4% от общего объёма эфира в обращении. Общая стоимость активов компании достигла $11,8 миллиарда. Это значительный шаг в увеличении её держаний криптовалюты.",
+    "url": "https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T17:57:34.699785+00:00",
+    "awaiting_edit": false
+  },
+  "c1f723518fabb5d35d93ddee4eaff3db": {
+    "title": "Биткоин отступает из-за возобновления напряжённости",
+    "body": "Согласно аналитикам, bitcoin ETF и более чистая структура деривативов удерживают рынок от резкого падения. Тенденция вызвана уходом энтузиазма после прекращения огня и возобновлением напряжённости в Ормузском проливе. Дополнительные факторы влияют на динамику биткоина.",
+    "url": "https://www.theblock.co/post/397207/bitcoin-pulls-back-as-ceasefire-rally-fades-amid-renewed-hormuz-tensions-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-13T17:57:37.843873+00:00",
+    "awaiting_edit": false
   }
 }
