@@ -578,5 +578,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-14T11:56:03.161584+00:00",
     "awaiting_edit": false
+  },
+  "39d0258dd5ce055563b4bd4057e0f7b7": {
+    "title": "CoW Swap приостанавливает работу",
+    "body": "DEX-агрегатор CoW Swap, интегрированный в протоколы Aave и Safe, приостановил работу после хакинга своего домена. Это событие может повлиять на работу других крипто-протоколов.",
+    "url": "https://www.theblock.co/post/397432/cow-swap-pauses-protocol-amid-domain-hijacking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T18:02:10.832992+00:00",
+    "awaiting_edit": false
+  },
+  "5d86cdd38eec60a3cee1d0ce96b20134": {
+    "title": "Ethereum Foundation запускает субсидию на криптобезопасность",
+    "body": "Фонд Ethereum запустил программу субсидий на сумму 1 миллион долларов для обеспечения криптобезопасности, в рамках которой доступно более 20 фирм-аудиторов, таких как Blocksec, Cetora, Hacken, Immunefi и Quantstamp. Эта инициатива реализуется при участии маркетплейса аудита Areta.",
+    "url": "https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T18:02:13.900920+00:00",
+    "awaiting_edit": false
+  },
+  "6e731c359c8f47fb55d7769687600219": {
+    "title": "Goldman Sachs подал заявку на Bitcoin ETF",
+    "body": "Goldman Sachs подал заявку на создание фонда, инвестирующего в другие продукты обмена биткоина (ETP), включая опционы на спотовые ETP и индексы ETP. Фонд предоставит инвесторам доступ к портфелю, состоящему из различных биткоин-ETP. Это позволит инвесторам получить экспозицию к биткоину через один инвестиционный инструмент.",
+    "url": "https://www.theblock.co/post/397412/goldman-sachs-files-for-bitcoin-etf-that-invests-in-other-bitcoin-etfs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T18:02:16.976738+00:00",
+    "awaiting_edit": false
+  },
+  "e8330df0ff6c228b731d031b516e7d94": {
+    "title": "Номинальная инвестиция Кевина Уорша в крипто",
+    "body": "Кевин Уорш, номинированный на пост председателя Федеральной Резервной Системы, раскрыл информацию о своих инвестициях в несколько криптовалютных компаний. Его слушания по утверждению назначения намечены на следующую неделю. Инвестиции Уорша включают в себя компании, работающие в сфере криптовалют.",
+    "url": "https://www.theblock.co/post/397409/ahead-senate-confirmation-fed-pick-kevin-warsh-crypto-investments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T18:02:20.094538+00:00",
+    "awaiting_edit": false
+  },
+  "76daf85c0ca48e2e4886417d1eca8f08": {
+    "title": "STRC хит $1,1 млрд объема",
+    "body": "Preferred stock STRC компании Strategy достиг рекордного объема торгов в $1,1 млрд, став основным источником финансирования недавних покупок биткоина. Это развитие событий связано с стратегией Майкла Сэйлора по увеличению покупок биткоина. STRC привлекает значительные средства, позволяя компании продолжать инвестировать в биткоин.",
+    "url": "https://www.theblock.co/post/397395/strategys-strc-1-1-billion-volume-preferred-saylor-bitcoin-buying-engine?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T18:02:23.212597+00:00",
+    "awaiting_edit": false
   }
 }
