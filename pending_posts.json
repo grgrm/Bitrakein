@@ -538,5 +538,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-14T07:27:49.591075+00:00",
     "awaiting_edit": false
+  },
+  "9e2a4fa1da9dce07b74d9334a2ecbb0c": {
+    "title": "UK депутат требует расследования FCA",
+    "body": "Депутат британского парламента призвал к расследованию деятельности Найджела Фаража, связанной с продвижением криптовалют, из-за опасений по поводу злоупотребления рынком и сравнил это с тактикой Дональда Трампа. Расследование должно провести Управление по финансовому регулированию и надзору Великобритании (FCA).",
+    "url": "https://www.theblock.co/post/397333/uk-lawmaker-calls-for-fca-probe-farage-crypto-promotion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T11:55:50.451135+00:00",
+    "awaiting_edit": false
+  },
+  "07b0f229dab86000032dd4dea85fb565": {
+    "title": "Deutsche Borse invests в Kraken",
+    "body": "Deutsche Borse Group приобрела долю в размере 200 миллионов долларов в компанию Payward, материнскую структуру Kraken. Это знаменует собой расширение связей между традиционными финансами и рынками криптовалют.",
+    "url": "https://www.theblock.co/post/397332/deutsche-borse-invests-200-million-in-kraken-parent-payward?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T11:55:53.560763+00:00",
+    "awaiting_edit": false
+  },
+  "7f747ce76e1d1bf4fcd28cbb8a096d79": {
+    "title": "DOJ открывает компенсацию жертвам OneCoin",
+    "body": "Министерство юстиции США открыло процесс компенсации для жертв схемы OneCoin, предложив свыше $40 миллионов из $4 миллиардов, полученных в результате мошенничества. Это решение касается потерпевших, пострадавших от действий схемы. DOJ предлагает компенсацию за убытки, связанные с OneCoin.",
+    "url": "https://www.theblock.co/post/397319/us-justice-opens-claims-onecoin-fraud?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-14T11:55:56.798958+00:00",
+    "awaiting_edit": false
+  },
+  "656659e9bbb9351e96facd55846508ad": {
+    "title": "SEC смягчила требования к кошелькам",
+    "body": "Комиссия по ценным бумагам и биржам США опубликовала заявление с разъяснением интерпретации программных интерфейсов для криптовалютных транзакций в рамках правил для брокеров-дилеров. Это разъяснение касается самокастодиальных криптокошельков.",
+    "url": "https://forklog.com/news/sec-smyagchila-trebovaniya-k-samokastodialnym-kriptokoshelkam",
+    "source": "ForkLog",
+    "timestamp": "2026-04-14T11:55:59.900021+00:00",
+    "awaiting_edit": false
+  },
+  "56c1b467a54a1449975884efa86470ef": {
+    "title": "Биткоин превысил $74 000",
+    "body": "Биткоин впервые с середины прошлого месяца преодолел отметку $74 000, прибавив 5% за сутки. Эта отметка была преодолена ночью 14 апреля.",
+    "url": "https://forklog.com/news/bitkoin-zakrepilsya-vyshe-74-000",
+    "source": "ForkLog",
+    "timestamp": "2026-04-14T11:56:03.161584+00:00",
+    "awaiting_edit": false
   }
 }
