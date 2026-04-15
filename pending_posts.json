@@ -618,5 +618,45 @@
     "source": "The Block",
     "timestamp": "2026-04-14T18:02:23.212597+00:00",
     "awaiting_edit": false
+  },
+  "cd1bf0bb091435f504e2ba5c71fcc812": {
+    "title": "Новый закон о криптовалютах в Вирджинии",
+    "body": "Вирджиния приняла закон, согласно которому неактивные криптовалютные активы в счетах клиентов будут переданы в государственную собственность в исходном виде. Срок хранения таких активов составит не менее одного года.",
+    "url": "https://www.theblock.co/post/397484/virginia-approves-bill-unclaimed-crypto-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T07:27:58.901070+00:00",
+    "awaiting_edit": false
+  },
+  "655793797dc9d388d384edc405eabe70": {
+    "title": "Европейская биржа SIX подключается к Chainlink",
+    "body": "Две основные фондовые биржи группы SIX, SIX Swiss Exchange и BME Exchange, начали передавать данные рынка акций в сеть Chainlink. Это позволит интегрировать рыночные данные в децентрализованные приложения. SIX Group является одной из крупнейших европейских фондовых бирж.",
+    "url": "https://www.theblock.co/post/397450/major-european-six-group-stock-exchanges-feeding-data-to-chainlink?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T07:28:02.050836+00:00",
+    "awaiting_edit": false
+  },
+  "f06694c67691038f0432212e2a8fc37b": {
+    "title": "Bitmine убытки из-за эфира",
+    "body": "Bitmine объявила о квартальных убытках в размере 3,8 миллиарда долларов, что обусловлено нереализованным спадом стоимости эфира. На 12 апреля компания владела 4,87 миллиона эфира, что составляет более 4% от общего объема эфира. Это значительное событие в криптоиндустрии.",
+    "url": "https://www.theblock.co/post/397477/bitmine-quarterly-net-loss?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T07:28:05.277271+00:00",
+    "awaiting_edit": false
+  },
+  "b6cd0de171465f57f24b350478d34020": {
+    "title": "X запускает Cashtags для крипто и акций",
+    "body": "Платформа X представила функцию \"Cashtags\", позволяющую пользователям просматривать данные о ценах акций и криптовалют. Эта функция включает просмотр графиков цен. Никита Бир, руководитель по продукту в X, анонсировал эту возможность.",
+    "url": "https://www.theblock.co/post/397470/x-rolls-out-cashtags?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T07:28:08.441000+00:00",
+    "awaiting_edit": false
+  },
+  "850f1ac52c2e1df11fa6b8a9ac0837f8": {
+    "title": "Ether.fi инвестирует 3 миллиарда в ETH",
+    "body": "Ether.fi обязалось выделить 3 миллиарда долларов в ETH в качестве \"ликвидности валидаторов\" на рынок ETHGas в течение трех лет. ETHGas является платформой для покупки и продажи фьючерсов на блокчейн Ethereum. Этот шаг направлен на обеспечение гарантированного исполнения транзакций.",
+    "url": "https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T07:28:11.557101+00:00",
+    "awaiting_edit": false
   }
 }
