@@ -698,5 +698,45 @@
     "source": "The Block",
     "timestamp": "2026-04-15T11:54:30.644672+00:00",
     "awaiting_edit": false
+  },
+  "dfc1ad75aa16ff5715f44bbdc0518c75": {
+    "title": "Tether переводит биткоины в резервный кошелек",
+    "body": "Tether перевел более 70 миллионов долларов в биткоинах в свой резервный кошелек. Этот шаг соответствует привычной схеме компании, которая периодически накапливает и переводит биткоины в резервный кошелек.",
+    "url": "https://www.theblock.co/post/397632/tether-moves-over-70-million-in-bitcoin-to-reserve-wallet-arkham?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T18:03:17.618524+00:00",
+    "awaiting_edit": false
+  },
+  "ddfde1388df85644597a46a9fabbcce4": {
+    "title": "Bitdeer достигла 70 EH/s в майнинге биткоина",
+    "body": "Компания Bitdeer достигла показателя 70 EH/s в само-майнинге биткоина и заняла первое место по вычислительной мощности. Общий хэшрейт компании под управлением вырос до 78,1 EH/s, включая ее крупнейший само-майнинг флот и хост-машин.",
+    "url": "https://www.theblock.co/post/397631/bitdeer-self-mining-bitcoin-70-eh-s-canaan-cleanspark?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T18:03:20.845948+00:00",
+    "awaiting_edit": false
+  },
+  "273f4a2dce40bf44f8eb0a253e003206": {
+    "title": "Запуск Avalanche ETF от Bitwise",
+    "body": "Компания Bitwise запустила ETF-фонд, ориентированный на Avalanche, и планирует хеджировать токены AVAX, входящие в состав фонда. Это означает, что Bitwise будет использовать токены AVAX для стейкинга.",
+    "url": "https://www.theblock.co/post/397615/bitwise-launches-avalanche-etf-with-plans-to-stake-avax-held?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T18:03:24.048798+00:00",
+    "awaiting_edit": false
+  },
+  "30a7dca6fafec8036eb54a70760400b8": {
+    "title": "Riot продает биткоины для финансирования",
+    "body": "Riot Platforms продает биткоины из своих запасов для финансирования недавних инвестиций в инфраструктуру. Компания расширяет свои возможности в области ИИ и гипермасштабного строительства. Стоит отметить, что компания Riot теряет одного из топ-менеджеров по дата-центрам.",
+    "url": "https://www.theblock.co/post/397605/riot-loses-top-data-center-exec-ai-hyperscale-buildout-ramps-shares-dip-6?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T18:03:27.449569+00:00",
+    "awaiting_edit": false
+  },
+  "a2e1ee140b07c65f46bad31741462b13": {
+    "title": "Вorld Liberty предлагает cambios в токенах",
+    "body": "Компания World Liberty предложила перевести 62,3 миллиарда заблокированных токенов на фиксированные графики блокировки. Этот шаг потребует от инсайдеров сжечь до 10% своей аллокации. Эта инициатива направлена на изменение распределения токенов.",
+    "url": "https://www.theblock.co/post/397597/trump-backed-world-liberty-proposes-vesting-overhaul-for-62-3-billion-tokens-would-burn-up-to-10-of-insider-allocation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T18:03:30.713955+00:00",
+    "awaiting_edit": false
   }
 }
