@@ -658,5 +658,45 @@
     "source": "The Block",
     "timestamp": "2026-04-15T07:28:11.557101+00:00",
     "awaiting_edit": false
+  },
+  "b6c1d4ef5cc81b779a06bc66064cb421": {
+    "title": "Стreak негативного финансирования биткоина",
+    "body": "30-дневный средний показатель негативного финансирования биткоина был отрицательным в течение 46 последовательных дней, что соответствует продолжительности низшей точки медвежьего рынка в 2022 году. Это может указывать на потенциальный рост стоимости биткоина. Ранее подобные закономерности финансирования означали низкие точки рынка.",
+    "url": "https://www.theblock.co/post/397531/bitcoin-breakout-odds-rise-negative-funding-streak-mirrors-bottoming-regimes-k33?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T11:54:18.848868+00:00",
+    "awaiting_edit": false
+  },
+  "b30b2e052147a3ad893020d2c4a5a998": {
+    "title": "eToro покупает стартап криптокошелька Zengo",
+    "body": "Биржа eToro согласилась купить стартап криптовалютного кошелька Zengo за 70 миллионов долларов, добавив возможности самохранения и поддержку Web3. Это приобретение произошло после выхода eToro на рынок Нью-Йорка. Новое приобретение позволит eToro расширить свои возможности в сфере криптовалют.",
+    "url": "https://www.theblock.co/post/397524/etoro-bets-on-self-custody-with-70-million-acquisition-of-crypto-wallet-startup-zengo?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T11:54:21.812371+00:00",
+    "awaiting_edit": false
+  },
+  "9ba395232090db5a4a55775a3e6ef164": {
+    "title": "Пакистан снимает запрет на счета для VASP",
+    "body": "Центральный банк Пакистана снял запрет 2018 года, разрешив регулируемым банковским организациям открывать счета для лицензированных поставщиков виртуальных активов. Это решение касается только лицензированных виртуальных активных сервис-провайдеров.",
+    "url": "https://www.theblock.co/post/397521/pakistan-allows-banks-to-open-accounts-for-licensed-vasps-ending-2018-ban?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T11:54:24.627427+00:00",
+    "awaiting_edit": false
+  },
+  "71cb308be89e82b5fd76ca2eddcdac8b": {
+    "title": "21Shares подала заявку на листинг ETF",
+    "body": "21Shares подала второе дополнение к заявке на листинг ETF Hyperliquid под тикером THYP на бирже Nasdaq. В качестве начального создания корзины планируется купить 20 000 акций по 25 долларов за акцию.",
+    "url": "https://www.theblock.co/post/397501/21shares-second-amendment-hyperliquid-etf-thyp?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T11:54:27.743398+00:00",
+    "awaiting_edit": false
+  },
+  "e75ab478fac6a67888891b660084d678": {
+    "title": "Ripple сотрудничает с корейской страховой компанией",
+    "body": "Ripple и Kyobo Life Insurance заключили партнерское соглашение для ermögления токенизации государственных облигаций в Южной Корее. Это сотрудничество может сократить время расчетов с двух дней до gần реального времени. Партнерство направлено на ускорение процесса clearing и settlements.",
+    "url": "https://www.theblock.co/post/397491/ripple-kyobo-life-insurance?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-15T11:54:30.644672+00:00",
+    "awaiting_edit": false
   }
 }
