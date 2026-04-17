@@ -858,5 +858,45 @@
     "source": "The Block",
     "timestamp": "2026-04-16T18:06:26.371103+00:00",
     "awaiting_edit": false
+  },
+  "c7a97135c134ff7085db7903a91d0c12": {
+    "title": "Отсрочка языка о стейблкоинах в Законе о ясности",
+    "body": "По данным источника The Block, последний текст Закона о ясности восстановил предыдущий язык, запрещающий вознаграждения за бездействующие держания стейблкоинов. Это означает, что бан на idle балансы остается в силе.",
+    "url": "https://www.theblock.co/post/397838/clarity-act-stablecoin-yield-delayed?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T07:29:05.251747+00:00",
+    "awaiting_edit": false
+  },
+  "a51fa27b40abbfc9d878bcc613c30190": {
+    "title": "Circle подалась в суд из-за хакинга",
+    "body": "Компанию Circle обвиняют в том, что она не быстро заморозила украденные токены USDC после хакинга Drift на сумму 280 миллионов долларов. Этот хакинг привел к подаче коллективного иска против Circle.",
+    "url": "https://www.theblock.co/post/397840/circle-class-action-lawsuit-drift-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T07:29:08.127537+00:00",
+    "awaiting_edit": false
+  },
+  "e74baff1e1d4cbb0c54eb54203b27d80": {
+    "title": "Хакер атакует биржу Grinex на $15 млн",
+    "body": "Биржа Grinex, связанная с Россией, приостановила свою работу после хакерской атаки, в результате которой были украдены средства на сумму $15 млн. Биржа обвиняет в атаке \"враждебные государства\". Ранее пользователи и ліквидность санкционированной биржи Garantex перейшли на Grinex.",
+    "url": "https://www.theblock.co/post/397814/russia-linked-grinex-exchange-suspends-operations-15-million-hack-hostile-states?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T07:29:11.152446+00:00",
+    "awaiting_edit": false
+  },
+  "235636300068aa0246bc92a04d2e3117": {
+    "title": "Мошенник в Техасе получил 23 года",
+    "body": "Мужчина из Техаса приговорен к 23 годам тюремного заключения за мошенничество с криптовалютой, в результате которого инвесторы потеряли более $20 миллионов. Схема мошенника якобы была обеспечена работами Пикассо и Ван Гога.",
+    "url": "https://www.theblock.co/post/397821/texas-man-gets-23-years-for-20-million-crypto-scam-supposedly-backed-by-picasso-and-van-gogh-artwork?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T07:29:14.184372+00:00",
+    "awaiting_edit": false
+  },
+  "809fee4e6bc2c7f6926bbd6788214246": {
+    "title": "Tempo представил решение для частных блокчейнов",
+    "body": "Компания Tempo представила решение под названием Zones, которое позволяет запускать параллельные блокчейны с разрешённым доступом. Каждая зона предлагает частную среду исполнения, управляемую доверенным субъектом. Это решение направлено на улучшение конфиденциальности в блокчейн-операциях.",
+    "url": "https://www.theblock.co/post/397820/tempo-unveils-pragmatic-privacy-solution-called-zones-a-way-to-run-permissioned-parallel-blockchains?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T07:29:17.088489+00:00",
+    "awaiting_edit": false
   }
 }
