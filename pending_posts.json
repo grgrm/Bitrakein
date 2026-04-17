@@ -898,5 +898,45 @@
     "source": "The Block",
     "timestamp": "2026-04-17T07:29:17.088489+00:00",
     "awaiting_edit": false
+  },
+  "d2fdc6f53332d4332390d2732db43ba2": {
+    "title": "Citadel Securities рассматривает рынки прогнозов",
+    "body": "Citadel Securities может войти в рынки прогнозов, но не для спортсменов, а для хеджирования рисков, связанных с геополитическими событиями. Рынки прогнозов могут быть использованы для управления рисками. Президент Citadel Securities заявил о возможном входе компании в эту сферу.",
+    "url": "https://www.theblock.co/post/397868/citadel-securities-president-says-firm-could-enter-prediction-markets-eyes-non-sports-use-cases?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T11:48:31.339684+00:00",
+    "awaiting_edit": false
+  },
+  "0626846bb09b11c64e8b9fb10151f37c": {
+    "title": "Flow Capital запускает фонд на блокчейне",
+    "body": "Компания Flow Capital планирует ввести на блокчейн частный кредитный фонд стоимостью $150 миллионов. Кроме того, Flow Capital намерена привлечь еще $30 миллионов путем токенизации акций к концу года.",
+    "url": "https://www.theblock.co/post/397849/hong-kongs-flow-capital-plans-to-bring-150-million-private-credit-fund-onchain-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T11:48:34.184006+00:00",
+    "awaiting_edit": false
+  },
+  "830e4c431ad8a41169ccbe4b2e053167": {
+    "title": "MiCA и Travel Rule ужесточили правила",
+    "body": "С 30 декабря 2024 года MiCA и Travel Rule вступили в полную силу в Евросоюзе, обязывая биржи проверять личные кошельки при переводах свыше €1000. Это означает, что биржам необходимо проверять чистоту криптоактивов.",
+    "url": "https://forklog.com/exclusive/mica-i-travel-rule-obyazali-dokazyvat-chistotu-kriptoaktivov-razbiraemsya-kak-eto-sdelat",
+    "source": "ForkLog",
+    "timestamp": "2026-04-17T11:48:37.032323+00:00",
+    "awaiting_edit": false
+  },
+  "0bd7781bc9dc4cc23f3057fe65847b77": {
+    "title": "Судьба миллиардов Сатоши",
+    "body": "Криптограф Адам Бэк сомневается в миллиардном состоянии Сатоши Накамото, предполагая, что создатель биткоина мог потерять приватные ключи. Бэк считает, что отсутствие движения ранних биткоинов не обязательно объясняется намеренным бездействием Сатоши. Это мнение было высказано в связи с продолжающейся тайной вокруг личности и состояния Сатоши.",
+    "url": "https://forklog.com/news/adam-bek-usomnilsya-v-milliardnom-sostoyanii-satoshi-i-dopustil-uteryu-klyuchej",
+    "source": "ForkLog",
+    "timestamp": "2026-04-17T11:48:40.201024+00:00",
+    "awaiting_edit": false
+  },
+  "7f13ea1bc23f29996b1db5dc32c8f9b4": {
+    "title": "ViaBTC обсуждает майнинг в России",
+    "body": "На Blockchain Forum 2026 майнинг-пул ViaBTC обсудил перспективы майнинга в России. ViaBTC и биржа Coinex участвовали в обсуждении. Уточняются дальнейшие планы компании.",
+    "url": "https://forklog.com/news/viabtc-obsudil-perspektivy-majninga-v-rossii-na-blockchain-forum-2026",
+    "source": "ForkLog",
+    "timestamp": "2026-04-17T11:48:43.376751+00:00",
+    "awaiting_edit": false
   }
 }
