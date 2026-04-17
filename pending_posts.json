@@ -938,5 +938,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-17T11:48:43.376751+00:00",
     "awaiting_edit": false
+  },
+  "636b1ae6af2e8e523ff3ffd10690081b": {
+    "title": "Конгрессвумен покупает биткоин-ETF",
+    "body": "Депутат Конгресса США Шери Биггс раскрыла информацию о покупке до 250 000 долларов в ETF-фонде BlackRock, инвестирующем в биткоин. Это уже второй раз за год, когда она делает такую покупку.",
+    "url": "https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T17:47:12.318310+00:00",
+    "awaiting_edit": false
+  },
+  "9b02e7f92f82f26cf8ff1ae661b2cf23": {
+    "title": "Cashtags привлёк 1 млрд долларов объёма торгов",
+    "body": "Функция Cashtags на платформе X привела к объёму торгов в 1 миллиард долларов. Эта функция позволяет пользователям торговать криптовалютой и токенизированными акциями. Cashtags является частью планов генерального директора X по превращению платформы в суперприложение.",
+    "url": "https://www.theblock.co/post/397924/x-exec-cashtags-crypto-stock-token-feature-1-billion-trading-volume?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T17:47:16.088885+00:00",
+    "awaiting_edit": false
+  },
+  "00fc7df32aa910baed04b70ebca3aab3": {
+    "title": "Совет криптовалютного инновационного развития расширяется",
+    "body": "Совет криптовалютного инновационного развития добавил в свой состав Digital Energy Council, первый член, специализирующийся на политике цифровой энергетики. Это расширение направлено на развитие взаимодействия между криптовалютным сектором и сферой энергетики.",
+    "url": "https://www.theblock.co/post/397928/crypto-council-for-innovation-adds-digital-energy-council-as-its-first-energy-focused-member?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T17:47:19.461489+00:00",
+    "awaiting_edit": false
+  },
+  "fde900cf43acb77aaad3701ae5f36731": {
+    "title": "Биткоин возвращается к 78 000",
+    "body": "Биткоин поднялся в цене до 78 000 долларов после заявления Трампа о том, что Ормузский пролив \"открыт и готов к работе\". Этот рост повлиял на другие основные криптовалюты, в результате чего общая рыночная капитализация вернулась выше 2,7 триллиона долларов.",
+    "url": "https://www.theblock.co/post/397898/bitcoin-retakes-78000-trump-hormuz-open-ready-business?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T17:47:22.707137+00:00",
+    "awaiting_edit": false
+  },
+  "de9a1d1bf0ccedd105f1c6faab374cc1": {
+    "title": "Sen. Blumenthal давит на Binance",
+    "body": "Сенатор Ричард Блюменталь запросил информацию о статусе монитора, назначенного после признания Binance виновной, и о наличии отчетов о неправомерных действиях. Это связано с опасениями по поводу соблюдения санкций в отношении Ирана.",
+    "url": "https://www.theblock.co/post/397915/sen-blumenthal-presses-doj-and-treasury-on-binance-monitor-amid-iran-sanctions-concerns?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-17T17:47:25.795688+00:00",
+    "awaiting_edit": false
   }
 }
