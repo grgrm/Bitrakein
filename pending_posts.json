@@ -1018,5 +1018,45 @@
     "source": "Decrypt",
     "timestamp": "2026-04-18T07:04:22.511206+00:00",
     "awaiting_edit": false
+  },
+  "acd17d1a9751d8ecf5242e415a376f91": {
+    "title": "Новый уголовный риск для биткоин-владельцев РФ",
+    "body": "В России появляются новые уголовные риски для владельцев криптовалюты. Это связано с текущей ситуацией в стране. Также обсуждается влияние войны на азиатское производство чипов и другие крипто-новости.",
+    "url": "https://forklog.com/news/nachnut-li-sazhat-za-bitkoin-v-rf-i-pochemu-vstanut-data-tsentry-azii",
+    "source": "ForkLog",
+    "timestamp": "2026-04-18T11:31:08.500631+00:00",
+    "awaiting_edit": false
+  },
+  "1de4197f232f84ce1a9aff2dbc68dff5": {
+    "title": "Coinlocally запускает торговлю акциями",
+    "body": "Криптобиржа Coinlocally расширила свою функциональность, запустив торговлю акциями и объявив о кампании с нулевыми комиссиями. Пользователи теперь могут получить доступ к традиционным рынкам напрямую через интерфейс платформы, объединяя криптовалюты и фондовые активы в одном аккаунте. Это позволяет упростить диверсификацию инвестиций.",
+    "url": "https://incrypted.com/coinlocally-zapustila-torgovlyu-akciyami-i-obyavila-o-kampanii-s-nulevymi-komissiyami/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-18T11:31:11.732754+00:00",
+    "awaiting_edit": false
+  },
+  "fc340181176d1da39ec0ebd2d945ec70": {
+    "title": "Обновление World ID защищает от ботов",
+    "body": "Проект цифровой идентичности World представил обновление системы World ID, позиционируемой как инфраструктура для доказательства человечности. Это обновление направлено на защиту от ботов и дипфейков. Обновление было анонсировано на мероприятии в Сан-Франциско.",
+    "url": "https://incrypted.com/world-predstavil-obnovlenie-world-id-s-fokusom-na-zashitu-ot-botov-i-dipfejkov/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-18T11:31:14.636279+00:00",
+    "awaiting_edit": false
+  },
+  "2fa201f5d869fb64b3d780a8de011f4b": {
+    "title": "Крупные инвестиции в крипто",
+    "body": "Неделя с 11 по 18 апреля 2026 года увидела 19 раундов инвестиций, из которых 16 раскрыли подробности вложений, включая сумму. Крупнейшие сделки включают покупку Bitnomial за $550 млн и инвестицию $200 млн в Kraken. Общая сумма привлеченных инвестиций составила $1,1 млрд.",
+    "url": "https://incrypted.com/pogloshchenye-na-550-mln-200-mln-dlja-kraken-y-povyshennyj-ynteres-k-defi/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-18T11:31:17.519122+00:00",
+    "awaiting_edit": false
+  },
+  "ffa7bd9e275139540396a1aa709e9def": {
+    "title": "Биткоин поднялся выше $78 000",
+    "body": "17 апреля 2026 года цена биткоина достигла $78 000, что является самым высоким уровнем с начала февраля 2026 года. На момент 18 апреля цена стабилизировалась около $77 000. За 24 часа объем принудительно закрытых позиций на криптовалютном фьючерсном рынке превысил $750 млн.",
+    "url": "https://incrypted.com/bitkoin-vyros-do-78-000-obem-likvidacij-prevysil-750-mln-medvezhi-nastroeniya-vse-eshe-dominiruyut/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-18T11:31:20.326713+00:00",
+    "awaiting_edit": false
   }
 }
