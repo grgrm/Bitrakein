@@ -1058,5 +1058,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-18T11:31:20.326713+00:00",
     "awaiting_edit": false
+  },
+  "3007bb7110564245fdc2d19b8f422b1f": {
+    "title": "Alcoa продаст завод в Нью-Йорке",
+    "body": "Компания Alcoa близка к заключению сделки по продаже своего неактивного алюминиевого завода в Нью-Йорке компании NYDIG, занимающейся майнингом биткоина. Сделка должна быть завершена во второй половине этого года. Alcoa планирует продать 10 неактивных заводов в США.",
+    "url": "https://www.theblock.co/post/397983/alcoa-nears-deal-to-sell-dormant-new-york-smelter-site-to-bitcoin-miner-nydig-bloomberg?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-18T17:34:23.579088+00:00",
+    "awaiting_edit": false
+  },
+  "afd341b3ea07b16b65444fab362e518c": {
+    "title": "Circle запустила USDC Bridge",
+    "body": "Компания Circle представила инструмент USDC Bridge, упрощающий переводы стейблкоина USDC между блокчейнами. Новый инструмент призван улучшить процессы кроссчейн-переводов для пользователей USDC. Это решение может расширить использование стейблкоина USDC на разных платформах.",
+    "url": "https://forklog.com/news/circle-zapustila-usdc-bridge-dlya-krosschejn-perevodov",
+    "source": "ForkLog",
+    "timestamp": "2026-04-18T17:34:26.602915+00:00",
+    "awaiting_edit": false
+  },
+  "c6c5ee2fb2371d2e5888858e7c148d12": {
+    "title": "Сложность майнинга биткоина снижается",
+    "body": "Сложность майнинга биткоина упала на 2,43% и составила 135,59 T. Это произошло после очередного перерасчета 17 апреля.",
+    "url": "https://forklog.com/news/slozhnost-majninga-bitkoina-sokratilas-na-2-4",
+    "source": "ForkLog",
+    "timestamp": "2026-04-18T17:34:29.614116+00:00",
+    "awaiting_edit": false
+  },
+  "a9a7e1a5bdc1b45ffde5457fef9577be": {
+    "title": "Биткоин-ETF привлекли $1,3 млрд",
+    "body": "Спотовые биткоин- и Ethereum-ETF в США привлекли почти $1,27 млрд за неделю с 13 по 17 апреля 2026 года. Наибольший вклад в этот результат обеспечили фонды на базе биткоина, которые привлекли $996,38 млн. Это уже третья позитивная неделя подряд для этого сегмента.",
+    "url": "https://incrypted.com/spotovye-bitkoin-i-ethereum-etf-v-ssha-privlekli-pochti-13-mlrd-za-nedelyu/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-18T17:34:32.562369+00:00",
+    "awaiting_edit": false
+  },
+  "e3c87fd4c31a7a6f755c320d8f8c0c78": {
+    "title": "SEC даёт 5 лет на лицензирование",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) предоставила некоторым самообслуживающимся криптовалютным приложениям 5-летний период для решения вопросов, связанных с получением лицензий на деятельность брокеров. Это решение может повлиять на развитие криптовалютного рынка. Ранее некоторые приложения столкнулись с проблемами при попытке получить необходимые лицензии.",
+    "url": "https://99bitcoins.com/news/altcoins/sec-self-custody-crypto-apps-broker-licensing/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-04-18T17:34:35.912857+00:00",
+    "awaiting_edit": false
   }
 }
