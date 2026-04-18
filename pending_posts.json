@@ -978,5 +978,45 @@
     "source": "The Block",
     "timestamp": "2026-04-17T17:47:25.795688+00:00",
     "awaiting_edit": false
+  },
+  "8178df8eda82b41f151dca7d535ae3c0": {
+    "title": "Суд признал JENNER токен не ценностью",
+    "body": "Судья постановил, что мемкоин JENNER, запущенный медиа-личностью Кейтлин Дженнер, не является ценностью, несмотря на утверждения в групповом судебном иске. Иск касался вопроса о том, является ли токен JENNER ценной бумагой. Решение суда может иметь значение для классификации OTHER криптовалют.",
+    "url": "https://www.theblock.co/post/397976/judge-says-caitlyn-jenners-jenner-memecoin-not-a-security-class-action-lawsuit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-18T07:04:09.951334+00:00",
+    "awaiting_edit": false
+  },
+  "379bd72f1509c0db0600ce7689c8080a": {
+    "title": "Rhea Finance потеряла 18,4 млн долларов",
+    "body": "Атака на Rhea Finance привела к потере 18,4 миллиона долларов, что более чем в два раза превышает первоначальные оценки. Атакующий использовал \"намеренно построенный маршрут обмена\" для открытия большого количества позиций по маржинальной торговле. Это привело к значительным финансовым потерям для платформы.",
+    "url": "https://www.theblock.co/post/397961/rhea-finance-post-mortem-exploit-losses-18-4-million-double-initial-estimates?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-18T07:04:13.391815+00:00",
+    "awaiting_edit": false
+  },
+  "97900d81593edadc624f7ceba1a0dd25": {
+    "title": "Crypto Council расширяет состав",
+    "body": "Crypto Council for Innovation (CCI) объявил о присоединении к его рядам Digital Energy Council, первой организации, фокусирующейся на цифровой энергетической политике. Это расширение должно повысить активность CCI в области энергетики и криптовалют. Digital Energy Council будет работать над развитием цифровой энергетической политики в интересах инновационной криптовалютной отрасли.",
+    "url": "https://www.theblock.co/post/397928/crypto-council-for-innovation-gains-digital-energy-council-as-its-first-energy-focused-acquisition?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-18T07:04:16.639128+00:00",
+    "awaiting_edit": false
+  },
+  "c9ccb0d3508cd3ca22c381d70f6853f3": {
+    "title": "Шантаж биржи Kraken",
+    "body": "Биржа Kraken подверглась шантажу, также была обнаружена возможность извлечения удаленной переписки в Signal. Эксперты сообщают о других событиях кибербезопасности.",
+    "url": "https://forklog.com/news/shantazh-birzhi-kraken-izvlechenie-udalennoj-perepiski-v-signal-i-drugie-sobytiya-kiberbezopasnosti",
+    "source": "ForkLog",
+    "timestamp": "2026-04-18T07:04:19.544465+00:00",
+    "awaiting_edit": false
+  },
+  "344183a2bf9f3ce1aa348c05fcb6f8b2": {
+    "title": "Биткоин пробил 7-месячный потолок",
+    "body": "Цена.bitкоина вышла из 7-месячной тенденции снижения. Геополитическая ситуация и предсказательные рынки указывают на потенциальный рост до $84 тыс.",
+    "url": "https://decrypt.co/364793/bitcoin-btc-price-breaks-seven-month-resistance",
+    "source": "Decrypt",
+    "timestamp": "2026-04-18T07:04:22.511206+00:00",
+    "awaiting_edit": false
   }
 }
