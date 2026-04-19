@@ -1098,5 +1098,37 @@
     "source": "99Bitcoins",
     "timestamp": "2026-04-18T17:34:35.912857+00:00",
     "awaiting_edit": false
+  },
+  "df65042540fb9df3d48485dd0952e7ed": {
+    "title": "RaveDAO отрицает обвинения в манипуляции RAVE-токеном",
+    "body": "Команда RaveDAO отрицает свою причастность к манипуляциям с ценой токена RAVE. Биржи Binance и Bitget начали расследование по этому поводу. Исследователь ZachXBT утверждает, что имеет доказательства схемы \"памп-энд-дамп\" и объявил награду в 25 000 долларов за информацию от осведомителей.",
+    "url": "https://www.theblock.co/post/397991/ravedao-team-denies-role-in-rave-token-pump-as-binance-bitget-open-investigations?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-19T07:16:01.264496+00:00",
+    "awaiting_edit": false
+  },
+  "54623425a9ae99420445078ce57009b5": {
+    "title": "Kelp DAO подвергся эксплуатации",
+    "body": "Bridge Kelp DAO был взломан, что привело к утрате примерно 292 миллиона долларов в результате атаки на основе LayerZero. Протокол смог остановить дальнейшие попытки эксплуатации, заморозив основные контракты примерно через 46 минут после успешного вывода средств. Это событие является значительным инцидентом безопасности в сфере криптовалют.",
+    "url": "https://www.theblock.co/post/397988/kelp-daos-rseth-bridge-apparently-exploited-for-roughly-292-million-in-layerzero-based-attack?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-19T07:16:04.219316+00:00",
+    "awaiting_edit": false
+  },
+  "08e267a291561321232558ea0ee61876": {
+    "title": "Джош Старк покидает Ethereum Foundation",
+    "body": "Джош Старк, ветеран Ethereum Foundation, объявил о своём уходе из организации. Подробности об уходе Старка не разглашаются. Это событие может иметь значение для развития сети Ethereum.",
+    "url": "https://99bitcoins.com/news/altcoins/ethereum-foundation-josh-stark-stepping-down/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-04-19T07:16:06.908356+00:00",
+    "awaiting_edit": false
+  },
+  "0347bef82dfc8db35bb5285e0cca2db0": {
+    "title": "Zac Prince о стратегии инвестирования",
+    "body": "Zac Prince, руководитель розничной платформы Galaxy, считает, что инвесторы должны чаще заключать сделки, а не заниматься прогнозами. Он отмечает трудности в включении прогнозных рынков в диверсифицированные портфели долгосрочных инвесторов.",
+    "url": "https://decrypt.co/364817/galaxyone-head-wants-retail-investors-stake-more-predict-less",
+    "source": "Decrypt",
+    "timestamp": "2026-04-19T07:16:09.803848+00:00",
+    "awaiting_edit": false
   }
 }
