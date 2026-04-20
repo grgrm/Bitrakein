@@ -1210,5 +1210,45 @@
     "source": "Decrypt",
     "timestamp": "2026-04-19T17:33:31.400175+00:00",
     "awaiting_edit": false
+  },
+  "fe83ad7060fe23b2e4f934dbf03b094a": {
+    "title": "Биткоин-ETF получили миллиард долларов",
+    "body": "В последнюю неделю биткоин-ETF получили рекордные почти $1 миллиард инвестиций, что является самым высоким показателем с середины января. Фонд Morgan Stanley's MSBT зафиксировал чистый приток средств в размере $71 миллиона за первую полную неделю работы. Это указывает на растущий интерес инвесторов к данным финансовым инструментам.",
+    "url": "https://www.theblock.co/post/398044/spot-bitcoin-etfs-1-billion-weekly-inflows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-20T08:03:14.474082+00:00",
+    "awaiting_edit": false
+  },
+  "8dbe4c3af6e13cb8363a4400279fd075": {
+    "title": "Coinbase тестирует ИИ-агентов",
+    "body": "Coinbase тестирует ИИ-агентов, которые предоставляют высокоуровневую обратную связь сотрудникам. По словам генерального директора Брайана Армстронга, эти ИИ-агенты созданы по образцу бывших руководителей Фреда Эрсама и Баладжи Шринивасана.",
+    "url": "https://www.theblock.co/post/398038/coinbase-tests-ai-agents?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-20T08:03:17.476183+00:00",
+    "awaiting_edit": false
+  },
+  "72cf10f85359597fba6d46a74fe9073d": {
+    "title": "Взлом Kelp DAO приписывают Lazarus из КНДР",
+    "body": "Проект LayerZero заявил, что взлом Kelp DAO, скорее всего, совершен группой хакеров Lazarus из Северной Кореи. Причиной взлома стала уязвимость в одно-точечной настройке. Общий замороженный капитал в секторе DeFi снизился на 7% за последние 24 часа и составил $86 миллиардов.",
+    "url": "https://www.theblock.co/post/398028/layerzero-kelp-dao-lazarus?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-20T08:03:20.687900+00:00",
+    "awaiting_edit": false
+  },
+  "e03e19b7239f53c16604fb8bba315bd7": {
+    "title": "Polymarket может привлечь $400 миллионов",
+    "body": "Согласно отчету, Polymarket ищет привлечь $400 миллионов при оценке компании в $15 миллиардов. В октябре компании была присвоена пост-мани-валуация в $9 миллиардов после того, как Intercontinental Exchange согласилась инвестировать до $2 миллиардов. Это может указывать на дальнейший рост интереса к децентрализованным решениям в финансах.",
+    "url": "https://www.theblock.co/post/398022/polymarket-funding-15-billion-valuation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-20T08:03:23.912642+00:00",
+    "awaiting_edit": false
+  },
+  "52543c2ad9e082f279ba94ffd9e4a8d8": {
+    "title": "Высокий барьер для крипто-VENTURE",
+    "body": "Финансирование в крипто-секторе стало более трудным и требует высоких стандартов. Эксперты считают, что рынок стал более избирательным. Венчурное финансирование в крипто-сфере потеряло свою былую доступность.",
+    "url": "https://www.theblock.co/post/398015/the-funding-why-the-bar-for-crypto-vc-is-higher-than-ever?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-20T08:03:26.995838+00:00",
+    "awaiting_edit": false
   }
 }
