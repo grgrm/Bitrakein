@@ -1330,5 +1330,45 @@
     "source": "The Block",
     "timestamp": "2026-04-20T17:54:45.208853+00:00",
     "awaiting_edit": false
+  },
+  "9e1a7c62099c87e252edc55f32e0a795": {
+    "title": "Новая глава Банка Кореи по CBDC",
+    "body": "Новая глава Банка Кореи Шин Хён Сон заявил о планах推ить развитие цифровой валюты центрального банка (CBDC) и токенов депозитов. Ранее в ходе своего пребывания в БИС он критически относился к стейблкоинам. Шин Хён Сон теперь возглавляет Банк Кореи.",
+    "url": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T07:46:00.615152+00:00",
+    "awaiting_edit": false
+  },
+  "30818d06fabaa5bd3eba19284a8d149f": {
+    "title": "Заморожены 71 миллион долларов эфира",
+    "body": "Комиссия по безопасности Arbitrum заморозила 71 миллион долларов в эфирах, похищенных в результате взлома Kelp DAO. Замороженные средства будут перемещены только после дальнейших действий через систему управления Arbitrum.",
+    "url": "https://www.theblock.co/post/398212/arbitrum-freezes-eth-kelp-dao-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T07:46:03.732857+00:00",
+    "awaiting_edit": false
+  },
+  "6b22cb3c8f7465fe97884cd4c3d1a59c": {
+    "title": "Kelp DAO обвиняет LayerZero в уязвимости",
+    "body": "Kelp DAO возложила ответственность за уязвимость, которая привела к хакерскому взлому на $292 миллиона, на LayerZero. По словам Kelp DAO,LayerZero поставила 1-of-1 DVN настройку по умолчанию. Аave изучает сценарии плохих долгов.",
+    "url": "https://www.theblock.co/post/398204/kelp-dao-shifts-blame-layerzero?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T07:46:06.967390+00:00",
+    "awaiting_edit": false
+  },
+  "f205c50208b63813b8b07f39a2ac6e65": {
+    "title": "Законопроект о криптовалютах откладывается",
+    "body": "В Сенате США напряжение растет по поводу проведения слушаний по законопроекту о криптовалютах, который может быть перенесен на май. Законопроект касается структуры рынка криптовалют. Проводится работа по продвижению законодательства.",
+    "url": "https://www.theblock.co/post/398197/senate-crypto-bill-faces-april-setback?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T07:46:10.075108+00:00",
+    "awaiting_edit": false
+  },
+  "f37dc3c4c62821c0db83cb25ee678fc0": {
+    "title": "Bitwise и стратегия институциональных инвестиций",
+    "body": "Matt Hougan из Bitwise обсуждает влияние ETF, токенизации и институционального капитала на развитие криптовалют и следующий этап роста. Он рассказывает об ETF на основе Avalanche и стратегии привлечения институциональных инвесторов. Это может стать новым этапом в развитии криптовалютного рынка.",
+    "url": "https://www.theblock.co/post/398172/inside-bitwises-avalanche-etp-and-institutional-strategy-with-matt-hougan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T07:46:13.591720+00:00",
+    "awaiting_edit": false
   }
 }
