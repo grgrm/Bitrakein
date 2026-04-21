@@ -1410,5 +1410,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-21T11:58:27.399028+00:00",
     "awaiting_edit": false
+  },
+  "68e8ca352cffd64a2d157340156f130b": {
+    "title": "Kalshi запускает вечные фьючерсы",
+    "body": "Kalshi планирует расширить свою криптовалютную платформу, введя вечные фьючерсы. Компания будет конкурировать с другими крупными биржами, такими как Coinbase и Binance. Эта функция позволит пользователям торговать вечными фьючерсами и участвовать в прогнозировании результатов различных событий.",
+    "url": "https://www.theblock.co/post/398325/kalshi-take-on-exchanges-binance-hyperliquid-perpetual-futures-trading-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T17:58:17.082915+00:00",
+    "awaiting_edit": false
+  },
+  "eaa7cc482a6a10f04ce493fbe7badae8": {
+    "title": "Генпрокурор Нью-Йорка судится с Coinbase и Gemini",
+    "body": "Генпрокурор Нью-Йорка Летиция Джеймс подала в суд на Coinbase и Gemini, обвиняя их в незаконном предложении людям возможности ставить на события. Это связано с платформами предсказательных рынков. Судебный иск направлен против действий компаний без соответствующих лицензий.",
+    "url": "https://www.theblock.co/post/398329/new-york-attorney-general-sues-coinbase-gemini-prediction-markets-licensing?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T17:58:20.226048+00:00",
+    "awaiting_edit": false
+  },
+  "10316c80aa0ce3d3643566a210701b95": {
+    "title": "Доступ к платежным системам ФРС расширяется",
+    "body": "Законопроект PACE Act, представленный конгрессменами Сэмом Ликкардо и Янг Ким из Калифорнии, направлен на предоставление определенным поставщикам доступа к платежным системам Федеральной резервной системы. Этот шаг может расширить участие нетрадиционных финансовых институтов, включая криптовалютные компании, в банковской системе США. Законопроект получил поддержку от представителей криптовалютной индустрии.",
+    "url": "https://www.theblock.co/post/398319/bipartisan-pace-act-looks-open-fed-payment-rails-nonbanks-crypto-support?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T17:58:23.389458+00:00",
+    "awaiting_edit": false
+  },
+  "fb1f4d8616ebf1affc02e07dc5050763": {
+    "title": "DeFi сталкивается с проблемами безопасности",
+    "body": "Атака на Kelp DAO, в результате которой было украдено 292 миллиона долларов, привела к широкому обсуждению проблем безопасности в секторе DeFi. Это событие также вызвало массовый вывод средств с платформы Aave. Дебаты сосредоточены вокруг компромиссов в обеспечении безопасности в децентрализованных финансовых проектах.",
+    "url": "https://www.theblock.co/post/398280/industry-of-clowns-defi-grapples-security-tradeoffs-292m-kelp-dao-fallout?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T17:58:26.898260+00:00",
+    "awaiting_edit": false
+  },
+  "ffe68693451a5f4770b6ae1d33261aa0": {
+    "title": "Рост акций Circle достиг 30%",
+    "body": "Акции Circle выросли на 30% благодаря росту популярности стейблкоинов, опережая падение акций Coinbase. Это связано с различными бизнес-моделями криптокомпаний, которые реагируют на разные рыночные драйверы. Рост стейблкоинов стал основным фактором увеличения стоимости акций Circle.",
+    "url": "https://www.theblock.co/post/398141/circle-tops-crypto-stocks-with-30-gain-as-stablecoin-growth-outpaces-coinbase-slump?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T17:58:30.224685+00:00",
+    "awaiting_edit": false
   }
 }
