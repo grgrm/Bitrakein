@@ -1370,5 +1370,45 @@
     "source": "The Block",
     "timestamp": "2026-04-21T07:46:13.591720+00:00",
     "awaiting_edit": false
+  },
+  "f7e983b4b01a43ae2f541730382de48c": {
+    "title": "Кelp DAO начал вывод хакнутых средств",
+    "body": "Ванч журналы, связанные с хаком Kelp DAO на сумму примерно 292 миллиона долларов, начали переводить средства между блокчейнами после заморозки эфира на Arbitrum. Хакер продолжает обрабатывать украденные средства.",
+    "url": "https://www.theblock.co/post/398239/kelp-dao-exploiter-begins-moving-stolen-funds-across-chains-after-arbitrum-eth-freeze?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T11:58:14.264096+00:00",
+    "awaiting_edit": false
+  },
+  "b651a2f928ae7c1c452de6242a02a0d5": {
+    "title": "Мошенники требуют криптовалюту от кораблей",
+    "body": "Греческая фирма MARISKS, специализирующаяся на морских рисках, предупредила судоходные компании о мошенниках, которые требуют фиктивные сборы за проходимость Ормузского пролива в биткоинах или USDT. Отчет был опубликован агентством Reuters. Мошенники пытаются выманить криптовалюту у судов, находящихся в зоне Ормузского пролива.",
+    "url": "https://www.theblock.co/post/398233/scammers-demand-crypto-clearance-fees-from-ships-near-strait-of-hormuz-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T11:58:17.657017+00:00",
+    "awaiting_edit": false
+  },
+  "221b786c096f8df0482c3748bae8e5be": {
+    "title": "Япония тестирует блокчейн для гособлигаций",
+    "body": "Японская компания JSCC совместно с Mizuho и Nomura запустила тестирование передачи и управления японскими государственными облигациями на блокчейне Canton Network. Это prueba-of-concept направлена на изучение возможности использования блокчейна в государственном секторе. Тестирование будет проводиться в рамках более широкой инициативы по изучению потенциала технологии блокчейна.",
+    "url": "https://www.theblock.co/post/398228/japan-jscc-tests-blockchain-government-bonds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-21T11:58:20.876930+00:00",
+    "awaiting_edit": false
+  },
+  "5079429477157b2d09380f84fbcfd698": {
+    "title": "ИИ-дивиденды для граждан США",
+    "body": "Кандидат в Конгресс США Алекс Борес предложил программу прямых выплат гражданам, если автоматизация приведет к массовым увольнениям. Эта инициатива называется «ИИ-дивиденды». Цель программы - компенсировать потенциальные потери от внедрения искусственного интеллекта.",
+    "url": "https://forklog.com/news/ai/v-ssha-predlozhili-vyplachivat-ii-dividendy-grazhdanam",
+    "source": "ForkLog",
+    "timestamp": "2026-04-21T11:58:23.930134+00:00",
+    "awaiting_edit": false
+  },
+  "16e7e7c41b9cb38dd5fe7c3283c4dd89": {
+    "title": "Новый вид вымогательства в Ормузском проливе",
+    "body": "Неизвестные лица выдают себя за иранские власти и обещают судам безопасный проход через Ормузский пролив за оплату в биткоине или USDT. О новой схеме предупредила греческая компания по управлению морскими рисками Marksis. Эта схема вымогательства представляет собой новый вид киберпреступности, связанной с криптовалютой.",
+    "url": "https://forklog.com/news/zhurnalisty-uznali-o-novoj-sheme-vymogatelstva-bitkoina-za-prohod-cherez-ormuzskij-proliv",
+    "source": "ForkLog",
+    "timestamp": "2026-04-21T11:58:27.399028+00:00",
+    "awaiting_edit": false
   }
 }
