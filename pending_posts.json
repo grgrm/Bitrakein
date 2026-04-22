@@ -1450,5 +1450,45 @@
     "source": "The Block",
     "timestamp": "2026-04-21T17:58:30.224685+00:00",
     "awaiting_edit": false
+  },
+  "88883186cf0d2c1985a94638ec8251ae": {
+    "title": "Россия приняла криптовалютный законопроект",
+    "body": "Россия приняла в первом чтении законопроект, позволяющий использовать криптовалюты в иностранных экономических сделках. Для внутренних платежей использование криптовалют будет запрещено. Законопроект был рассмотрен в первом чтении.",
+    "url": "https://www.theblock.co/post/398402/russias-crypto-bill-first-reading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T07:29:18.824388+00:00",
+    "awaiting_edit": false
+  },
+  "8707956c5f86961afb135dfea5754de6": {
+    "title": "Судебный иск Джастина Сана против World Liberty",
+    "body": "Джастин Сан подал иск против World Liberty Financial из-за заморозки токенов WLFI и исключения из управления. По его словам, команда WLFI отказалась разморозить его токены. Это привело к решению обратиться в суд.",
+    "url": "https://www.theblock.co/post/398397/justin-sun-sues-world-liberty-financial?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T07:29:21.790389+00:00",
+    "awaiting_edit": false
+  },
+  "348caf2cd642d520e3bcc43b0c92633f": {
+    "title": "Эксплуатация Volo Protocol на базе Sui",
+    "body": "Платформа ликвидного стейкинга Volo, работающая на базе Sui, сообщила об эксплуатации, в результате которой злоумышленники получили примерно 3,5 миллиона долларов из хранилищ WBTC, XAUm и USDC. Команда Volo заявила, что примет меры для покрытия убытков. Эксплуатация была обнаружена и сообщена на сайте The Block.",
+    "url": "https://www.theblock.co/post/398393/sui-volo-protocol-exploited?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T07:29:24.957302+00:00",
+    "awaiting_edit": false
+  },
+  "b2c481ddaa2a4845c79b8e4a82a8ee7c": {
+    "title": "Взлом Kelp DAO: отмывание 80 млн долларов",
+    "body": "Эксплуатация Kelp DAO привела к отмыванию 80 миллионов долларов в ETH, в основном через сеть THORChain. Объем свопов на THORChain за 24 часа достиг 394 миллиона долларов, существенно превысив обычные дневные объемы.",
+    "url": "https://www.theblock.co/post/398382/kelp-dao-exploiter-launders-thorchain?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T07:29:27.998079+00:00",
+    "awaiting_edit": false
+  },
+  "ae914b9e959f2c1d73192fa679f50c72": {
+    "title": "Прогноз цены ETH обновлен до 250 000",
+    "body": "Эксперты с Etherealize прогнозируют цену эфира (ETH) на уровне 250 000 долларов, если Ethereum сможет добиться такого же премиума как и биткоин и золото. Это возможно только в том случае, если Ethereum станет значимым хранилищем ценностей. По мнению экспертов, для достижения этой цели Ethereum должно соответствовать критериям хранилища ценностей.",
+    "url": "https://www.theblock.co/post/398372/etherealize-updates-long-term-eth-price-prediction-250000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T07:29:31.284079+00:00",
+    "awaiting_edit": false
   }
 }
