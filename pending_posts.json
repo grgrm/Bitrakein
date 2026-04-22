@@ -1490,5 +1490,45 @@
     "source": "The Block",
     "timestamp": "2026-04-22T07:29:31.284079+00:00",
     "awaiting_edit": false
+  },
+  "5cb901b535057ec8466937a840894290": {
+    "title": "Gensyn запускает платформу Delphi",
+    "body": "Gensyn, компания, поддержанная a16z crypto, запустила платформу Delphi, которая использует искусственный интеллект для создания и решения рынков информации. Создатели рынков получают 1,5% от общего объема рынка в качестве комиссии при успешном урегулировании рынка. Эта платформа представляет собой новое направление в области криптовалют и децентрализованных финансов.",
+    "url": "https://www.theblock.co/post/398419/a16z-crypto-gensyn-delphi-ai-settled-information-markets-platform?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T11:57:53.506598+00:00",
+    "awaiting_edit": false
+  },
+  "a8d7ba35bf4d1dfe4de95eeee2d29aa4": {
+    "title": "Base запускает обновление Azul на тестнете",
+    "body": "Платформа Base, инкубированная компанией Coinbase, запустила обновление Azul на тестовой сети, введя функцию multiproofs для продвижения децентрализации. Это обновление является частью плана Base по достижению более высокого уровня децентрализации на стадии 2.",
+    "url": "https://www.theblock.co/post/398421/coinbase-incubated-base-launches-azul-testnet-upgrade-with-multiproofs-to-advance-decentralization?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T11:57:56.669277+00:00",
+    "awaiting_edit": false
+  },
+  "0f6e9ef2de07bd6f4d5f9ee13e9d39bd": {
+    "title": "UK инвесторы получают доступ к криптобумагам",
+    "body": "Stratiphy получила разрешение на IFISA, что позволяет инвесторам из Великобритании покупать криптовалютные ETN от 21Shares без уплаты налога. Это открывает доступ к налогово-бесплатному размещению криптовалютных активов через Innovative Finance ISA. Таким образом, британские розничные инвесторы могут теперь хранить эти активы без налоговых последствий.",
+    "url": "https://www.theblock.co/post/398415/uk-investors-regain-tax-free-access-to-crypto-etns-via-innovative-finance-isa-route?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T11:58:00.023708+00:00",
+    "awaiting_edit": false
+  },
+  "64e6e9dae03dbbd2b02b55ecf1ddf462": {
+    "title": "Биткоин вышел выше $78 000",
+    "body": "Биткоин поднялся выше $78 000 в начале среды, аналитики связывают этот рост с короткими сжатиями и притоком средств в ETF.",
+    "url": "https://www.theblock.co/post/398407/bitcoin-78000-escapes-extreme-fear?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-22T11:58:03.055100+00:00",
+    "awaiting_edit": false
+  },
+  "3a20286acb34d8d7ef172d636a0f65a1": {
+    "title": "Bitget Wallet интегрировал Polymarket",
+    "body": "Некастодиальный кошелек Bitget Wallet интегрировал платформу предсказаний Polymarket, предоставив пользователям доступ к торговле на рынках прогнозов. Кроме того, добавлена ИИ-аналитика для анализа этих рынков.",
+    "url": "https://forklog.com/news/bitget-wallet-integriroval-polymarket-i-dobavil-ii-analitiku-dlya-rynkov-prognozov",
+    "source": "ForkLog",
+    "timestamp": "2026-04-22T11:58:06.336651+00:00",
+    "awaiting_edit": false
   }
 }
