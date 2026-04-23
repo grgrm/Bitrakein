@@ -1570,5 +1570,45 @@
     "source": "The Block",
     "timestamp": "2026-04-22T17:59:02.052327+00:00",
     "awaiting_edit": false
+  },
+  "f6cf0bc22c8cfcae53852dfe5453c5bd": {
+    "title": "Узбекистан создал особую зону для майнинга",
+    "body": "Узбекистан launches специальную зону для криптовалютного майнинга с 10-летним налоговым отпуском, чтобы привлечь инвестиции, создать новые рабочие места и продвигать использование возобновляемых источников энергии в майнинге.",
+    "url": "https://www.theblock.co/post/398556/uzbekistan-launches-special-crypto-mining-zone?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T07:47:54.586226+00:00",
+    "awaiting_edit": false
+  },
+  "fb739ee6a8a24eeb7d0f309708a6e984": {
+    "title": "Сооснователь MetaMask покидает Consensys",
+    "body": "Сооснователь MetaMask Дэн Финлей объявил о своем уходе из компании Consensys. Финлей особенно выделнил запуск Advanced Permissions, который позволяет dApp-ам выполнять несколько транзакций от имени пользователя MetaMask.",
+    "url": "https://www.theblock.co/post/398544/metamask-dan-finlay-departure?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T07:47:57.581475+00:00",
+    "awaiting_edit": false
+  },
+  "76f650fb3d6b9e0ce5ccaad168932d7a": {
+    "title": "Сэм Бэнкман-Фрид отказался от запроса на новый суд",
+    "body": "Сэм Бэнкман-Фрид отозвал запрос на новый суд, указав, что не ожидает справедливого рассмотрения со стороны судьи Льюиса Каплана. Это решение было сообщено в письме судье Каплану. Новое решение связано с ходатайством о повторном судебном процессе.",
+    "url": "https://www.theblock.co/post/398527/sam-bankman-fried-withdraws-new-trial-motion-for-now-says-he-wont-get-fair-hearing-from-judge?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T07:48:01.124030+00:00",
+    "awaiting_edit": false
+  },
+  "df8b25f31daf6f69b9a70d05d45deba7": {
+    "title": "Губернатор Нью-Йорка запретил использование инсайдерской информации",
+    "body": "Губернатор Нью-Йорка Кэти Хохул подписала исполнительный приказ, запрещающий государственным служащим использовать инсайдерскую информацию для ставок на предикшн-рынки. Этот шаг вызван растущими опасениями по поводу ставок с использованием инсайдерской информации.",
+    "url": "https://www.theblock.co/post/398520/new-york-governor-hochul-targets-prediction-markets-concerns-insider-betting?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T07:48:04.247059+00:00",
+    "awaiting_edit": false
+  },
+  "5cab95143c458238f04035d67d048e0f": {
+    "title": "США используют биткоин в армии",
+    "body": "Американские военные используют биткоин-ноду для мониторинга сети и операционных тестов в сфере киберзащиты. Главной Индо-Тихоокеанского командования США адмирал Сэмюэль Папаро сообщил об этом во время слушаний Комитета Палаты представителей США по вопросам вооруженных сил. Конгрессмен Лэнс Гуден поинтересовался у Папаро о роли биткоина в этом контексте.",
+    "url": "https://incrypted.com/admiral-ssha-rasskazal-ob-ispolzovanii-bitkoina-v-armii/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-23T07:48:07.249324+00:00",
+    "awaiting_edit": false
   }
 }
