@@ -1650,5 +1650,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-23T11:58:06.410799+00:00",
     "awaiting_edit": false
+  },
+  "3f337c3bf90bae8610c0ca77a1648a5b": {
+    "title": "Bitmine стейкнул 70% эфира",
+    "body": "Bitmine стейкнул примерно 3,5 миллиона эфира, стоимость которого превышает 8 миллиардов долларов, из своих 5,08 миллиона эфира. Это связано с последним вложением в размере 320 миллионов долларов. Теперь компания стейкнула более 70% своих активов в эфире.",
+    "url": "https://www.theblock.co/post/398612/bitmines-ether-staking-passes-70-holdings-latest-320-million-push?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T18:04:05.173245+00:00",
+    "awaiting_edit": false
+  },
+  "8f3a6a3e549f6f7caa6bd9a07bf596fb": {
+    "title": "Сенатор Камбоджи под санкциями США",
+    "body": "США ввели санкции против сенатора Камбоджи, подозреваемого в причастности к криптовалютным мошенничествам. Было конфисковано более 500 веб-доменов, использовавшихся для мошеннических инвестиционных схем с криптовалютой.",
+    "url": "https://www.theblock.co/post/398658/us-sanctions-cambodian-senator-alleged-behind-crypto-scam-centers-crackdown-widens?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T18:04:08.346187+00:00",
+    "awaiting_edit": false
+  },
+  "0e23e4c13a908db7be55dec1f01b5453": {
+    "title": "Биткоин стоит перед тестом в 80 000 долларов",
+    "body": "Аналитики отмечают, что рост курса биткоина все еще сталкивается с испытаниями в виде продажи по прибыли, макроэкономических рисков и переполненных зон сопротивления. Инвесторы, включая китанов и инвесторов в ETF, покупают биткоин на фоне волатильности.",
+    "url": "https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T18:04:11.988207+00:00",
+    "awaiting_edit": false
+  },
+  "b9ac853f84051a24b9e184dc5301c188": {
+    "title": "JPMorgan: взломы DeFi лимитируют институциональный интерес",
+    "body": "JPMorgan отметил, что постоянные хакерские атаки в секторе DeFi, а также стагнация общего заблокированного капитала (TVL), продолжают ограничивать интерес институциональных инвесторов. Это, по мнению аналитиков, приводит к уходу средств из DeFi в favour более стабильных активов, таких как USDT от Tether. Это снижает привлекательность DeFi для крупных инвесторов.",
+    "url": "https://www.theblock.co/post/398611/jpmorgan-defi-exploits-stagnant-tvl-limit-institutional-appeal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T18:04:15.269979+00:00",
+    "awaiting_edit": false
+  },
+  "d369a0223420e661c5c78edf63605db6": {
+    "title": "Tether заморозил $344 млн USDT",
+    "body": "Tether заморозил $344 млн USDT на блокчейне Tron по требованию американских властей. Эта заморозка стала одной из крупнейших в истории. Она была осуществлена в сотрудничестве с OFAC и правоохранительными органами США.",
+    "url": "https://www.theblock.co/post/398599/tether-freezes-344-million-in-usdt-on-tron-after-wallets-flagged-by-u-s-authorities?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-23T18:04:19.546229+00:00",
+    "awaiting_edit": false
   }
 }
