@@ -1770,5 +1770,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-24T11:55:04.626523+00:00",
     "awaiting_edit": false
+  },
+  "42d86b07e7813ce9b110d7f5fabef9ed": {
+    "title": "США наложили санкции на иранские кошельки",
+    "body": "США наложили санкции на несколько криптовалютных кошельков, связанных с Ираном, включая адреса, на которых были заморожены активы на сумму 344 миллиона долларов криптовалютой Tether. Этот шаг последовал за заморозкой Tether средств на сумму 344 миллиона долларов в USDT, которые теперь связаны с Ираном. Санкции были введены в рамках усилий по борьбе с иранской деятельностью.",
+    "url": "https://www.theblock.co/post/398847/us-sanctions-iran-linked-crypto-wallets-addresses-344-million-frozen-tether-cnn?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T17:47:22.868378+00:00",
+    "awaiting_edit": false
+  },
+  "c6d39beed4dc234b50e94373d94b2581": {
+    "title": "Теннесси запретил крипто-АТМ на территории штата",
+    "body": "Законодатели Теннесси одобрили законопроект о запрете крипто-АТМ на территории штата, распространяя ответственность не только на операторов машин, но и на бизнес, который их размещает. Этот шаг был предпринят в рамках борьбы с мошенничеством. Теннесси стал вторым штатом после Индианы, где был введен подобный запрет.",
+    "url": "https://www.theblock.co/post/398800/tennessee-bans-crypto-atms-statewide-joining-indiana-fraud-crackdown?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T17:47:26.301360+00:00",
+    "awaiting_edit": false
+  },
+  "0bd952447fe0ab497c03ca89b07dbe46": {
+    "title": "DOJ прекращает расследование против Джерома Пауэлла",
+    "body": "Министерство юстиции США закрыло уголовное расследование в отношении председателя Федеральной резервной системы Джерома Пауэлла, что может открыть путь для утверждения Кевина Уорша, дружественного к криптовалюте, на эту должность. Ранее расследование могло помешать утверждению нового руководителя. Теперь Сенат может рассмотреть кандидатуру Кевина Уорша.",
+    "url": "https://www.theblock.co/post/398836/doj-drops-probe-into-jerome-powell-paving-the-way-for-crypto-friendly-kevin-warsh-to-lead-fed?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T17:47:29.311602+00:00",
+    "awaiting_edit": false
+  },
+  "3dc89bf320f67a5157adbca1b4f1c0e9": {
+    "title": "Chainlink на платформе AWS Marketplace",
+    "body": "AWS Marketplace добавил поддержку стандартов данных Chainlink, позволяя разработчикам соединять традиционные вычислительные сервисы с блокчейном. Это позволит институтам использовать знакомые инструменты AWS при подключении к блокчейн. Благодаря этому решению, разработчики смогут создавать более безопасные и масштабируемые приложения.",
+    "url": "https://www.theblock.co/post/398820/aws-marketplace-integrates-chainlink?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T17:47:32.353020+00:00",
+    "awaiting_edit": false
+  },
+  "2e1491d3dff06fe60bdc4a01335cc535": {
+    "title": "Ethereum Foundation продает 24 млн долларов ETH",
+    "body": "Ethereum Foundation продала около 24 миллионов долларов в ETH компании Bitmine, принадлежащей Тому Ли. Ранее в этом месяце Bitmine уже купила 5,000 ETH на сумму около 10 миллионов долларов. Эти сделки указывают на значительныйinterest к криптовалюте со стороны инвесторов.",
+    "url": "https://www.theblock.co/post/398819/ethereum-foundation-sells-nearly-24-million-of-eth-to-tom-lees-bitmine?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T17:47:35.464170+00:00",
+    "awaiting_edit": false
   }
 }
