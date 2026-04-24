@@ -1690,5 +1690,45 @@
     "source": "The Block",
     "timestamp": "2026-04-23T18:04:19.546229+00:00",
     "awaiting_edit": false
+  },
+  "8031dc4c48fbd28fd61d53b60bcd20dc": {
+    "title": "Mantle предложил кредит в 30 000 ETH",
+    "body": "Команда Mantle предложила предоставить кредит в размере до 30 000 ETH для решения проблемы坏ых долгов на платформе Aave, возникшей из-за эксплойта Kelp. Этот кредит, по мнению команды, не только позволит решить проблему долгов, но и принесет доход и укрепит отношения между Mantle и Aave.",
+    "url": "https://www.theblock.co/post/398735/mantle-proposes-30000-eth-loan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T07:59:17.437987+00:00",
+    "awaiting_edit": false
+  },
+  "65f4d8931592dd9ce967ac409e634e6c": {
+    "title": "Metaplanet выпускает облигации для покупки биткоина",
+    "body": "Metaplanet выпустила облигации на сумму 50 миллионов долларов под нулевой процентную ставку для покупки дополнительного количества биткоина. В первом квартале этого года Metaplanet приобрела 5075 BTC, доведя общее количество биткоинов до 40177 BTC на 31 марта.",
+    "url": "https://www.theblock.co/post/398740/metaplanet-issues-bonds-bitcoin?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T07:59:20.452265+00:00",
+    "awaiting_edit": false
+  },
+  "13f552c591f532ef6d8ec7d64add1ade": {
+    "title": "DOJ арестовала солдата за ставки на Polymarket",
+    "body": "DOJ арестовала американского солдата, которого обвиняют в использовании секретной информации для размещения ставок на рынке предсказаний Polymarket, в частности, на возможный захват Николаса Мадуро. Солдат использовал данную информацию для личной выгоды. Это дело демонстрирует возможное взаимодействие между традиционными структурами власти и децентрализованными рынками предсказаний.",
+    "url": "https://www.theblock.co/post/398725/doj-arrests-us-soldier-polymarket-maduros?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T07:59:23.445719+00:00",
+    "awaiting_edit": false
+  },
+  "435e2535a6ab614657fb48a3ee4367e8": {
+    "title": "Jane Street просит суд отклонить иск Terraform Labs",
+    "body": "Terraform Labs обвинила Jane Street в содействии краху стейблкоина UST/LUNA через инсайдерскую торговлю. Теперь Jane Street обратилась в суд с просьбой отклонить этот иск. Этот конфликт связан с громким событием в крипто-индустрии.",
+    "url": "https://www.theblock.co/post/398713/jane-street-asks-court-dismiss-terraform-labs-insider-trading-lawsuit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T07:59:26.736158+00:00",
+    "awaiting_edit": false
+  },
+  "944da35acca1de9ba236730a5250617a": {
+    "title": "Bitcoin ETF привлекает средства",
+    "body": "Глобальный руководитель ETF в BNY Asset Servicing Бен Славин заявил, что за год средства, привлеченные Bitcoin ETF, стали положительными. Это означает, что после периода оттока средств, ETF на основе биткоина вновь начали привлекать инвестиции.",
+    "url": "https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-24T07:59:29.630929+00:00",
+    "awaiting_edit": false
   }
 }
