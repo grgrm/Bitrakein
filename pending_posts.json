@@ -1882,5 +1882,29 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-25T11:35:48.482204+00:00",
     "awaiting_edit": false
+  },
+  "4fedb86e20a2d756a09cf0a0bd5b4b5a": {
+    "title": "Aave просит Arbitrum DAO разморозить 71 млн долларов",
+    "body": "Aave, Kelp и LayerZero обратились к Arbitrum DAO с просьбой разморозить 71 миллион долларов в ETH, чтобы использовать их в рамках усилий по восстановлению rsETH. Процесс принятия решений в Arbitrum DAO занимает примерно 49 дней. Это время некоторые делегаты считают слишком длинным.",
+    "url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-25T17:35:11.903312+00:00",
+    "awaiting_edit": false
+  },
+  "a6fbfca73930ebf375d2861334cf71d7": {
+    "title": "Трейдеры отвергают мемкоин TRUMP",
+    "body": "Трейдеры криптовалют начинают терять интерес к мемкоину TRUMP, связанному с бывшим президентом США Дональдом Трампом. Эта тенденция указывает на изменение предпочтений инвесторов в рынке криптовалют. Детали этой тенденции и причины, по которым трейдеры отвергают TRUMP, можно найти в соответствующем материале.",
+    "url": "https://99bitcoins.com/news/altcoins/crypto-traders-turning-on-trump-memecoin/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-04-25T17:35:15.527334+00:00",
+    "awaiting_edit": false
+  },
+  "741abbf9099587726a8d37d305880e0e": {
+    "title": "Биткоин достиг максимальной цены с января",
+    "body": "Аналитики VanEck считают, что восстановление хэш-рейта и отрицательные ставки финансирования сигнализируют о потенциальных будущих ростах. Это следует из последнего анализа сети.bitcoin. По мнению аналитиков, биткоин имеет потенциал для дальнейших повышений.",
+    "url": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
+    "source": "Decrypt",
+    "timestamp": "2026-04-25T17:35:18.764825+00:00",
+    "awaiting_edit": false
   }
 }
