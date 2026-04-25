@@ -1850,5 +1850,37 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-25T07:11:50.896615+00:00",
     "awaiting_edit": false
+  },
+  "2729d7de687301e1f674b3d084a5bc55": {
+    "title": "Bitget объединяет крипту и Forex",
+    "body": "Криптобиржа Bitget начала интегрировать свои услуги с рынком Forex, используя технологии нейросетей. Это направлено на расширение функционала биржи и превращение ее в глобальную финансовую платформу. Эта интеграция позволяет пользователям доступ к более широкому спектру финансовых инструментов.",
+    "url": "https://forklog.com/news/zachem-bitget-skrestil-kriptu-forex-i-nejroseti",
+    "source": "ForkLog",
+    "timestamp": "2026-04-25T11:35:39.937424+00:00",
+    "awaiting_edit": false
+  },
+  "9e24f0ce4d638e9baa4f3877ed3b8ea5": {
+    "title": "Хардфорк биткоина и eCash анонсированы",
+    "body": "Биткоин-разработчик Пол Шторц объявил о запуске хардфорка сети первой криптовалюты под названием eCash, который запланирован на август 2026 года. Разработчик также упомянул о распределении монет Сатоши.",
+    "url": "https://forklog.com/news/razrabotchik-anonsiroval-hardfork-bitkoina-i-raspredelenie-monet-satoshi",
+    "source": "ForkLog",
+    "timestamp": "2026-04-25T11:35:42.785425+00:00",
+    "awaiting_edit": false
+  },
+  "e7da84810a45a3457d51ab4f5984ab0a": {
+    "title": "Инвестиции в DeFi-сектор",
+    "body": "За неделю с 18 по 25 апреля 2026 года было зафиксировано 16 раундов финансирования, из которых 12 раскрыли сумму инвестиций, общая сумма которых составила $222 млн. Кредитная линия и гранты для Drift Protocol составили $150 млн. Вторая значительная сделка - венчурное финансирование на $72 млн.",
+    "url": "https://incrypted.com/follow-the-money-spasenye-drift-protocol-skromnyj/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-25T11:35:45.737643+00:00",
+    "awaiting_edit": false
+  },
+  "2e9366e08d4f84a3637554e5854ddbe8": {
+    "title": "Биткоин-ETF привлекли почти $980 млн",
+    "body": "За период с 20 по 24 апреля 2026 года спотовые биткоин-ETF привлекли $823,7 млн, Ethereum-ETF — $155,01 млн. Это четвертая и третья \"зеленая\" неделя соответственно для биткоин-ETF и Ethereum-ETF. Максимальный приток был зафиксирован 22 апреля 2026 года — $335,82 млн.",
+    "url": "https://incrypted.com/za-nedelju-spotovye-bytkoyn-y-ethereum-etf-pryvlekly-pochty-980-mln/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-25T11:35:48.482204+00:00",
+    "awaiting_edit": false
   }
 }
