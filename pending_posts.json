@@ -1906,5 +1906,29 @@
     "source": "Decrypt",
     "timestamp": "2026-04-25T17:35:18.764825+00:00",
     "awaiting_edit": false
+  },
+  "873161dc52fdb4ac14645840e48c00e2": {
+    "title": "Litecoin устраняет уязвимость слоя конфиденциальности",
+    "body": "Атакующие использовали трехчасовое окно форка для попыток двойных трат в протоколах перекрестных обменов. Разработчики Litecoin внесли изменения, чтобы аннулировать последствия атаки. Это первый серьезный эксплойт слоя конфиденциальности сети Litecoin.",
+    "url": "https://www.theblock.co/post/398892/litecoin-rewrites-three-hours-of-history-to-undo-its-first-major-privacy-layer-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-26T07:25:30.093868+00:00",
+    "awaiting_edit": false
+  },
+  "f940226ebbe6e2a804120a77c188ce2e": {
+    "title": "Реорганизация блоков в Litecoin",
+    "body": "В сети Litecoin произошла глубокая реорганизация блоков из-за ошибки нулевого дня, которую воспользовались злоумышленники. Это событие произошло 25 апреля.",
+    "url": "https://forklog.com/news/v-litecoin-proveli-reorganizatsiyu-blokov-iz-za-oshibki-nulevogo-dnya",
+    "source": "ForkLog",
+    "timestamp": "2026-04-26T07:25:34.303439+00:00",
+    "awaiting_edit": false
+  },
+  "364b6cd84aebdca00df3b2b7c51c02fb": {
+    "title": "Квантовый взлом за 1 BTC награжден",
+    "body": "Исследовательская компания Project Eleven выплатила 1 BTC независимому исследователю Джанкарло Лелли за взлом 15-битного ключа эллиптической криптографии с помощью квантового компьютера. Это было сделано в рамках инициативы Q-Day Prize. Джанкарло Лелли смог взломать ключ на публично доступном квантовом оборудовании.",
+    "url": "https://incrypted.com/project-eleven-vyplatyla-1-btc-za-kvantovyj-vzlom-v-ramkah-ynytsyatyvy-q-day-prize/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-04-26T07:25:37.229497+00:00",
+    "awaiting_edit": false
   }
 }
