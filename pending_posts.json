@@ -2010,5 +2010,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-27T08:20:02.785466+00:00",
     "awaiting_edit": false
+  },
+  "dda18c326630a5178b3a5d15830c873b": {
+    "title": "Michael Saylor покупает еще биткоин",
+    "body": "Компания Michael Saylor добавила 3,273 биткоина за $255 миллионов, увеличив свои запасы до 818,334 BTC. Это составляет 3.9% от общего объема биткоина в 21 миллион. Собственность биткоина оценивается примерно в $63.7 миллиарда.",
+    "url": "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T12:18:49.136026+00:00",
+    "awaiting_edit": false
+  },
+  "e35394f9beb2bad6d6fb8b9dd98a99d0": {
+    "title": "Новая модель возврата долгов в DeFi",
+    "body": "Основатель Curve Майкл Егоров предложил рыночную модель возврата проблемных долгов в рынках DeFi-кредитования. Это предложение было сделано на фоне обсуждения инцидента с KelpDAO. Модель основана на рыночных механизмах, а не на государственных вмешательствах.",
+    "url": "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T12:18:52.649910+00:00",
+    "awaiting_edit": false
+  },
+  "a98ed3cd578b043531fdd57b57ba712b": {
+    "title": "Французские власти обвиняют 88 человек",
+    "body": "Французские власти обвинили 88 человек в связях с атаками на владельцев криптовалют. Власти призвали держателей криптовалют быть бдительными и избегать раскрытия информации о себе в социальных сетях, чтобы не стать мишенями. Атакам подвергались владельцы криптовалют.",
+    "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T12:18:55.697241+00:00",
+    "awaiting_edit": false
+  },
+  "2eda9440c6933e8e9973353242cdfc23": {
+    "title": "Биткоин лидирует в притоке средств",
+    "body": "За неделю в крипто-фонды поступило 1,2 миллиарда долларов, благодаря растущему спросу институциональных инвесторов, движимому ростом биткоина. Это указывает на восстановление интереса к криптовалютам. Bitcoin лидирует в притоке средств в крипто-фонды.",
+    "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T12:18:59.148822+00:00",
+    "awaiting_edit": false
+  },
+  "dd23621dd5b23144545da2e7a766a335": {
+    "title": "Luxor инвестирует в MicroBT",
+    "body": "Luxor заключила соглашение на покупку оборудования для майнинга от MicroBT на сумму 100 миллионов долларов. MicroBT, в свою очередь, планирует инвестировать в Luxor. Сделка предполагает приобретение rigов MicroBT WhatsMiner.",
+    "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T12:19:02.224570+00:00",
+    "awaiting_edit": false
   }
 }
