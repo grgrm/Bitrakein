@@ -1970,5 +1970,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-04-26T17:36:15.167323+00:00",
     "awaiting_edit": false
+  },
+  "f6b320a3f919931001a4aec551ed220c": {
+    "title": "Ripple тестирует переводы через границы",
+    "body": "KBank и Ripple завершили первый этап испытаний системы денежных переводов через границы, проверив приложение для кошелька. Система использует blockchain от Ripple.",
+    "url": "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T08:19:51.002112+00:00",
+    "awaiting_edit": false
+  },
+  "95b9ff8e09849d36970b8ac8a2b2a19a": {
+    "title": "Western Union запускает стейблкоин",
+    "body": "Western Union планирует запустить стейблкоин в следующем месяце, а также разработать \"Stable Card\" для глобальных потребителей. Компания также создаст сеть, соединяющую цифровые кошельки с существующей розничной инфраструктурой. Это позволит использовать стейблкоин для платежей через новую карту.",
+    "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T08:19:53.867105+00:00",
+    "awaiting_edit": false
+  },
+  "ecb32fbb46ccd05c9ebe1a3d82b40c88": {
+    "title": "Биткоин растет выше 79 тыс.",
+    "body": "Цена биткоина поднялась выше 79 000 долларов. Индекс страха и жадности в криптовалютном рынке увеличился до 47, перейдя в зону \"Нейтральности\" с отметки 12 в зоне \"Крайнего страха\" в прошлом месяце. Азиатские фондовые рынки также демонстрируют рост.",
+    "url": "https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T08:19:56.855016+00:00",
+    "awaiting_edit": false
+  },
+  "b4c647e81145d24d40d04b1206e09872": {
+    "title": "Полимаркет: 3% трейдеров генерируют цену",
+    "body": "Исследование, анализирующее все сделки на Polymarket между 2023 и 2025 годами, показало, что примерно 3% аккаунтов генерируют основную часть обнаружения цены. Это означает, что небольшая часть трейдеров на платформе отвечает за формирование цен. Остальные участники рынка в основном финансируют их прибыль.",
+    "url": "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-27T08:19:59.906906+00:00",
+    "awaiting_edit": false
+  },
+  "6df5ffaa271636ccba1c6a41de6f1bf7": {
+    "title": "Ученые усомнились в Polymarket",
+    "body": "Исследователи из Лондонской школы бизнеса и Йельского университета проанализировали транзакции на Polymarket с 2023 по 2025 год и опубликовали свои результаты. Они изучали работу платформы, которая позволяет пользователям делать прогнозы на различные события. Результаты исследования доступны в соответствующей статье.",
+    "url": "https://forklog.com/news/issledovateli-usomnilis-v-mudrosti-tolpy-na-polymarket",
+    "source": "ForkLog",
+    "timestamp": "2026-04-27T08:20:02.785466+00:00",
+    "awaiting_edit": false
   }
 }
