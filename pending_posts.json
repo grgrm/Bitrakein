@@ -2170,5 +2170,45 @@
     "source": "ForkLog",
     "timestamp": "2026-04-28T12:23:10.725266+00:00",
     "awaiting_edit": false
+  },
+  "7806809d73aef047f42abef3e98587b2": {
+    "title": "CFTC подала иск против Висконсина",
+    "body": "Комиссия по торговле товарными фьючерсами (CFTC) подала иск против губернатора и других правительственных чиновников Висконсина, таким образом отреагировав на действия штата в области надзора за рынками прогнозирования. Этот шаг обостряет конфликт между федеральными и штатными органами власти. Иск является ответной мерой на действия Висконсина.",
+    "url": "https://www.theblock.co/post/399253/cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T18:15:04.496504+00:00",
+    "awaiting_edit": false
+  },
+  "1a077d9bc89cd3b1787bcf8464b94182": {
+    "title": "Polymarket возвращает основную биржу в США",
+    "body": "Биржа Polymarket изучает возможность возвращения своей основной биржи в Соединенные Штаты, сообщает Bloomberg. Для этого она ведет переговоры с Комиссией по товарным фьючерсам (CFTC). Это может означать расширение присутствия биржи на американском рынке.",
+    "url": "https://www.theblock.co/post/399234/polymarket-eyes-return-main-exchange-us-in-talks-cftc-bloomberg?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T18:15:07.873985+00:00",
+    "awaiting_edit": false
+  },
+  "72124bcd590039ebea65ffa335d2e1a7": {
+    "title": "Galaxy сообщает убыток в $216 млн",
+    "body": "Компания Galaxy Digital сообщила об убытке в размере $216 млн в первом квартале. По словам Майкла Новогратца, бизнес компании по созданию дата-центров приближается к точке инфлексии, и ожидается рост доходов во втором квартале.",
+    "url": "https://www.theblock.co/post/399181/galaxy-216-million-q1-loss-crypto-transition-year-novogratz-bullish-data-centers?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T18:15:10.983931+00:00",
+    "awaiting_edit": false
+  },
+  "58d0215a3de9dc0ad2fd648c05e530c2": {
+    "title": "Платформа Nuva получила 5,2 млн долларов",
+    "body": "Платформа Nuva, рынок токенизированных реальных активов, собрала 5,2 миллиона долларов в рамках финансирования семи. Платформа направлена на соединение эмитентов и пользователей для получения дохода. Платформа была инкубирована компанией Animoca.",
+    "url": "https://www.theblock.co/post/399222/rwa-yield-platform-nuva-animoca-seed-funding?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T18:15:13.910760+00:00",
+    "awaiting_edit": false
+  },
+  "82d813f2f0a4f7b80fe32df498e29cb4": {
+    "title": "RailsX запускает торги на Lightning",
+    "body": "Amboss запустил платформу RailsX для обмена биткоином и стейблкоинами на сети Lightning. Платформа предлагает торги парами USDT-L и USDC-L от Speed Wallet, при этом пользователи сохраняют полный контроль над своими приватными ключами.",
+    "url": "https://www.theblock.co/post/399134/amboss-launches-railsx-for-self-custodial-bitcoin-and-stablecoin-trading-on-lightning?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T18:15:17.009695+00:00",
+    "awaiting_edit": false
   }
 }
