@@ -2130,5 +2130,45 @@
     "source": "The Block",
     "timestamp": "2026-04-28T08:22:29.706531+00:00",
     "awaiting_edit": false
+  },
+  "22d9e02ebce9275a6fdd8e9b5d008c2b": {
+    "title": "SEC рассматривает предложение NYSE Arca по крипто-ETF",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) ищет общественные комментарии к предложению NYSE Arca, которое требует, чтобы 85% активов доверительного фонда, основанного на криптовалютных активах, соответствовали существующим правилам листинга. Это предложение касается листинга криптовалютных биржевых фондов (ETF).",
+    "url": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T12:22:58.450919+00:00",
+    "awaiting_edit": false
+  },
+  "0010413bcf0a641a00e8c4ca6f025cbb": {
+    "title": "Bitcoin ETF: отток средств после девяти дней",
+    "body": "Отток средств из ETF, связанных с биткоином, прекратил девятидневную серию перед важной встречей ФРС. Это происходит на фоне проверки рыночного настроения вблизи уровня $77,000. Аналитики оценивают текущее состояние рынка, учитывая макроэкономические и геополитические факторы.",
+    "url": "https://www.theblock.co/post/399129/bitcoin-etf-outflows-snap-nine-day-streak-ahead-of-fomc-as-market-tests-resolve-near-77000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-28T12:23:01.754676+00:00",
+    "awaiting_edit": false
+  },
+  "ec11f5fbc8dde849c46bd40d0a4e75cf": {
+    "title": "Израиль разрешает стейблкоин с привязкой к шекелю",
+    "body": "Управление рынков капитала Израиля выдало лицензию на выпуск стейблкоина, привязанного к шекелю. Это первый такой случай в стране. Лицензия была выдана в соответствии с текущим законодательством.",
+    "url": "https://forklog.com/news/izrail-razreshil-vypusk-stejblkoina-s-privyazkoj-k-shekelyu",
+    "source": "ForkLog",
+    "timestamp": "2026-04-28T12:23:04.746677+00:00",
+    "awaiting_edit": false
+  },
+  "c6af04b5f45021273aad3f6456550c9f": {
+    "title": "Strategy купила 3273 BTC",
+    "body": "Компания Strategy приобрела 3273 BTC стоимостью $255 млн с 20 по 26 апреля. Средняя цена покупки составила $77 906 за монету.",
+    "url": "https://forklog.com/news/strategy-kupila-3273-btc-na-255-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-04-28T12:23:07.691216+00:00",
+    "awaiting_edit": false
+  },
+  "b719af61172c3ad6f4b4c311bf6df3bb": {
+    "title": "Gemini запускает ИИ-трейдинг",
+    "body": "Криптобиржа Gemini ввела функцию Agentic Trading, позволяющую подключать ИИ-модели к торговым счетам. Это позволяет ИИ-агентам торговать криптовалютой напрямую с биржи. Функция поддерживает модели seperti Claude и ChatGPT.",
+    "url": "https://forklog.com/news/ai/gemini-razreshila-ii-agentam-torgovat-kriptovalyutoj-napryamuyu-s-birzhi",
+    "source": "ForkLog",
+    "timestamp": "2026-04-28T12:23:10.725266+00:00",
+    "awaiting_edit": false
   }
 }
