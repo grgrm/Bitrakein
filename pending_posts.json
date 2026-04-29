@@ -2290,5 +2290,45 @@
     "source": "The Block",
     "timestamp": "2026-04-29T12:15:05.363912+00:00",
     "awaiting_edit": false
+  },
+  "86fe663cbe19ffc546f2e5046ca51f2f": {
+    "title": "Основатель Celsius оштрафован на 10 млн",
+    "body": "Основатель Celsius Алекс Машински достиг соглашения с Федеральной торговой комиссией (FTC) на сумму 10 миллионов долларов, при этом большая часть приговора была отсрочена. Машински также получил пожизненный запрет на работу в криптовалютной индустрии. Это решение связано с деятельностью Celsius.",
+    "url": "https://www.theblock.co/post/399421/celsius-founder-alex-mashinsky-hit-4-7-billion-ftc-judgement-lifetime-crypto-ban?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T18:10:08.116186+00:00",
+    "awaiting_edit": false
+  },
+  "f03e8d418614816b7b739a2712dd3600": {
+    "title": "Неisclosed £5 млн от акционера Tether",
+    "body": "Акционер Tether, Кристофер Харборн, сделал не раскрытый ранее подарок в £5 млн Нигелю Фаражу, что вызвало вопросы о финансировании Reform UK. Харборн уже пожертвовал более £12 млн этой партии.",
+    "url": "https://www.theblock.co/post/399391/tether-stakeholder-undisclosed-5-million-gift-farage-reform-uk-funding-scrutiny?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T18:10:11.297655+00:00",
+    "awaiting_edit": false
+  },
+  "5231e2b374bbd9411c0213efa8284df8": {
+    "title": "Visa расширяет пилот stablecoin",
+    "body": "Visa добавила пять новых блокчейнов к своему пилоту по расчетам с помощью стейблкоинов, объем расчетов которого вырос до 7 миллиардов долларов в год. Это увеличение на 50% по сравнению с предыдущим кварталом. Список блокчейнов, участвующих в пилоте, теперь составляет девять.",
+    "url": "https://www.theblock.co/post/399405/visa-stablecoin-settlement-hits-7-billion-run-rate-pilot-expands-nine-blockchains?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T18:10:14.526260+00:00",
+    "awaiting_edit": false
+  },
+  "05c6791e3cb31b5f8c3708567df70a6f": {
+    "title": "Партнерство Securitize и Computershare",
+    "body": "Securitize и Computershare заключили соглашение, чтобы bringen больше американских акций в блокчейн через токенизацию. Это может стать значительным шагом для токенизации активов. Соглашение предполагает включение токенизации в слой владения.",
+    "url": "https://www.theblock.co/post/399390/tokenize-world-securitize-computershare-to-bring-more-stocks-onchain?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T18:10:17.721326+00:00",
+    "awaiting_edit": false
+  },
+  "878ef42162d49ffee41ef87b3c52a41b": {
+    "title": "MoonPay приобретает Sodot и запускает новый бизнес",
+    "body": "MoonPay приобрела компанию Sodot, специализирующуюся на управлении криптовалютными ключами, и запускает новый бизнес, ориентированный на банки, управляющих активами и торговых фирм. Новое подразделение будет возглавлять бывший исполняющий обязанности председателя Комиссии по товарным фьючерсам (CFTC) Кэролин Фам. Это расширение направлено на работу с учреждениями.",
+    "url": "https://www.theblock.co/post/399398/moonpay-acquires-crypto-key-manager-sodot-launches-institutional-business-led-by-former-cftc-acting-chair?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T18:10:20.982515+00:00",
+    "awaiting_edit": false
   }
 }
