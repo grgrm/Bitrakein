@@ -2250,5 +2250,45 @@
     "source": "The Block",
     "timestamp": "2026-04-29T08:12:40.414311+00:00",
     "awaiting_edit": false
+  },
+  "1b09a26a3c1cb5d39da13ce9c38a07b4": {
+    "title": "Tokenизированные казначейские облигации для бизнеса",
+    "body": "Компания Stable Sea сотрудничает с WisdomTree, чтобы предоставить малым и средним предприятиям доступ к токенизированным казначейским облигациям. Цель WisdomTree - стать стандартом для \"денег на хранении\" в пространстве блокчейна. Это сотрудничество направлено на расширение возможностей для небольшого и среднего бизнеса.",
+    "url": "https://www.theblock.co/post/399349/stable-sea-taps-wisdomtree-tokenized-treasurys-businesses?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T12:14:52.520978+00:00",
+    "awaiting_edit": false
+  },
+  "48fbd113c7e018ee91762250d1815f58": {
+    "title": "DeFi не сломлена, а только согнута",
+    "body": "Банк Standard Chartered считает, что эпизод с rsETH не помешает достижению рынка DeFi размером 2 триллиона долларов. Банк оценивает текущую стоимость спасения DeFi в excess 300 миллионов долларов и ожидает укрепления структуры рынка. Это усиление рынка должно привести к долгосрочному росту.",
+    "url": "https://www.theblock.co/post/399355/defi-bent-not-broken-standard-chartered-says-rseth-episode-wont-derail-path-to-2t-rwa-market?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T12:14:55.731984+00:00",
+    "awaiting_edit": false
+  },
+  "240a75b6328a9d10ad7a16922f0f1267": {
+    "title": "Ripple расширяет доступ к RLUSD",
+    "body": "Клиенты биржи OKX теперь могут использовать стейблкоин RLUSD для торговли и обеспечения позиций на рынках спотовых и деривативных инструментов. Более 280 пар стали доступны для торговли. Это расширение доступа к RLUSD является очередным шагом в развитии экосистемы Ripple.",
+    "url": "https://www.theblock.co/post/399298/ripple-okx-expand-rlusd-access?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T12:14:58.748337+00:00",
+    "awaiting_edit": false
+  },
+  "f493a97a6150acfbf4dab381ea67365f": {
+    "title": "Чешский центробанк выступает за биткоин",
+    "body": "Губернатор Чешского национального банка Аlesh Michl заявил, что биткоин может улучшить структуру резервных активов без значительного увеличения риска. По мнению Michl, биткоин может сыграть важную роль в суверенных резервах. Это было заявлено на конференцииBitcoin 2026.",
+    "url": "https://www.theblock.co/post/399330/this-is-the-future-czech-central-bank-governor-makes-case-for-bitcoin-in-sovereign-reserves?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T12:15:02.370506+00:00",
+    "awaiting_edit": false
+  },
+  "68bc61bd5ed380e43b36dbc121c7bd04": {
+    "title": "ZetaChain выявляет уязвимость в межцепочечном обмене",
+    "body": "Сеть ZetaChain обнаружила уязвимость в межцепочечном обмене сообщениями, которая стала причиной целенаправленной атаки. Атакующий воспользовался тремя уязвимостями, чтобы украсть $333,868 из кошельков команды. Это событие подчеркивает важность безопасности в децентрализованных системах.",
+    "url": "https://www.theblock.co/post/399315/zetachain-post-mortem?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T12:15:05.363912+00:00",
+    "awaiting_edit": false
   }
 }
