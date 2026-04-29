@@ -2210,5 +2210,45 @@
     "source": "The Block",
     "timestamp": "2026-04-28T18:15:17.009695+00:00",
     "awaiting_edit": false
+  },
+  "b22e6e6de64b671b7caf26311c0bce43": {
+    "title": "Приговор за отмывание криптовалюты",
+    "body": "Суд США приговорил Максимильена де Хупа Картье к 8 годам тюремного заключения за незаконную деятельность криптовалютной биржи, которая отмыла более 470 миллионов долларов. Этот случай является одним из крупнейших дел, связанных с отмыванием криптовалюты. Картье является потомком знаменитого ювелира Пьера Картье.",
+    "url": "https://www.theblock.co/post/399314/us-sentences-cartier-descendant-crypto-laundering?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T08:12:28.799114+00:00",
+    "awaiting_edit": false
+  },
+  "c7e8b57a4d34f5d5cd192cbbd5bac7ac": {
+    "title": "Syndicate пострадал от эксплуатации уязвимости",
+    "body": "Команда Syndicate сообщила об эксплуатации уязвимости, связанной с компрометацией моста Commons, что привело к значительному снижению стоимости токена SYND на 36%. В настоящее время команда проводит расследование с участием фирм по безопасности.",
+    "url": "https://www.theblock.co/post/399318/syndicate-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T08:12:31.708480+00:00",
+    "awaiting_edit": false
+  },
+  "f801b3d748846141973e8f81b8b2ff8f": {
+    "title": "Предупреждение о фейковых стейблкоинах в Гонконге",
+    "body": "Власти Гонконга предупредили о появлении фейковых токенов, выдающих себя за стейблкоин HSBC. HSBC и Anchorpoint Financial заявили, что не запускали стейблкоины в Гонконге, но планируют сделать это в этом году.",
+    "url": "https://www.theblock.co/post/399308/hong-kong-warns-fake-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T08:12:34.568568+00:00",
+    "awaiting_edit": false
+  },
+  "acb917820891844ee4cfe06a0085e919": {
+    "title": "Ethereum-ICO кит активировался после 10 лет",
+    "body": "Адрес, получивший ETH в 2015 году после участия в ICO за $3100, перевел $23 миллиона в ETH после десятилетней неактивности. Эта транзакция произошла 30 июля 2015 года.",
+    "url": "https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T08:12:37.393523+00:00",
+    "awaiting_edit": false
+  },
+  "6006ee32ff9add0a0ac964e5a9447387": {
+    "title": "Канада запретит крипто-АТМ",
+    "body": "Правительство Канады планирует запретить крипто-АТМ, назвав их основным методом для совершения мошенничества и отмывания денег. Этот шаг направлен на предотвращение финансовых преступлений и защиту граждан. Мера принята для борьбы с распространением мошеннических действий через крипто-АТМ.",
+    "url": "https://www.theblock.co/post/399294/canada-crypto-atm-ban?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-29T08:12:40.414311+00:00",
+    "awaiting_edit": false
   }
 }
