@@ -2410,5 +2410,45 @@
     "source": "The Block",
     "timestamp": "2026-04-30T12:12:47.881269+00:00",
     "awaiting_edit": false
+  },
+  "9bb2dac7db36e795e5b87e9c97010509": {
+    "title": "Coinbase запускает токенизированный фонд стейблкоинов",
+    "body": "Фонд Coinbase Stablecoin YieldFund направлен на генерацию дохода путем кредитования стейблкоинов и инвестиций в частный кредит. Второй квартал текущего года станет временем запуска токенизированного класса акций через Superstate. Фонд будет работать под названием CUSHY.",
+    "url": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T18:07:47.460114+00:00",
+    "awaiting_edit": false
+  },
+  "1f6ccc55e67f7488c1e939f8aeae6177": {
+    "title": "Большинство держателей USDT0 имеют меньше $1000",
+    "body": "Более 99% держателей стейблкоина USDT0 имеют менее $1000 USDT. USDT0 является третьим по величине держателем стейблкоина Tether's USDT, используемого для поддержки мульти-цепного актива. Большая часть держателей USDT0 имеет относительно небольшие суммы.",
+    "url": "https://www.theblock.co/post/399640/99-2-of-omni-chain-tether-backed-stablecoin-holders-have-less-than-1000-usdt0?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T18:07:50.545129+00:00",
+    "awaiting_edit": false
+  },
+  "4ef1b1e60b0d026a4325525a171a3b10": {
+    "title": "Benchmark защитила модель STRC",
+    "body": "Benchmark отреклась от обвинений в том, что модель накопления биткоинов STRC аналогична схеме Понци. Стратегия по выпуску предпочтительного акции STRC вызвала недоумение у некоторых наблюдателей. Benchmark считает, что модель не является \"круговой\" схемой.",
+    "url": "https://www.theblock.co/post/399609/not-circular-benchmark-defends-strategys-strc-bitcoin-accumulation-model?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T18:07:53.699546+00:00",
+    "awaiting_edit": false
+  },
+  "b0fd861a2fded921470a152a40ffd002": {
+    "title": "Exponent привлёк 5 миллионов долларов",
+    "body": "Платформа Exponent, основанная на блокчейне Solana, объявила о привлечении 5 миллионов долларов в раунде финансирования, возглавляемом Multicoin Capital. В этом раунде также приняли участие Solana Ventures, основатель Solana Labs Анатолий Яковенко и представитель Solana Foundation Ник Дюкофф. Эти инвестиции являются значительным событием для экосистемы Solana.",
+    "url": "https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T18:07:56.828611+00:00",
+    "awaiting_edit": false
+  },
+  "8c8bdd92b2e10853b878d3c05c2ca947": {
+    "title": "Polymarket борется с инсайдерской торговлей",
+    "body": "Polymarket подключила Chainalysis для контроля над инсайдерской торговлей, стремясь получить оценку в 15 миллиардов долларов и одобрение от CFTC. Это решение предпринимается в ответ на обеспокоенность по поводу инсайдерской торговли на платформе. Аналогичные меры принимает и конкурент Kalshi.",
+    "url": "https://www.theblock.co/post/399619/polymarket-taps-chainalysis-to-police-insider-trading-seeks-15-billion-valuation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T18:07:59.920624+00:00",
+    "awaiting_edit": false
   }
 }
