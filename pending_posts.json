@@ -2370,5 +2370,45 @@
     "source": "The Block",
     "timestamp": "2026-04-30T08:16:46.749454+00:00",
     "awaiting_edit": false
+  },
+  "12002142da4d5f1cee82665d69efbe59": {
+    "title": "Токен MegaETH запущен на биржах",
+    "body": "Токен MEGA проекта MegaETH стал доступен для торговли после семидневного обратного отсчета, запущенного после достижения первого показателя эффективности с 10 hoạtными приложениями. Основные криптовалютные биржи начали торговлю токеном MEGA.",
+    "url": "https://www.theblock.co/post/399563/megaeth-token-goes-live-as-major-exchanges-open-mega-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T12:12:35.721608+00:00",
+    "awaiting_edit": false
+  },
+  "f7c1996effb86567e30be7ae4aa3dbd4": {
+    "title": "Эксплойт Wasabi Protocol на $5 млн",
+    "body": "Была скомпрометирована ключь администратора Wasabi Protocol, которая была использована для обновления смарт-контрактов и слива средств. Сумма ущерба составила более $5 млн. Инцидент был зафиксирован на нескольких блокчейнах.",
+    "url": "https://www.theblock.co/post/399558/wasabi-protocol-hit-by-more-than-5-million-exploit-across-multiple-chains-security-firms-say?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T12:12:38.779898+00:00",
+    "awaiting_edit": false
+  },
+  "cec7afcf5380d02b1d26db43622b51db": {
+    "title": "Южная Корея требует 20 лет для CEO Delio",
+    "body": "Прокуратура Южной Кореи требует 20-летнего срока для генерального директора криптовалютной платформы Delio, обвиняемого в хищении 168,8 миллионов долларов со счетов 2800 пользователей. Это одно из крупнейших дел о криптовалютном мошенничестве в стране.",
+    "url": "https://www.theblock.co/post/399546/south-korea-seeks-20-years-delio-ceo?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T12:12:41.720078+00:00",
+    "awaiting_edit": false
+  },
+  "a68eebd6c86cc7ea8df4325987320cb0": {
+    "title": "KAST нанимает бывшего советника SEC",
+    "body": "Компания KAST, выпускающая стейблкоины, наняла бывшего советника Комиссии по ценным бумагам и биржам (SEC) Стефани Аллен для руководства коммуникационной политикой. Аллен будет укреплять общественный имидж и репутацию KAST среди политиков, лидеров мнений и СМИ.",
+    "url": "https://www.theblock.co/post/399540/kast-appoints-former-sec-advisor?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T12:12:44.875348+00:00",
+    "awaiting_edit": false
+  },
+  "4f9e2f48452f51e7efb8a8c31dc50020": {
+    "title": "Ark Invest muaет акции Robinhood",
+    "body": "Ark Invest приобрела акции Robinhood на сумму 39 миллионов долларов и продала свои собственные ETF на биткоин на сумму 6 миллионов долларов. Акции Robinhood упали на 13,2% после отчета о слабых результатах первого квартала.",
+    "url": "https://www.theblock.co/post/399536/ark-invest-buys-robinhood-sells-own-spot-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T12:12:47.881269+00:00",
+    "awaiting_edit": false
   }
 }
