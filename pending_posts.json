@@ -2330,5 +2330,45 @@
     "source": "The Block",
     "timestamp": "2026-04-29T18:10:20.982515+00:00",
     "awaiting_edit": false
+  },
+  "ef4c2ba6f90ee189914cc179602529b0": {
+    "title": "Tether предлагает слияние компаний",
+    "body": "Tether предложил слияние Twenty One Capital, Strike и Elektron Energy. Это предложение связано с развитием криптовалютного рынка. Twenty One Capital является компанией, занимающейся хранением биткойна.",
+    "url": "https://www.theblock.co/post/399525/twenty-one-capital-merger-tether?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T08:16:33.405128+00:00",
+    "awaiting_edit": false
+  },
+  "46166bfe6e5702e5444ff5312287c80f": {
+    "title": "Shinhan Card тестирует стейблкоиноплаты",
+    "body": "Служба платежей Shinhan Card совместно с Фондом Solana запускает проект по тестированию платежной системы с использованием стейблкоинов. Проект будет проверять возможность реальных платежей с помощью стейблкоинов на блокчейне Solana. Партнерство направлено на исследование потенциала стейблкоинов в оплате товаров и услуг.",
+    "url": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T08:16:36.476962+00:00",
+    "awaiting_edit": false
+  },
+  "7965c3bbe1111024ebffaa3e763cb259": {
+    "title": "Масштабная операция против крипто-мошенников",
+    "body": "Полиция Дубая арестовала 275 человек, а власти Таиланда - одного подозреваемого, предположительно участвовавших в крипто-афере. Аресты стали результатом совместной операции с ФБР. Общее число арестованных составляет 276 человек.",
+    "url": "https://www.theblock.co/post/399515/fbi-task-force-arrests-276-crypto-scams?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T08:16:39.675692+00:00",
+    "awaiting_edit": false
+  },
+  "2f7c31da450f4d634e335a0fc2803a9e": {
+    "title": "Объем Zcash Trust Grayscale удвоился",
+    "body": "Объем торгов Zcash Trust Grayscale (ZCSH) достиг рекордных показателей, удвоившись в последнее время. Это произошло на фоне достижения поставщиком ZEC максимальной защиты поставок. Ранее поставщик смог поддерживать более 2 миллионов долларов в день.",
+    "url": "https://www.theblock.co/post/399264/zcash-etf-volume-doubles-zec-shielded-supply-record-highs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T08:16:42.960845+00:00",
+    "awaiting_edit": false
+  },
+  "13c9b9f9ee12ee095bf9fb85e5a3a422": {
+    "title": "OKX запускает протокол платежей для AI-бизнеса",
+    "body": "Компания OKX представила.Agent Payments Protocol (APP), предназначенный для поддержки полного цикла бизнеса на основе искусственного интеллекта, включая создание предложений и разрешение споров по транзакциям. Этот протокол рассчитан на улучшение процессов оплаты и взаимодействия с системами, основанными на AI.",
+    "url": "https://www.theblock.co/post/399490/okx-agent-payments-protocol-ai-business-cycles-quotes-disputes-transactions?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-04-30T08:16:46.749454+00:00",
+    "awaiting_edit": false
   }
 }
