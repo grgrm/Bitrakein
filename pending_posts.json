@@ -2530,5 +2530,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-01T11:56:20.451939+00:00",
     "awaiting_edit": false
+  },
+  "c5ea3bc149b8f8f19ccf0ba39925924a": {
+    "title": "Защита биткоина от квантовых угроз",
+    "body": "Исследователь Paradigm предложил создать \"timestamp-эскейп-хэтч\" для защиты биткоинов эры Сатоши от потенциальных квантовых угроз. Это позволит долгосрочным держателям биткоина подготовиться к худшему сценарию без перемещения средств или генерации активности в блокчейне. Это решение может быть полезным для защиты значительных объемов биткоинов.",
+    "url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T17:56:53.393726+00:00",
+    "awaiting_edit": false
+  },
+  "01701940cf11e03cf44326713d454231": {
+    "title": "CoinShares достигла 7,4 млрд AUM",
+    "body": "Британская компания CoinShares, управляющая крипто-активами, объявила о доходе в размере 126,4 миллиона долларов в 2025 году, что на 13% больше, чем в предыдущем году. Общий объем активов под управлением достиг 7,4 миллиарда долларов. Это первая ежегодная отчетность компании после листинга на бирже Nasdaq.",
+    "url": "https://www.theblock.co/post/399741/european-crypto-asset-manager-coinshares-2025-earnings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T17:56:56.621473+00:00",
+    "awaiting_edit": false
+  },
+  "281d83ff015a335c403543bd7a365cf9": {
+    "title": "Вложения в крипто ETPs WisdomTree выросли",
+    "body": "WisdomTree сообщила о чистом притоке инвестиций в размере $137 млн в ее крипто-ETPs в первом квартале года. Общий объем активов под управлением крипто-ETPs компании увеличился до примерно $1,8 млрд. Это говорит о растущем интересе к криптовалютным инвестиционным продуктам.",
+    "url": "https://www.theblock.co/post/399725/wisdomtrees-crypto-etps-reported-net-inflows-of-137-million-in-q1?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T17:56:59.678408+00:00",
+    "awaiting_edit": false
+  },
+  "a326f571e00ebe97e1b73f68e24b1bbe": {
+    "title": "Fun привлёк 72 миллиона долларов",
+    "body": "Компания Fun, предоставляющая решения для входа в криптовалютный рынок, привлекла 72 миллиона долларов в рамках раунда финансирования Series A. Инвестиции возглавили Multicoin Capital и SignalFire. Fun сотрудничает с такими криптоплатформами, как Polymarket, Lighter и Aave, обеспечивая им депозиты, выводы средств и расчетные потоки.",
+    "url": "https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T17:57:02.841659+00:00",
+    "awaiting_edit": false
+  },
+  "97ecce0533e050f48d5acba7440c4832": {
+    "title": "Tether получил $1 млрд прибыли за квартал",
+    "body": "Tether отчитался о прибыли более $1 млрд в первом квартале, при этом резервный буфер достиг рекордных $8,2 млрд. Общая сумма вложений Tether в американские гособлигации составляет примерно $141 млрд, что делает его одним из крупнейших держателей гособлигаций в мире.",
+    "url": "https://www.theblock.co/post/399722/tether-posts-over-1-billion-q1-profit-as-reserve-buffer-reaches-record-8-2-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T17:57:06.160041+00:00",
+    "awaiting_edit": false
   }
 }
