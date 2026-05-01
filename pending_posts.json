@@ -2450,5 +2450,45 @@
     "source": "The Block",
     "timestamp": "2026-04-30T18:07:59.920624+00:00",
     "awaiting_edit": false
+  },
+  "c3abbe6790067e7298d14008eab18e49": {
+    "title": "Законопроект о криптовалютах набирает обороты",
+    "body": "Законодательство о криптовалютах набирает обороты, законодатели планируют рассмотреть законопроект о структуре рынка криптовалют в середине мая. Однако существуют еще нерешенные споры. Законопроект касается структуры рынка криптовалют, но его принятие осложняют этические споры и связи с бывшим президентом США Дональдом Трампом.",
+    "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T08:08:44.539087+00:00",
+    "awaiting_edit": false
+  },
+  "cf95e545b290fa140f5a6f0ac11d3c7d": {
+    "title": "Arbitrum размораживает 30 766 ETH",
+    "body": "Совет безопасности Arbitrum ранее заморозил 30 766 ETH, которые атакующий Kelp DAO перевел на адрес Arbitrum One. Теперь начинается голосование для разморозки этих средств в пользу DeFi United. Это происходит после хакерской атаки на Kelp DAO.",
+    "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-01T08:08:47.667604+00:00",
+    "awaiting_edit": false
+  },
+  "a930c84e10b1059b039c157cba0840d3": {
+    "title": "Илон Маск раскритиковал криптовалюты",
+    "body": "Илон Маск, глава Tesla и SpaceX, заявил, что большая часть криптовалют представляет собой мошеннические проекты. Это заявление было сделано во время судебного разбирательства против OpenAI. Маск известен своими мнениями о криптовалютах, которые не всегда совпадают с мнением сообщества.",
+    "url": "https://forklog.com/news/ilon-mask-nazval-bolshinstvo-kriptovalyut-moshennichestvom",
+    "source": "ForkLog",
+    "timestamp": "2026-05-01T08:08:50.717014+00:00",
+    "awaiting_edit": false
+  },
+  "94220ae5f472e05ae73ffcf2309520d4": {
+    "title": "Рекорд взломов в криптоиндустрии",
+    "body": "В апреле было зафиксировано более 20 инцидентов взломов в криптоиндустрии, что является рекордным показателем. Аналитики DeFiLlama насчитали это количество за месяц. Это говорит о необходимости повышения безопасности в криптосфере.",
+    "url": "https://forklog.com/news/aprel-pobil-rekord-po-chislu-vzlomov-v-kriptoindustrii",
+    "source": "ForkLog",
+    "timestamp": "2026-05-01T08:08:53.772015+00:00",
+    "awaiting_edit": false
+  },
+  "c88462130f0eebbc528cf8923e3abd9b": {
+    "title": "ДАО Arbitrum голосует за передачу средств",
+    "body": "ДАО Arbitrum запустило голосование по передаче $71 млн фонду DeFi United. Управление L2-сети инициировало предложение на платформе Snapshot. Фонд DeFi United может получить значительную сумму средств в случае положительного исхода голосования.",
+    "url": "https://forklog.com/news/dao-arbitrum-progolosuet-za-peredachu-71-mln-fondu-defi-united",
+    "source": "ForkLog",
+    "timestamp": "2026-05-01T08:08:56.720444+00:00",
+    "awaiting_edit": false
   }
 }
