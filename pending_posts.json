@@ -2570,5 +2570,45 @@
     "source": "The Block",
     "timestamp": "2026-05-01T17:57:06.160041+00:00",
     "awaiting_edit": false
+  },
+  "6d0aeb423bd33c251aaa2338810ba4ba": {
+    "title": "A16z поддерживает позицию CFTC",
+    "body": "Venture capital firm Andreessen Horowitz считает, что государственные ограничения на рынки прогнозов могут привести к снижению ликвидности и ограничению доступа к рынкам. Эта позиция поддерживает мнение CFTC о необходимости единых правил. Это может повлиять на работу рынков прогнозов в США.",
+    "url": "https://www.theblock.co/post/399752/a16z-cftc-state-by-state-rules-prediction-markets-barrier-impartial-access?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-02T07:29:12.751391+00:00",
+    "awaiting_edit": false
+  },
+  "f41303626b0601e1d8e493ef401d981b": {
+    "title": "JPMorgan о росте стейблкоинов",
+    "body": "Аналитики JPMorgan заявили, что быстрый рост объема транзакций стейблкоинов может не привести к сопоставимому росту рыночной капитализации. Это связано с более высокой скоростью оборота стейблкоинов.",
+    "url": "https://www.theblock.co/post/399767/jpmorgan-rising-stablecoin-use-may-not-lead-similar-market-cap-growth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-02T07:29:15.516279+00:00",
+    "awaiting_edit": false
+  },
+  "b8dcd1eb97181cee4f8eb4d3364c33aa": {
+    "title": "Объемы Polymarket и Kalshi достигли $150 млрд",
+    "body": "Polymarket и Kalshi остаются ведущими площадками для прогнозирования рыночных событий, привлекая все большее внимание и контроль. Общий объем сделок на этих платформах достиг $150 млрд в апреле. Это демонстрирует рост интереса к таким сервисам, связанным с предсказанием рыночных событий.",
+    "url": "https://www.theblock.co/post/399759/polymarket-and-kalshis-combined-lifetime-volumes-hit-150-billion-in-april?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-02T07:29:18.340051+00:00",
+    "awaiting_edit": false
+  },
+  "b09c5ec148d9da5022febf0eb2568bf1": {
+    "title": "DaChain запускает тестнет",
+    "body": "Проект DaChain, ориентированный на RWA, AI, DeFi и безопасную валидацию данных, запускает тестнет экосистемы. Экосистема будет работать с двумя токенами: DACC и DACT. Тестнет является одним из шагов к предполагаемому дропу проекта.",
+    "url": "https://incrypted.com/dachain-testnet/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-02T07:29:21.284294+00:00",
+    "awaiting_edit": false
+  },
+  "f9ff7c882d42bb0578b48b4a2273ccd8": {
+    "title": "Carrot Shuts Down После Хекинга",
+    "body": "Carrot, протокол доходности на основе Solana, прекратил работу после хакерской атаки на сумму 8 миллионов долларов. Атака привела к значительным финансовым потерям для платформы. В результате руководство было вынуждено принять решение о закрытии проекта.",
+    "url": "https://99bitcoins.com/news/altcoins/carrot-protocol-shutdown-solana-exploit/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-05-02T07:29:24.149253+00:00",
+    "awaiting_edit": false
   }
 }
