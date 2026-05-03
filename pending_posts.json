@@ -2714,5 +2714,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-03T11:39:16.892402+00:00",
     "awaiting_edit": false
+  },
+  "68f78ab6c7ead76546fc239ccd52ce63": {
+    "title": "Итоги недели в Ethereum",
+    "body": "Первая криптовалюта удержалась у $78 000, активность в Ethereum достигла максимальных уровней. Потери инвесторов American Bitcoin оценили в $500 млн.",
+    "url": "https://forklog.com/news/itogi-nedeli-antirekord-po-vzlomam-i-rost-aktivnosti-v-ethereum",
+    "source": "ForkLog",
+    "timestamp": "2026-05-03T17:43:36.664705+00:00",
+    "awaiting_edit": false
+  },
+  "05dec23602cad207abcabf7be0d01f11": {
+    "title": "Рост стейблкоинов не гарантирует роста капитализации",
+    "body": "Аналитики JPMorgan считают, что увеличение объёмов использования стейблкоинов не обязательно приведет к пропорциональному росту их рыночной капитализации. Ключевым фактором является скорость обращения стейблкоинов. Это связано с тем, как часто один и тот же стейблкоин используется в транзакциях.",
+    "url": "https://incrypted.com/rost-ispolzovaniya-stejblkoinov-ne-garantiruet-uvelicheniya-ih-kapitalizacii-jpmorgan/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-03T17:43:39.602031+00:00",
+    "awaiting_edit": false
+  },
+  "6325df4097613ee8d2a6a83243e689c5": {
+    "title": "Конец эпохи Пауэлла и рекордные взломы",
+    "body": "Федеральная резервная система (ФРС) провела последнее заседание под руководством Джерома Пауэлла. Также стало известно о конфискации иранских криптоактивов на сумму $500 млн. В апреле 2026 года было зафиксировано рекордное количество хакерских атак.",
+    "url": "https://incrypted.com/weekly-konets-epohy-pauella-konfyskatsyja-500/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-03T17:43:42.372319+00:00",
+    "awaiting_edit": false
+  },
+  "76f4cb3cbf177f87920c6513f4828e23": {
+    "title": "Ралли биткоина назвали спекулятивным",
+    "body": "Биткоин вырос с $66 000 до почти $79 000 в апреле 2026 года,但是 этот рост был обусловлен преимущественно спросом на бессрочные фьючерсы. Спотовый сегмент оставался слабым. Эксперты CryptoQuant считают, что такая структура спроса свидетельствует о спекулятивном характере ралли.",
+    "url": "https://incrypted.com/eksperty-nazvali-aprelskoe-ralli-bitkoina-spekulyativnym-est-li-risk-korrekcii/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-03T17:43:45.181703+00:00",
+    "awaiting_edit": false
+  },
+  "f5586e00f1ace4a89e28d73c76c9ae0d": {
+    "title": "Северная Корея не сможет взломать Canton Network",
+    "body": "Сеть Canton позволяет участникам реализовывать меры безопасности, что делает ее устойчивой к хакерским атакам северокорейских групп, считает CEO Digital Asset Юваль Руз. Сеть предоставляет участникам возможность реализовывать \"охранные перила\" для защиты от хакеров. Это делает Canton Network более безопасной, по мнению Руза.",
+    "url": "https://decrypt.co/366086/north-korea-crypto-hack-playbook-wont-work-canton-ceo",
+    "source": "Decrypt",
+    "timestamp": "2026-05-03T17:43:48.301824+00:00",
+    "awaiting_edit": false
   }
 }
