@@ -2754,5 +2754,45 @@
     "source": "Decrypt",
     "timestamp": "2026-05-03T17:43:48.301824+00:00",
     "awaiting_edit": false
+  },
+  "95e8a5e1dd58728cbf0d24f9863cc75b": {
+    "title": "Kraken завершает приобретение Bitnomial",
+    "body": "Компания Payward, материнская компания Kraken, завершила приобретение Bitnomial. В результате Payward получила полный набор лицензий на деривативы в США, выданных Комиссией по товарным фьючерсам. Это позволяет компании предлагать криптодеривативы на американском рынке.",
+    "url": "https://www.theblock.co/post/399851/kraken-parent-payward-completes-bitnomial-acquisition?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-04T08:26:45.453302+00:00",
+    "awaiting_edit": false
+  },
+  "f5fcaec1b4a392860ebd1417d174904d": {
+    "title": "Хакерские атаки DeFi могут ударить по крипто-фондам",
+    "body": "Последняя волна хакерских атак в DeFi может оказать дополнительное давление на крипто-фонды, ориентированные на ликвидность и доходность, в уже сложном рыночном окружении. Это может усугубить ситуацию для крипто-фондов, которые уже сталкиваются с трудностями. Атаки в DeFi могут привести к финансовым потерям для этих фондов.",
+    "url": "https://www.theblock.co/post/399840/the-funding-how-defi-hacks-could-hit-crypto-funds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-04T08:26:48.648508+00:00",
+    "awaiting_edit": false
+  },
+  "1369ea0acbbccacc8b08fc98d6bc90d4": {
+    "title": "Пауза в покупках биткоина перед отчетом",
+    "body": "Компания MicroStrategy, возглавляемая Майклом Сэйлором, временно приостановила еженедельные покупки биткоина в преддверии выпуска квартального отчета. Ожидается, что компания покажет убыток в размере $18,98 на акцию. Отчет будет опубликован во вторник.",
+    "url": "https://www.theblock.co/post/399828/strategy-pauses-bitcoin-purchase-q1-earnings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-04T08:26:51.944886+00:00",
+    "awaiting_edit": false
+  },
+  "80f3b782e0753a77bc0ae00f0177d7cd": {
+    "title": "Регуляторы США штрафуют Uphold на $5 млн",
+    "body": "Генеральная прокуратура штата Нью-Йорк заключила соглашение с компанией Uphold, в результате которого последняя заплатит $5 млн штрафа. Это первое решение, принятое регуляторами Нью-Йорка против платформы, продвигающей чужие криптовалютные продукты с высоким доходом. Uphold не была издателем этих продуктов, а лишь продвигала их.",
+    "url": "https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-04T08:26:55.227025+00:00",
+    "awaiting_edit": false
+  },
+  "4a3229e20cee8c2831c079724cd29615": {
+    "title": "Китай запретил ИИ-увольнения",
+    "body": "Китайский суд постановил, что компании не имеют права увольнять сотрудников из-за замены их искусственным интеллектом. Это решение подчеркивает необходимость защиты прав работников в условиях развития новых технологий.",
+    "url": "https://forklog.com/news/ai/v-kitae-zapretili-uvolnyat-lyudej-iz-za-ii",
+    "source": "ForkLog",
+    "timestamp": "2026-05-04T08:26:58.358016+00:00",
+    "awaiting_edit": false
   }
 }
