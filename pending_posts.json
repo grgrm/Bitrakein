@@ -2794,5 +2794,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-04T08:26:58.358016+00:00",
     "awaiting_edit": false
+  },
+  "e5338befc1afa37ae39863bdce7bb7ef": {
+    "title": "КНДР отвергает обвинения в краже криптовалюты",
+    "body": "Северная Корея отвергла обвинения США в киберпреступности, назвав их \"абсурдной клеветой\" и обвинив СМИ в распространении ложной информации. Сумма украденной криптовалюты, приписываемой КНДР, превысила 6 миллиардов долларов. Это заявление было сделано в ответ на сообщения о краже криптовалюты, приписываемые стране.",
+    "url": "https://www.theblock.co/post/399854/north-korea-blames-crypto-theft-reports?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-04T12:19:52.758271+00:00",
+    "awaiting_edit": false
+  },
+  "6e7dddc742448937faec7291cc87f060": {
+    "title": "КНДР отвергла обвинения во взломе криптопроектов",
+    "body": "МИД КНДР назвал обвинения во взломе криптопроектов \"абсурдной клеветой\" и \"политическим инструментом\" США. Представитель ведомства отверг причастность страны к кражам криптовалют. Обвинения были названы политически мотивированными.",
+    "url": "https://forklog.com/news/v-kndr-nazvali-obvineniya-vo-vzlome-kriptoproektov-absurdnoj-klevetoj",
+    "source": "ForkLog",
+    "timestamp": "2026-05-04T12:19:55.736612+00:00",
+    "awaiting_edit": false
+  },
+  "37e7640d4a5668c6bfd329d590eae86e": {
+    "title": "Bitget запускает кампанию на поддержку Web3-специалистов",
+    "body": "Криптобиржа Bitget запустила кампанию \"Boxed for Opportunity\" к третьей годовщине образования, в рамках которой будут печатать резюме Web3-специалистов на коробках для пиццы. Эта кампания направлена на поддержку специалистов в области Web3.",
+    "url": "https://forklog.com/news/bitget-napechataet-rezyume-web3-spetsialistov-na-korobkah-dlya-pitstsy",
+    "source": "ForkLog",
+    "timestamp": "2026-05-04T12:19:58.591272+00:00",
+    "awaiting_edit": false
+  },
+  "2d7098f111331a004e94a71f1f722350": {
+    "title": "Защита биткоина от квантовых атак",
+    "body": "Глава Galaxy Research Алекс Торн опубликовал выводы о влиянии квантовых вычислений на биткоин. В сообществе наметился консенсус по защите первой криптовалюты от квантовых атак. Galaxy предложила стратегию защиты биткоина.",
+    "url": "https://forklog.com/news/v-galaxy-predlozhili-strategiyu-zashhity-bitkoina-ot-kvantovyh-atak",
+    "source": "ForkLog",
+    "timestamp": "2026-05-04T12:20:01.428592+00:00",
+    "awaiting_edit": false
+  },
+  "2594a1be13637ab93d2aaa8df2f1ca3b": {
+    "title": "Hyperliquid запускает рынки прогнозов",
+    "body": "Разработчики децентрализованной биржи Hyperliquid активировали протокол HIP-4 в основной сети HyperEVM. Это нововведение вводит рынки прогнозов на платформе. Hyperliquid продолжает развивать свою децентрализованную биржу.",
+    "url": "https://forklog.com/news/hyperliquid-zapustila-rynki-prognozov",
+    "source": "ForkLog",
+    "timestamp": "2026-05-04T12:20:04.453014+00:00",
+    "awaiting_edit": false
   }
 }
