@@ -2954,5 +2954,45 @@
     "source": "The Block",
     "timestamp": "2026-05-05T11:58:06.941070+00:00",
     "awaiting_edit": false
+  },
+  "75821e3eaec65d22441cee2f9ac07974": {
+    "title": "State Street запускает фонд на Solana",
+    "body": "State Street и Galaxy запустили фонд Onchain Liquidity Sweep Fund, позволяющий инвесторам инвестировать стейблкоины в доходный токенизированный фонд на блокчейне Solana. Эта инициатива направлена на привлечение стейблкоинов в продуктивный финансовый инструмент. Инвестиционный продукт работает на базе технологии блокчейна Solana.",
+    "url": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-05T18:08:11.230301+00:00",
+    "awaiting_edit": false
+  },
+  "7d6bb4b67ad78bd015752e965b977a12": {
+    "title": "MoonPay приобретает DFlow",
+    "body": "Компания MoonPay приобрела фирму DFlow, которая используется такими известными платформами, как Coinbase и Phantom. DFlow обработала более 50 миллиардов долларов в общем объеме торгов. Это приобретение расширяет возможности MoonPay на рынке криптовалют.",
+    "url": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-05T18:08:14.375665+00:00",
+    "awaiting_edit": false
+  },
+  "a75b448a677abc494ba7d3ba3f258bb0": {
+    "title": "Ripple CEO предупреждает о критических двух неделях",
+    "body": "Согласно заявлению CEO Ripple Брэда Гарлингауса, следующие две недели будут определяющими для принятия более широких законов о криптовалютах. Гарлингаус считает, что это время крайне важно для законодательства в области криптовалют. Ситуация с криптовалютным законодательством находится на критическом этапе.",
+    "url": "https://www.theblock.co/post/400073/ripple-ceo-brad-garlinghouse-warns-next-two-weeks-are-critical-for-crypto-legislation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-05T18:08:17.652367+00:00",
+    "awaiting_edit": false
+  },
+  "7402894e0b37fe7cccefad59955c334d": {
+    "title": "MoneyGram поддерживает вывод крипты в наличные",
+    "body": "MoneyGram и Kraken объявили о партнёрстве, позволяющем пользователям Kraken обменивать криптовалюту на наличные через MoneyGram. Партнёры планируют расширить сотрудничество, включив поддержку местных банковских депозитов и международных денежных переводов. Это сотрудничество упрощает процесс вывода криптовалюты в фиатные деньги.",
+    "url": "https://www.theblock.co/post/400068/moneygram-supports-crypto-to-cash-withdrawals-kraken-users?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-05T18:08:21.095608+00:00",
+    "awaiting_edit": false
+  },
+  "2dfb95ceb92f037451717e9a88586d75": {
+    "title": "Solana и Google Cloud запускают новую систему оплаты",
+    "body": "Фонд Solana представил Pay.sh, систему, позволяющую AI-ботам открывать, использовать и платить за API-вызовы в Google Cloud. Это реализовано при участии Google Cloud. Система работает на принципе pay-as-you-go.",
+    "url": "https://www.theblock.co/post/400059/google-cloud-solana-foundation-ai-payments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-05T18:08:24.152948+00:00",
+    "awaiting_edit": false
   }
 }
