@@ -3034,5 +3034,45 @@
     "source": "The Block",
     "timestamp": "2026-05-06T12:25:48.764247+00:00",
     "awaiting_edit": false
+  },
+  "323ce7f40d6893aae30f16e39cc9e911": {
+    "title": "Угроза биткоину от квантовых компьютеров",
+    "body": "Проект Eleven оценивает, что примерно 6,9 миллиона биткоинов могут быть уязвимы к атакам квантовых компьютеров при определенных условиях. Эта угроза может реализоваться уже в 2030 году, согласно прогнозам. Квантовые компьютеры потенциально могут破ить криптографические механизмы, защищающие сеть биткоина.",
+    "url": "https://www.theblock.co/post/400274/project-eleven-warns-quantum-moment-all-at-once-q-day-early-2030?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-06T18:13:37.814919+00:00",
+    "awaiting_edit": false
+  },
+  "4d02c2464decae05b0742c30ee8fd98a": {
+    "title": "Ripple и JPMorgan используют XRP Ledger",
+    "body": "Ripple, JPMorgan и другие компании используют XRP Ledger для международных транзакций по фонду казначейских облигаций. Эта транзакция демонстрирует сотрудничество криптофирм и институтов Уолл-стрит в развитии систем расчета, работающих круглосуточно.",
+    "url": "https://www.theblock.co/post/400281/ripple-jpmorgan-xrp-ledger-transfer-tokenized-treasury-across-borders?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-06T18:13:41.044661+00:00",
+    "awaiting_edit": false
+  },
+  "90d09ecdca5f2dc89029c688eee6a666": {
+    "title": "Законопроект о криптовалютах и этика",
+    "body": "Сенатор Кирстен Гиллибранд заявила, что не будет согласна на законопроект о рынке криптовалют без положения об этике. Это связано с потенциальными связями президента Трампа с мемо-коинами. Гиллибранд потребовала включения положения об этике в законодательство.",
+    "url": "https://www.theblock.co/post/400275/sen-gillibrand-no-crypto-bill-without-ethics-provision-amid-president-trumps-ties-through-memecoins-world-liberty?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-06T18:13:44.302827+00:00",
+    "awaiting_edit": false
+  },
+  "ed73b0dc2a9cb56659e113e4ee2b39a9": {
+    "title": "Morgan Stanley запускает криптовалютную торговлю",
+    "body": "Morgan Stanley проведет пилотную торговлю криптовалютами с комиссией 50 базисных пунктов на платформе E*Trade. Это расширение цифровых активов происходит спустя несколько недель после запуска биржевого фонда биткоина.",
+    "url": "https://www.theblock.co/post/400259/morgan-stanley-pilots-crypto-trading-on-etrade-with-50-basis-point-fee-bloomberg?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-06T18:13:47.324322+00:00",
+    "awaiting_edit": false
+  },
+  "b8bef88a9ef7641b1e53ecfa4b1ca591": {
+    "title": "Kraken запускает регулируемую маржinalную торговлю",
+    "body": "Kraken запустил регулируемую маржинальную торговлю криптовалютами на спотовом рынке в США, используя лицензии, полученные после приобретения Bitnomial. Ожидается добавление перпетуальных контрактов и опционов позже. Этот шаг является первым продуктом, разработанным на основе лицензий Bitnomial.",
+    "url": "https://www.theblock.co/post/400247/kraken-launches-regulated-crypto-spot-margin-trading-us-bitnomial-deal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-06T18:13:50.406568+00:00",
+    "awaiting_edit": false
   }
 }
