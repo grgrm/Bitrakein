@@ -3194,5 +3194,45 @@
     "source": "The Block",
     "timestamp": "2026-05-07T18:24:41.240388+00:00",
     "awaiting_edit": false
+  },
+  "919e0ffa3feeffcaf68b6290256fd6d1": {
+    "title": "Arbitrum DAO одобрил выпуск 70 млн ETH",
+    "body": "DAO Arbitrum одобрил выпуск 70 миллионов ETH для восстановления Kelp DAO. Однако, судебное решение от 1 мая ограничило перемещение восстановленных средств, что привело к подаче срочного обращения со стороны Aave.",
+    "url": "https://www.theblock.co/post/400527/arbitrum-dao-approves-eth-release?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T07:27:05.897575+00:00",
+    "awaiting_edit": false
+  },
+  "d875451782c2d577f75ef7449034a284": {
+    "title": "Aptos инвестирует $50 млн в экосистему",
+    "body": "Aptos объявила о приверженности инвестировать $50 млн в развитие экосистемы блокчейна, включая проекты поprotocol-инфраструктуре и первый продукт. Инвестиции будут направлены на рост экосистемы Aptos.",
+    "url": "https://www.theblock.co/post/400523/aptos-commits-50-million-across-stack?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T07:27:08.790872+00:00",
+    "awaiting_edit": false
+  },
+  "f4577a6b21e2122a33460ca9dd7bf619": {
+    "title": "Solv Protocol выбрал Chainlink вместо LayerZero",
+    "body": "Протокол Solv решил отказаться от использования LayerZero в пользу Chainlink для tokenизированного биткоина на сумму 700 миллионов долларов. Основной причиной этого решения стала обеспокоенность по поводу безопасности, вероятно, связанная с недавним взломом Kelp DAO, использующей LayerZero. Этот шаг направлен на повышение защищенности своих операций.",
+    "url": "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T07:27:11.918165+00:00",
+    "awaiting_edit": false
+  },
+  "94ff569a9efedee46529209176123856": {
+    "title": "Coinbase убыточна почти на 400 млн долларов",
+    "body": "Coinbase сообщила о чистых убытках в размере почти 400 миллионов долларов в первом квартале. Компания планирует диверсифицировать свою деятельность и уменьшить зависимость от спотовой торговли криптовалютами. Coinbase стремится стать платформой для торговли различными классами активов.",
+    "url": "https://www.theblock.co/post/400489/coinbase-loses-nearly-400-million-ceo-seeks-to-reduce-dependence-spot-crypto-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T07:27:15.275240+00:00",
+    "awaiting_edit": false
+  },
+  "981add44bbb75115c875819744a0cdef": {
+    "title": "Block рапортует о прибыли, несмотря на убытки от биткоина",
+    "body": "Компания Block, основанная Джеком Дорси, обновила прогноз на весь год после сильного первого квартала. Однако бизнес Cash App с биткоином показал снижение на 31% по сравнению с прошлым годом. Компания также зафиксировала убыток в размере 173 миллиона долларов из-за переоценки биткоина.",
+    "url": "https://www.theblock.co/post/400500/dorseys-block-raises-full-year-guidance-after-strong-q1-records-173-million-bitcoin-remeasurement-loss?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T07:27:18.356413+00:00",
+    "awaiting_edit": false
   }
 }
