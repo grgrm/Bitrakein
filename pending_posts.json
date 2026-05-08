@@ -3234,5 +3234,45 @@
     "source": "The Block",
     "timestamp": "2026-05-08T07:27:18.356413+00:00",
     "awaiting_edit": false
+  },
+  "f00c1c4c5391545d3c72b8750277ca45": {
+    "title": "Bernstein ожидает роста Coinbase",
+    "body": "Аналитики Bernstein сохранили рейтинг \"переход\" и целевую цену $330 для Coinbase, несмотря на слабые результаты первого квартала. Аналитики считают, что стратегия \"everything exchange\" компании набирает обороты. Они видят потенциал роста акций на 71%.",
+    "url": "https://www.theblock.co/post/400552/bernstein-says-coinbases-everything-exchange-strategy-is-gaining-traction-despite-weak-first-quarter-results-sees-71-upside?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T12:07:01.848539+00:00",
+    "awaiting_edit": false
+  },
+  "1e815061a3c17674021222a989612c12": {
+    "title": "Сенатор Уоррен давит на Meta из-за стейблкоина",
+    "body": "Сенатор Элизабет Уоррен обратилась к Meta с вопросами по поводу планов по запуску стейблкоина в 2026 году. Уоррен выразила обеспокоенность по поводу потенциальных рисков, ссылаясь на опыт проекта Libra. Meta планирует интегрировать стейблкоин уже в следующем году.",
+    "url": "https://www.theblock.co/post/400556/senator-warren-presses-meta-over-stablecoin-trial-ahead-of-2026-rollout-plans?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T12:07:05.095121+00:00",
+    "awaiting_edit": false
+  },
+  "f01b8732592dd1a9bd1ff14ad2ffcae7": {
+    "title": "Лагарде предупреждает о рисках стейблкоинов",
+    "body": "Президент Европейского центрального банка (ECB) Кристин Лагарде считает, что евро-деноминированные стейблкоины представляют риск для финансовой стабильности и монетарной политики. Она выступает за создание цифрового евро. Этот подход расходится с позицией немецкого Bundesbank.",
+    "url": "https://www.theblock.co/post/400548/ecbs-lagarde-flags-euro-denominated-stablecoins-as-financial-stability-risk-diverging-from-bundesbank-stance?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T12:07:08.059512+00:00",
+    "awaiting_edit": false
+  },
+  "6649dab9c76a211db7cc14dabd99be1a": {
+    "title": "Южная Корея усиливает контроль крипто",
+    "body": "Власти Южной Кореи планируют ужесточить контроль над компаниями, переводящими криптовалюты за рубеж. С января 2027 года также планируется введение налога на прирост капитала в размере 22% для криптовалют.",
+    "url": "https://www.theblock.co/post/400544/south-korea-tightens-oversight-of-firms-moving-crypto-overseas-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T12:07:10.965788+00:00",
+    "awaiting_edit": false
+  },
+  "2b0401075a69273af7c6836f1b5bcbff": {
+    "title": "Coinbase возобновляет торговлю",
+    "body": "Coinbase恢復 торговлю após часов сбоев, связанных с AWS. Рынки были восстановлены после ограничений в режиме \"Cancel Only\" и аукционном режиме.",
+    "url": "https://www.theblock.co/post/400536/coinbase-resumes-trading-after-aws-linked-disruption?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-08T12:07:13.883946+00:00",
+    "awaiting_edit": false
   }
 }
