@@ -3490,5 +3490,37 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-10T11:47:22.753230+00:00",
     "awaiting_edit": false
+  },
+  "d436d28bb64ab0d8b729278f0d5e1980": {
+    "title": "Биткоин держится выше 80 000",
+    "body": "Первая криптовалюта удержала уровень $80 000. Кроме того, Hyperliquid вошла в сегмент рынков предсказаний, а в Bitcoin Core устранили критическую уязвимость.",
+    "url": "https://forklog.com/news/itogi-nedeli-bitkoin-vyshe-80-000-i-rynki-predskazanij-na-hyperliquid",
+    "source": "ForkLog",
+    "timestamp": "2026-05-10T17:49:01.018294+00:00",
+    "awaiting_edit": false
+  },
+  "db3742bbcf37f60961db0de9cf02c00b": {
+    "title": "CZ обвиняет конкурентов в срыве помилования",
+    "body": "Бывший CEO биржи Binance Чанпэн Чжао заявил, что конкуренты пытались помешать его помилованию в США. Это было заявлено в подкасте Crypto Banter и Crypto Insider. Президент США Дональд Трамп помиловал Чжао в октябре 2025 года.",
+    "url": "https://incrypted.com/cz-zajavyl-chto-konkurenty-pytalys-pomeshat-ego-pomylovanyju/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-10T17:49:03.877460+00:00",
+    "awaiting_edit": false
+  },
+  "764e3deafacd5c8eca64b5f7bc0cd28d": {
+    "title": "Фед резерв и биткоин: влияние на цену",
+    "body": "Федеральный резерв США готовит своё следующее решение по монетарной политике, которое может повлиять на цену bitcoin. Это решение может быть важным для инвесторов, которые следят за динамикой курса BTC. Политика федерального резерва является ключевым фактором, влияющим на общую экономическую ситуацию и рынок криптовалют.",
+    "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-today-fed-rate-policy-price-earthquakes-portfolio/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-05-10T17:49:06.931688+00:00",
+    "awaiting_edit": false
+  },
+  "8fd9fa77e1c96a28e5c3930c7b02264c": {
+    "title": "Компании криптовалют подготовили \"квантово-устойчивые\" кошельки",
+    "body": "Компании криптовалют работают над обновлением кошельков для защиты от угрозы квантовых вычислений. Эта мера направлена на усиление безопасности своих систем перед тем, как сети Bitcoin и Ethereum будут готовы к этому. Несмотря на эти усилия, остаются пробелы в защите.",
+    "url": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+    "source": "Decrypt",
+    "timestamp": "2026-05-10T17:49:09.866898+00:00",
+    "awaiting_edit": false
   }
 }
