@@ -3434,5 +3434,29 @@
     "source": "Decrypt",
     "timestamp": "2026-05-09T17:46:39.548322+00:00",
     "awaiting_edit": false
+  },
+  "8252be2c0b5ce162e87fbe051a4b7257": {
+    "title": "Arbitrum переводит 71 млн ETH в Aave",
+    "body": "Суд разрешил перевод 71 миллиона ETH из Arbitrum в Aave, несмотря на сохранение претензий со стороны кредиторов, связанных с Северной Кореей. В результате судебного решения, лица, голосующие за перевод, не будут нести ответственность за нарушение заморозки средств. Судьба средств остаётся неясной.",
+    "url": "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-10T08:04:57.823308+00:00",
+    "awaiting_edit": false
+  },
+  "33e735b51961c73e6a10bd8ea8111964": {
+    "title": "Банковский комитет рассмотрит CLARITY Act",
+    "body": "Банковский комитет Сената США рассмотрит новую версию законопроекта о структуре крипторынка (CLARITY) 14 мая 2026 года. Эта версия является второй попыткой принять рамочный билль после неудачной попытки в январе. CLARITY Act призван заложить основы регулирования крипторынка в США.",
+    "url": "https://incrypted.com/bankovskyj-komytet-rassmotryt-clarity-act-14-maja/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-10T08:05:00.905545+00:00",
+    "awaiting_edit": false
+  },
+  "f9902dd75f23ddf0a6ad3238cb8f05a4": {
+    "title": "Платформа Liquid привлекла инвестиции",
+    "body": "Платформа Liquid, предоставляющая доступ к различным рынкам, включая криптовалюты и акции, привлекла $25,6 млн инвестиций. Инвесторами стали такие фонды, как Paradigm, SV Angel и General Catalyst. На платформе действует система поощрений с еженедельным распределением поинтов за активность.",
+    "url": "https://incrypted.com/liquid-trade/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-10T08:05:03.849152+00:00",
+    "awaiting_edit": false
   }
 }
