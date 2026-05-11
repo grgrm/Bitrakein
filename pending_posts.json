@@ -3562,5 +3562,45 @@
     "source": "The Block",
     "timestamp": "2026-05-11T09:35:37.697728+00:00",
     "awaiting_edit": false
+  },
+  "a61bc7c7983d384dc4832070546bdb39": {
+    "title": "Ronin переходит на OP Stack",
+    "body": "Ronin переходит с боковой цепи Ethereum на слой 2 OP Stack 12 мая, четыре года после хакерской атаки Lazarus, в результате которой было украдено более 600 миллионов долларов в криптовалюте. Эта миграция направлена на повышение безопасности и надежности сети. Данный шаг является частью стратегии развития Ronin после прошлых инцидентов.",
+    "url": "https://www.theblock.co/post/400732/from-hack-to-op-stack-ronin-to-migrate-from-gaming-sidechain-to-ethereum-layer-2-four-years-after-lazarus-attack?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T13:44:36.284375+00:00",
+    "awaiting_edit": false
+  },
+  "696a107ac8f5b07594c8655ca5d61013": {
+    "title": "Bitmine приобретает 26 659 ETH",
+    "body": "Bitmine Immersion купила 26 659 ETH, стоимость которых составляет 62 миллиона долларов, в результате чего общий объем его владений превысил 5,2 миллиона ETH. Это происходит на фоне заявления Тома Ли о начале \"криптолетней\".",
+    "url": "https://www.theblock.co/post/400735/crypto-spring-tom-lee-bitmine-weekly-accumulation-slows-100000-eth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T13:44:39.395642+00:00",
+    "awaiting_edit": false
+  },
+  "70bf9cdd87ca6f73b2200e09f0de8b06": {
+    "title": "Neuberger выделил Ripple Prime 200 млн",
+    "body": "Ripple Prime получила кредитную линию в размере 200 миллионов долларов от Neuberger Berman для расширения маржинального кредитования на рынках акций, облигаций и криптовалют. Это расширение позволит Ripple Prime увеличить свою деятельность на этих рынках. Кредитная линия предоставлена для финансирования маржинальных кредитов клиентам.",
+    "url": "https://www.theblock.co/post/400731/neuberger-backs-ripple-prime-with-200-million-debt-line-for-margin-lending-expansion-bloomberg?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T13:44:42.740047+00:00",
+    "awaiting_edit": false
+  },
+  "ad00daf73ca2a2202a0ca1fa15494716": {
+    "title": "Биткоин держится выше 81 000 долларов",
+    "body": "Цена биткоина остается выше 81 000 долларов на фоне напряженности между Ираном и США, а также продажи эфира крупным инвестором. Стоимость нефти марки Brent превысила 104 доллара. Эти события влияют на рынок криптовалют.",
+    "url": "https://www.theblock.co/post/400723/crypto-at-the-crossroads-analysts-say-iran-tensions-and-whale-selling-cloud-crypto-outlook-as-bitcoin-holds-above-81k?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T13:44:45.891876+00:00",
+    "awaiting_edit": false
+  },
+  "d873540c3fa0d2112047920cf629478b": {
+    "title": "Компания Saylor увеличila запасы биткоина",
+    "body": "Компания Michael Saylor's Strategy купила 535 биткоинов за 43 миллиона долларов. Общее количество биткоинов в ее запасах теперь составляет 818 869 BTC, что эквивалентно более 3,9% от максимального количества биткоинов в 21 миллион. Стоимость запасов составляет около 66,5 миллиардов долларов.",
+    "url": "https://www.theblock.co/post/400702/back-to-work-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T13:44:49.102717+00:00",
+    "awaiting_edit": false
   }
 }
