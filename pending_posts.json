@@ -3602,5 +3602,45 @@
     "source": "The Block",
     "timestamp": "2026-05-11T13:44:49.102717+00:00",
     "awaiting_edit": false
+  },
+  "f5a38f7afc5ff697a024dde1d3d123a7": {
+    "title": "Sharplink расширяет возможности DeFi",
+    "body": "Sharplink сообщил о доходе в 12 миллионов долларов в первом квартале. Компания объявила о партнерстве с Galaxy Digital, которое планирует разместить примерно 125 миллионов долларов в децентрализованных финансах и ликвидности на блокчейне. Это сотрудничество направлено на увеличение возможностей для продуктивности эфира.",
+    "url": "https://www.theblock.co/post/400752/sharplink-q1-revenue-12-million-expands-eth-productivity-staking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T18:55:24.156356+00:00",
+    "awaiting_edit": false
+  },
+  "0c626dc4306a038a6083ce3b0c4431fb": {
+    "title": "Запуск новой институциональной стейблкоина USBD",
+    "body": "Boundary, поддержанный Galaxy Ventures, запускает стейблкоин USBD на Ethereum в начале лета 2026 года. Проект собрал 2 миллиона долларов в рамках предпосевного финансирования. USBD позиционируется как \"верифицируемый\".",
+    "url": "https://www.theblock.co/post/400791/galaxy-backed-boundary-to-launch-verifiable-institutional-stablecoin-usbd?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T18:55:27.229004+00:00",
+    "awaiting_edit": false
+  },
+  "ebfde6b747aad7532f8bb0fae20ee2b3": {
+    "title": "MoonPay запускает AI-инструмент для торговли",
+    "body": "MoonPay представила новое AI-инструмент, предназначенное для помощи нетехническим пользователям в разработке стратегий торговли на рынках прогнозов. Этот инструмент является результатом приобретения Dawn Labs.",
+    "url": "https://www.theblock.co/post/400758/moonpay-launching-ai-agent-tool-prediction-market-trading-acquiring-dawn-labs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T18:55:30.278473+00:00",
+    "awaiting_edit": false
+  },
+  "c3bdb37339e20b90559f970086eb98ee": {
+    "title": "Глава Американской ассоциации банкиров выступает",
+    "body": "За несколько дней до голосования ключевого сенатского комитета по законодательству о криптовалютах глава Американской ассоциации банкиров (ABA) Роб Николс направил письмо банковским исполнительным директорам. В письме Николс призывает к ужесточению ограничений на вознаграждения за стейблкоины.",
+    "url": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T18:55:33.429971+00:00",
+    "awaiting_edit": false
+  },
+  "cf816cee2e2ef7692c801406bd880005": {
+    "title": "SEC задерживает запуск ETF-предсказательных рынков",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) вновь задержала запуск фондов, позволяющих инвесторам делать ставки на результаты выборов и экономических событий. Эти ETF позволили бы использовать публично торгуемые финансовые инструменты для прогнозирования исходов различных событий. Это может иметь значение для макроэкономики и традиционных финансов.",
+    "url": "https://www.theblock.co/post/400745/groundbreaking-prediction-market-etfs-launch-delayed-again-as-sec-reviews-more-analyst?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-11T18:55:36.658092+00:00",
+    "awaiting_edit": false
   }
 }
