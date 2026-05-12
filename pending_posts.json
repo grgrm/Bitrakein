@@ -3722,5 +3722,45 @@
     "source": "The Block",
     "timestamp": "2026-05-12T13:03:08.887637+00:00",
     "awaiting_edit": false
+  },
+  "968e46428a96e4ae826fa8581c4a5274": {
+    "title": "Доход eToro от крипты сократился",
+    "body": "Доход eToro от криптовалют сократился до $2,15 млрд в первом квартале с $3,5 млрд год назад. Этот спад вызван снижением торговой активности. Стоимость дохода от криптоактивов также уменьшилась.",
+    "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T18:54:02.589122+00:00",
+    "awaiting_edit": false
+  },
+  "a508d0d80377389295fb9b00aa48634d": {
+    "title": "Ethereum поддержал Clear Signing",
+    "body": "Ethereum Foundation начал поддерживать решение Clear Signing, которое упрощает описания транзакций для лучшего понимания пользователями. Это должно повысить безопасность криптовалютных транзакций. Новая функция призвана сделать процесс утверждения транзакций более прозрачным.",
+    "url": "https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T18:54:05.440511+00:00",
+    "awaiting_edit": false
+  },
+  "0fbcc30f9f5857b000a3e56304915267": {
+    "title": "Bitcoin Fog: испытание теории DOJ",
+    "body": "Апелляционный суд рассматривает дело Bitcoin Fog, в котором Министерство юстиции США (DOJ) утверждает, что глобальные криптовалютные сервисы подлежат юрисдикции Вашингтона. Суд также проверяет надежность анализа \"пересечения IP-адресов\", используемого для связи Sterlingov с Bitcoin Fog. Это дело тестирует теорию DOJ о том, что глобальные крипто-сервисы могут быть подвержены влиянию местных законов США.",
+    "url": "https://www.theblock.co/post/400983/bitcoin-fog-appeal-tests-doj-theory-global-crypto-services-d-c-law?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T18:54:08.483029+00:00",
+    "awaiting_edit": false
+  },
+  "01184d8d25bd150f2cf085c508610e3c": {
+    "title": "Coinbase запускает кредиты под залог Solana",
+    "body": "Пользователям Coinbase теперь доступно кредитование до $100 000 под залог своих активов Solana (SOL) через интеграцию с Morpho на платформе Base. Эта функция позволяет пользователям использовать свои криптоактивы в качестве гарантии для получения кредита.",
+    "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T18:54:11.432011+00:00",
+    "awaiting_edit": false
+  },
+  "50945b3a47c552eadb2a2649c3f97a8f": {
+    "title": "Osero собрал 13,5 миллионов долларов",
+    "body": "Osero, проект стейблкоин-инвестиций, инкубированный Stablewatch, привлёк 13,5 миллионов долларов в раунде финансирования под предводительством экосистемы Sky. Финансирование направлено на развитие стейблкоин-йилд проекта.",
+    "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T18:54:14.652451+00:00",
+    "awaiting_edit": false
   }
 }
