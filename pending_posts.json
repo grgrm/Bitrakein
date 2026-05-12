@@ -3642,5 +3642,45 @@
     "source": "The Block",
     "timestamp": "2026-05-11T18:55:36.658092+00:00",
     "awaiting_edit": false
+  },
+  "9623a3c4ce2e8487579b9c4948565936": {
+    "title": "Трое мужчин обвинены в краже криптовалюты",
+    "body": "Трое жителей штата Теннесси обвинены в серии нападений и краж криптовалюты на сумму 6,5 миллионов долларов в Калифорнии. Жертвам было нанесено физическое вред, а их активы были украдены. Инциденты произошли в нескольких городах Калифорнии.",
+    "url": "https://www.theblock.co/post/400867/tennessee-men-indicted-crypto-robbery?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T08:36:00.467626+00:00",
+    "awaiting_edit": false
+  },
+  "37462f32669612b75db4ea0bae4fee42": {
+    "title": "Обновленный законопроект комитета по банкингу",
+    "body": "Обновленный законопроект комитета по банкингу Сената США затрагивает темы стейблкоинов и DeFi. В обновленном тексте законопроекта рассматриваются вопросы вознаграждений за стейблкоины и защиты разработчиков программного обеспечения. Законопроект не касается конфликтов интересов в области криптовалют, связанных с бывшим президентом Трампом.",
+    "url": "https://www.theblock.co/post/400843/updated-senate-banking-committee-bill?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T08:36:03.523946+00:00",
+    "awaiting_edit": false
+  },
+  "5e31048dc6c0a7f5150d1fc038e824c6": {
+    "title": "Ord.io прекращает работу 1 июня",
+    "body": "Эксплорер Bitcoin Ordinals Ord.io и приложение Zap прекратят работу 1 июня, как объявлено в социальной сети X. Причина закрытия не уточняется. Ord.io и Zap были инструментами для взаимодействия с Ordinals на Bitcoin.",
+    "url": "https://www.theblock.co/post/400855/ord-io-shuts-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T08:36:06.343670+00:00",
+    "awaiting_edit": false
+  },
+  "92a3c9bd25cb23e577dd833405ffa656": {
+    "title": "Ark Invest покупает акции Circle",
+    "body": "Ark Invest приобрела акции Circle на сумму 5,5 миллиона долларов. Акции Circle подскочили на 15,91% до 131,76 доллара после публикации результатов первого квартала 2026 года. Это связано с выпуском стейблкоина stablecoin от Circle.",
+    "url": "https://www.theblock.co/post/400850/ark-invest-buys-circle-shares-stock-jumps?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T08:36:09.148675+00:00",
+    "awaiting_edit": false
+  },
+  "0f59d04f1c65598c9415a66537bfc97c": {
+    "title": "Ethereum Foundation назначает новых ко-лидеров",
+    "body": "Ethereum Foundation объявила о назначении трех новых ко-лидеров в свою команду Protocol, которая занимается разработкой базового слоя Ethereum. Новые ко-лидеры будут работать над проектированием и развитием протокола. Команда Protocol является ключевым элементом в развитии Ethereum.",
+    "url": "https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-12T08:36:11.955081+00:00",
+    "awaiting_edit": false
   }
 }
