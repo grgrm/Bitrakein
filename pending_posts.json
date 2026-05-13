@@ -3842,5 +3842,45 @@
     "source": "The Block",
     "timestamp": "2026-05-13T13:08:34.214169+00:00",
     "awaiting_edit": false
+  },
+  "b79046141cc9f27f2c9926cc700cc3f7": {
+    "title": "Hyperliquid лидирует по комиссионным доходам",
+    "body": "Согласно недавним данным, Hyperliquid доминирует по комиссионным доходам среди блокчейнов. Вертикальные блокчейны набирают популярность. Это наблюдение основано на анализе распределения комиссий за прошлую неделю.",
+    "url": "https://www.theblock.co/post/400803/hyperliquid-dominates-weekly-blockchain-fee-revenue-vertical-chains-gain-ground?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T18:54:29.610582+00:00",
+    "awaiting_edit": false
+  },
+  "6adaa17cbda886a65bb3b9488672aafa": {
+    "title": "Bitwise и Jupiter запускают рынок кредитования USDe",
+    "body": "Jupiter Lend, при сотрудничестве с Fluid и Bitwise, запускает платформу для получения дохода по синтетической стейблкойне USDe на основе Solana. Эта инициатива направлена на создание институционального рынка кредитования. Партнерство призвано обеспечить эффективную и безопасную возможность для инвесторов получать доход на своих активах.",
+    "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T18:54:32.706694+00:00",
+    "awaiting_edit": false
+  },
+  "5bba9da2df75b32b852adb8f3ad5ec1f": {
+    "title": "Комитет Сената США рассматривает поправки",
+    "body": "В Комитете Сената США по банковским делам подготовлено более 100 поправок, направленных на стейблкоины, этику и DeFi. Эти поправки будут рассмотрены в рамках голосования по Закону о澄清ности. Голосование запланировано на четверг.",
+    "url": "https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T18:54:35.829253+00:00",
+    "awaiting_edit": false
+  },
+  "745364b75cf5f3d7b7b8102c31374a6e": {
+    "title": "Биткоин держится у поддержки",
+    "body": "Стоимость биткоина составляет около $80 000 после того, как индекс основных цен производителей (PPI) в апреле увеличился на 1% по сравнению с предыдущим месяцем, достигнув самого высокого значения с 2022 года. Это привело к увеличению вероятности повышения процентных ставок. Криптовалютные ETF также демонстрируют убытки.",
+    "url": "https://www.theblock.co/post/401169/bitcoin-pinned-near-critical-support-as-hot-ppi-spike-compounds-rate-hike-fears-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T18:54:38.891411+00:00",
+    "awaiting_edit": false
+  },
+  "0e60635f1f29e2e02d7258fc51397b8d": {
+    "title": "Anchorage и Grupo Salinas партнёры",
+    "body": "Grupo Salinas будет интегрировать инфраструктуру стейблкоинов Anchorage Digital в свои системы безграничных платежей. Это новое сотрудничество призвано улучшить процессы трансграничных платежей. Anchorage Digital обеспечит необходимую инфраструктуру для стейблкоинов.",
+    "url": "https://www.theblock.co/post/401066/anchorage-grupo-salinas-partnership?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T18:54:41.757787+00:00",
+    "awaiting_edit": false
   }
 }
