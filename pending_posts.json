@@ -3802,5 +3802,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-13T08:41:44.764218+00:00",
     "awaiting_edit": false
+  },
+  "d8cfb83862675152ec239ec1b6115b13": {
+    "title": "Ethereum сокращает отставание от Solana",
+    "body": "Объемы торгов на децентрализованных биржах Ethereum и Solana приблизились к паритету, составив около 45 миллиардов долларов. Это может дать обоим блокчейнам шанс позиционировать себя для захвата объема торгов, когда активность на блокчейне снова возрастет.",
+    "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion",
+    "source": "The Block",
+    "timestamp": "2026-05-13T13:08:21.567642+00:00",
+    "awaiting_edit": false
+  },
+  "a6cc27170330f0e587e20334cb8e255b": {
+    "title": "Metaplanet получил убыток в 725 миллионов",
+    "body": "Metaplanet сообщил о чистом убытке в размере 725,6 миллионов долларов, вызванном маркировкой биткоина по рыночной стоимости, несмотря на рост операционной прибыли на 283%. Это произошло в первом квартале. Данное событие связано с убытками от переоценки биткоина.",
+    "url": "https://www.theblock.co/post/401138/metaplanet-q1-net-loss-bitcoin-markdowns-outweigh-operating-gains?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T13:08:24.736492+00:00",
+    "awaiting_edit": false
+  },
+  "8acc4d86c256fcdc8f883bfcd345c034": {
+    "title": "Stork запускает 24/7 оракул для цен",
+    "body": "Stork запустила первый 24/7 оракул, который переключает на рынки вечных фьючерсов для определения \"настоящих\" цен на акции и золото, используя Binance и другие рынки перпетуальных контрактов. Это решение позволяет получить более точное определение цен вне традиционных торговых часов.",
+    "url": "https://www.theblock.co/post/401053/stork-24-7-price-discovery?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T13:08:27.964874+00:00",
+    "awaiting_edit": false
+  },
+  "5dfaf7d7907e2b42a09f03e904a658f5": {
+    "title": "Убытки Upexi составили 109 миллионов",
+    "body": "Фирма Upexi, связанная с Solana, сообщила о квартальной убытке в размере 109 миллионов долларов. Основной причиной убытка стали недооцененные цифровые активы на сумму 92,3 миллиона долларов. Это было заявлено в финансовом отчете компании.",
+    "url": "https://www.theblock.co/post/401104/upexi-posts-109-million-quarterly-losses?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T13:08:30.994205+00:00",
+    "awaiting_edit": false
+  },
+  "71ece0e6a24ddcf0710177679eeda1dd": {
+    "title": "GENIUS Act расширил крипто-фандрайзинг",
+    "body": "СIO Bitwise Мэтт Хоган отметил положительное влияние GENIUS Act на фандрайзинг в крипто-сфере. Это помогло компаниям Arc, Canton и Tempo привлечь более миллиарда долларов в блокчейн-проекты. Теперь отрасль ждет принятия Clarity Act для дальнейшей ясности.",
+    "url": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T13:08:34.214169+00:00",
+    "awaiting_edit": false
   }
 }
