@@ -3762,5 +3762,45 @@
     "source": "The Block",
     "timestamp": "2026-05-12T18:54:14.652451+00:00",
     "awaiting_edit": false
+  },
+  "ae997741d2579ba5eaf4ec012c098640": {
+    "title": "Япония запускает стейблкоин для B2B-расчетов",
+    "body": "В Японии разрабатывается стейблкоин, привязанный к японской иене, для использования в бизнес-транзакциях. Стейблкоин будет выпущен на блокчейне Ethereum и публичном блокчейне Japan Open Chain, эксплуатируемом японскими предприятиями. Стейблкоин предназначен для ускорения и облегчения расчетов между бизнесами.",
+    "url": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T08:41:32.465760+00:00",
+    "awaiting_edit": false
+  },
+  "64178a78b72ff105fd408420c166253d": {
+    "title": "Charles Schwab запустил торги биткоином и эфириумом",
+    "body": "Компания Charles Schwab объявила о запуске услуги \"Schwab Crypto\" для первой волны своих розничных клиентов. Эта услуга позволяет клиентам торговать биткоином (BTC) и эфириумом (ETH). Запуск услуги начался во вторник.",
+    "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T08:41:35.364742+00:00",
+    "awaiting_edit": false
+  },
+  "4418fbf3c32698287f4a4b34b1781e0d": {
+    "title": "Kelp DAO возобновляет операции",
+    "body": "Kelp DAO и Aave возобновляют операции с rsETH после прогресса в восстановлении после взлома на $292 млн. Взлом произошел 18 апреля при участии хакеров, подозреваемых в связях с северокорейской группой Lazarus. Операции будут возобновлены после реализации мер безопасности.",
+    "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T08:41:38.424009+00:00",
+    "awaiting_edit": false
+  },
+  "877369903f16d95319ef237e7713b745": {
+    "title": "Benchmark повысил прогноз цены акций Coinbase",
+    "body": "Аналитики изBenchmark оставили рейтинг \"купить\" для акций Coinbase, увеличив целевую цену с $260 до $270. Это решение было принято несмотря на не слишком впечатляющие результаты первого квартала. Benchmark присоединился к другим компаниям, также подтвердившим рейтинг \"купить\" для акций COIN.",
+    "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-13T08:41:42.058922+00:00",
+    "awaiting_edit": false
+  },
+  "914c7aef43a9bfef0c457559066fceaf": {
+    "title": "Kelp и Aave восстанавливают активы",
+    "body": "Протоколы Kelp и Aave начали восстановление активов после апрельского взлома на $292 млн. Разработчики планируют вернуть 117 132 rsETH в течение двух недель.",
+    "url": "https://forklog.com/news/kelp-i-aave-nachali-vosstanovlenie-aktivov-posle-vzloma",
+    "source": "ForkLog",
+    "timestamp": "2026-05-13T08:41:44.764218+00:00",
+    "awaiting_edit": false
   }
 }
