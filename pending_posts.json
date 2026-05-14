@@ -3922,5 +3922,45 @@
     "source": "The Block",
     "timestamp": "2026-05-14T08:34:27.543897+00:00",
     "awaiting_edit": false
+  },
+  "38887f5bbc8761e9e8fc84a186c376a6": {
+    "title": "Coinbase становится официальным деплойером USDC",
+    "body": "Coinbase получила право выкупа активов бренда USDH и станет официальным деплойером USDC для Hyperliquid. Это связано с выводом из обращения стейблкоина USDH.",
+    "url": "https://www.theblock.co/post/401233/coinbase-hyperliquid-official-deployer-usdc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T12:24:03.614559+00:00",
+    "awaiting_edit": false
+  },
+  "d5c0c4c676c61fe6dbd0c3b3a11116e6": {
+    "title": "Tether заморозила свыше 450 миллионов",
+    "body": "T3 Financial Crime Unit, созданная при поддержке Tether, TRON и TRM Labs, сообщила о заморозке более 450 миллионов долларов в незаконных криптоактивах. Это соответствует 43,9% годовому увеличению в перехваченных средствах.",
+    "url": "https://www.theblock.co/post/401252/tether-tron-trm-labs-freeze-over-450-million-in-illicit-crypto-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T12:24:06.763191+00:00",
+    "awaiting_edit": false
+  },
+  "3fc550bc283f379c31939290bf52f867": {
+    "title": "Аутфлоу из биткоин-ETF составил $630M",
+    "body": "Биткоин-ETF потеряли $630M в результате аутфлоу 13 мая, что связано со снижением корпоративного спроса на биткоины. Кроме того, существует.cluster гамма в размере $2B, который может привести к повышению волатильности вблизи уровня $82K.",
+    "url": "https://www.theblock.co/post/401247/rally-without-conviction-bitcoin-etfs-see-630m-in-outflows-as-corporate-treasury-demand-drops-and-resistance-builds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T12:24:10.021669+00:00",
+    "awaiting_edit": false
+  },
+  "971af6a3aeac54d34e3ed76e6fd1356c": {
+    "title": "Банк Англии пересматривает правила стейблкоинов",
+    "body": "Банк Англии может смягчить правила для стейблкоинов, обеспеченных фунтом стерлингов. Заместитель главы банка Сара Бриден заявила, что Центробанк внимательно рассматривает возможность пересмотра своих предложенных правил для стейблкоинов. Это происходит на фоне опасений индустрии по поводу первоначально предложенных норм.",
+    "url": "https://www.theblock.co/post/401239/boe-reconsiders-stablecoin-rules?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T12:24:13.100204+00:00",
+    "awaiting_edit": false
+  },
+  "72c58419de217c9f96b2c53311107c27": {
+    "title": "DFDV увеличивает Solana-резервы",
+    "body": "Американская компания DeFi Development Corp. (DFDV) увеличила свои резервы Solana до $325 млн. Это следует из опубликованного отчета за первый квартал 2026 года. Компания также отчиталась о выкупе конвертируемых облигаций на общую сумму $4,4 млн по сниженной цене.",
+    "url": "https://forklog.com/news/dfdv-narastila-solana-rezervy-do-325-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-05-14T12:24:16.299363+00:00",
+    "awaiting_edit": false
   }
 }
