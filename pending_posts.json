@@ -3962,5 +3962,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-14T12:24:16.299363+00:00",
     "awaiting_edit": false
+  },
+  "5aebfd7822c380adc83d55059aaf7d1f": {
+    "title": "Chainlink получает $2,5 млрд от мигрантов",
+    "body": "Протокол Chainlink CCIP получил более $2,5 млрд в общем объеме заблокированных активов (TVL) от протоколов, мигрировавших с LayerZero, в число которых входит Kraken Bitcoin. Это произошло после атаки на Kelp DAO, которая привела к отказу нескольких продуктов от использования технологии LayerZero. Kraken Bitcoin стал至少 четвертым продуктом, отказавшимся от LayerZero.",
+    "url": "https://www.theblock.co/post/401368/chainlink-ccip-gains-over-2-5-billion-tvl-from-protocols-migrating-layerzero-kraken-bitcoin-latest?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T18:52:29.850586+00:00",
+    "awaiting_edit": false
+  },
+  "3abdfa9685be61d865ba4897017440b6": {
+    "title": "Strive выплачивает ежедневные дивиденды",
+    "body": "Strive объявила о стратегии выплаты ежедневных дивидендов, поскольку компания стала бесплатной от долга. SATA станет первым американским бумагом, выплачивающим наличные дивиденды каждый рабочий день, по мере роста ее держаний биткоина.",
+    "url": "https://www.theblock.co/post/401332/strive-shares-7-daily-dividend-company-strategy-firm-debt-free?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T18:52:32.935374+00:00",
+    "awaiting_edit": false
+  },
+  "151c4ae178df73b008037352090a69a9": {
+    "title": "Анализитки JPMorgan оценивают крипторынок",
+    "body": "Аналитики JPMorgan считают, что эфиры и альткоины могут продолжать проигрывать биткоину, если не произойдёт заметного улучшения активности в сетях, DeFi и реальных приложениях. Это мнение было высказано в последнем报告. Согласно аналитикам, текущая ситуация вряд ли изменится без значительных улучшений.",
+    "url": "https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T18:52:36.091516+00:00",
+    "awaiting_edit": false
+  },
+  "d5b93983e79518d0ada5ef48aa4f50e0": {
+    "title": "Биржа Bullish сообщила убыток в $604,9 млн",
+    "body": "Биржа криптовалют Bullish сообщила о чистой убытке в размере $604,9 миллиона в первом квартале. При этом компания отмечает рост на корректированном уровне. Глава компании Том Фарли выразил удовлетворение результатами квартала.",
+    "url": "https://www.theblock.co/post/401336/crypto-exchange-bullish-reports-604-9-million-net-loss-in-q1-with-growth-on-adjusted-basis?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T18:52:39.301046+00:00",
+    "awaiting_edit": false
+  },
+  "1c1c44129c5fcaced1df91af84a6cb81": {
+    "title": "Комитет Сената одобрил законопроект о крипторынке",
+    "body": "Комитет Сената США по банковским делам проголосовал за законопроект, регулирующий рынок цифровых активов. Этот законопроект прошёл месяцы напряжённых обсуждений и получил некоторую поддержку от демократов. Документ направлен на регулирование отрасли цифровых активов в целом.",
+    "url": "https://www.theblock.co/post/401341/senate-banking-committee-advances-landmark-crypto-market-structure-bill-garners-some-democratic-support?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T18:52:42.637697+00:00",
+    "awaiting_edit": false
   }
 }
