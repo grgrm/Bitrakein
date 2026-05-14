@@ -3882,5 +3882,45 @@
     "source": "The Block",
     "timestamp": "2026-05-13T18:54:41.757787+00:00",
     "awaiting_edit": false
+  },
+  "c226e76afddf2608696cdc29924faad3": {
+    "title": "Nakamoto терпит убытки из-за биткоина",
+    "body": "Компания Nakamoto, созданная Дэвидом Бейли, объявила об убытке в размере 238,8 миллиона долларов в первом квартале, что связано с убытком в размере 102,5 миллиона долларов от переоценки своих холдингов биткоина. Это убыток является результатом снижения стоимости биткоина. Компания сообщила о результатах первого квартала.",
+    "url": "https://www.theblock.co/post/401225/nakamoto-reports-q1-loss?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T08:34:15.822491+00:00",
+    "awaiting_edit": false
+  },
+  "e07d0efadf141a69b0f6f204285ebb87": {
+    "title": "CFTC выпустила письмо о бездействии",
+    "body": "Комиссия по торговле товарными фьючерсами (CFTC) опубликовала письмо о бездействии, которое устраняет неопределенность в отношении контрактов на предсказание событий, которые технически квалифицируются как свопы. Это письмо освобождает операторов рынков предсказаний от обязанности отчитываться о данных по свопам.",
+    "url": "https://www.theblock.co/post/401215/cftc-no-action-prediction-market?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T08:34:18.835157+00:00",
+    "awaiting_edit": false
+  },
+  "6b5f7d27334c3ff686027fa4b49d4411": {
+    "title": "BitGo двойное увеличение дохода",
+    "body": "Компания BitGo, предоставляющая крипто-инфраструктурные услуги, сообщила о росте выручки на 112,6% в первом квартале, до 3,8 миллиарда долларов. Однако чистый убыток компании увеличился. Этот рост стал возможным благодаря росту спроса на крипто-услуги.",
+    "url": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T08:34:21.824736+00:00",
+    "awaiting_edit": false
+  },
+  "d63601dc548daebc8bfa88dd15514e72": {
+    "title": "Solana DeFi Development Corp растёт на 108%",
+    "body": "DeFi Development Corp сообщила о 108% годовом росте количества токенов SOL на акцию. Компания объясняет это рост нестандартными стратегиями, которые лучше всего подходят для Solana экосистемы.",
+    "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T08:34:24.620523+00:00",
+    "awaiting_edit": false
+  },
+  "9f292599a3554e7c26074656c42a710f": {
+    "title": "Fidelity получила рейтинг AAA-mf",
+    "body": "Fidelity International запустила первый токенизированный фонд FILQ, основанный на существующем фонде с низкой волатильностью. Фонд будет обеспечивать круглосуточные выкупы и расчеты. Moody's присвоил фонду высший рейтинг AAA-mf.",
+    "url": "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-14T08:34:27.543897+00:00",
+    "awaiting_edit": false
   }
 }
