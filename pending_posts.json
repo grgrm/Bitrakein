@@ -4042,5 +4042,45 @@
     "source": "The Block",
     "timestamp": "2026-05-15T08:45:58.920666+00:00",
     "awaiting_edit": false
+  },
+  "e39ccf26e1c1d784ad4484165bc41474": {
+    "title": "Мьянма вводит жесткие наказания за киберпреступления",
+    "body": "В Мьянме предлагается ввести смертную казнь за принуждение к мошенничеству и пожизненное заключение за преступления, связанные с криптовалютами. Это предусматривает новый законопроект. Законопроект, по сообщениям, направлен на борьбу с ростом киберпреступности в стране.",
+    "url": "https://www.theblock.co/post/401468/myanmar-bill-proposes-death-penalty-for-scam-coercion-life-imprisonment-for-crypto-fraud-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T12:29:09.646442+00:00",
+    "awaiting_edit": false
+  },
+  "5270231ba8f3884d3f90a67a2b35657b": {
+    "title": "IREN привлекает 3 миллиарда долларов",
+    "body": "Компания IREN, занимающаяся майнингом биткоина, закрыла предложение конвертируемых облигаций на сумму 3 миллиарда долларов с купоном 1% до 2033 года для финансирования расширения своего облачного AI-инфраструктурного сегмента. Это происходит после заключения сделок с Nvidia и Microsoft.",
+    "url": "https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T12:29:12.859939+00:00",
+    "awaiting_edit": false
+  },
+  "db3bfb2cc6ded72ddaab86b1284e5c21": {
+    "title": "THORChain приостановил торговлю из-за уязвимости",
+    "body": "THORChain остановил торговлю после обнаружения потенциального взлома на нескольких блокчейнах, включая Bitcoin, Ethereum, BNB Smart Chain и Base, с потенциальными потерями в размере $10 triệu. Взлом может затронуть несколько криптовалютных платформ. Мера принята для расследования инцидента и предотвращения дальнейших потерь.",
+    "url": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T12:29:16.379192+00:00",
+    "awaiting_edit": false
+  },
+  "3aca9109bf88175b0b365be008c51aae": {
+    "title": "Пострадавшие от атак Ирана добиваются заморозки USDT",
+    "body": "Потерпевшие в результате терактов в Иране добиваются судебного решения для передачи 344 миллионов долларов в USDT, замороженных компанией Tether. Это связано с тем, что указанная сумма в USDT была заморожена в связи с ее предполагаемой связью с иранским Корпусом стражей Исламской революции (IRGC). Судебное решение может стать прецедентом для подобных случаев. Потерпевшие добиваются передачи активов для возмещения ущерба.",
+    "url": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T12:29:19.704510+00:00",
+    "awaiting_edit": false
+  },
+  "cd179ed6486d8bfe129c75ddf0bc051b": {
+    "title": "Рост выручки Forward Industries",
+    "body": "Forward Industries, компания, управляющая казной Solana, отчиталась о росте выручки на 319% по сравнению с прошлым годом, достигнув 13 миллионов долларов за квартал, закончившийся 31 марта. При этом компания сообщила о более широком квартальном убытке. Это связано с markdowns Solana.",
+    "url": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T12:29:22.883822+00:00",
+    "awaiting_edit": false
   }
 }
