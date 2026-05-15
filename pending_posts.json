@@ -4082,5 +4082,45 @@
     "source": "The Block",
     "timestamp": "2026-05-15T12:29:22.883822+00:00",
     "awaiting_edit": false
+  },
+  "91b084c2d2218f255555610a6e72503d": {
+    "title": "ICE и CME требуют регулирования наличных perpetual",
+    "body": "ICE и CME, как сообщает Bloomberg, оказывают давление на Hyperliquid, чтобы тот зарегистрировался в Комиссии по торговле товарными фьючерсами (CFTC). Это вызывает обеспокоенность по поводу стабильности рынка. Hyperliquid считает, что свои перпеты на блокчейне предлагают эффективность и прозрачность.",
+    "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T18:20:27.257082+00:00",
+    "awaiting_edit": false
+  },
+  "181b4dd471687f15c4e4ef3c1ee68335": {
+    "title": "Следующая волна NFT от OpenSea",
+    "body": "ЧМО OpenSea Адам Холландер считает, что достижения в области ИИ сделают проще создание инновационных токенизированных активов, таких как карты Pokémon, Rolex и билеты. Это может стать движущей силой следующей волны NFT. OpenSea ожидает роста рынка токенизированных активов.",
+    "url": "https://www.theblock.co/post/401504/opensea-cmo-tokenized-pokemon-cards-rolexes-tickets-driving-next-nft-wave?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T18:20:30.406802+00:00",
+    "awaiting_edit": false
+  },
+  "2fb32d16dc36cd46e5f13df9d7815f1a": {
+    "title": "Польша принимает законопроект MiCA",
+    "body": "Законодатели Польши приняли законопроект MiCA, регулирующий рынок криптовалют. Одновременно ведется расследование коллапса биржи Zondacrypto, в результате которого произошли убытки на сумму 96 миллионов долларов. Прокуратура ведет расследование по этому делу.",
+    "url": "https://www.theblock.co/post/401493/poland-passes-mica-crypto-bill-zondacrypto-probe-deepens-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T18:20:33.527508+00:00",
+    "awaiting_edit": false
+  },
+  "bcdc36f9d8181ee43d3971f00fdf370a": {
+    "title": "Биткоин-ETF получил 5 млн долларов",
+    "body": "ETF \"21Shares' Hyperliquid\" заработал $8,1 млн объема торгов и чистый приток средств в размере $4,9 млн. Coinbase станет казначеем средств ETF.",
+    "url": "https://www.theblock.co/post/401479/21shares-hyperliquid-etf-best-day-inflows-5-million-coinbase-treasury-deployer?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T18:20:36.533771+00:00",
+    "awaiting_edit": false
+  },
+  "e5927b2334f146d3e10fde11812b56b5": {
+    "title": "Strategy покупает обратно конвертируемые ноты",
+    "body": "Компания Strategy планирует выкупить обратно свои конвертируемые ноты на сумму 1,5 млрд долларов за 1,38 млрд долларов, потенциально продавая биткоин для финансирования сделки. Таким образом, компания стремится уменьшить свои долговые обязательства. Возможная продажа биткоина компании может повлиять на рыночную ситуацию.",
+    "url": "https://www.theblock.co/post/401482/strategy-to-retire-1-5-billion-in-convertible-notes-at-a-discount-may-sell-bitcoin-to-fund-buyback?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-15T18:20:39.959211+00:00",
+    "awaiting_edit": false
   }
 }
