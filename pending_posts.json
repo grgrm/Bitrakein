@@ -4202,5 +4202,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-16T11:46:50.439549+00:00",
     "awaiting_edit": false
+  },
+  "efba5f9f0624dba2a65582330c5421fb": {
+    "title": "Институты увеличивают позиции в биткоине",
+    "body": "Фонд Мубадала из Абу-Даби добавил более $90 миллионов в свой позицию в BlackRock’s iShares Bitcoin Trust ETF, увеличивая свою уже существенную долю. Это указывает на продолжающийся интерес крупных институтов к биткоину. Университет Гарвард же отказался от ETF на эфириум.",
+    "url": "https://www.theblock.co/post/401518/sovereign-funds-universities-banks-reshuffle-bitcoin-altcoin-etf-positions?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-16T17:54:09.687334+00:00",
+    "awaiting_edit": false
+  },
+  "394023183ff325c688146dfd32eef245": {
+    "title": "Инвестиции в крипто за_week",
+    "body": "За период с 9 по 16 мая 2026 года было зафиксировано 25 инвестиционных сделок в криптоиндустрии на общую сумму $1,56 млрд. Крупнейшим вливанием стала покупка доли в Dunamu, материнской компании биржи Upbit, за $675 млн. Также было зафиксировано 15 венчурных сделок.",
+    "url": "https://incrypted.com/follow-the-money-dolja-v-upbit-za-675-mln-upor-na-venchurnye-sdelky-y-tokensejl-arc/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-16T17:54:12.887853+00:00",
+    "awaiting_edit": false
+  },
+  "689a8cbdfccb5acece0f19ee462eba0b": {
+    "title": "Биткоин не анонимен, доказательства",
+    "body": "Дело \"Современного Пабло Эскобара\" показало, что криптовалюты, включая биткоин, могут быть отслежены. Это дело служит примером того, как правоохранительные органы могут использовать блокчейн-аналитику для идентификации пользователей и их транзакций. Судебное разбирательство привело к выводу, что биткоин не обеспечивает полной анонимности для своих пользователей.",
+    "url": "https://99bitcoins.com/news/legal/marset-case-proves-bitcoin-traceable-not-anonymous/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-05-16T17:54:16.106417+00:00",
+    "awaiting_edit": false
+  },
+  "a3171071a20cee57737e5650739f2503": {
+    "title": "Cardano любимец ЕС",
+    "body": "Cardano приобрёл популярность в Европейском Союзеthanks kepada инициативе DARTE Paris 2.0. Это связано с регулированием криптовалют в ЕС и позиционированием Cardano на рынке DeFi. ADA может вырасти в цене до $0.30.",
+    "url": "https://99bitcoins.com/news/altcoins/cardano-roundup-eu-regulation-defi-risks-ada-price/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-05-16T17:54:19.446366+00:00",
+    "awaiting_edit": false
+  },
+  "a5fb925ed0bd529cfc6965c4b1fde1da": {
+    "title": "Vitalik Buterin получает награду от Liberland",
+    "body": "Микронация Liberland под руководством Джастина Сана присудила Vitalik Buterin, основателю Ethereum, свою высшую награду. Церемония прошла в рамках конференции ETH Prague 2026. Это событие стало частью продвижения блокчейн-гovernance и цифрового гражданства.",
+    "url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
+    "source": "Decrypt",
+    "timestamp": "2026-05-16T17:54:22.574078+00:00",
+    "awaiting_edit": false
   }
 }
