@@ -4162,5 +4162,45 @@
     "source": "Decrypt",
     "timestamp": "2026-05-16T08:00:41.147985+00:00",
     "awaiting_edit": false
+  },
+  "1965fb3f23ea039d087d699a81b0acc6": {
+    "title": "Взлом THORChain на $10 млн раскрыт",
+    "body": "Команда THORChain раскрыла детали взлома своего кроссчейн-протокола на сумму $10 млн. Разработчики подтвердили факт взлома и заявили об отсутствии планов по запуску программы поощрения для жертв взлома. Взлом стал крупной атакой на криптопротокол.",
+    "url": "https://forklog.com/news/komanda-thorchain-raskryla-detali-vzloma-na-10-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-05-16T11:46:38.954476+00:00",
+    "awaiting_edit": false
+  },
+  "cc7aa42cb09b589ba26e22a1f479046f": {
+    "title": "Новый глава ФРС и рынки",
+    "body": "На этой неделе в фокусе обсуждения договоренности Трампа с Китаем и новый глава ФРС, который также является сторонником биткоина. Это вызывает интерес к потенциальному влиянию на рынки.",
+    "url": "https://forklog.com/news/novyj-glava-frs-i-dogovor-trampa-s-kitaem-vliyanie-na-rynki",
+    "source": "ForkLog",
+    "timestamp": "2026-05-16T11:46:41.786496+00:00",
+    "awaiting_edit": false
+  },
+  "83276f7fe7ac72fce449de6f3a371f7f": {
+    "title": "Бутан опровергает распродажу биткоина",
+    "body": "Представитель суверенного фонда Druk Holding and Investments (DHI) заявил, что Бутан не продавал запасы биткоина в размере 13 000 BTC. Это заявление было сделано в ответ на появившиеся ранее сообщения о такой распродаже.",
+    "url": "https://forklog.com/news/butan-oproverg-rasprodazhu-bitkoin-rezerva-v-13-000-btc",
+    "source": "ForkLog",
+    "timestamp": "2026-05-16T11:46:44.621142+00:00",
+    "awaiting_edit": false
+  },
+  "71d4bede946f8ddd7ddce59341bbc060": {
+    "title": "Бутан опроверг продажу биткоинов",
+    "body": "Государственный инвестиционный фонд Бутана Druk Holding and Investments (DHI) опроверг информацию о продаже биткоинов, несмотря на данные о сокращении биткоин-резервов страны на $1 млрд. По данным аналитической платформы Arkham Intelligence, кошельки, связанные с DHI, перевели на биржи и OTC-платформы более $1 млрд в биткоинах с середины 2025 года. DHI управляет резервами страны.",
+    "url": "https://incrypted.com/butan-otverg-zayavleniya-o-prodazhe-bitkoinov-na-fone-sokrasheniya-rezervov-na-1-mlrd/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-16T11:46:47.509270+00:00",
+    "awaiting_edit": false
+  },
+  "1cbf9adc8db5b2b410951f1a6066995f": {
+    "title": "Binance привлекла 78% биржевых поступлений",
+    "body": "В мае криптобиржа Binance получила 78% всех чистых поступлений на централизованные биржи. Этот рост происходит на фоне возвращения фазы risk-on на крипторынке и увеличения потоков капитала в ETF, стейблкоины и централизованные биржи. Потоки капитала демонстрируют положительную динамику для основных криптоактивов, включая биткоин и Ethereum.",
+    "url": "https://incrypted.com/na-binance-postupilo-78-chistyh-birzhevyh-postuplenij-v-mae/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-16T11:46:50.439549+00:00",
+    "awaiting_edit": false
   }
 }
