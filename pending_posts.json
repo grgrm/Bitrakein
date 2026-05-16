@@ -4122,5 +4122,45 @@
     "source": "The Block",
     "timestamp": "2026-05-15T18:20:39.959211+00:00",
     "awaiting_edit": false
+  },
+  "98b2d9852eda28165c7a27a2aa7b7a45": {
+    "title": "Законопроект о крипторынке стал ближе к принятию",
+    "body": "Законопроект о крипторынке, известный как Clarity Act, прошел через комитет Сената, но аналитики отмечают, что ему еще предстоит преодолеть серьезные препятствия. TD Cowen повысил вероятность принятия законопроекта до 40%, Benchmark считает необходимым получить большую поддержку демократов.",
+    "url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-16T08:00:27.895741+00:00",
+    "awaiting_edit": false
+  },
+  "4a969507edf6bee94dff5d1b66812138": {
+    "title": "Новая эра криптовых трейдеров",
+    "body": "Основатель Jito Лукас Брудер заявил, что появляется новый класс пользователей, желающих торговать всем и чем угодно. Это, по его мнению, означает новую эру для криптовых трейдеров.",
+    "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-16T08:00:31.676920+00:00",
+    "awaiting_edit": false
+  },
+  "6d0d54fd8d7fa610ffa96b1c87fc32bb": {
+    "title": "ICE и CME призывают к контролю",
+    "body": "Компании Intercontinental Exchange (ICE) и CME Group призвали американских регуляторов усилить контроль над криптоплатформой Hyperliquid из-за анонимного характера торгов и отсутствия регуляторного надзора. Они провели переговоры с должностными лицами CFTC и чиновниками на Капитолийском холме. Это может повлиять на рынок криптовалют.",
+    "url": "https://incrypted.com/ice-i-cme-prizvali-regulyatorov-ssha-vzyat-hyperliquid-pod-kontrol/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-16T08:00:34.849563+00:00",
+    "awaiting_edit": false
+  },
+  "941dbe0a14718d766bd42cf64f310983": {
+    "title": "Дрейк поддержал Сэма Бэнкман-Фрида",
+    "body": "Рэпер Дрейк выпустил три новых альбома, в которых высказался о своем отношении к криптовалютам и, в частности, к делу Сэма Бэнкман-Фрида. Дрейк назвал себя \"BTC крипто-большим игроком\". Он также высказался о необходимости освобождения Сэма Бэнкман-Фрида.",
+    "url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
+    "source": "Decrypt",
+    "timestamp": "2026-05-16T08:00:38.032208+00:00",
+    "awaiting_edit": false
+  },
+  "37cb0dcda6e31cd344b29bb50537fa68": {
+    "title": "Lombard Finance выбирает Chainlink",
+    "body": "Lombard Finance, протокол децентрализованного финансирования для биткоина, решает перевести свои активы в размере $1 млрд из LayerZero в Chainlink после атаки на Kelp DAO, которая привела к потере $292 млн. Это решение должно повысить безопасность и надежность своих активов. Переход на Chainlink позволит обеспечить более стабильную и безопасную работу протокола.",
+    "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+    "source": "Decrypt",
+    "timestamp": "2026-05-16T08:00:41.147985+00:00",
+    "awaiting_edit": false
   }
 }
