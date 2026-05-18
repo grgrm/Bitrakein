@@ -4322,5 +4322,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-17T17:56:21.345123+00:00",
     "awaiting_edit": false
+  },
+  "e4542ec870a35de158823a66544046fb": {
+    "title": "Аналитики Bernstein о优势 Circle",
+    "body": "Аналитики компании Bernstein считают, что принятие законопроекта Clarity Act и компромисс по вопросу доходности укрепляют позиции компании Circle на рынке стейблкоинов. Количество долларовых стейблкоинов достигло рекордного уровня. Это может дать Circle конкурентное преимущество на рынке.",
+    "url": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-18T09:57:37.006515+00:00",
+    "awaiting_edit": false
+  },
+  "5132be33735d6a3d955ee031ffe6e2c4": {
+    "title": "Платформа Hormuz Safe на биткоине",
+    "body": "Iran-linked Hormuz Safe - платформа保险ования на основе биткоина, связанная с перевозкой грузов через Ормузский пролив. Платформа стремится генерировать 10 миллиардов долларов. Запуск платформы был анонсирован в иранских СМИ.",
+    "url": "https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-18T09:57:39.879008+00:00",
+    "awaiting_edit": false
+  },
+  "a41207afa355a659adc563659e4e9a0a": {
+    "title": "Фирма Capital B покупает биткоины на $15 млн",
+    "body": "Фирма Capital B, занимающаяся хранением биткоинов, приобрела биткоины на сумму $15 млн после привлечения средств. Фирма привлекла в общей сложности $20 млн от трех инвестиционных контрактов, в которых участвовал генеральный директор Blockstream Адам Бэк. Инвестиции будут использованы для расширения деятельности компании.",
+    "url": "https://www.theblock.co/post/401608/capital-b-192-btc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-18T09:57:42.915059+00:00",
+    "awaiting_edit": false
+  },
+  "d2e9cbeda1246a554711091cbb054b82": {
+    "title": "Bitcoin Depot подал заявление о банкротстве",
+    "body": "Оператор крипто-АТМ Bitcoin Depot подал заявление о банкротстве по главе 11 для ликвидации бизнеса из-за проблем с регулированием. Компания заявила, что изменяющаяся нормативная среда затрудняет продолжение текущей модели бизнеса.",
+    "url": "https://www.theblock.co/post/401590/bitcoin-depot-chapter-11?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-18T09:57:45.745873+00:00",
+    "awaiting_edit": false
+  },
+  "ae4a15717827c8fc31344825bfdd4643": {
+    "title": "Токенизация реальных активов",
+    "body": "Реальные активы (RWAs) представляют собой криптовалютные токены, поддержанные традиционными активами. Эмитенты этих токенов создают токены на блокчейне, представляющиеgold, валюты, акции или облигации. Это позволяет инвесторам покупать и продавать токены, представляющие реальные активы.",
+    "url": "https://www.theblock.co/learn/401094/what-are-real-world-assets-rwas?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-18T09:57:48.840531+00:00",
+    "awaiting_edit": false
   }
 }
