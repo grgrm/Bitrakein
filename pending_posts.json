@@ -4482,5 +4482,45 @@
     "source": "The Block",
     "timestamp": "2026-05-19T09:38:36.103277+00:00",
     "awaiting_edit": false
+  },
+  "735edcfe2076b9bb8786d11f40f9541d": {
+    "title": "Flare и D'CENT запускают интеграцию",
+    "body": "Flare и D'CENT запустили интеграцию, соединяющую аппаратные кошельки с вольтами доходности XRP, не требующую новых цепей, кошельков или токенов газа. Эта интеграция позволяет пользователям XRP получать доход от своих криптоактивов в аппаратных кошельках.",
+    "url": "https://www.theblock.co/post/401828/xrp-alliance-debuts-as-flare-dcent-link-hardware-wallets-to-xrp-yield-vaults?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-19T13:54:11.908518+00:00",
+    "awaiting_edit": false
+  },
+  "14bbb16d2272923b3175ab7cff6dc02b": {
+    "title": "TD Cowen повышает целевую цену акций",
+    "body": "TD Cowen увеличила целевую цену акций Strategy (MSTR) до $400, зафиксировав ускорение роста количества биткоинов на акцию и репurchase долга на $1,5 млрд. Этот шаг обусловлен более быстрой аккумуляцией биткоинов и выгодным сокращением долга.",
+    "url": "https://www.theblock.co/post/401824/td-cowen-raises-strategy-price-target-to-400-citing-faster-bitcoin-accumulation-and-accretive-deleveraging?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-19T13:54:15.267523+00:00",
+    "awaiting_edit": false
+  },
+  "067d12a5b1be243c425fa935ee82396b": {
+    "title": "Аналитики Wall Street оценивают криптофирмы",
+    "body": "Аналитики компаний Benchmark, TD Cowen и Mizuho присвоили рейтинг \"купи\" фирмам Bitdeer, Strive, DeFi Technologies и Gemini, обусловленные сдвигом в сторону инфраструктуры и рынков. Это указывает на растущее признание потенциала криптовалютных компаний как платформ инфраструктуры, искусственного интеллекта и рынков капитала.",
+    "url": "https://www.theblock.co/post/401816/wall-street-analysts-increasingly-value-crypto-firms-as-infrastructure-ai-and-capital-markets-platforms?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-19T13:54:18.713412+00:00",
+    "awaiting_edit": false
+  },
+  "4218b254ab786a8a6dc706721a3609cd": {
+    "title": "Аналитики оценивают перспективы майнеров биткоина",
+    "body": "Компания Bernstein ожидает роста доходов у нескольких майнеров биткоина, включая IREN, Riot, CleanSpark и Core Scientific, благодаря перспективам крупных сделок в области искусственного интеллекта и центров обработки данных. Сумма этих сделок оценивается в $90 миллиардов. Аналитики присвоили этим компаниям рейтинг \"Outperform\".",
+    "url": "https://www.theblock.co/post/401809/follow-the-gigawatts-bernstein-sees-upside-in-several-bitcoin-miners-amid-90-billion-in-ai-data-center-deals?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-19T13:54:22.364785+00:00",
+    "awaiting_edit": false
+  },
+  "2feb324048a722ef9f117994b7d871ae": {
+    "title": "Биткоин-ETF зафиксировали крупнейший отток",
+    "body": "18 мая чистый отток из американских спотовых биткоин-ETF составил $648,6 млн, что является худшим суточным результатом с конца января. Это значительный отток средств из биткоин-ETF. Рекордный отток может указывать на изменение настроений инвесторов.",
+    "url": "https://forklog.com/news/bitkoin-etf-zafiksirovali-krupnejshij-sutochnyj-ottok-s-yanvarya",
+    "source": "ForkLog",
+    "timestamp": "2026-05-19T13:54:25.617798+00:00",
+    "awaiting_edit": false
   }
 }
