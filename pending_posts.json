@@ -4682,5 +4682,45 @@
     "source": "The Block",
     "timestamp": "2026-05-20T19:22:04.291130+00:00",
     "awaiting_edit": false
+  },
+  "67cde345bd86914ffc945ad657b4b5bb": {
+    "title": "США санкционируют нарко-картель в крипто",
+    "body": "США ввели санкции против сети по отмыванию денег, связанной с картелем Синалоа, которая использовала криптовалюту для отмывания средств, полученных от торговли фентанилом. Сеть обвиняется в отмывании денег через криптовалютные транзакции. Санкции введены Управлением по контролю за иностранными активами (OFAC).",
+    "url": "https://www.theblock.co/post/402135/us-sanctions-sinaloa-cartel-linked-cash-to-crypto-laundering-network-tied-to-fentanyl-trafficking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T09:35:46.425724+00:00",
+    "awaiting_edit": false
+  },
+  "62940ad354a73d20a307e717a988cbcd": {
+    "title": "Syndicate Labs сворачивает операции",
+    "body": "Syndicate Labs объявила о сворачивании операций после пяти лет работы, ссылаясь на спад рынка rollup. Недавний взлом на сумму $330 000 не связан с этим решением.",
+    "url": "https://www.theblock.co/post/402130/syndicate-labs-wind-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T09:35:49.382205+00:00",
+    "awaiting_edit": false
+  },
+  "2a58516533db181b99fb33e3b2a1ccdf": {
+    "title": "ИГ Европа расширяет крипто-предложения",
+    "body": "IG Europe сотрудничает с Bitpanda, чтобы расширить крипто-предложения на территории ЕС, ссылаясь на спрос клиентов. Это сотрудничество позволит клиентам получать крипто-экспозицию на доверенной платформе. Это решение было принято в ответ на спрос со стороны клиентов.",
+    "url": "https://www.theblock.co/post/402104/ig-europe-bitpanda-expand-crypto-offering-eu-citing-client-demand?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T09:35:52.283494+00:00",
+    "awaiting_edit": false
+  },
+  "855c83454f794303bf6d56fad532fd55": {
+    "title": "Рекордные притоки в Hyperliquid ETFs",
+    "body": "Американские ETF Hyperliquid HYPE получили чистый приток в размере 25,5 миллиона долларов в среду, что является рекордом с момента запуска. Этот показатель указывает на растущий интерес институциональных инвесторов к этим фондам. Чистый приток означает превышение суммы новых инвестиций над суммой вывода средств.",
+    "url": "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T09:35:55.572420+00:00",
+    "awaiting_edit": false
+  },
+  "b436c691e01a93a329f72b1b21fae2a2": {
+    "title": "Фед запрашивает мнения об расширении доступа",
+    "body": "Федеральная резервная система США опубликовала запрос на мнения о расширении доступа к мастер-аккаунтам после подписания исполнительного порядка Трампом. Этот исполнительный порядок направлен на обновление регуляций для интеграции цифровых активов в традиционные финансовые системы.",
+    "url": "https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T09:36:00.476446+00:00",
+    "awaiting_edit": false
   }
 }
