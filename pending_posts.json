@@ -4762,5 +4762,45 @@
     "source": "The Block",
     "timestamp": "2026-05-21T14:12:33.565125+00:00",
     "awaiting_edit": false
+  },
+  "80c893ede0c323ce518f30c16b23f358": {
+    "title": "Бывший разработчик Ethereum предлагает создать новую группу",
+    "body": "Бывший разработчик Ethereum Foundation Данкрад Фейст предложил собрать 1 миллиард долларов для создания новой группы по продвижению Ethereum. Эта группа будет заниматься защитой интересов платформы. Ethereum Foundation является некоммерческой организацией, курирующей развитие второй по величине блокчейн-сети в мире.",
+    "url": "https://www.theblock.co/post/402271/former-ef-developer-dankrad-feist-suggests-1-billion-raise-new-ethereum-advocacy-group?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T19:01:37.566767+00:00",
+    "awaiting_edit": false
+  },
+  "28c4f49a5a2368361c0d9c8be0c04a63": {
+    "title": "CLEAR токен падает на 48%",
+    "body": "Проект Everclear, управляющий токеном CLEAR, останавливает работы по протоколу, фонду и лабораторной части. Максимальный объем операций составил $500 миллионов в месяц, но команда признала отсутствие коммерческого эффекта. Токен CLEAR упал в цене на 48%.",
+    "url": "https://www.theblock.co/post/402252/clear-token-tanks-48-everclear-winds-down-protocol-foundation-labs-unit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T19:01:40.774587+00:00",
+    "awaiting_edit": false
+  },
+  "79b6b6df0f0377ccf03c8ff3c284d951": {
+    "title": "JPMorgan оценивает рост токенизированных фондов",
+    "body": "Аналитики JPMorgan считают, что токенизированные фонды денежного рынка вряд ли займут более 15% рынка стейблкоинов. На данный момент они составляют около 5% рынка стейблкоинов. Эти фонды предлагают доход, но пока не набрали значительного объема.",
+    "url": "https://www.theblock.co/post/402227/jpmorgan-tokenized-money-market-funds-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T19:01:44.004823+00:00",
+    "awaiting_edit": false
+  },
+  "6385782ac1d73d68b9b67c9e5dc5c43d": {
+    "title": "MoonPay приобретает Decent",
+    "body": "MoonPay объявил о покупке компании Decent, что стало четвертой подобной сделкой в этом году. Это приобретение поддерживает запуск нового продукта MoonPay Trade. Ранее MoonPay уже приобрел DFlow и Sodot.",
+    "url": "https://www.theblock.co/post/402206/moonpay-announces-fourth-acquisition-of-the-year-with-decent-as-it-launches-moonpay-trade?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T19:01:47.698605+00:00",
+    "awaiting_edit": false
+  },
+  "dbe6868ae48e5e20857b5861b79990c4": {
+    "title": "NHL и CFTC подписали меморандум",
+    "body": "Национальная хоккейная лига (NHL) и Комиссия по торговле товарными фьючерсами (CFTC) подписали меморандум о взаимопонимании, направленный на развитие предикшн-маркетов. Это сотрудничество является частью тренда по росту спортивных предикшн-маркетов.",
+    "url": "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T19:01:50.992943+00:00",
+    "awaiting_edit": false
   }
 }
