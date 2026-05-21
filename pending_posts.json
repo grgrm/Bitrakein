@@ -4722,5 +4722,45 @@
     "source": "The Block",
     "timestamp": "2026-05-21T09:36:00.476446+00:00",
     "awaiting_edit": false
+  },
+  "19139050f11291ad01fd84c991b7a55c": {
+    "title": "Blockchain.com подает заявку на IPO",
+    "body": "Blockchain.com конфиденциально подала заявку на IPO в SEC, присоединившись к Circle, Gemini и BitGo в списке криптокомпаний, стремящихся выйти на публичный рынок. Это является частью продолжающегося тренда IPO в криптоиндустрии.",
+    "url": "https://www.theblock.co/post/402182/blockchain-com-confidentially-files-for-us-ipo-as-crypto-firms-continue-public-market-push?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T14:12:20.381336+00:00",
+    "awaiting_edit": false
+  },
+  "98bb1e9e5698d19fb64f7aa565d5f31e": {
+    "title": "Cosmos-кофоундер привлекает средства для Cycles",
+    "body": "Cycles, новый стартап по мультилатеральной очистке, основанный сооснователем Cosmos, привлек 6,4 миллиона долларов в рамках раунда финансирования. Раунд возглавил Blockchange Ventures при поддержке Coinbase Ventures. Общий объем финансирования Cycles теперь составляет 8,7 миллиона долларов.",
+    "url": "https://www.theblock.co/post/402176/cosmos-co-founders-new-multilateral-clearing-startup-cycles-raises-6-4-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T14:12:23.620863+00:00",
+    "awaiting_edit": false
+  },
+  "a4fb947eade43bedf6d861a67d4774f9": {
+    "title": "Foundation получила 6,4 млн на расширение",
+    "body": "Компания Foundation объявила о сборе 6,4 миллиона долларов для расширения своего бизнеса с аппаратных кошельков для биткоина в сторону авторизации агентов с искусственным интеллектом. Также анонсирована общедоступность флагманского устройства Passport Prime и расширение доступа к платформе для разработчиков KeyOS.",
+    "url": "https://www.theblock.co/post/402012/foundation-raises-6-4-million-expand-bitcoin-hardware-wallets-ai-agent-authorization?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T14:12:26.929813+00:00",
+    "awaiting_edit": false
+  },
+  "4fe04e363558e05581f611f1dfc79f9e": {
+    "title": "Kraken получает разрешение в Дубае",
+    "body": "Компания Payward, родительская компания Kraken, получила предварительное одобрение от VARA в Дубае, что открывает путь для расширения регулируемых криптовалютных услуг в ОАЭ. Это решение позволит Kraken увеличить свое присутствие на рынке Ближнего Востока.VARA является основным регулирующим органом для криптовалютных услуг в Дубае.",
+    "url": "https://www.theblock.co/post/402172/kraken-parent-payward-secures-preliminary-vara-approval-for-dubai-expansion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T14:12:30.051766+00:00",
+    "awaiting_edit": false
+  },
+  "e862b240f2663543d9db0bd64046f85d": {
+    "title": "Биткоин останавливается ниже $78 000",
+    "body": "Биткоин торгуется около $77 500, продолжая испытывать излияние средств из биржевых фондов (ETF) и ликвидацию длинных позиций, при этом аналитики ожидают тестирование ключевого уровня в $80 000. Эта динамика вызывает сомнения относительно возможного восстановления курса. Биткоин уже четвертый день испытывает отток средств из ETF.",
+    "url": "https://www.theblock.co/post/402165/rally-slows-into-resistance-bitcoin-stalls-below-78000-as-etf-outflows-and-long-liquidations-deepen-recovery-doubts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-21T14:12:33.565125+00:00",
+    "awaiting_edit": false
   }
 }
