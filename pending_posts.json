@@ -4802,5 +4802,45 @@
     "source": "The Block",
     "timestamp": "2026-05-21T19:01:50.992943+00:00",
     "awaiting_edit": false
+  },
+  "4d063a359e891c5ad95f0251b683045f": {
+    "title": "Верус: хакер вернул 4052 ETH",
+    "body": "Хакер, который атаковал мост Verus, вернул 4052,4 ETH, что соответствует примерно 8,5 миллионам долларов. Это было сделано после того, как команда Verus предложила программу вознаграждений. Хакер сохранил бонус в размере 2,8 миллиона долларов.",
+    "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T08:57:41.606298+00:00",
+    "awaiting_edit": false
+  },
+  "efdbfa93304282386107cd9ce2bb9c5a": {
+    "title": "Polymarket планирует выход на японский рынок",
+    "body": "Платформа предсказательных рынков Polymarket намерена получить разрешение на работу в Японии к 2030 году. Этот шаг является частью планов компании по расширению своей деятельности. Для достижения своих целей Polymarket назначила регионального представителя в Японии.",
+    "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T08:57:44.788607+00:00",
+    "awaiting_edit": false
+  },
+  "e13c75c6785844d5180ffdfa114db9e6": {
+    "title": "Южная Корея пересматривает план налогообложения криптовалют",
+    "body": "В Южной Корее начата переработка плана по налогообложению криптовалют после сбора 50 000 подписей под национальной петицией. Петиция призывает к пересмотру плана из-за того, что налогообложение криптовалют при одновременном废новении налогов на традиционные инвестиции сочтено несправедливым.",
+    "url": "https://www.theblock.co/post/402311/south-korea-petition-crypto-tax-plan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T08:57:48.129390+00:00",
+    "awaiting_edit": false
+  },
+  "0e3aa98b49c926d68cd624ea921de6e1": {
+    "title": "Сетка Zero Network сворачивает работу",
+    "body": "Сетка Zero Network, работающая на основе Ethereum, прекращает свою деятельность и присоединяется к ряду других протоколов, которые закрыли свои операции. Ресурсы будут перенаправлены на развитие API и кошелька Zerion. Это было объявлено командой Zero Network в четверг.",
+    "url": "https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T08:57:51.601717+00:00",
+    "awaiting_edit": false
+  },
+  "15b9dfee104b022f378f52a26823a1cb": {
+    "title": "Судебный спор Galaxy и BitGo",
+    "body": "Galaxy обвиняет BitGo в невыполнении обязательств по предоставлению аудированных финансовых отчетов за 2021 год. Это стало причиной отмены плана по приобретению BitGo в 2022 году. Сумма иска составляет $100 миллионов.",
+    "url": "https://www.theblock.co/post/402290/galaxys-bitgo-court?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T08:57:54.704573+00:00",
+    "awaiting_edit": false
   }
 }
