@@ -4882,5 +4882,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-22T13:29:00.737078+00:00",
     "awaiting_edit": false
+  },
+  "292fed45b7af4a67d3678da268e7e348": {
+    "title": "Суд отверг апелляции Kalshi и Polymarket",
+    "body": "Компании Kalshi и Polymarket, занимающиеся прогнозирующими рынками, проиграли апелляции на решение суда о прекращении дел в штатах Невада и Вашингтон, связанных с обвинениями в незаконных играх. Федеральный суд постановил, что контроль за деривативами не защищает эти компании от государственного регулирования игр. Решение было вынесено судом девятого округа.",
+    "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T18:51:08.602052+00:00",
+    "awaiting_edit": false
+  },
+  "b04b18ba1365c197d7616943724f9868": {
+    "title": "Риппл инвестировал в кросс-чейн платформу Squid",
+    "body": "Комания Squid получила 6 миллионов долларов инвестиций от Ripple и North Island Ventures. Средства будут использованы для запуска нового потребительского продукта, предназначенного для упрощения доступа и управления криптоактивами. Продукт находится в стадии разработки.",
+    "url": "https://www.theblock.co/post/402394/ripple-north-island-ventures-squid-crypto-funding?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T18:51:11.684767+00:00",
+    "awaiting_edit": false
+  },
+  "1d2af2be230356ac0457fd710d1b0b5c": {
+    "title": "NEAR token вырос на 30%",
+    "body": "Токен NEAR вырос в цене на 30% благодаря хайпу вокруг искусственного интеллекта, поддержке от Артура Хейса и планам масштабирования. Артур Хейс назвал NEAR, HYPE и ZEC \"святой тройкой\" альткоинов. Это событие может быть интересно инвесторам в криптовалютном рынке.",
+    "url": "https://www.theblock.co/post/402373/near-jumps-30-ai-hype-arthur-hayes-endorsement-scaling-plans?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T18:51:14.747637+00:00",
+    "awaiting_edit": false
+  },
+  "03b82b157378d20709937bf1b2c52c8d": {
+    "title": "OKX и ICE合作 по нефтяным контрактам",
+    "body": "OKX и Intercontinental Exchange (ICE)合作 по выпуску контрактов на нефтяные перпетуальные свопы. Эти контракты будут отслеживать энергетические бенчмарки Brent Crude и WTI Crude. Это сотрудничество может повлиять на рынок нефтяных деривативов.",
+    "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T18:51:17.756503+00:00",
+    "awaiting_edit": false
+  },
+  "d7fd662b564dcac43463be27b5b2e8e7": {
+    "title": "Binance отрицает транзакции с Ираном",
+    "body": "Согласно отчету WSJ, иранский финансист Бабак Занжани якобы перевел 850 миллионов долларов через Binance. CEO Ричард Тенг назвал эти данные неверными. Ранее WSJ опубликовал информацию о предполагаемых транзакциях.",
+    "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-22T18:51:21.216334+00:00",
+    "awaiting_edit": false
   }
 }
