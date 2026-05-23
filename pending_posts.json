@@ -4986,5 +4986,45 @@
     "source": "99Bitcoins",
     "timestamp": "2026-05-23T11:57:59.657805+00:00",
     "awaiting_edit": false
+  },
+  "17bc3c8acf085927324eec332683da0f": {
+    "title": "FTX согласовала компенсацию в 66 миллионов",
+    "body": "Бывшая юридическая фирма FTX, Fenwick & West, и аудитор согласились выплатить 66 миллионов долларов для урегулирования исков клиентов, связанных с мошеннической деятельностью. Юридическая фирма отрицает свою вину и все еще является ответчиком по отдельному иску на 525 миллионов долларов в Вашингтоне. Это соглашение не распространяется на последний иск.",
+    "url": "https://www.theblock.co/post/402425/ftxs-former-law-firm-auditor-agree-to-pay-66-million-to-settle-customer-claims-over-fraud?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-23T17:58:21.746533+00:00",
+    "awaiting_edit": false
+  },
+  "35360c247d51805a9374d8373446c307": {
+    "title": "Биткоин ETF потерял 1,26 млрд долларов",
+    "body": "Фонды биткоина потеряли 1,26 млрд долларов в последней неделе, что стало худшим результатом с конца января. Тем временем, фонды эфира переживают 10-дневную серию оттока. Фонд BlackRock's IBIT теперь имеет 61,1 млрд долларов в чистых активах, несмотря на 64,8 млрд долларов в累ательных притоках.",
+    "url": "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-23T17:58:25.058214+00:00",
+    "awaiting_edit": false
+  },
+  "42dbf4dff4e5a184e7d3fc92347156ba": {
+    "title": "Законопроект о биткоин-резерве в США",
+    "body": "В Палату представителей США внесли законопроект American Reserve Modernization Act of 2026 (ARMA), который предлагает нормативно закрепить стратегический биткоин-резерв. Законопроект был внесен конгрессменом Ником Бегичем. Документ направлен на модернизацию резервов страны.",
+    "url": "https://forklog.com/news/v-kongress-ssha-vnesli-novyj-zakonoproekt-o-bitkoin-rezerve",
+    "source": "ForkLog",
+    "timestamp": "2026-05-23T17:58:28.180448+00:00",
+    "awaiting_edit": false
+  },
+  "952339700d24f349699829661dd99e5a": {
+    "title": "Адреса BitMine приобрели 60 000 ETH",
+    "body": "Два адреса, связанные с компанией BitMine, получили 60 000 эфира стоимостью примерно 125,9 миллиона долларов. Транзакции прошли с бирж Kraken и BitGo. Общий объём перевода составил около $125,9 млн.",
+    "url": "https://forklog.com/svyazannye-s-bitmine-adresa-priobreli-60-000-eth",
+    "source": "ForkLog",
+    "timestamp": "2026-05-23T17:58:31.322521+00:00",
+    "awaiting_edit": false
+  },
+  "ba5d5dc4314ecf4e3402a6ca513c3c6d": {
+    "title": "Биткоин падает ниже 75 000",
+    "body": "Биткоин опустился ниже отметки $75 000 утром 23 мая. Это происходит на фоне тестирования максимумов на традиционных рынках.",
+    "url": "https://forklog.com/news/bitkoin-ruhnul-nizhe-75-000",
+    "source": "ForkLog",
+    "timestamp": "2026-05-23T17:58:34.182316+00:00",
+    "awaiting_edit": false
   }
 }
