@@ -5034,5 +5034,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-24T08:25:53.143963+00:00",
     "awaiting_edit": false
+  },
+  "779acead8e51dba5d44b17952acff40f": {
+    "title": "Защита Ethereum Foundation от критики",
+    "body": "Блокчейн-исследователь и инвестор Уильям Могайяр защитил Ethereum Foundation от критики сообщества, заявив, что организация работает по назначению. Могайяр отметил важность деятельности фонда.",
+    "url": "https://forklog.com/news/uilyam-mogajyar-zashhitil-ethereum-foundation-ot-kritiki-soobshhestva",
+    "source": "ForkLog",
+    "timestamp": "2026-05-24T11:59:05.245959+00:00",
+    "awaiting_edit": false
+  },
+  "2922c7da41d19a1ee4cb2d31b211e18b": {
+    "title": "Европа запускает свою криптовалюту",
+    "body": "37 банков Европы объявили о создании своей собственной криптовалюты. Это решение может повлиять на развитие криптовалютного рынка. Детали проекта будут опубликованы в ближайшее время.",
+    "url": "https://forklog.com/news/satoshi-proigral-zachem-37-bankam-evropy-svoya-kriptovalyuta",
+    "source": "ForkLog",
+    "timestamp": "2026-05-24T11:59:08.255197+00:00",
+    "awaiting_edit": false
+  },
+  "1413c4445e10fdfe64e90ad0e6bc0e08": {
+    "title": "Взлом StablR привел к потере привязки",
+    "body": "Европейский эмитент стейблкоинов StablR подвергся взлому, в результате которого злоумышленники украли не менее $2,8 млн. Этот инцидент привел к потере привязки стейблкоинов EURR и USDR.",
+    "url": "https://forklog.com/news/stejblkoiny-eurr-i-usdr-ot-stablr-poteryali-privyazku-posle-vzloma-na-2-8-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-05-24T11:59:11.187452+00:00",
+    "awaiting_edit": false
+  },
+  "ba1d8067ec5591cc639ef63a3bfd3f66": {
+    "title": "Законопроект о биткоин-резерве в США",
+    "body": "На этой неделе был представлен новый законопроект о создании биткоин-резерва в США. Этот законопроект является частью недельного дайджеста новостей в сфере ИИ и Web3. Кроме этого, в дайджесте упоминаются другие события, такие как проигрыш Илона Маска в суде против OpenAI и заявка SpaceX на проведение первичного публичного предложения.",
+    "url": "https://incrypted.com/weekly-mask-proygral-sud-openai-spacex-podala-zajavku-na-ipo-google-predstavyla-yy-novynky/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-24T11:59:14.258457+00:00",
+    "awaiting_edit": false
+  },
+  "f1a17d10b3de6c78ed1430230ec3efa1": {
+    "title": "Binance обвиняют в транзакциях для Ирана",
+    "body": "Журналисты The Wall Street Journal утверждают, что через платформу Binance могли быть проведены транзакции в пользу Ирана на сумму около 850 млн долларов. Эти средства, по данным расследования, могли быть использованы для финансирования Корпуса стражей Исламской революции (IRGC) и связанных с ним организаций. Журналисты ссылаются на внутренние комплаенс-отчеты Binance.",
+    "url": "https://incrypted.com/wsj-zajavylo-o-tranzaktsyjah-na-summu-850-mln-v-polzu-yrana-cherez-binance/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-24T11:59:17.393869+00:00",
+    "awaiting_edit": false
   }
 }
