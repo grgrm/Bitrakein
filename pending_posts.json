@@ -5090,5 +5090,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-24T17:57:04.888321+00:00",
     "awaiting_edit": false
+  },
+  "e293c61debb1656ffee4dad6d0774a0d": {
+    "title": "Malware-кампания нацелилась на крипто-разработчиков",
+    "body": "Исследователи обнаружили malware-кампанию под названием TrapDoor, которая использует вредоносные пакеты в репозиториях npm, PyPI и Crates.io для нацеливания на среды разработки криптовалют, включая Aptos, Sui и Solana. Эта кампания потенциально может представлять угрозу для безопасности крипто-проектов.",
+    "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T10:00:08.194362+00:00",
+    "awaiting_edit": false
+  },
+  "519b612e3929f1ab696c1978686da1a6": {
+    "title": "Tether запускает стейблкоин GELT",
+    "body": "Tether планирует выпустить стейблкоин GELT с поддержкой грузинского правительства. GELT предназначен для поддержки международной торговли в рамках грузинского нормативного регулирования, совместимого с появляющимися правилами для стейблкоинов в США.",
+    "url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T10:00:11.408558+00:00",
+    "awaiting_edit": false
+  },
+  "81228c8d4f94c4257c7c4c459ee9bc54": {
+    "title": "Биткоин-kит из эпохи Сатоши перемещает BTC",
+    "body": "Инвестор из эпохи Сатоши перевел около 2650 BTC в компании FalconX и Cumberland через несколько транзакций в воскресенье. Сумма переведенных средств составила более 200 миллионов долларов. Транзакции были выявлены с помощью анализа блокчейна.",
+    "url": "https://www.theblock.co/post/402447/bitcoin-og-moves-2650-btc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T10:00:14.551957+00:00",
+    "awaiting_edit": false
+  },
+  "f0f4fbecc2a2d2cfc58a14643bd2251a": {
+    "title": "Binance расширяет штат и ИИ-внедрение",
+    "body": "Криптобиржа Binance наращивает штат, открыв более 380 вакансий, и привлекает новых специалистов для разработки продуктов на базе искусственного интеллекта. 20% новых специалистов в 2026 году будут работать над ИИ-инструментами. Биржа также обучает сотрудников работе с собственными ИИ-инструментами.",
+    "url": "https://forklog.com/news/ai/binance-rasshiryaet-shtat-i-vnedryaet-ii-instrumenty-v-rabochie-protsessy",
+    "source": "ForkLog",
+    "timestamp": "2026-05-25T10:00:17.653226+00:00",
+    "awaiting_edit": false
+  },
+  "169f53afde09f530d4d7bca343e8bf98": {
+    "title": "Запуск биткоин-майнинга на ТЭС Боливии",
+    "body": "Итальянская компания Alps Blockchain и боливийская фирма Qurubiqa запустили проект по добыче биткоина на базе неиспользуемой газовой ТЭС в Боливии. Это позволит использовать простаивающую энергию для майнинга. Проект реализован при партнерстве двух компаний.",
+    "url": "https://forklog.com/news/v-bolivii-zapustili-bitkoin-majning-na-prostaivayushhej-tes",
+    "source": "ForkLog",
+    "timestamp": "2026-05-25T10:00:20.817787+00:00",
+    "awaiting_edit": false
   }
 }
