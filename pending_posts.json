@@ -5130,5 +5130,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-25T10:00:20.817787+00:00",
     "awaiting_edit": false
+  },
+  "da8539d65321e25b98922b74af840704": {
+    "title": "Эксплойт модуля Squid cost $3,2 млн",
+    "body": "Было атаковано стороннее расширение SquidRouterModule, в результате чего был украдено примерно $3,2 миллиона. Core-протокол Squid не пострадал от атаки.",
+    "url": "https://www.theblock.co/post/402487/we-dont-know-who-deployed-this-squid-distances-itself-from-3-2-million-third-party-module-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T13:57:30.611359+00:00",
+    "awaiting_edit": false
+  },
+  "5bd62d3454c4c54745649c43752c6a4f": {
+    "title": "Индонезия блокирует Polymarket",
+    "body": "Индонезия заблокировала доступ к платформе Polymarket из-за опасений по поводу онлайн-ставок. Регуляторные органы страны расширяют глобальный надзор за платформами прогнозирования рынка. Это действие является частью более широкой кампании по борьбе с онлайн-азартными играми.",
+    "url": "https://www.theblock.co/post/402481/indonesia-blocks-polymarket?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T13:57:33.629674+00:00",
+    "awaiting_edit": false
+  },
+  "7de2db5b4cb49fb557a481e461c9f945": {
+    "title": "Биткоин держится ниже $78 000",
+    "body": "Биткоин остаётся ниже отметки $78 000, при этом ETF-фонды с физическим покрытием потеряли более $1 миллиарда за вторую неделю подряд. Аналитики считают, что снижение курса и отток средств из ETF-фондов сигнализируют о rotation, а не о выводе средств.",
+    "url": "https://www.theblock.co/post/402473/institutional-bid-hasnt-disappeared-analysts-say-bitcoin-cooldown-spot-etf-outflows-signal-rotation-not-exit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T13:57:36.609155+00:00",
+    "awaiting_edit": false
+  },
+  "df668f67343085969c6cc7719b6bdbf5": {
+    "title": "Ethereum предлагают частные трансферы",
+    "body": "Том Лехман, сооснователь Facet, предложил включить EIP-8182 в апгрейд Hegota Ethereum, чтобы ввести родные частные трансферы в сеть. Это позволит пользователям осуществлять частные транзакции на блокчейне Ethereum. Цель — повысить уровень конфиденциальности на платформе.",
+    "url": "https://www.theblock.co/post/402464/facet-co-founder-pitches-eip-8182-private-transfers-for-inclusion-in-ethereums-hegota-upgrade?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-25T13:57:39.546748+00:00",
+    "awaiting_edit": false
+  },
+  "f48dc294bd01b954cb5fd645af6757df": {
+    "title": "Приватные транзакции в Ethereum",
+    "body": "Разработчики предложили внедрить стандарт EIP-8182 для добавления приватных транзакций в Ethereum. Эта инициатива может быть включена в обновление Hegota. Том Леман, сооснователь Facet, является одним из авторов предложения.",
+    "url": "https://forklog.com/news/razrabotchiki-predlozhili-vnedrit-privatnye-tranzaktsii-v-ethereum",
+    "source": "ForkLog",
+    "timestamp": "2026-05-25T13:57:42.420447+00:00",
+    "awaiting_edit": false
   }
 }
