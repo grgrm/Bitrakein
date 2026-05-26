@@ -5290,5 +5290,45 @@
     "source": "The Block",
     "timestamp": "2026-05-26T13:51:36.012546+00:00",
     "awaiting_edit": false
+  },
+  "589659546f046fc9954a2bb6aa831cff": {
+    "title": "Sharplink и Forward присоединились к Russell indexes",
+    "body": "Инвестиционные фирмы Sharplink и Forward, имеющие активы в Ethereum и Solana, стали частью Russell U.S. indexes. Согласно данным, около 12,2 триллионов долларов инвестиционных активов привязаны к этим индексам. Это событие может иметь значение для криптосообщества.",
+    "url": "https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T19:15:58.534139+00:00",
+    "awaiting_edit": false
+  },
+  "2e082a11de3890275ccb99c80e9294f5": {
+    "title": "Законопроект о криптовалютах может не пройти",
+    "body": "Финансовая компания TD Cowen считает, что законопроект о криптовалютах вряд ли будет принят в этом году из-за ухудшения политической обстановки. Это затрудняет принятие закона о криптовалютах. Политическая ситуация вокруг Закона о ясности становится все более сложной.",
+    "url": "https://www.theblock.co/post/402649/td-cowen-crypto-bill-worsening-political-environment-trump?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T19:16:01.681418+00:00",
+    "awaiting_edit": false
+  },
+  "53d417a37ba5dd4449af03c9bfeb7387": {
+    "title": "Индустрия криптовычислений защищает права фирм",
+    "body": "Сенатор Элизабет Уоррен назвала национальные трастовые чартеры для компаний như Ripple и Coinbase незаконными. Digital Chamber отвергла эти обвинения, считая чартеры законными. Конфликт связан с регулированием криптовалют в США.",
+    "url": "https://www.theblock.co/post/402639/crypto-industry-defends-occ-charters-for-ripple-coinbase-after-warren-calls-unlawful?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T19:16:04.743082+00:00",
+    "awaiting_edit": false
+  },
+  "ae9acf0b99b7528c74baf9c6b498fb01": {
+    "title": "Великобритания вводит санкции против HTX",
+    "body": "Великобритания ввела санкции против крупной криптовалютной биржи HTX, обвинив ее в поддержке правительства России. Это решение является частью более широких санкций против криптовалютных обменников.",
+    "url": "https://www.theblock.co/post/402591/uk-sanctions-htx-over-support-of-russia-in-broad-sweep-over-crypto-exchanges?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T19:16:07.649860+00:00",
+    "awaiting_edit": false
+  },
+  "80f90a69d8fb8e1df98459be4917bd8e": {
+    "title": "Base интегрирует блокчейн с AI-интерфейсами",
+    "body": "Платформа Base, инкубированная Coinbase, запустила MCP-шлюз для интеграции с AI-интерфейсами, такими как Claude и ChatGPT. Это позволит пользователям использовать голосовые команды для обмена токенами, перечисления средств и взаимодействия с приложениями Base.",
+    "url": "https://www.theblock.co/post/402631/coinbase-base-mcp-gateway-ai-interfaces-claude-chatgpt?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T19:16:10.588025+00:00",
+    "awaiting_edit": false
   }
 }
