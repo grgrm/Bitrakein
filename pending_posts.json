@@ -5250,5 +5250,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-26T09:51:10.104834+00:00",
     "awaiting_edit": false
+  },
+  "8103746f58040cd40760aaa152a02e0a": {
+    "title": "Bitmine покупает более 100000 ETH",
+    "body": "Компания Bitmine воспользовалась снижением цены Ethereum и приобрела более 100000 ETH. По словам председателя Bitmine Тома Ли, снижение цены_ETH ниже $2200 является привлекательной возможностью для инвестирования. Сделка приближает компанию к достижению цели в 5% доли в общем предложении ETH.",
+    "url": "https://www.theblock.co/post/402566/bitmine-capitalizes-on-ethereum-price-drop-buys-over-100000-eth-as-5-supply-goal-nears?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T13:51:23.513287+00:00",
+    "awaiting_edit": false
+  },
+  "7e8d8bd3abe38efa0109280911019b1f": {
+    "title": "Гонконг регулирует криптоуслуги",
+    "body": "Гонконг планирует ввести лицензирование криптовалютных консультантов и менеджеров в рамках правил против отмывания денег. Целью является принятие соответствующих законов в 2026 году. Этот шаг направлен на развитие регулируемого рынка виртуальных активов в регионе.",
+    "url": "https://www.theblock.co/post/402563/hong-kong-advances-virtual-asset-advisory-and-management-rulemaking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T13:51:26.675071+00:00",
+    "awaiting_edit": false
+  },
+  "3882117470cbc4a4f386760c15e9ebc3": {
+    "title": "Liquid запускает приложение Co-Invest",
+    "body": "Приложение Co-Invest от Liquid поддерживает торговлю криптовалютами, акциями, форексом и другими активами на более чем 500 рынках. Оно также интегрировано с ChatGPT и Claude. Co-Invest позволяет выполнять сделки с использованием искусственного интеллекта.",
+    "url": "https://www.theblock.co/post/402496/liquid-launches-co-invest?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T13:51:29.626491+00:00",
+    "awaiting_edit": false
+  },
+  "48891d0416a5e3470c51b2c24082c0a7": {
+    "title": "Биткоин колеблется из-за напряженности",
+    "body": "Аналитики предупреждают о потенциальном Range Trap, поскольку биткоин подбирается к отметке $79 000 и возобновляются напряженности на Ближнем Востоке. Это связано с недавними ударами по Ирану. Некоторые покупатели биткоина находятся в убытке.",
+    "url": "https://www.theblock.co/post/402552/optimism-looks-fragile-bitcoin-wavers-as-iran-strikes-revive-geopolitical-tensions-and-analysts-warn-of-range-trap?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T13:51:32.897540+00:00",
+    "awaiting_edit": false
+  },
+  "75523b2812af7c432c2ee35df582e173": {
+    "title": "Robinhood одобрен для покупки WonderFi",
+    "body": "Регулятор CIRO Канады одобрил приобретение Robinhood компании WonderFi на сумму 180 миллионов долларов. Этот шаг очищает последнее регуляторное препятствие перед ожидаемым заключением сделки 1 июня. WonderFi является криптовалютной платформой, работающей в Канаде.",
+    "url": "https://www.theblock.co/post/402542/robinhood-clears-final-regulatory-approval-wonderfi-deal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T13:51:36.012546+00:00",
+    "awaiting_edit": false
   }
 }
