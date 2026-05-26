@@ -5210,5 +5210,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-25T18:23:42.091779+00:00",
     "awaiting_edit": false
+  },
+  "fa0412a65817796d23c6a65f82af8346": {
+    "title": "Bitwise запустил ETP на Xetra",
+    "body": "Bitwise представил на торговой площадке Deutsche Börse Xetra новый биржевой инвестиционный фонд (ETP) Canton Network, обеспеченный токенами CC, хранящимися в холодном хранилище. Этот шаг расширяет присутствие криптовалютных продуктов на традиционных биржах.",
+    "url": "https://www.theblock.co/post/402538/bitwise-debuts-canton-network-etp-on-deutsche-borse-xetra?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T09:50:56.972972+00:00",
+    "awaiting_edit": false
+  },
+  "0fd46623dd6315f9b895a27588ce0b31": {
+    "title": "Криптовалютные ETP оттекают миллиарды",
+    "body": "Общий объем средств, выведенных из криптовалютных биржевых трастов (ETP), за неделю составил 1,47 миллиарда долларов. Продукты, связанные с биткоином, показали худшие недельные оттоки средств в 2026 году, что указывает на рост рисков во всем мире. Это может быть вызвано снижением инвесторского оптимизма в отношении рынка криптовалют.",
+    "url": "https://www.theblock.co/post/402528/global-crypto-etp-outflows-deepen-to-1-5b-as-bitcoin-products-post-worst-weekly-redemption-of-2026-coinshares?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T09:51:00.296262+00:00",
+    "awaiting_edit": false
+  },
+  "2da719e4695bff63c7c859a29e027a1c": {
+    "title": "OKX запускает Exchange OS",
+    "body": "Биржа OKX запустила платформу X Layer, которая позволяет пользователям создавать пользовательские рынки криптовалют. Эта платформа перемещает основные функции биржи, такие как совпадение ордеров, маржирование, ликвидация и расчет, на уровень протокола. Это может потенциально увеличить возможности для пользователей и разработчиков.",
+    "url": "https://www.theblock.co/post/402505/okx-x-layer-exchange-os?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-26T09:51:03.566197+00:00",
+    "awaiting_edit": false
+  },
+  "e46a65a66e502dcbc632f347ab850049": {
+    "title": "Биткоин пережил нефтяной шок",
+    "body": "Нефть резко подорожала, увеличившись в цене на 50% за три недели, но это не оказало существенного негативного влияния на цену биткоина. Рынки обычно реагируют на подобные нефтяные шоки распродажей рисковых активов. Однако в данном случае биткоин не сломился. Это вызвало интерес к пониманию причин такого поведения криптовалюты.",
+    "url": "https://forklog.com/exclusive/paradoks-ormuza-pochemu-neftyanoj-shok-ne-slomil-bitkoin",
+    "source": "ForkLog",
+    "timestamp": "2026-05-26T09:51:07.070144+00:00",
+    "awaiting_edit": false
+  },
+  "dd8672827c2db745696f71064eb094f1": {
+    "title": "Фейковая реклама Uniswap принесла скамерам",
+    "body": "Неизвестные разместили вредоносную рекламу в Google, имитирующую интерфейс DEX Uniswap, и похитили как минимум $400 000. Реклама была обнаружена в поисковой выдаче Google. Злоумышленники использовали эту рекламу для получения выгоды от неосведомлённых пользователей.",
+    "url": "https://forklog.com/news/fejkovaya-reklama-uniswap-v-google-prinesla-skameram-400-000",
+    "source": "ForkLog",
+    "timestamp": "2026-05-26T09:51:10.104834+00:00",
+    "awaiting_edit": false
   }
 }
