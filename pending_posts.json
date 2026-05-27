@@ -5370,5 +5370,45 @@
     "source": "The Block",
     "timestamp": "2026-05-27T09:40:41.834138+00:00",
     "awaiting_edit": false
+  },
+  "2d223201cecd9fb41b2fc4361fe4044e": {
+    "title": "Mastercard получил лицензию BitLicense",
+    "body": "Компания Mastercard получила лицензию BitLicense от штата Нью-Йорк, что позволит ей расширять свои услуги в сфере криптовалют. Это третья выданная в 2026 году лицензия такого типа. Лицензия позволяет компании проводить операции с виртуальными валютами.",
+    "url": "https://www.theblock.co/post/402732/mastercard-secures-new-york-state-bitlicense-as-it-continues-to-expand-crypto-services?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T14:24:17.299618+00:00",
+    "awaiting_edit": false
+  },
+  "79a0641fd75745c2e8b03bb7d41c3a3a": {
+    "title": "Robinhood развивает торговлю с помощью ИИ",
+    "body": "Платформа Robinhood запускает агентную торговлю на рынке акций в режиме бета-тестирования. В дальнейшем планируется внедрение технологии искусственного интеллекта для торговли криптовалютами. Эта инициатива направлена на расширение возможностей платформы.",
+    "url": "https://www.theblock.co/post/402729/robinhood-ai-powered-crypto-trading-launching-agentic-stock-trading-beta?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T14:24:20.310675+00:00",
+    "awaiting_edit": false
+  },
+  "9aaf3aac2f1dde02f9b993c21f7a2a9b": {
+    "title": "Circle и Nium подключают USDC к глобальным rails",
+    "body": "Circle и Nium заключили партнёрское соглашение, которое позволяет подключить стейблкоин USDC к глобальным системам выплат в более чем 190 странах и 100 валютах. Это партнёрство расширяет возможности использования USDC для международных платежей. Соглашение открывает новые возможности для использования криптовалют в глобальных финансовых операциях.",
+    "url": "https://www.theblock.co/post/402726/circle-partners-with-nium-to-connect-usdc-settlement-to-global-payout-rails?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T14:24:23.619612+00:00",
+    "awaiting_edit": false
+  },
+  "c201d749bad4f4df4ff4f355a6f266af": {
+    "title": "Эксплойт Stake DAO обнаружен",
+    "body": "Исследователи безопасности зафиксировали взлом Stake DAO, в результате которого атакующий напечатал 5,4 триллиона токенов vsdCRV на сети Arbitrum. Атакующий активно обменивает токены на эфир.",
+    "url": "https://www.theblock.co/post/402719/security-researchers-flag-ongoing-stakedao-exploit-vsdcrv?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T14:24:26.649442+00:00",
+    "awaiting_edit": false
+  },
+  "127468764ac50ac887073796a5b477d1": {
+    "title": "SoFi запускает стейблкоин SoFiUSD",
+    "body": "SoFi запустила выпуск стейблкоина SoFiUSD для 14,7 миллионов пользователей своего банковского приложения на платформах Ethereum и Solana. Этот стейблкоин доступен внутри приложения.",
+    "url": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T14:24:29.698077+00:00",
+    "awaiting_edit": false
   }
 }
