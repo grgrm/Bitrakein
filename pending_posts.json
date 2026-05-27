@@ -5410,5 +5410,45 @@
     "source": "The Block",
     "timestamp": "2026-05-27T14:24:29.698077+00:00",
     "awaiting_edit": false
+  },
+  "838356d1d9f19a1ba8c5a67198cad294": {
+    "title": "Kraken запускает Bitcoin Vault",
+    "body": "Kraken расширил свой раздел Earn с помощью Bitcoin Vault, который позволяет получать доход на свои биткоин-холдинги через дефи-лендинговые протоколы, включая Aave и Morpho. Это новое предложение направлено на предоставление возможностей для получения дохода на BTC-активах.",
+    "url": "https://www.theblock.co/post/402751/kraken-expands-earn-suite-bitcoin-vault-paying-yield-btc-holdings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T19:22:15.989467+00:00",
+    "awaiting_edit": false
+  },
+  "2d6e5a299ba572a363213f62d57ed639": {
+    "title": "Aztec Labs покупает ZKPassport",
+    "body": "Aztec Labs приобрела ZKPassport, протокол и мобильное приложение для iOS останутся открытыми. Команда Obsidion, включая сооснователей Майкла Эллиота и Тео Мадзоу, присоединится к Aztec Labs для дальнейшего развития ZKPassport.",
+    "url": "https://www.theblock.co/post/402745/aztec-labs-acquires-zkpassport-keep-privacy-protocol-ios-mobile-app-open-source?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T19:22:19.143298+00:00",
+    "awaiting_edit": false
+  },
+  "45d151e13c926679b20d790d04ff0f8d": {
+    "title": "Coinbase расширяет возможности для клиентов",
+    "body": "Coinbase сотрудничает со Standard Chartered для расширения многовалютных инструментов финансирования для институциональных клиентов. Компания также перезапустила сервис Direct Deposit для клиентов из США, позволяя автоматически выделять часть зарплаты на покупку криптовалюты.",
+    "url": "https://www.theblock.co/post/402716/coinbase-standard-chartered-multi-currency-funding-rails?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T19:22:22.526273+00:00",
+    "awaiting_edit": false
+  },
+  "44d0b5f42fc2ff7adee22f0f529dab90": {
+    "title": "Бывший CEO Hodlnaut обвиняется в Сингапуре",
+    "body": "В Сингапуре бывший CEO Hodlnaut обвиняется в распространении ложной информации о том, что компания не пострадала от краха TerraUSD в 2022 году. Ему грозит до 20 лет тюремного заключения. Обвинения связаны с якобы вводящими в заблуждение заявлениями о финансовом положении компании.",
+    "url": "https://www.theblock.co/post/402711/singapore-charges-hodlnaut-former-ceo?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T19:22:25.703076+00:00",
+    "awaiting_edit": false
+  },
+  "d59c18f37a969dea1f8d8b2c9ce620b6": {
+    "title": "Биткоин-ETF выведены $334 млн",
+    "body": "Биткоин-ETF потеряли $334 миллиона из-за выхода инвесторов. Этот отток был вызван выводом средств из фонда BlackRock's IBIT в размере $192 миллиона. Это событие является частью более крупной тенденции выхода из биткоин-ETF. Общая сумма вывода средств составила $1,3 миллиарда.",
+    "url": "https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-27T19:22:28.932841+00:00",
+    "awaiting_edit": false
   }
 }
