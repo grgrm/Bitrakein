@@ -5530,5 +5530,45 @@
     "source": "ForkLog",
     "timestamp": "2026-05-28T14:35:29.240201+00:00",
     "awaiting_edit": false
+  },
+  "2d15b79dbce8a632276059150b689a34": {
+    "title": "Платформа Kalshi судится с Миннесотой",
+    "body": "Платформа предикшн-маркетов Kalshi подала иск против штата Миннесота после подписания губернатором Тимом Уолцем закона, запрещающего предикшн-маркеты. Закон должен вступить в силу в августе. Этот шаг предпринят после иска Комиссии по торговле товарными фьючерсами (CFTC).",
+    "url": "https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-28T19:34:36.980425+00:00",
+    "awaiting_edit": false
+  },
+  "d0708cca63d36e7d8947755969fafa73": {
+    "title": "Tether USAT вырос на 540%",
+    "body": "Согласно данным最新шей аттестации от Anchorage Digital, циркулирующее предложение токена USAT от Tether выросло почти в 6 раз по сравнению с предыдущим месяцем, достигнув более 140 миллионов токенов.",
+    "url": "https://www.theblock.co/post/402933/tethers-usat-supply-grows-540-month-over-month-latest-attestation-shows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-28T19:34:39.877854+00:00",
+    "awaiting_edit": false
+  },
+  "61df6b12c943056b5cfba5a565b06511": {
+    "title": "Grayscale инвестирует в HYPE токены",
+    "body": "Компания Grayscale ведет переговоры о \"стартовом\" инвестиции в размере примерно 115 миллионов долларов в токены HYPE для своего Hyperliquid ETF. ранее фирмы 21Shares и Bitwise Investments запустили первые фонды, основанные на HYPE.",
+    "url": "https://www.theblock.co/post/402903/grayscale-hyperliquid-etf-negotiating-seed-investment-115-million-hype-tokens?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-28T19:34:43.045344+00:00",
+    "awaiting_edit": false
+  },
+  "910c0b2202e21c052cecd19f39c11306": {
+    "title": "Sui блокчейн остановился повторно",
+    "body": "Блокчейн Sui испытывает \"стопку сети\", из-за чего в течение почти 2 часов не было сгенерировано ни одного блока. Это второй случай остановки сети за пять месяцев. Событие было зафиксировано на блок-эксплорерах.",
+    "url": "https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-28T19:34:46.079970+00:00",
+    "awaiting_edit": false
+  },
+  "d5a1a156883a44d32dbaa084fa9cbaaa": {
+    "title": "Tokenized фонд VanEck теперь на Euler",
+    "body": "Фонд VanEck's VBILL, представляющий токенизированный фонд казначейских облигаций США, теперь доступен в качестве залога на платформе Euler. Это стало возможным благодаря запуску Securitize в кураторском рынке Euler от KPK. Это открывает новые возможности для использования токенизированных активов в децентрализованных финансовых приложениях.",
+    "url": "https://www.theblock.co/post/402904/vaneck-tokenized-vbill-us-treasury-fund-collateral-euler?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-28T19:34:49.172906+00:00",
+    "awaiting_edit": false
   }
 }
