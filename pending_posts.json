@@ -5770,5 +5770,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-05-30T12:02:58.726412+00:00",
     "awaiting_edit": false
+  },
+  "1f76909cbf4e171b663ee1fa1709ef3e": {
+    "title": "Трамп угрожает крипто-законодательству",
+    "body": "Президент Трамп, известный своей поддержкой криптовалют, может теперь нанести вред законодательным инициативам в этой области. Ранее поддерживаемая им законодательство о цифровых активах, которая была в разработке в течение многих лет, теперь находится под угрозой. Это связано с тем, что политическая позиция Трампа стала менее стабильной, что может негативно повлиять на принятие законов, регулирующих рынок криптовалют.",
+    "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-30T18:00:51.289251+00:00",
+    "awaiting_edit": false
+  },
+  "f930e427e82cffb6c1f60ec6977c0eb7": {
+    "title": "Заморожены 12,6 миллиона долларов в Zama",
+    "body": "Суд обязал Circle заморозить контракт Zama на сумму 12,6 миллиона долларов в USDC. По словам CEO Zama Рэнда Хинди, конфиденциальный контракт USDC попал под перекрестный огонь, и команда расследует ситуацию. Сумма была заморожена в рамках иска Overnight Finance.",
+    "url": "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-05-30T18:00:54.544016+00:00",
+    "awaiting_edit": false
+  },
+  "16bb0e6a4669144c67ec60f8222c9a17": {
+    "title": "Разрешена торговля криптодеривативами 24/7",
+    "body": "Комиссия по торговле товарными фьючерсами США (CFTC) разрешила проводить круглосуточную торговлю криптодеривативами, одновременно предупредив о потенциальных рисках для других сегментов производных финансовых инструментов.",
+    "url": "https://forklog.com/news/regulyator-ssha-razreshil-torgovlyu-kriptoderivativami-24-7",
+    "source": "ForkLog",
+    "timestamp": "2026-05-30T18:00:57.779143+00:00",
+    "awaiting_edit": false
+  },
+  "a8020e9f0dcdafdde8389bcd5c82fe8b": {
+    "title": "Квантовая угроза для биткоина",
+    "body": "Ранний инвестор в квантовые технологии Эндрю Голт заявил, что главный риск для биткоин-инфраструктуры связан не со взломом ключей кошельков. Согласно ему, это новая квантовая угроза для биткоина. Эта угроза не связана напрямую с безопасностью ключей, а скорее с потенциальным влиянием на инфраструктуру.",
+    "url": "https://forklog.com/investor-ukazal-na-novuyu-kvantovuyu-ugrozu-dlya-bitkoina",
+    "source": "ForkLog",
+    "timestamp": "2026-05-30T18:01:01.338168+00:00",
+    "awaiting_edit": false
+  },
+  "27d1b69ebd2939ab8e85e204e29eb3c8": {
+    "title": "VDEX запускает децентрализованную биржу",
+    "body": "VDEX - это децентрализованная биржа нового поколения, построенная на основе технологий ZK State Channels и Virtual Rollups. Проект находится на стадии бета-тестирования и уже запустил поинт-программу для пользователей. Биржа разрабатывается командой Virtual Labs.",
+    "url": "https://incrypted.com/vdex-trade/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-05-30T18:01:04.277562+00:00",
+    "awaiting_edit": false
   }
 }
