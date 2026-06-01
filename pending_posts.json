@@ -5898,5 +5898,45 @@
     "source": "Decrypt",
     "timestamp": "2026-05-31T17:58:39.944757+00:00",
     "awaiting_edit": false
+  },
+  "1aac4e819eacb0dfb333a18b43405030": {
+    "title": "Binance добавляет торговлю US акциями",
+    "body": "Binance запустила торговлю US акциями и ETF для пользователей вне США и планирует выпустить токенизированные акции на блокчейне BNB. Это расширение является частью стратегии создания суперприложения. Сервис доступен более чем 7 000 акциями и ETF.",
+    "url": "https://www.theblock.co/post/403155/binance-adds-us-stocks-etfs-traders-outside-united-states-super-app-push?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T11:27:06.386947+00:00",
+    "awaiting_edit": false
+  },
+  "c42e9d68fd6bca7b33dc10b7e461b0d5": {
+    "title": "Gnosis покроет убытки пользователей",
+    "body": "Сооснователь Gnosis Мартин Коппельман заявил, что компания возместит все убытки пользователям после эксплойта, связанного с Gnosis Pay. Этот шаг станет частью продолжающихся усилий по локализации проблемы.",
+    "url": "https://www.theblock.co/post/403147/gnosis-will-cover-all-user-losses-amid-exploit-related-to-gnosis-pay-co-founder-koppelmann-says?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T11:27:09.421995+00:00",
+    "awaiting_edit": false
+  },
+  "50310d8d6f5fecb7bcf86d60d1948dad": {
+    "title": "Цифровой евро против стейблкоинов",
+    "body": "Член совета директоров ЕЦБ Изабель Шнабель считает, что центральные банки должны отвечать на риски, связанные со стейблкоинами, посредством строгого регулирования и выпуска цифровых валют, в частности, цифрового евро. Это должно помочь смягчить потенциальные риски, связанные с широким внедрением стейблкоинов. Цифровой евро рассматривается как ключевой инструмент в этой стратегии.",
+    "url": "https://www.theblock.co/post/403142/digital-euro-stablecoin-risks-ecb?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T11:27:12.793462+00:00",
+    "awaiting_edit": false
+  },
+  "78f459296d3f9cdf35ff3b37d4997051": {
+    "title": "Coinbase запускает рупийные операции в Индии",
+    "body": "Coinbase объявила о запуске торговых книг в индийских рупиях для обеспечения ликвидности для пользователей в стране. Это часть расширения компании на индийском рынке. Пользователи получат доступ к перпетуальным контрактам.",
+    "url": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T11:27:15.962981+00:00",
+    "awaiting_edit": false
+  },
+  "df4e3f15af799fb5cb08c5f03332af47": {
+    "title": "Криptomarkety и их аналитика",
+    "body": "Менеджеры криптовалютных хедж-фондов считают, что при слабых рыночных условиях особенно важны выбор активов, фундаментальный анализ и получение alpha. Слабые криптовалютные рынки требуют более тщательного подхода к инвестированию. Менеджеры фондов акцентируют внимание на основных показателях проектов и компаний.",
+    "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T11:27:19.146469+00:00",
+    "awaiting_edit": false
   }
 }
