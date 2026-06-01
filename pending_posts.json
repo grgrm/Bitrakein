@@ -5978,5 +5978,45 @@
     "source": "The Block",
     "timestamp": "2026-06-01T16:35:00.672158+00:00",
     "awaiting_edit": false
+  },
+  "37c7a80b7e7e4641ae29774082d1c1f7": {
+    "title": "Хакерская атака: Radiant Capital закрывается",
+    "body": "Компания Radiant Capital подверглась хакерской атаке, в результате которой было украдено примерно 50 миллионов долларов. Несмотря на попытки, компания не смогла восстановить значительную часть средств и привлечь новый капитал. В результате Radiant Capital приняла решение о закрытии.",
+    "url": "https://www.theblock.co/post/403254/unable-to-recover-from-roughly-50-million-hack-radiant-capital-is-winding-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T20:53:54.273526+00:00",
+    "awaiting_edit": false
+  },
+  "09d57ff615680c59c6032718d314306f": {
+    "title": "TON возрождает бренд Gram",
+    "body": "Сеть TON возрождает бренд Gram после проведенных апгрейдов, снижения комиссий и усиления роли Telegram в управлении TON. Telegram CEO Дуров заявил, что сеть возвращается к своим корням.",
+    "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T20:53:57.327062+00:00",
+    "awaiting_edit": false
+  },
+  "34436c8c36136f9a98f2f44cd1c285bc": {
+    "title": "Grayscale запускает Hyperliquid ETF",
+    "body": "Компания Grayscale объявила о предстоящем запуске своего Hyperliquid ETF, который будет иметь спонсорскую комиссию в размере 0,29%. Этот шаг позволяет компании конкурировать с другими игроками на рынке, такими как Bitwise и 21Shares. Запуск может состояться уже на этой неделе.",
+    "url": "https://www.theblock.co/post/403234/grayscale-sets-0-29-fee-hyperliquid-etf-undercutting-bitwise-21shares?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T20:54:00.513998+00:00",
+    "awaiting_edit": false
+  },
+  "d40d4e7ea80e5abb92b2ec6927ed59b0": {
+    "title": "Продажа биткоинов Strategy сорвала прогнозы",
+    "body": "В пуле Polymarket, где предсказывали, продаст ли Strategy свои биткоины до 31 мая, было заключено более $20 миллионов сделок. Это событие оказало влияние на торговый объем пула.",
+    "url": "https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-01T20:54:03.774553+00:00",
+    "awaiting_edit": false
+  },
+  "50dfbc3d65514f91479f050a15c80c69": {
+    "title": "Конгресс США обсуждает крипторегулирование",
+    "body": "Конгресс США приступил к обсуждению криптовалютной повестки, включая финальную стадию рассмотрения правил по GENIUS Act. На этой неделе также ожидается выход отчета по занятости, который может повлиять на ожидания по ставке ФРС. Рынок \"стабильных монет\" в настоящее время держится у рекордных $322 млрд.",
+    "url": "https://forklog.com/kongress-ssha-vernulsya-k-kriptopovestke-na-nedele-otcheta-po-zanyatosti",
+    "source": "ForkLog",
+    "timestamp": "2026-06-01T20:54:06.922386+00:00",
+    "awaiting_edit": false
   }
 }
