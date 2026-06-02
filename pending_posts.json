@@ -6018,5 +6018,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-01T20:54:06.922386+00:00",
     "awaiting_edit": false
+  },
+  "ee3d7dc90f4d2ac3221e5e43aed77642": {
+    "title": "Полимаркет сталкивается с критикой",
+    "body": "Торговая площадка Polymarket столкнулась с возмущением со стороны трейдеров, которые ставили на то, что компания Strategy продаст биткоины до 31 мая. Некоторые трейдеры остались недовольны итогами рынка. Споры вызваны неправильным толкованием условий торговли.",
+    "url": "https://www.theblock.co/post/403312/polymarket-faces-backlash-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T10:18:52.309920+00:00",
+    "awaiting_edit": false
+  },
+  "941a380f99629d261e83ad54ca155450": {
+    "title": "CME запускает 24/7 рынок крипто-деривативов",
+    "body": "CME Group сообщила, что её рынок крипто-фьючерсов и опционов работал 24/7 и за первый уик-энд было заключено более 7,200 сделок на общую сумму $50 миллионов. Это означает, что новый рынок крипто-деривативов CME показал хорошие результаты в дебютный уик-энд.",
+    "url": "https://www.theblock.co/post/403304/cme-groups-crypto-derivatives-50-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T10:18:55.530119+00:00",
+    "awaiting_edit": false
+  },
+  "05878731611bfe0272c62aa89ba40928": {
+    "title": "Mt. Gox перевёл 10 306 BTC",
+    "body": "Банкротская площадка Mt. Gox перевела 10 306 BTC (что составляет примерно 739 миллионов долларов) на два адреса, включая свой горячий кошелек. Это произошло ранним утром во вторник. Перевод был обнаружен компанией Arkham.",
+    "url": "https://www.theblock.co/post/403296/mt-gox-moves-739-million-btc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T10:18:58.606152+00:00",
+    "awaiting_edit": false
+  },
+  "fedf6e2d340c36a3de0d24f1381c80f4": {
+    "title": "Выток фондов bitcoin ETF в мае составил 2,4 миллиарда",
+    "body": "В мае из фондов bitcoin ETF был зафиксирован выток в размере 2,4 миллиарда долларов. По мнению аналитиков, это связано с тем, что институциональные инвесторы стали переключаться из крипто-ETF на акции компаний, связанных с искусственным интеллектом, из-за отсутствия улучшений в макроэкономической обстановке.",
+    "url": "https://www.theblock.co/post/403292/spot-bitcoin-etfs-extend-negative-streak-may?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T10:19:01.914965+00:00",
+    "awaiting_edit": false
+  },
+  "a07b371c1dc8a5359db606eb6275cd2d": {
+    "title": "Биткоин снижается до 70 тысяч",
+    "body": "Bitcoin снижается в цене из-за продажи BTC компанией Strategy и геополитических рисков. Аналитики считают, что объём продажи относительно небольшой, но он послал сигнал о снижении на рынке.",
+    "url": "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T10:19:04.980675+00:00",
+    "awaiting_edit": false
   }
 }
