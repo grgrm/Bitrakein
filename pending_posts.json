@@ -6058,5 +6058,45 @@
     "source": "The Block",
     "timestamp": "2026-06-02T10:19:04.980675+00:00",
     "awaiting_edit": false
+  },
+  "f20b4ce36bb8445f2cd1026707c62b28": {
+    "title": "Strive покупает 2500 BTC",
+    "body": "Компания Strive добавила 2500 биткоинов в свой казначей. Benchmark отметил, что Strive имеет одну из наиболее дифференцированных структур капитала в секторе казначейства биткоина. Эта покупка происходит на фоне продажи стратегии Сaylor's.",
+    "url": "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T14:48:50.690408+00:00",
+    "awaiting_edit": false
+  },
+  "4f210782418160144bc92e7493b1e3c3": {
+    "title": "Standard Chartered сравнивает BITCOIN и ETHEREUM",
+    "body": "Standard Chartered считает, что токены Ethereum имеют преимущество над биткоином из-за стейкинг-прибыли, позволяющей избежать продажи ETHEREUM. Это может стать началом доминирования ETHEREUM над BITCOIN.",
+    "url": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T14:48:53.807134+00:00",
+    "awaiting_edit": false
+  },
+  "73730989a462c08d6e645eb8577743a3": {
+    "title": "Биткоин упал ниже 69 000 долларов",
+    "body": "Биткоин достиг двухмесячного минимума, упав ниже 69 000 долларов. Это произошло на фоне оттока средств из инвестиционных фондов (ETF) в размере 3,45 миллиарда долларов за 11 дней, а также ликвидации позиций на сумму 742 миллиона долларов.",
+    "url": "https://www.theblock.co/post/403356/materially-softer-demand-bitcoin-hits-two-month-low-below-69000-amid-institutional-outflow-streak-fading-onchain-interest?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T14:48:56.900713+00:00",
+    "awaiting_edit": false
+  },
+  "631c5102d56fa8c69ddfb741abfa387e": {
+    "title": "Franklin Templeton выводит токенизированный фонд",
+    "body": "Компания Franklin Templeton в партнерстве с MoonPay представила токенизированный фонд BENJI. Это сотрудничество станет основой для более широкого стратегического партнерства между двумя компаниями. Фонд будет доступен на платформе MoonPay.",
+    "url": "https://www.theblock.co/post/403223/franklin-templeton-brings-benji-tokenized-fund-to-moonpay?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T14:48:59.822705+00:00",
+    "awaiting_edit": false
+  },
+  "02e94e4251fccb76248854b668e8a860": {
+    "title": "Galaxy Digital запускает OTC-предсказательный рынок",
+    "body": "Galaxy Digital запустила институциональную торговлю на OTC-предсказательных рынках, выполнив первую сделку на $10 миллионов по Закону о ясности с Arca на платформе Kalshi. Эта торговая платформа предназначена для институтов.",
+    "url": "https://www.theblock.co/post/403338/galaxy-digital-opens-otc-prediction-market-trading-for-institutions-kicks-off-with-10-million-kalshi-trade?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-02T14:49:02.855628+00:00",
+    "awaiting_edit": false
   }
 }
