@@ -6138,5 +6138,45 @@
     "source": "The Block",
     "timestamp": "2026-06-02T20:06:05.533896+00:00",
     "awaiting_edit": false
+  },
+  "a9195968850a3e336846b8133840abe6": {
+    "title": "Регулятор предупредил футбольные клубы о спонсорстве",
+    "body": "Регулятор финансовых услуг Великобритании (FCA) предупредил футбольные клубы о необходимости тщательно проверять спонсорские контракты с криптовалютными компаниями. FCA рекомендует клубам проверять происхождение спонсорских средств и оценивать риски финансовых преступлений и репутационных потерь. Это связано с сотрудничеством некоторых клубов с неавторизованными криптовалютными фирмами.",
+    "url": "https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-03T10:53:09.587629+00:00",
+    "awaiting_edit": false
+  },
+  "419e83269739b2067437f9825c5ba76e": {
+    "title": "Mastercard расширяет варианты стейблкоин-сеттлмента",
+    "body": "Mastercard включил USDC, PYUSD и RLUSD в свои варианты стейблкоин-сеттлмента, позволяя проводить расчеты по картам в течение дня, в выходные и праздники. Это расширение относится к всей платежной сети компании.",
+    "url": "https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-03T10:53:12.677371+00:00",
+    "awaiting_edit": false
+  },
+  "36099a8509f29d64daa81697ac0bb557": {
+    "title": "Чарльз Хоскинсон предупреждает о неудачах",
+    "body": "Чарльз Хоскинсон, создатель Cardano, предупредил о возможной серии неудач в экосистеме Cardano после ухода руководства TapTools. TapTools приняла решение о своем закрытии. Это может оказать влияние на всю экосистему Cardano.",
+    "url": "https://www.theblock.co/post/403457/taptools-winds-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-03T10:53:15.547979+00:00",
+    "awaiting_edit": false
+  },
+  "b6d77ed433383c211571775a82ebf0b1": {
+    "title": "Биткоин опустился ниже $66 000",
+    "body": "Биткоин временно упал ниже отметки $66 000 из-за вывода средств из ETF и геополитической неопределенности. Аналитики считают, что рынок продолжает оценивать геополитическую ситуацию и последнюю продажу биткоина Strategy.",
+    "url": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-03T10:53:18.430765+00:00",
+    "awaiting_edit": false
+  },
+  "4bcdea284c1e8610cf02387bfb81e6c6": {
+    "title": "Blockchain Association призывает Сенат принять Clarity Act",
+    "body": "Ассоциация Blockchain направила в Сенат письмо с призывом принять Clarity Act, которое подписали 160 бывших служащих безопасности. Ассоциация также организует виртуальный городской зал для обсуждения законодательства.",
+    "url": "https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-03T10:53:21.265022+00:00",
+    "awaiting_edit": false
   }
 }
