@@ -6298,5 +6298,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-04T09:52:21.374975+00:00",
     "awaiting_edit": false
+  },
+  "9e188c0b67311986ca4589f0d230b0b1": {
+    "title": "Visa тестирует приватный стейблкоин",
+    "body": "Visa и Brale начали тестирование стейблкоина SBC с функциями приватности на сети Canton. Тестирование проведено в рамках концепции proof of concept. Это позволяет оценить возможности приватных транзакций в стейблкоин-системе.",
+    "url": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T13:56:42.888220+00:00",
+    "awaiting_edit": false
+  },
+  "d82df5e15ee48e6c285ffd773842a73f": {
+    "title": "Cosmos Labs приобретает Mintscan",
+    "body": "Cosmos Labs приобрела сервис обозрения блоков Mintscan и создала дочернюю компанию в Корее, Cosmos Labs Korea. Это расширение направлено на развитие экосистемы Cosmos.",
+    "url": "https://www.theblock.co/post/403652/cosmos-labs-acquires-mintscan-forms-korea-subsidiary?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T13:56:46.343557+00:00",
+    "awaiting_edit": false
+  },
+  "0b95301b599a6f661e3a23a00e7c4a0f": {
+    "title": "DeFi становится безопаснее",
+    "body": "Согласно Immunefi, потерянные из-за эксплойтов средства в DeFi сократились на 74% с пика 2022 года и составляют $680 миллионов в 2025 году. Это снижение связано со структурными сдвигами в сфере безопасности, в том числе с применением технологий искусственного интеллекта. Улучшение безопасности может способствовать дальнейшему развитию децентрализованных финансов.",
+    "url": "https://www.theblock.co/post/403624/immunefi-says-defi-is-getting-safer-as-exploit-losses-fall-74-from-2022-peak-amid-ai-driven-security-arms-race?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T13:56:49.525377+00:00",
+    "awaiting_edit": false
+  },
+  "d0757c8e99a8d6d6ffe518e3f5d59066": {
+    "title": "Coinbase выпускает ипотеку под биткоин",
+    "body": "Coinbase и Better Became выдали первую ипотеку с использованием биткоина в качестве залога. Ипотека имеет поддержку Fannie Mae. Планируется всесторонний выпуск на территории США.",
+    "url": "https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T13:56:52.571737+00:00",
+    "awaiting_edit": false
+  },
+  "3f6e55b3278e0a7d1fef06a5a12f9aa0": {
+    "title": "DDC Enterprise увеличивает резерв биткоина",
+    "body": "DDC Enterprise добавила 90 биткоинов, увеличив общий объем своих запасов до 2,804 BTC. Этот шаг позволил компании войти в число 28 крупнейших публичных корпоративных держателей биткоина. Сейчас компания занимает 28-е место среди держателей.",
+    "url": "https://www.theblock.co/post/403642/when-the-market-offers-discounts-we-lean-in-ddc-enterprise-lifts-bitcoin-holdings-to-2804-btc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T13:56:55.588840+00:00",
+    "awaiting_edit": false
   }
 }
