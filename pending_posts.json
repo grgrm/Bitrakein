@@ -6338,5 +6338,45 @@
     "source": "The Block",
     "timestamp": "2026-06-04T13:56:55.588840+00:00",
     "awaiting_edit": false
+  },
+  "0a03184462548060395e0cb6ed8f9703": {
+    "title": "Ether.fi выделил 100 млн на Plume RWA",
+    "body": "Платформа Ether.fi выделила 100 миллионов долларов на Plume RWA, давая пользователям доступ к получению доходности. Средства были выделены из совокупности ликвидитета провайдеров платформы и управляемого капитала из существующих ликвидных хранилищ. Это позволит пользователям получать доходность от вложенных средств.",
+    "url": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T19:21:52.675082+00:00",
+    "awaiting_edit": false
+  },
+  "e583a7b1df724711961a7c5745ae24fd": {
+    "title": "Gray-маркет использует биткоин и стейблкоины",
+    "body": "По данным Chainalysis, топовые поставщики пептидов на gray-рынке перешли на оплату биткоином и стейблкоинами. Это позволило им масштабировать свою деятельность. Отчет Chainalysis подчеркивает важность криптовалют в этой сфере.",
+    "url": "https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T19:21:55.878388+00:00",
+    "awaiting_edit": false
+  },
+  "ab01305d8ce532b509d308f20018f527": {
+    "title": "Законопроект о криптовалютах может быть принят ограниченно",
+    "body": "Аналитики JPMorgan считают, что законопроект о структуре рынка криптовалют, или Закон о прозрачности, может быть принят только в ограниченный период времени в этом году. Это связано с узким окном возможностей для его принятия.",
+    "url": "https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T19:21:58.872986+00:00",
+    "awaiting_edit": false
+  },
+  "301db5bd2eb60c07403a35ceb4daf96f": {
+    "title": "Републиканцы требуют пересмотра правил капитала для цифровых активов",
+    "body": "Группа республиканцев в Сенате США призвала финансовые регуляторные органы пересмотреть стандарты капитала для цифровых активов. Это связано с необходимостью установления четких правил для банков, работающих с цифровыми активами.",
+    "url": "https://www.theblock.co/post/403671/senate-republicans-urged-financial-regulators-to-rework-bank-capital-rules-for-digital-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T19:22:01.909989+00:00",
+    "awaiting_edit": false
+  },
+  "58a95be0b27bf572b8ee6e145798649e": {
+    "title": "Travala внедряет AI-протокол для путешествий",
+    "body": "Компания Travala представила агентный AI-протокол для бронирования отелей с помощью USDC на платформе Base. Этот протокол позволяет производить платежи без комиссий за газ. Протокол также включает в себя AI-ассистированное выполнение платежей.",
+    "url": "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-04T19:22:04.952513+00:00",
+    "awaiting_edit": false
   }
 }
