@@ -6418,5 +6418,45 @@
     "source": "The Block",
     "timestamp": "2026-06-05T09:41:40.129356+00:00",
     "awaiting_edit": false
+  },
+  "0388b3c482a6ec129be036024ac26c31": {
+    "title": "Биткоин-ETF завершили 13-дневную серию оттока",
+    "body": "Биткоин-ETF завершили 13-дневную серию оттока средств, зафиксировав приток в размере 3 миллионов долларов. Аналогично, ETF эфира прекратили 17-дневную серию оттока. Это произошло перед выходом данных по рынку труда в США (NFP).",
+    "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-05T13:50:39.918862+00:00",
+    "awaiting_edit": false
+  },
+  "bffa68a69ba14b635ebc80ff6603f4cd": {
+    "title": "Могут ли перпетуальные фьючерсы стать катастрофой?",
+    "body": "Терри Даффи, генеральный директор CME, предупредил, что перпетуальные фьючерсы, одобренные в США, могут привести к значительным убыткам розничных инвесторов и чрезмерному риску перекредитования. По его мнению, это может стать \"катастрофой, ожидая своего часа\". Даффи подчеркнул потенциальную угрозу, исходящую от избыточного кредитования.",
+    "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-05T13:50:43.007624+00:00",
+    "awaiting_edit": false
+  },
+  "f0725ebec57013ac81c8dec437c8a58a": {
+    "title": "Зcash обрушается на 50%",
+    "body": "Стоимость Zcash упала более чем на 50% до примерно 310 долларов из-за обнаружения ошибки в коде Orchard и ликвидации свыше 116 миллионов долларов за 24 часа.",
+    "url": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-05T13:50:46.155711+00:00",
+    "awaiting_edit": false
+  },
+  "bbc7b7792f6a4d05acb1d687cb195513": {
+    "title": "Гонконг создал группу экспертов по токенизированным облигациям",
+    "body": "Управление денежного обращения Гонконга создало группу экспертов для продвижения разработки токенизированных облигаций. В состав группы входят такие банки, как JPMorgan и HSBC. Цель группы - расширить возможности токенизированных облигаций.",
+    "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-05T13:50:49.180008+00:00",
+    "awaiting_edit": false
+  },
+  "e9574179c446670b658e528887aa15ae": {
+    "title": "AML-сервисы оценивают белорусский криптосервис",
+    "body": "19 мая AML-сервис Crystal пометил адреса белорусского криптосервиса WHITEBIRD как связанные с обходом международных ограничений. Это был первый случай среди крупных провайдеров блокчейн-аналитики.",
+    "url": "https://forklog.com/exclusive/kogda-aml-servisy-rashodyatsya-v-otsenkah",
+    "source": "ForkLog",
+    "timestamp": "2026-06-05T13:50:52.385959+00:00",
+    "awaiting_edit": false
   }
 }
