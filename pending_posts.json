@@ -6498,5 +6498,45 @@
     "source": "The Block",
     "timestamp": "2026-06-05T18:56:50.466379+00:00",
     "awaiting_edit": false
+  },
+  "93008f07694c157138c6623964101d12": {
+    "title": "Visa тестирует стейблкоины для институциональных клиентов",
+    "body": "Visa запустила пилотный проект по использованию стейблкоинов для приватных расчетов на базе сети Canton, ориентированной на конфиденциальность и соответствие требованиям регуляторов. Проект реализуется совместно с Brale. Компания намерена проверить возможность использования блокчейна банками и платежными провайдерами для расчетов.",
+    "url": "https://forklog.com/visa-protestiruet-privatnye-raschety-v-stejblkoinah-dlya-institutsionalnyh-klientov",
+    "source": "ForkLog",
+    "timestamp": "2026-06-06T08:30:42.936963+00:00",
+    "awaiting_edit": false
+  },
+  "167b5cc9257edd3e57b409fb26671064": {
+    "title": "ЦБ РФ ограничивает доступ к криптовалютам",
+    "body": "Банк России не планирует расширять перечень криптовалют, доступных неквалифицированным инвесторам, оставив доступ только к BTC, ETH и USDT. Новые правила вступят в силу в рамках регуляторных изменений. Лимиты вложений в эти активы также не будут повышены.",
+    "url": "https://forklog.com/news/tsb-rf-ostavit-nekvalifitsirovannym-investoram-dostup-tolko-k-btc-eth-i-usdt",
+    "source": "ForkLog",
+    "timestamp": "2026-06-06T08:30:45.900666+00:00",
+    "awaiting_edit": false
+  },
+  "57b3800c292a46887f1726023166d9d8": {
+    "title": "Атаки на пользователей крипто-сервисов",
+    "body": "Хакеры атаковали пользователей менеджера паролей Dashlane, а в Trezor была обнаружена уязвимость безопасности. Это лишь часть важных новостей из мира кибербезопасности за неделю. Напомним, что безопасность средств является важнейшим аспектом при работе с криптовалютами.",
+    "url": "https://forklog.com/news/hakery-atakovali-polzovatelej-dashlane-v-trezor-nashli-uyazvimost-i-drugie-sobytiya-kiberbezopasnosti",
+    "source": "ForkLog",
+    "timestamp": "2026-06-06T08:30:48.801018+00:00",
+    "awaiting_edit": false
+  },
+  "042889e4360f61c544cc92f8dd6998c2": {
+    "title": "Kraken поддержит конференцию Incrypted 2026",
+    "body": "Incrypted Conference 2026 состоится 13 июня в Киеве. К списку партнеров присоединились Kraken, xStocks и Ink. Kraken - одна из крупнейших криптовалютных бирж в мире, предоставляющая доступ к торговле криптоактивами.",
+    "url": "https://incrypted.com/kraken-xstocks-y-ink-podderzhat-incrypted-conference-2026/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-06T08:30:51.757990+00:00",
+    "awaiting_edit": false
+  },
+  "31919383a9bf27834ecf2526ce992770": {
+    "title": "Биткоин падает ниже $60 000",
+    "body": "Курс биткоина опустился ниже $60 000, что привело к ликвидациям на рынке деривативов. За последние сутки закрыли позиции 349 549 трейдеров на сумму $1,81 млрд. Это стало одним из крупнейших ликвидационных каскадов этого года.",
+    "url": "https://incrypted.com/padenye-bytkoyna-nyzhe-60-000-sprovotsyrovalo-lykvydatsyy/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-06T08:30:54.606716+00:00",
+    "awaiting_edit": false
   }
 }
