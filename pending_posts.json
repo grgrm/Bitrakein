@@ -6706,5 +6706,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-07T18:01:26.359091+00:00",
     "awaiting_edit": false
+  },
+  "d5318733c7948d3d7d570ec3e9bfb8fd": {
+    "title": "Аналитики Bernstein оценивают биткоин",
+    "body": "Аналитики Bernstein считают, что текущий \"скудный цикл\" биткоина и отток средств в размере 2,6 миллиарда долларов из ETF в 2026 году не ослабляют тезис о биткоине как о средстве хранения стоимости. Этот цикл не ставит под сомнение долгосрочную ценность биткоина.",
+    "url": "https://www.theblock.co/post/403950/bernstein-says-bitcoins-boring-cycle-doesnt-undermine-store-of-value-thesis-despite-2-6b-etf-outflows-in-2026?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T10:47:51.228441+00:00",
+    "awaiting_edit": false
+  },
+  "d86ed23af8c81bc5104f6bfa28e030b2": {
+    "title": "Выход из биткоин-ETF составил $1,7 млрд",
+    "body": "Биткоин-ETF зафиксировали выход средств в размере $1,7 млрд за неделю, что является最大шим показателем с февраля 2025 года. Основной причиной стали макроэкономические новости, особенно неожиданно сильный отчет о занятости в США.",
+    "url": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T10:47:54.256842+00:00",
+    "awaiting_edit": false
+  },
+  "9aa0ecaf2d5ac52c3374db7fa500d268": {
+    "title": "ZEC восстанавливается после исправления уязвимости",
+    "body": "Основатель ZODL Джош Свихарт раскрыл детали о том, как команда Zcash решила критическую уязвимость в защищенном пуле Orchard. Это привело к восстановлению курса ZEC на 42%. Команда Zcash провела двухэтапное экстренное обновление для исправления уязвимости.",
+    "url": "https://www.theblock.co/post/403929/zec-rebounds-zodl-founder-details-response?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T10:47:57.347811+00:00",
+    "awaiting_edit": false
+  },
+  "18ff1996973e84d4e6020b90454378fe": {
+    "title": "Биткоин вновь взял рубеж $63 000",
+    "body": "Биткоин восстановил позиции и достиг цены $63 000 в ходе ралли после oversold. Одновременно с этим произошло падение корейского фондового индекса KOSPI на 8%. Возможно, что снижение KOSPI оказало некоторое влияние на восстановление котировок биткоина.",
+    "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T10:48:00.433624+00:00",
+    "awaiting_edit": false
+  },
+  "406194fbe007a7010aef3f5a7cf9130d": {
+    "title": "Структура криптовалютного рынка",
+    "body": "Структура криптовалютного рынка включает в себя участников, платформы, правила и инфраструктуру, составляющие рынок цифровых активов. В неё входят криптовалютные биржи, брокеры, хранители, маркетмейкеры, эмитенты токенов, инвесторы и регулирующие органы, контролирующие рынок.",
+    "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T10:48:03.451083+00:00",
+    "awaiting_edit": false
   }
 }
