@@ -6786,5 +6786,45 @@
     "source": "The Block",
     "timestamp": "2026-06-08T14:46:09.192875+00:00",
     "awaiting_edit": false
+  },
+  "0e83dc7d6063ec9787e4dbef9377eee4": {
+    "title": "Институциональные инвесторы продолжают покупать биткоин",
+    "body": "По словам Джона Д'Агостิโน из Coinbase, семейные офисы и суверенные фонды продолжают покупать биткоин, несмотря на недавнюю распродажу. Они积极но относятся к покупке биткоина по более низким ценам. Это предполагает, что институциональные инвесторы имеют долгосрочную инвестиционную стратегию по отношению к криптовалюте.",
+    "url": "https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T19:19:50.880975+00:00",
+    "awaiting_edit": false
+  },
+  "97e7264100bf48c07b8fd7bc91cc8153": {
+    "title": "TON Strategy заработал 3,3 млн TON",
+    "body": "TON Strategy заработал примерно 5,6 млн долларов в виде наград за стейкинг в мае и стейкает почти все свои более 227 млн токенов. Сеть TON обновляет свою инфраструктуру. Общий объем наград за стейкинг в мае составил 3,3 млн TON.",
+    "url": "https://www.theblock.co/post/403992/ton-strategy-may-staking-3-3-million-network-upgrades-effect?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T19:19:54.011531+00:00",
+    "awaiting_edit": false
+  },
+  "e8d5c9218c9d8f4d9cc8ad752ce5309b": {
+    "title": "Бывший CEO FTX просит помилование",
+    "body": "Бывший CEO FTX Sam Bankman-Fried подал официальную просьбу о президентском помиловании Дональду Трампу. Несмотря на заявление Трампа о том, что он не планирует предоставлять помилование, Bankman-Fried продолжает добиваться своего. Это происходит на фоне скандала вокруг FTX и ее банкротства.",
+    "url": "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-08T19:19:57.171979+00:00",
+    "awaiting_edit": false
+  },
+  "81a5050ace02f17688c0cec9c389e875": {
+    "title": "Coinbase и Ripple призывают к голосованию",
+    "body": "Более 200 отраслевых ассоциаций и криптокомпаний, включая Coinbase и Ripple, призвали Сенат США провести голосование по CLARITY Act. Этот акт должен установить правила регулирования рынка цифровых активов в США и разграничить полномочия надзорных ведомств. Обращение направлено лидерам Сената США. CLARITY Act направлен на создание четких правил для рынка цифровых активов.",
+    "url": "https://forklog.com/coinbase-i-ripple-prizvali-senat-golosovat-po-clarity-act",
+    "source": "ForkLog",
+    "timestamp": "2026-06-08T19:20:00.141193+00:00",
+    "awaiting_edit": false
+  },
+  "e87bd7980f3fc09b34e284987eb10b2a": {
+    "title": "MetaMask анонсировал новый кошелек",
+    "body": "Команда MetaMask открыла программу раннего доступа к Agent Wallet — некастодиальному кошельку, способному выполнять операции по поручению пользователя. Решение автоматизирует взаимодействие с децентрализованными приложениями, сочетая технологии смарт-аккаунтов и ИИ-агентов.",
+    "url": "https://forklog.com/news/metamask-anonsiroval-koshelek-dlya-epohi-ii-agentov",
+    "source": "ForkLog",
+    "timestamp": "2026-06-08T19:20:03.038905+00:00",
+    "awaiting_edit": false
   }
 }
