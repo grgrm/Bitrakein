@@ -6866,5 +6866,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-06-09T09:38:06.958917+00:00",
     "awaiting_edit": false
+  },
+  "c181049f1726ed3d2b61ef04c4cabb0d": {
+    "title": "Бывший глава SEC присоединился к Backpack US",
+    "body": "Бывший временный председатель Комиссии по ценным бумагам и биржам США (SEC) Майкл Пивовар был назначен в совет директоров Backpack US. Ранее Пивовар служил комиссаром SEC с 2013 по 2018 год. Это происходит на фоне развития рынка криптоперпсов.",
+    "url": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T13:41:53.941942+00:00",
+    "awaiting_edit": false
+  },
+  "d945f8d86af7de247d7b67cc5f802421": {
+    "title": "Janus Henderson инвестирует в Ethena",
+    "body": "Компания Janus Henderson заняла позицию в ENA и планирует создать регулируемые инвестиционные продукты, связанные с экосистемой Ethena. Это говорит о растущем интересе традиционных финансовых институтов к рынку криптовалют. Janus Henderson намерен разработать инвестиционные продукты, соответствующие нормативным требованиям.",
+    "url": "https://www.theblock.co/post/404109/janus-henderson-takes-ena-position-eyes-regulated-investment-products-tied-to-ethena?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T13:41:56.938111+00:00",
+    "awaiting_edit": false
+  },
+  "cdac9d2f03fc48386f645607cc41d5da": {
+    "title": "Morpho привлекает $175M инвестиций",
+    "body": "Компания Morpho объявила о привлечении $175M инвестиций в раунде, возглавляемом Paradigm, a16z crypto и Ribbit Capital. Цель инвестиций - строительство открытой blockchain-сети кредитования. Эта сеть должна соединить децентрализованные финансы, Уолл-стрит и глобальные рынки.",
+    "url": "https://www.theblock.co/post/404111/morpho-raises-175m-paradigm-a16z-crypto-ribbit-capital?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T13:42:00.475973+00:00",
+    "awaiting_edit": false
+  },
+  "bc034b530d05750a8066ebb8ae154338": {
+    "title": "Starknet запускает слой приватности для ERC20",
+    "body": "Starknet запустил слой приватности для ERC20-балансов и переводов с помощью технологии ZK. Это позволяет осуществлять частные переводы и хранить балансы в приватном режиме, при этом имеются механизмы для раскрытия информации регулирующим органам. Это реализовано через STRK20.",
+    "url": "https://www.theblock.co/post/404008/starknet-rolls-out-zk-privacy-layer-for-erc20-balances-and-transfers?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T13:42:03.633709+00:00",
+    "awaiting_edit": false
+  },
+  "1a67cf8d3a15151f27190ed9cd9956ea": {
+    "title": "Zodia Custody получила лицензию Люксембурга",
+    "body": "Zodia Custody получила лицензию платежного учреждения в Люксембурге, что позволит компании расширить услуги по хранению стейблкоинов в ЕС. Лицензия была выдана регулирующим органом CSSF. Это разрешило компании предоставлять регулируемые услуги по хранению и переводу стейблкоинов на территории ЕС.",
+    "url": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T13:42:06.663054+00:00",
+    "awaiting_edit": false
   }
 }
