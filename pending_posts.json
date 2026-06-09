@@ -6826,5 +6826,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-08T19:20:03.038905+00:00",
     "awaiting_edit": false
+  },
+  "b74019f90009891249f27905313cc549": {
+    "title": "Zcash анонсирует апгрейд Ironwood",
+    "body": "Апгрейд Ironwood введет новый защищенный пул и гарантированно сохранит ограниченность обращающегося запаса ZEC. Апгрейд намечен на июль. Это изменение направлено на улучшение безопасности и функциональности сети Zcash.",
+    "url": "https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T09:37:52.914883+00:00",
+    "awaiting_edit": false
+  },
+  "3a42d2ce6c721fb6fbc2062b71dbe623": {
+    "title": "Крупная кража на Humanity Protocol",
+    "body": "Бумаги, связанные с Humanity Protocol, были обворованы на сумму более 32 миллионов долларов. Из украденной суммы 23,7 миллиона долларов было обменено на Ethereum, а около 7,9 миллиона долларов осталось в токенах H. После этого инцидента стоимость токена упала на 89%.",
+    "url": "https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T09:37:55.787613+00:00",
+    "awaiting_edit": false
+  },
+  "88c56795b3c21118389063f34de43b9e": {
+    "title": "Приговор за похищение биткоин-владельцев",
+    "body": "В США один из участников похищения и угонавших автомобиль владельцев биткоинов признал себя виновным и может получить срок до 20 лет. Инцидент произошел в штате Флорида и включал в себя угон автомобиля Lamborghini Urus и физическое насилие над владельцами биткоинов - супругами Сушилом и Радхикой Четал.",
+    "url": "https://www.theblock.co/post/404043/brazen-bitcoin-kidnapping-carjacking-pleads-guilty-faces-20-years-prison-doj?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-09T09:37:58.861196+00:00",
+    "awaiting_edit": false
+  },
+  "379a2c2839a58539ed97f4e6cf088efc": {
+    "title": "Ethereum опередил биткоин за сутки",
+    "body": "За последние 24 часа Ethereum вырос на 1,4%, опередив биткоин, который прибавил 0,6%. Биткоин торговался в диапазоне $62 408–64 200, а Ethereum - в диапазоне $1645–1714,5.",
+    "url": "https://forklog.com/ethereum-operedil-bitkoin-po-rostu-za-sutki",
+    "source": "ForkLog",
+    "timestamp": "2026-06-09T09:38:02.860398+00:00",
+    "awaiting_edit": false
+  },
+  "5625cebdd86c278bdf8fa86217988a7c": {
+    "title": "Токен Humanity Protocol обвалился на 90%",
+    "body": "Токен H проекта Humanity Protocol упал в цене на 90% после компрометации приватных ключей одного из членов Humanity Foundation. Цена токена снизилась с $0,74 до $0,05 за сутки. Команда проекта сообщила об инциденте безопасности.",
+    "url": "https://incrypted.com/token-humanity-protocol-obvalilsya-na-90-posle-komprometacii-privatnyh-klyuchej/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-09T09:38:06.958917+00:00",
+    "awaiting_edit": false
   }
 }
