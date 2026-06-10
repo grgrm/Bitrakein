@@ -6946,5 +6946,45 @@
     "source": "The Block",
     "timestamp": "2026-06-09T19:12:00.736379+00:00",
     "awaiting_edit": false
+  },
+  "4a00c122cd32539d7603f4ebe94f6ef2": {
+    "title": "Сетевая плеть Botanix прекращает работу",
+    "body": "Плеть Botanix, работающая на основе Bitcoin Layer 2, прекратит свою деятельность после четырёх лет работы из-за низких сборов комиссий. Пользователям рекомендовано вывести активы до 9 июля.",
+    "url": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-10T09:54:03.761353+00:00",
+    "awaiting_edit": false
+  },
+  "fdbe2a8a73687febb4a175cbc5bcc7ad": {
+    "title": "Японские мегабанки запускают живые транзакции стейблкоинов",
+    "body": "MUFG Bank, Mizuho Bank и SMBC создали совет для изучения операционных рамок и управления выпуском стейблкоинов. Они планируют начать транзакции стейблкоинов к марту 2027 года. Совет будет отвечать за создание нормативной базы для стейблкоинов в Японии.",
+    "url": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-10T09:54:06.849136+00:00",
+    "awaiting_edit": false
+  },
+  "ce54d50f6eb6122ca35f6b1cf2406d65": {
+    "title": "ЕС расширяет санкции на криптоплатформы",
+    "body": "Европейская комиссия рассматривает возможность введения полного запрета на услуги криптовалютных платформ из стран, не входящих в ЕС, которые помогают России обходить санкции. Это может затронуть криптовалютные платформы, сотрудничающие с российскими компаниями. Решение еще не принято.",
+    "url": "https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-10T09:54:10.075076+00:00",
+    "awaiting_edit": false
+  },
+  "a693834676d1b339d560da7922a6fcb4": {
+    "title": "Вашингтонец осужден за отмывание крипто",
+    "body": "Житель штата Вашингтон, Геоффри Ауеунг, был приговорен к 5 годам тюремного заключения за помощь в отмывании 100 миллионов долларов, полученных от мошеннической деятельности, через криптоВалюту и банковские счета. Это следует из заявления Министерства юстиции США. Ауеунг помогал зарубежным мошенникам в их схеме.",
+    "url": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-10T09:54:13.475120+00:00",
+    "awaiting_edit": false
+  },
+  "a8c557e054300212301b2e9d833631ba": {
+    "title": "Законодательство о налогообложении криптовалют",
+    "body": "Комитет Палаты представителей провел слушания по налогообложению цифровых активов, что показало разные подходы законодателей. На слушаниях были выявлены разногласия в подходах к законодательству.",
+    "url": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-10T09:54:16.501364+00:00",
+    "awaiting_edit": false
   }
 }
