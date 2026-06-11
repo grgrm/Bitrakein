@@ -7146,5 +7146,45 @@
     "source": "The Block",
     "timestamp": "2026-06-11T14:33:38.308649+00:00",
     "awaiting_edit": false
+  },
+  "dcea344541f073efa086c6f02f5e9dea": {
+    "title": "Токен Arbitrum вырос на 5% из-за новости от LG",
+    "body": "LG Electronics разрабатывает новую блокчейн-платформу на базе Arbitrum, которую будут использовать для размещения, покупки, продажи и управления цифровой рекламой. Токен Arbitrum вырос на 5% после этой новости. Платформа будет предназначена для управления цифровыми рекламными объявлениями.",
+    "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T19:33:16.418738+00:00",
+    "awaiting_edit": false
+  },
+  "a9d67febcaaa98417bf3128e3026f197": {
+    "title": "JPMorgan: отход от инфляционной торговли ускорился",
+    "body": "Аналитики JPMorgan заметили, что отход от торговли, связанной с девальвацией, продолжился для золота и ускорился для биткоина в последние недели. Это изменение тренда наблюдается на фоне общей макроэкономической ситуации.",
+    "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T19:33:19.583065+00:00",
+    "awaiting_edit": false
+  },
+  "2e3015ddf4da28b55ffd4bec5319a55a": {
+    "title": "Coinbase запускает счета для AI-ботов",
+    "body": "Coinbase for Agents предлагает возможность создания специальных счетов для AI-ботов, позволяющих им торговать, управлять средствами и совершать платежи от имени пользователей Coinbase. Это новое решение может расширить возможности автоматизированного управления криптовалютными активами. Счета будут доступны для использования в торговле и платежах на платформе.",
+    "url": "https://www.theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T19:33:22.800956+00:00",
+    "awaiting_edit": false
+  },
+  "a27cfa8b1bdf1dee64988fd2b0ae23fa": {
+    "title": "Биткоин отражает глобальный кризис ликвидности",
+    "body": "СЕО Strike Джек Маллерс считает, что стоимость биткоина в размере 63 000 долларов отражает дефицит ликвидности в мире. Он также высказывает сомнения по поводу динамики постоянного капитала акций Strategy.",
+    "url": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T19:33:26.050204+00:00",
+    "awaiting_edit": false
+  },
+  "2305e9784cb233cf525df959162f5be4": {
+    "title": "Группа сообщественных банков запускает рекламную кампанию",
+    "body": "Группа, представляющая интересы небольших и средних сообщественных банков, планирует запустить рекламную кампанию, нацеленную на язык вознаграждения стейблкоинов в Законе о ясности. Целью кампании является предупреждение о рисках, связанных с цифровыми активами.",
+    "url": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T19:33:29.159886+00:00",
+    "awaiting_edit": false
   }
 }
