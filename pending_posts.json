@@ -7106,5 +7106,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-11T10:18:59.292696+00:00",
     "awaiting_edit": false
+  },
+  "b8312735a941350d19ca632df04e1b9e": {
+    "title": "Обвинения в отмывании криптовалюты",
+    "body": "Министерство юстиции США обвиняет двух человек в участии в схеме отмывания криптовалют через сервис AudiA6, которая связана с транзакциями на сумму более 389 миллионов долларов. Сервис якобы использовался для легализации незаконных средств с помощью криптовалют. Два человека обвиняются в участии в этом преступном.scheme.",
+    "url": "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T14:33:25.877127+00:00",
+    "awaiting_edit": false
+  },
+  "c7731d29ab3666f709517d8b8af9c774": {
+    "title": "Citigroup запускает токенизированные акции",
+    "body": "Citigroup запускает токенизированные акции частных компаний на блокчейне для состоятельных клиентов и институциональных инвесторов. Этот сервис предназначен для wealth и institutional клиентов банка.",
+    "url": "https://www.theblock.co/post/404422/citigroup-to-offer-tokenized-shares-of-private-companies-for-wealthy-and-institutional-clients-wsj?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T14:33:29.309836+00:00",
+    "awaiting_edit": false
+  },
+  "74541bc348ebcc2e689469397beaacdd": {
+    "title": "Венгрия отменяет криптовалютные правила",
+    "body": "Венгрия намерена декриминализировать торговлю криптовалютами, отменяя правила, введенные во время правления Орбана, которые предусматривали тюремные сроки. Это изменение привело к тому, что платформы, такие как Revolut, ранее приостановили свои услуги в стране.",
+    "url": "https://www.theblock.co/post/404417/hungary-reverses-orban-era-crypto-rules?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T14:33:32.223613+00:00",
+    "awaiting_edit": false
+  },
+  "4a06efb2b1ee76174aca4997fea63834": {
+    "title": "Япония ужесточает регулирование криптовалют",
+    "body": "Парламент Японии проголосовал за законопроект, который определяет криптовалюты как финансовые инструменты. Если верхняя палата подтвердит документ, изменения вступят в силу в следующем году. Это решение касается классификации криптовалют в финансовой системе страны.",
+    "url": "https://www.theblock.co/post/404402/japans-advances-bill-classify-crypto-financial-instruments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T14:33:35.495005+00:00",
+    "awaiting_edit": false
+  },
+  "ec4c552b3115692fdc49adc5cc12a3f4": {
+    "title": "Visa: стейблкоины меняют коммерцию",
+    "body": "Visa заявляет, что стейблкоины перестраивают коммерцию изнутри. Компания расширяет использование ИИ и токенизации, и объявляет о партнерстве с OpenAI.",
+    "url": "https://www.theblock.co/post/404376/visa-stablecoins-reshaping-back-end-of-commerce?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T14:33:38.308649+00:00",
+    "awaiting_edit": false
   }
 }
