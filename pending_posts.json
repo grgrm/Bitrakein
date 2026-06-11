@@ -7066,5 +7066,45 @@
     "source": "The Block",
     "timestamp": "2026-06-10T19:32:24.580109+00:00",
     "awaiting_edit": false
+  },
+  "b3277494655dc33dfcd9b29ab86d65b7": {
+    "title": "Биткоин-биржа Bithumb в центре скандала",
+    "body": "Полиция Южной Кореи расследует дело против генерального директора Bithumb Ли, его подозревают в даче взяток. Скандал связан с приемом на работу сына депутата Кима, который мог позже использовать свое положение для атак на Upbit.",
+    "url": "https://www.theblock.co/post/404392/bithumb-ceo-bribery-case?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T10:18:46.447390+00:00",
+    "awaiting_edit": false
+  },
+  "7d9352c62e4755642a2160928c229020": {
+    "title": "Figure приобретает Kiavi за 717 миллионов",
+    "body": "Компания Figure объявила о приобретении Kiavi за 717 миллионов долларов с целью расширения своей сети токенизации активов. Данная сделка позволит перевести активы Kiavi в блокчейн, что может снизить затраты при сохранении бизнес-модели с низкой капитализацией и высокими маржами.",
+    "url": "https://www.theblock.co/post/404373/figure-kiavi-acquisition?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T10:18:49.742127+00:00",
+    "awaiting_edit": false
+  },
+  "bed83bac4983ebe5bb2ce2e526f4ebfb": {
+    "title": "BlackRock подал заявку на биткоин-ETF",
+    "body": "BlackRock подал новую заявку на создание фонда, генерирующего доход через активные стратегии калифорнийских колл-опционов на акциях IBIT и ETP-индексов. Фонд ожидается к запуску в ближайшее время, по мнению аналитика Bloomberg. Фонд направлен на предоставление дохода инвесторам через биткоин.",
+    "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T10:18:52.878761+00:00",
+    "awaiting_edit": false
+  },
+  "e8d05091718c862e86b53a76f4bb7b87": {
+    "title": "Bitmine покупает 41 миллион долларов ETH",
+    "body": "Фирма Bitmine продолжает активно покупать Ethereum (ETH) и расширять свой казначей. Это происходит несмотря на то, что по данным нахождения активов на бумаге, компания понесла значительные финансовые потери. Общий объем покупки составил 41 миллион долларов.",
+    "url": "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-11T10:18:55.901466+00:00",
+    "awaiting_edit": false
+  },
+  "8058f8551a068281f6535339e5423255": {
+    "title": "Хакеры украли $1,34 млн у Raydium",
+    "body": "Децентрализованная биржа Raydium подверглась атаке на пул ликвидности устаревшей программы Legacy AMM V3, в результате чего хакерам удалось вывести активы на сумму $1,34 млн. Атака была успешной, и Means были выведены из пула ликвидности.",
+    "url": "https://forklog.com/news/pul-likvidnosti-raydium-podvergsya-vzlomu-na-1-34-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-06-11T10:18:59.292696+00:00",
+    "awaiting_edit": false
   }
 }
