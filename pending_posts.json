@@ -7186,5 +7186,45 @@
     "source": "The Block",
     "timestamp": "2026-06-11T19:33:29.159886+00:00",
     "awaiting_edit": false
+  },
+  "e024bf7159462a332d5b06e1392b9e94": {
+    "title": "Прогнозирование ценового дна биткоина",
+    "body": "Драгош из Bitwise прогнозирует возможное снижение цены биткоина еще на 20%, с максимальной больной точкой для долгосрочных инвесторов на уровне $48 000. Эта оценка основана на стоимости держания биткоина для长осрочных инвесторов.",
+    "url": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T10:06:40.967484+00:00",
+    "awaiting_edit": false
+  },
+  "9997f8cd7d23f05d7186777d99e561d5": {
+    "title": "Metaplanet приобретает Siiibo Securities",
+    "body": "Компания Metaplanet заключила соглашение о покупке Siiibo Securities за 13 миллионов долларов для разработки продуктов с доходностью, связанных с биткоином. Сделка ожидается к завершению в июле. После приобретения бизнес будет ребрендирован в Metaplanet Securities.",
+    "url": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T10:06:44.213591+00:00",
+    "awaiting_edit": false
+  },
+  "1a3e3fc8e42d3deb92a42196b62caa86": {
+    "title": "AI снижает спрос на биткоин",
+    "body": "По словам Юлиана Линигера, генерального директора Relai, текущий медвежий рынок биткоина частично обусловлен ликвидностью, поглощенной инвестициями в области искусственного интеллекта. Это может привести к снижению спроса на биткоин. Однако будущие рост биткоина может изменить эту тенденцию.",
+    "url": "https://www.theblock.co/post/404554/ai-buildout-weighs-on-bitcoin-demand-relai-ceo?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T10:06:47.206535+00:00",
+    "awaiting_edit": false
+  },
+  "dcbc3543564596d0354a5395b375ce8f": {
+    "title": "BlackRock подал заявку на биткоин-ETF",
+    "body": "BlackRock подал заявку 8-A на создание доходного биткоин-ETF. Аналитик Эрик Балчунас ожидает запуска уже на следующей неделе. Это будет значительное событие в сфере криптовалютных финансов.",
+    "url": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T10:06:50.213903+00:00",
+    "awaiting_edit": false
+  },
+  "8930dbd0db5adcf2126ff0b1aa3df558": {
+    "title": "Avalanche Treasury дебютирует на Nasdaq",
+    "body": "Акции Avalanche Treasury обрушились на 38% после дебюта на бирже Nasdaq. Компания планирует использовать полученные средства для ускорения роста экосистемы Avalanche и покупки более $1 миллиарда AVAX. Это следует после слияния на сумму $675 миллионов.",
+    "url": "https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T10:06:53.295562+00:00",
+    "awaiting_edit": false
   }
 }
