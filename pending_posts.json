@@ -7266,5 +7266,45 @@
     "source": "The Block",
     "timestamp": "2026-06-12T14:07:49.923053+00:00",
     "awaiting_edit": false
+  },
+  "7a8344d23e818123806a89da1250b96b": {
+    "title": "Бывший глава SEC оспаривает полномочия CFTC",
+    "body": "Гэри Генслер, бывший глава SEC, оспаривает заявление CFTC о наличии полномочий над прогнозными рынками, в частности, спортивными ставками. Генслер считает, что CFTC не имеет юрисдикции над этими рынками. Это мнение может повлиять на регулирование прогнозных рынков в США.",
+    "url": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T19:02:28.336434+00:00",
+    "awaiting_edit": false
+  },
+  "a127b6927f3f2b1bd263c66f83d30e99": {
+    "title": "Y Combinator поддерживает CLARITY Act",
+    "body": "Y Combinator, инвестор в компании Airbnb, DoorDash, Coinbase и другие, поддерживает принятие CLARITY Act в Конгрессе. Эта инициатива ожидается способствовать развитию криптовалют в портфельных компаниях. Y Combinator инвестирует в проекты, связанные с криптовалютами, и ожидает их внедрения во всех своих компаниях.",
+    "url": "https://www.theblock.co/post/404643/early-airbnb-doordash-backer-y-combinator-expects-crypto-to-be-used-by-every-one-of-its-portfolio-companies?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T19:02:31.339433+00:00",
+    "awaiting_edit": false
+  },
+  "cf561fde1b794b6371496cba1f4034b8": {
+    "title": "Отмена токенизированных IPO SpaceX",
+    "body": "Bybit, Binance и Bitget отменили токенизированные IPO SpaceX из-за нехватки акций. Все три провайдера выплатят полные компенсации и дополнительную компенсацию пострадавшим пользователям.",
+    "url": "https://www.theblock.co/post/404644/bybit-binance-bitget-cancel-tokenized-spacex-ipo-allocations-share-shortage?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T19:02:34.305779+00:00",
+    "awaiting_edit": false
+  },
+  "9815b37df76fe122d019ebbf272370f3": {
+    "title": "Основатель Bitcoin Ekasi о роли биткоина",
+    "body": "Основатель проекта Bitcoin Ekasi Герман Вивьер подчеркнул, что ценность биткоина как хранилища стоимости не может существовать без его использования как средства обмена. Это было заявлено в контексте дискуссии о роли институционализации в развитии биткоина.",
+    "url": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T19:02:37.146526+00:00",
+    "awaiting_edit": false
+  },
+  "79f89c35ecd5d49b6cc580558d86101b": {
+    "title": "Биткоин может пасть до $40 000",
+    "body": "Специалисты подразделения Galaxy Research считают, что текущий рыночный цикл биткоина еще не достиг своего минимума. Они прогнозируют возможное падение цены актива до диапазона $40 000. Это указано в опубликованном отчете.",
+    "url": "https://forklog.com/news/v-galaxy-dopustili-padenie-bitkoina-do-40-000",
+    "source": "ForkLog",
+    "timestamp": "2026-06-12T19:02:40.121135+00:00",
+    "awaiting_edit": false
   }
 }
