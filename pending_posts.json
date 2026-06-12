@@ -7226,5 +7226,45 @@
     "source": "The Block",
     "timestamp": "2026-06-12T10:06:53.295562+00:00",
     "awaiting_edit": false
+  },
+  "d21655c51f142960c7a808564b3fd5b7": {
+    "title": "Суд отклонил апелляцию Сэма Бэнкман-Фрида",
+    "body": "Апелляционный суд отклонил запрос Сэма Бэнкман-Фрида на новый судебный процесс по делу о мошенничестве с FTX. Бэнкман-Фрид ранее обвинял суд в непредоставлении ему справедливого рассмотрения дела. Это решение означает, что 25-летний приговор остается в силе.",
+    "url": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T14:07:37.923407+00:00",
+    "awaiting_edit": false
+  },
+  "26a2161d0ed85d2c7b99ff02741cb0e9": {
+    "title": "Tokenизированные рынки на Solana",
+    "body": "Exodus и Ondo запустили платформу для торгования токенизированными ценными бумагами на блокчейне Solana. Платформа предлагает более 200 акций и ETF. Торговля осуществляется непосредственно на блокчейне Solana.",
+    "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
+    "source": "The Block",
+    "timestamp": "2026-06-12T14:07:40.804200+00:00",
+    "awaiting_edit": false
+  },
+  "bbc5c0102ddce1785bcb73d4a018e6ec": {
+    "title": "Ethena Labs инвестирует в токенизированный фонд",
+    "body": "Ethena Labs планирует выделить 250 миллионов долларов в токенизированный фонд AAA CLO компании Securitize, который будет развернут на блокчейне Solana. Фонд Securitize представляет собой один из внутренних предложений, предоставляющий доступ к институциональным структурированным кредитам с浮ящей ставкой.",
+    "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T14:07:43.789766+00:00",
+    "awaiting_edit": false
+  },
+  "36999d0e178da5e150f0945267d8b66d": {
+    "title": "Биткоин-ETF достигают 2 трлн долларов",
+    "body": "Фонды обменных торгуемых биткоинов (ETF) в США достигнут отметки в 2 трлн долларов объема торговли. Фонд BlackRock's IBIT занимает доминирующее положение по объему торговли, имея 73,7% доли рынка. Это означает значительный рост торговли биткоин-ETF на американском рынке.",
+    "url": "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T14:07:46.835779+00:00",
+    "awaiting_edit": false
+  },
+  "c8bf10838fa5802c9fd362742678bebd": {
+    "title": "Южная Корея: токенизированные акции - ценные бумаги",
+    "body": "Министерство финансов Южной Кореи заявило, что токенизированные акции должны считаться ценными бумагами, а не криптоактивами. Это может привести к налогообложению уже во втором полугодии 2026 года, если регулирующие органы согласятся. Решение Южной Кореи может иметь последствия для развития рынка токенизированных активов.",
+    "url": "https://www.theblock.co/post/404580/south-korea-finance-ministry-says-tokenized-stocks-are-securities-not-crypto-assets-opening-door-to-taxes-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-12T14:07:49.923053+00:00",
+    "awaiting_edit": false
   }
 }
