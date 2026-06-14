@@ -7410,5 +7410,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-06-14T09:30:02.739580+00:00",
     "awaiting_edit": false
+  },
+  "f2d41d30e5caf020c0aaa1dda003d7b5": {
+    "title": "Взлом Humanity Protocol за $36 млн",
+    "body": "Компания Quantstamp связала взлом Humanity Protocol на $36 млн с северокорейскими хакерами. Атаку начали с фишингового письма от имени Bithumb, содержащего вредоносное вложение. Взлом привел к крупной краже криптовалюты.",
+    "url": "https://forklog.com/quantstamp-svyazala-vzlom-humanity-protocol-na-36-mln-s-kndr",
+    "source": "ForkLog",
+    "timestamp": "2026-06-14T12:58:58.984814+00:00",
+    "awaiting_edit": false
+  },
+  "3bdbefdd6e677a705b1d18fbab4dc2d3": {
+    "title": "Аудит Zcash не выявил новых уязвимостей",
+    "body": "ИИ-модель Claude Mythos от Anthropic не нашла новых серьезных уязвимостей в протоколе Zcash. Аудит был проведен по запросу Shielded Labs. Ранее разработчики Zcash временно остановили транзакции Orchard из-за обнаруженной четырехлетней уязвимости.",
+    "url": "https://forklog.com/claude-mythos-ot-anthropic-ne-nashla-novyh-uyazvimostej-v-zcash",
+    "source": "ForkLog",
+    "timestamp": "2026-06-14T12:59:01.953382+00:00",
+    "awaiting_edit": false
+  },
+  "8aa9ee692a84c3f49e2ab69fad7b43e3": {
+    "title": "Токены Venice и Morpheus выросли",
+    "body": "Токены децентрализованных ИИ-проектов Venice и Morpheus подскочили после экспортной директивы властей США, потребовавшей от Anthropic ограничить доступ иностранных граждан к моделям Fable 5 и Mythos 5. Токен Venice (VVV) прибавил около 14% за 24 часа.",
+    "url": "https://forklog.com/news/tokeny-venice-i-morpheus-vyrosli-posle-ogranichenij-ssha-dlya-anthropic",
+    "source": "ForkLog",
+    "timestamp": "2026-06-14T12:59:04.889241+00:00",
+    "awaiting_edit": false
+  },
+  "71d4a36d98059a0ecf5b0128727b3b1f": {
+    "title": "Ethereum на Уолл-стрит",
+    "body": "Традиционные финансовые организации на Уолл-стрит начинают использовать технологию Ethereum в реальных бизнес-процессах. Это означает, что блокчейн больше не рассматривается как экспериментальная технология. Финансовые организации начинают внедрять решения на базе Ethereum.",
+    "url": "https://forklog.com/news/etherealize-na-uoll-strit-pereshli-ot-eksperimentov-k-ispolzovaniyu-ethereum",
+    "source": "ForkLog",
+    "timestamp": "2026-06-14T12:59:07.893473+00:00",
+    "awaiting_edit": false
+  },
+  "9410cf9d964fc75cef55c320d0b76556": {
+    "title": "Binance назвал Украину уникальным рынком",
+    "body": "Согенеральный директор Binance Ричард Тенг на конференции Incrypted Conference 2026 отметил, что нынешний рыночный цикл криптовалют отличается от предыдущих благодаря значительному участию институциональных инвесторов и корпораций. Он также подчеркнул уникальность Украины как рынка в глобальной криптоиндустрии. Тенг обсудил перспективы токенизации активов и роль ИИ в индустрии.",
+    "url": "https://incrypted.com/so-glava-binance-vydelyl-glavnye-drajvery/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-14T12:59:11.137545+00:00",
+    "awaiting_edit": false
   }
 }
