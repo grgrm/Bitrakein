@@ -7506,5 +7506,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-15T11:58:24.047072+00:00",
     "awaiting_edit": false
+  },
+  "1ee07fddc7801447df01dadd71ce112b": {
+    "title": "Критика \"спирали смерти\" биткоина",
+    "body": "Сторонники Strategy оспорили опасения по поводу \"спирали смерти\" биткоина, которые основаны на предположении, что компания может начать продавать bitcoins после одного плохого недели. Benchmark отметил, что эта история упускает несколько шагов. Цена биткоина колеблется, вызывая опасения по поводу стабильности рынка. Сторонники Strategy считают, что \"спирали смерти\" нет оснований.",
+    "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-15T16:13:48.223691+00:00",
+    "awaiting_edit": false
+  },
+  "5f7051d1ac7111ba36d09060f1221d31": {
+    "title": "SEC предлагает изменить крипто-правила",
+    "body": "Benchmark считает предложение SEC отменить правила 611 и 610(e) наиболее значимым правилом криптовалютного регулирования в США в этом году. Это предложение было вынесено на рассмотрение на прошлой неделе. Ожидается, что оно окажет существенное влияние на рынок криптовалют.",
+    "url": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-15T16:13:51.252560+00:00",
+    "awaiting_edit": false
+  },
+  "8420ba6db9d996078b981b488095ece2": {
+    "title": "Высокопоставленный представитель Trezor о проблемах биткоина",
+    "body": "Дэнни Сэндес, коммерческий директор Trezor, считает, что упрощение самообеспечения остается одним из крупнейших препятствий для адопции биткоина. Он также заявил, что создание биржевого фонда (ETF) будет худшим исходом для биткоина. Сэндес подчеркнул важность самообеспечения для пользователя.",
+    "url": "https://www.theblock.co/post/404752/lets-put-it-in-etf-worst-outcome-bitcoin-says-trezor-exec?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-15T16:13:54.840036+00:00",
+    "awaiting_edit": false
+  },
+  "1b6ccd8e37531864acb8c4b1ea57a71a": {
+    "title": "Kraken запускает перпетуальные контракты в США",
+    "body": "Kraken запустил торговлю криптовалютными перпетуальными контрактами на платформе Kraken Pro в США. Этот шаг стал возможен после приобретения полностью лицензированной биржи, клиринговой палаты и брокерской компании Bitnomial в мае. Теперь пользователи Kraken Pro в США могут торговать перпетуальными контрактами на криптовалюты.",
+    "url": "https://www.theblock.co/post/404751/kraken-launches-crypto-perps-trading-in-us-on-kraken-pro?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-15T16:13:58.326166+00:00",
+    "awaiting_edit": false
+  },
+  "d0a824c84018cfcf84169e40b1212773": {
+    "title": "Инвестиции в крипто на подъёме",
+    "body": "Tom Lee считает, что криптовалютный рынок находится на ранних этапах \"крипто-весны\". Компания Bitmine увеличила свои запасы Ethereum (ETH) на 76 881 токенов, доведя их до 5,62 миллиона токенов, что составляет 4,66% от общего объёма эмитированных ETH.",
+    "url": "https://www.theblock.co/post/404748/tom-lee-sees-early-stages-crypto-spring-as-bitmine-buys-76881-eth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-15T16:14:01.681300+00:00",
+    "awaiting_edit": false
   }
 }
