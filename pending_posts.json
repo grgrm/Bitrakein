@@ -7706,5 +7706,45 @@
     "source": "The Block",
     "timestamp": "2026-06-16T20:11:35.254610+00:00",
     "awaiting_edit": false
+  },
+  "4320d12b408096ad4ac92b7a47146ea7": {
+    "title": "Конфиденциальный DeFi-валютный ящик запущен",
+    "body": "Компании Zama, Morpho и Steakhouse объявили о запуске первого конфиденциального DeFi-валютного ящика на платформе Ethereum, позволяющего компаниям получать доход без открытых балансов. Это позволяет повысить уровень конфиденциальности и безопасности для пользователей DeFi-сервисов.",
+    "url": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T10:50:10.543850+00:00",
+    "awaiting_edit": false
+  },
+  "0247ec776a6694a094546ff9a2a88bb5": {
+    "title": "Верховный суд Австралии поддержал регулирование",
+    "body": "Верховный суд Австралии вынес решение, согласно которому компания Block Earner должна получить лицензию на предоставление финансовых услуг. Это решение отменило апелляционное решение 2025 года. Компания Block Earner предоставляла криптовалютные услуги без соответствующей лицензии.",
+    "url": "https://www.theblock.co/post/405048/australia-high-court-block-earner-crypto-yield-case?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T10:50:13.353505+00:00",
+    "awaiting_edit": false
+  },
+  "66cd2fe7109da86a28d0dba65638639a": {
+    "title": "Сенат и Палата согласовали законопроект",
+    "body": "Лидеры Сената и Палаты представителей США достигли соглашения по обновленному варианту законопроекта о жилье, который включает в себя запрет на цифровой доллар центробанков (CBDC) до 2030 года. Законопроект включает положения, направленные на ограничение влияния цифровых валют, выпускаемых центробанками. Договоренность была достигнута в рамках более широкого обсуждения экономической и финансовой политики.",
+    "url": "https://www.theblock.co/post/405037/housing-bill-cbdc-ban-agreement?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T10:50:16.393744+00:00",
+    "awaiting_edit": false
+  },
+  "f2cb3d6ac9cc7f69fc5087dc4600a567": {
+    "title": "Американская игровая индустрия просит запретить прогнозные рынки",
+    "body": "Американские игровые группы обратились к Конгрессу с просьбой запретить спортивные и казино-стильные прогнозные рынки в законопроекте о криптовалютах. Эта просьба связана с предстоящим законом о структуре рынка криптовалют. Игровые группы выступают против использования криптовалют для прогнозных рынков.",
+    "url": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T10:50:19.349963+00:00",
+    "awaiting_edit": false
+  },
+  "17b05f91fe938c59dbb9e5e04b70ecc3": {
+    "title": "World Liberty получает федеральную лицензию",
+    "body": "Компания World Liberty Financial, поддерживаемая Трампом, gầnко к получению федеральной лицензии trust charter от OCC. Это позволит компании выпускать и обменивать стейблкоин USD1 под единой федеральной регуляцией.",
+    "url": "https://www.theblock.co/post/405022/world-liberty-financial-nears-occ-approval?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T10:50:22.190165+00:00",
+    "awaiting_edit": false
   }
 }
