@@ -7786,5 +7786,45 @@
     "source": "The Block",
     "timestamp": "2026-06-17T14:25:06.261915+00:00",
     "awaiting_edit": false
+  },
+  "6003340bd598b935ffa9241d997cd46d": {
+    "title": "Анти-криптовый закон в Иллинойсе",
+    "body": "Губернатор Иллинойса Пritzker подписал закон \"Digital Asset Tax Act\", который вводит налог на криптовалюты в размере 0,2%. Лоббисты криптовалютной индустрии и ее представители говорят против этого закона.",
+    "url": "https://www.theblock.co/post/405146/one-most-anti-crypto-laws-in-us-illinois-gov-pritzker-signs-0-2-crypto-tax?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T19:23:22.526925+00:00",
+    "awaiting_edit": false
+  },
+  "2bcd0b7bd12ab7738ba7e82ff1dab479": {
+    "title": "Сатори Финанс закрывает децентрализованную биржу",
+    "body": "Satori Finance, децентрализованная биржа, поддержанная Polychain и Coinbase, прекращает деятельность из-за неблагоприятных рыночных условий. В мае 2022 года компания привлекла 10 миллионов долларов в раунде финансирования, в котором участвовали Polychain Capital, Coinbase и Jump. Сатори Финанс была вынуждена закрыть децентрализованную биржу из-за сложной рыночной ситуации.",
+    "url": "https://www.theblock.co/post/405136/polychain-coinbase-backed-satori-finance-dex-winds-down-unfavorable-market-conditions?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T19:23:25.575843+00:00",
+    "awaiting_edit": false
+  },
+  "6a6002a0f33ed4a62c43627ff583e7e5": {
+    "title": "Крипто-индустрия поддержала кандидата",
+    "body": "Депутат Барри Мур выиграл праймериз Республиканской партии в Алабаме после получения миллионов долларов от крипто-индустрии. Это стало одной из крупнейших трат в текущем избирательном цикле. Крипто-PAC Fairshake поддержал победителя.",
+    "url": "https://www.theblock.co/post/405125/biggest-spend-of-the-cycle-fairshake-crypto-pacs-pick-barry-moore-wins-alabama-gop-senate-primary?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T19:23:28.670114+00:00",
+    "awaiting_edit": false
+  },
+  "42585e60fa53e3bdc7655fa9dca55ac0": {
+    "title": "Бутан перевел биткоины на Binance",
+    "body": "Бутан перевел 533 BTC, что эквивалентно $34,5 миллионам, на биржу Binance. После этого государственные кошельки страны теперь держат 1749,96 BTC. Эти данные предоставлены компанией Arkham.",
+    "url": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-17T19:23:31.619352+00:00",
+    "awaiting_edit": false
+  },
+  "d69c51dedc40bfa042fc2a58b7daa807": {
+    "title": "Причины консолидации биткоина",
+    "body": "Аналитики указали на причины консолидации биткоина, ссылаясь на снижение рисков в мировой энергетике после соглашения между США и Ираном. Это событие повлияло на рынок криптовалют. Биткоин демонстрирует стабильность.",
+    "url": "https://forklog.com/news/analitiki-ukazali-na-prichiny-konsolidatsii-bitkoina",
+    "source": "ForkLog",
+    "timestamp": "2026-06-17T19:23:34.722020+00:00",
+    "awaiting_edit": false
   }
 }
