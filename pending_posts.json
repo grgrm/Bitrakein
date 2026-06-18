@@ -7906,5 +7906,45 @@
     "source": "The Block",
     "timestamp": "2026-06-18T14:07:50.330114+00:00",
     "awaiting_edit": false
+  },
+  "bf83dfeae4c96f883af3e26877adf166": {
+    "title": "Стоимость производства биткоина превосходит цену",
+    "body": "По оценкам JPMorgan, текущая стоимость производства одного биткоина составляет около 78 000 долларов, при этом текущая цена биткоина составляет примерно 62 500 долларов. Это указывает на то, что экономика биткоин-майнинга ухудшилась. Биткоин торгуется ниже стоимости производства.",
+    "url": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-18T19:24:34.623379+00:00",
+    "awaiting_edit": false
+  },
+  "e3b924a7147c7f6200e7e9775ae42399": {
+    "title": "CME Group судится с CFTC по поводу фьючерсов",
+    "body": "Компания CME Group подала в суд на Commodity Futures Trading Commission (CFTC) в связи с разрешением на торговлю перпетуальными фьючерсами в США, обвинив агентство в внезапном изменении курса. Этот шаг является ответом на позицию CFTC по этому вопросу. Судебный процесс может повлиять на развитие рынка деривативов в США.",
+    "url": "https://www.theblock.co/post/405286/cme-sues-cftc-over-perpetual-futures-us-accusing-agency-suddenly-changing-course?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-18T19:24:38.213182+00:00",
+    "awaiting_edit": false
+  },
+  "83b223dceff9d167ae2a08a7b50d3890": {
+    "title": "Майская добыча биткоина у Bitdeer и CleanSpark",
+    "body": "Bitdeer, BitFuFu, Canaan и CleanSpark опубликовали данные о добыче биткоина в мае, с общей выработкой 1859 BTC. Компании используют разные стратегии добычи. AI-технологии влияют на рост хэшрейта и модели управления казной.",
+    "url": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-18T19:24:41.347798+00:00",
+    "awaiting_edit": false
+  },
+  "f12cf014a4c01b5782a8646c3c46ae10": {
+    "title": "Хак The DAO: 10 лет спустя",
+    "body": "В 2016 году хакеры похитили примерно 3,6 миллиона ETH из The DAO, что способствовало созданию современной индустрии безопасности криптовалют. На данный момент Ethereum имеет фонд безопасности на сумму $130 миллионов. Нападение на The DAO имело значительное влияние на развитие индустрии.",
+    "url": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-18T19:24:44.541648+00:00",
+    "awaiting_edit": false
+  },
+  "8eab410c485d82b009dc755c2cddbb11": {
+    "title": "Ethereum Foundation: уход директора",
+    "body": "Хсiao-Вей Ванг, ко-директор и член совета директоров Ethereum Foundation, покинул свой пост. Это не первый уход высокопоставленного сотрудника фонда - ранее ушли руководители Protocol cluster и бывший ко-директор Томаш Станьчак.",
+    "url": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-18T19:24:47.667255+00:00",
+    "awaiting_edit": false
   }
 }
