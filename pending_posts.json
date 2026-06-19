@@ -7986,5 +7986,45 @@
     "source": "The Block",
     "timestamp": "2026-06-19T10:22:04.029224+00:00",
     "awaiting_edit": false
+  },
+  "5ee314e40d6e7cf7f224e07f4d352305": {
+    "title": "Братья признались в краже криптовалюты",
+    "body": "Братья Исайя и Реймонд Гарсия признали себя виновными в вооруженном ограблении на сумму 8 миллионов долларов и похищении в Миннесоте. Им грозит до 20 лет тюремного заключения. Ограбление было совершено с использованием криптовалюты.",
+    "url": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T13:59:23.632746+00:00",
+    "awaiting_edit": false
+  },
+  "098937348d7db976276af95a9b53f931": {
+    "title": "Base запускает обновление Beryl",
+    "body": "Сеть Base планирует запустить обновление Beryl на основной сети 25 июня, что вводит новый стандарт токена B20 и сокращает задержку вывода средств до 5 дней. Это обновление направлено на улучшение функциональности сети. Обновление Beryl будет активировано на основной сети Base 25 июня.",
+    "url": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T13:59:26.684372+00:00",
+    "awaiting_edit": false
+  },
+  "df7ba8862d3cd25d35db9566ef181424": {
+    "title": "Селлофф STRC и SATA",
+    "body": "Токены STRC и SATA, предназначенные для поддержания стоимости около 100 долларов, подверглись значительному падению в цене в четверг, прежде чем частично восстановиться. По словам CEO Strive, причиной падения стала ликвидация кредитов с высоким кредитным плечом.",
+    "url": "https://www.theblock.co/post/405406/strive-ceo-strc-sata?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T13:59:29.637641+00:00",
+    "awaiting_edit": false
+  },
+  "e6511e87738fd7c0fc80c4cf9c42499b": {
+    "title": "Morgan Stanley подал заявку на ETF для ETH и SOL",
+    "body": "Morgan Stanley подал изменения в заявки на биржевые фондированные трасты (ETF) для Ethereum (ETH) и Solana (SOL), что может указывать на продвижение в процессе запуска. Это означает, что компания активно общается с Комиссией по ценным бумагам и биржам США (SEC). Новые ETF будут иметь самые низкие комиссии на рынке.",
+    "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T13:59:32.857705+00:00",
+    "awaiting_edit": false
+  },
+  "9fe4e0fe5f49593d550fad45883447f8": {
+    "title": "Кризис в экосистеме Cardano",
+    "body": "Сообщество Cardano отклонило финансирование флагманской конференции Cardano Summit 2026, TapTools объявил о закрытии, что вызвало кризис в экосистеме. Это может повлиять на развитие криптовалюты и экосистемы в целом.",
+    "url": "https://forklog.com/exclusive/nauchnyj-proryv-i-pustye-puly-chto-privelo-cardano-k-krizisu",
+    "source": "ForkLog",
+    "timestamp": "2026-06-19T13:59:35.704137+00:00",
+    "awaiting_edit": false
   }
 }
