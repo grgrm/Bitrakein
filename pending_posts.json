@@ -7946,5 +7946,45 @@
     "source": "The Block",
     "timestamp": "2026-06-18T19:24:47.667255+00:00",
     "awaiting_edit": false
+  },
+  "5c6dcf364fd8f7942331c014a2da375d": {
+    "title": "Ethereum ждет кризис финансирования",
+    "body": "Бывший участник Ethereum Foundation ВанЭппс предупредил, что Ethereum может столкнуться с кризисом финансирования разработки в течение 3-9 месяцев после истечения срока действия CIP. Это может негативно повлиять на развитие сети. Ранее Ethereum полагалась на финансирование разработки от Ethereum Foundation.",
+    "url": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T10:21:50.058174+00:00",
+    "awaiting_edit": false
+  },
+  "070d83f78d0ac06f583acf16f6014ccf": {
+    "title": "Franklin Templeton подал заявку на биткоин-ETF",
+    "body": "Управляющий активами Franklin Templeton подал заявку на два новых ETF, которые будут реинвестировать дивиденды акций в биткоин, ожидаемая дата вступления в силу - 1 сентября 2026 года. Эти ETF будут направлены на диверсификацию инвестиций с помощью биткоина. Franklin Templeton становится одним из крупных игроков, интересующихся криптовалютой.",
+    "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T10:21:53.640260+00:00",
+    "awaiting_edit": false
+  },
+  "08993fb842e0dc28b923396e98a9a7b0": {
+    "title": "Закон CLARITY о крипто-регулировании",
+    "body": "В США предложили законопроект CLARITY Act, целью которого является создание федерального регулирования рынка цифровых активов. Документ определяет правила выпуска, торговли и регулирования цифровых активов в стране. Законопроект также регулирует порядок соблюдения крипто-компаниями федерального законодательства.",
+    "url": "https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T10:21:57.789223+00:00",
+    "awaiting_edit": false
+  },
+  "0eb15ed8d7e84fbbbb8cd34e8292a2da": {
+    "title": "Биткоин достигнет 21 миллиона",
+    "body": "Сеть биткоина имеет максимальный лимит в 21 миллион монет, установленный создателем Сатоши Накамото. После того, как все монеты будут добыты, новых биткоинов создаваться не будет. Ожидается, что сеть продолжит работать так же, как и сейчас.",
+    "url": "https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T10:22:00.843684+00:00",
+    "awaiting_edit": false
+  },
+  "2e790f048da60cd135a74a3cfd76457d": {
+    "title": "CFTC ищет мнение о \"свопах\"",
+    "body": "Комиссия по торговле товарными фьючерсами (CFTC) и Комиссия по ценным бумагам и биржам (SEC) обратились к общественности с просьбой прокомментировать определение термина \"свопы\" на фоне судебного разбирательства с CME Group. CME Group подала иск против CFTC из-за классификации перпетуальных фьючерсов как фьючерсных контрактов, а не свопов.",
+    "url": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-19T10:22:04.029224+00:00",
+    "awaiting_edit": false
   }
 }
