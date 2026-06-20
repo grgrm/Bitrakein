@@ -8122,5 +8122,29 @@
     "source": "99Bitcoins",
     "timestamp": "2026-06-20T12:25:37.518058+00:00",
     "awaiting_edit": false
+  },
+  "08cd2452dfcc91cf2f1c98f33aa5445c": {
+    "title": "Andre Cronje покинул совет Sonic Labs",
+    "body": "Андре Кронье и еще два лица ушли с постов в совете директоров Sonic Labs, которая управляет Layer 1 сетью, ранее известной как Fantom. Они по-прежнему заинтересованы в успехе проекта, но больше не будут принимать бизнес-решения. Токен S сейчас торгуется на 97% ниже своего пика.",
+    "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-20T18:07:55.172564+00:00",
+    "awaiting_edit": false
+  },
+  "82e569dfa619dbac2c9677be7442901b": {
+    "title": "HIVE подписала контракт на $220 млн",
+    "body": "Дочерняя структура HIVE Digital Technologies — BUZZ HPC — заключила трехлетний контракт на облачные GPU-сервисы. Стоимость контракта составляет $220 млн. Это связано с разработкой майнинговых сервисов.",
+    "url": "https://forklog.com/buzz-hpc-bitkoin-majnera-hive-podpisala-gpu-kontrakt-na-220-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-06-20T18:07:58.253210+00:00",
+    "awaiting_edit": false
+  },
+  "f218b019bec6ef4ee01a4f324fd78486": {
+    "title": "Активность в сети Биткоин растет",
+    "body": "Активность в сети Биткоин увеличивается, несмотря на падение цены Биткоина на почти 50% от пика. По данным CryptoQuant, рост активности в сети не коррелирует с движением цены. Это может указывать на возросшую заинтересованность в использовании сети Биткоин.",
+    "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+    "source": "Decrypt",
+    "timestamp": "2026-06-20T18:08:01.375291+00:00",
+    "awaiting_edit": false
   }
 }
