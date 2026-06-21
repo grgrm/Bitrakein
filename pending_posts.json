@@ -8186,5 +8186,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-06-21T09:45:05.363687+00:00",
     "awaiting_edit": false
+  },
+  "56f139960a136e1fe083016329e36c28": {
+    "title": "Взлом моста Axelar на $4,67 млн",
+    "body": "Блокчейн-проект Axelar раскрыл взлом своего моста с протоколом Secret Network. Злоумышленник вывел около $4,67 млн, используя уязвимость «бесконечного минта». Инцидент произошел 19 июня.",
+    "url": "https://forklog.com/news/axelar-soobshhil-o-vzlome-mosta-s-secret-network-na-4-67-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-06-21T13:03:09.106173+00:00",
+    "awaiting_edit": false
+  },
+  "7827b036186072c65e3b9a6a1a5edb11": {
+    "title": "Bitdeer нарастила добычу биткоина на 370%",
+    "body": "Компания Bitdeer увеличила добычу биткоина на 370% за год, добыв 921 BTC в мае текущего года против 196 BTC годом ранее. Собственный хешрейт увеличился почти на 420%, с 13,6 EH/s до 70,2 EH/s. Биткоин-казначейство фирмы увеличилось на 98 BTC за май.",
+    "url": "https://forklog.com/bitdeer-za-god-narastila-dobychu-bitkoina-na-370",
+    "source": "ForkLog",
+    "timestamp": "2026-06-21T13:03:12.214301+00:00",
+    "awaiting_edit": false
+  },
+  "6819d89793c315d6b6f840357de14935": {
+    "title": "MEV-бот Ethereum потерял миллионы",
+    "body": "Известный MEV-бот Ethereum jaredfromsubway.eth потерял от $7,5 млн до $15 млн из-за атаки с фальшивыми токенами. Атака произошла в июне 2026 года и была обнаружена аналитической компанией Blockaid. В результате бот понес значительные финансовые потери.",
+    "url": "https://incrypted.com/hyshchnyk-stal-dobychej-yzvestnyj-mev-bot-ethereum/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-21T13:03:15.656610+00:00",
+    "awaiting_edit": false
+  },
+  "69661aa3283b53e2810ace90f072d6be": {
+    "title": "Рынки прогнозов установили абсолютный рекорд",
+    "body": "Рынки прогнозов достигли нового исторического рекорда - объем торгов за неделю, завершившуюся 15 июня 2026 года, составил $10,8 млрд. Этот рекорд связан с рядом крупных событий, включая IPO SpaceX и сделку США с Ираном. Эту информацию сообщили в a16z crypto.",
+    "url": "https://incrypted.com/rynky-prognozov-ustanovyly-absoljutnyj-rekord/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-21T13:03:18.678541+00:00",
+    "awaiting_edit": false
+  },
+  "f09b313a151c1670e4b8d54a20a7f5c9": {
+    "title": "BlackRock: 75% покупателей IBIT новички в ETF",
+    "body": "75% инвесторов, купивших ETF IBIT от BlackRock, никогда ранее не владели ETF. Многие из них теперь также покупают фонды S&P 500 и золота через экосистему BlackRock. Это может указывать на растущий интерес к традиционным финансовым инструментам среди новичков в ETF.",
+    "url": "https://99bitcoins.com/news/bitcoin-btc/blackrock-bitcoin-news-ibit-reverse-adoption-blackrock-crypto-tradfi/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-06-21T13:03:21.608963+00:00",
+    "awaiting_edit": false
   }
 }
