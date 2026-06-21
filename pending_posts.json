@@ -8226,5 +8226,29 @@
     "source": "99Bitcoins",
     "timestamp": "2026-06-21T13:03:21.608963+00:00",
     "awaiting_edit": false
+  },
+  "80a84fb86da87458be9ebe18edf90a09": {
+    "title": "MEV-бот \"jaredfromsubway\" обанкротился",
+    "body": "Бот \"jaredfromsubway\" был обманут и потерял примерно $7,5 миллионов в ловушке против MEV. Аккаунт в сети, выдающий себя за владельца бота, заявил о убытке в $15 миллионов и предложил награду в $1 миллион, но parece, что это мошенничество.",
+    "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-21T18:16:50.255672+00:00",
+    "awaiting_edit": false
+  },
+  "29ed292d563178dd4ad168c02b18c0d8": {
+    "title": "Волатильность биткоина в России",
+    "body": "Первоая криптовалюта показала высокую волатильность, в России цифровые активы признаны предметом хищения, регулятор ЕС напомнил бизнесу о необходимости соблюдения MiCA. Это основные события прошедшей недели.",
+    "url": "https://forklog.com/news/itogi-nedeli-volatilnost-bitkoina-i-utochnenie-statusa-kriptovalyut-v-rf",
+    "source": "ForkLog",
+    "timestamp": "2026-06-21T18:16:53.060954+00:00",
+    "awaiting_edit": false
+  },
+  "e3b7806b32e60f9e590a04f652691b6f": {
+    "title": "Биткоин ищет дно, ФРС без сюрпризов",
+    "body": "ФРС принимает первое решение при Уорше, на рынке биткоина киты накапливают актив, а кризис доходности побуждает майнеров разворачиваться в сторону ИИ-инфраструктуры. Binance также сталкивается с проблемами в ЕС при получении лицензии.",
+    "url": "https://incrypted.com/weekly-bytkoyn-yshchet-dno-frs-bez-sjurpryzov/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-21T18:16:56.209363+00:00",
+    "awaiting_edit": false
   }
 }
