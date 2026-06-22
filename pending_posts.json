@@ -8250,5 +8250,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-06-21T18:16:56.209363+00:00",
     "awaiting_edit": false
+  },
+  "70d56f80a8c3e90c1682231edab1a6df": {
+    "title": "Биткоин застопорился возле 64 000 долларов",
+    "body": "Цена биткоина остается стабильной возле отметки 64 000 долларов из-за шести недель оттока средств из ETF и риска повышения процентных ставок ФРС, что перекрывает позитивный эффект от соглашения о перемирии между США и Ираном. Это сочетание факторов влияет на курс криптовалюты. Уход инвесторов из ETF и возможное ужесточение денежно-кредитной политики оказывают давление на рынок.",
+    "url": "https://www.theblock.co/post/405557/between-supportive-and-restrictive-forces-bitcoin-stalls-near-64000-as-fed-rate-hike-risk-overshadows-iran-ceasefire-relief?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-22T11:48:07.731703+00:00",
+    "awaiting_edit": false
+  },
+  "22365e7915943a20ae02a3511a37ef45": {
+    "title": "Банк Англии смягчает правила для стейблкоинов",
+    "body": "Банк Англии предложил установить планку выпуска системных стейблкоинов в размере 40 млрд фунтов стерлингов и пересмотрел требования к активам, обеспечивающим стейблкоины. Цель - запуск в 2027 году. Банк также отказался от предложения ввести лимиты на владение стейблкоинами у физических лиц.",
+    "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-22T11:48:10.797780+00:00",
+    "awaiting_edit": false
+  },
+  "7c080dfb889fdde8805bf3c87b2cf0f2": {
+    "title": "Аутфлоу из биткоин-ETF продолжается",
+    "body": "Биткоин-ETF в США потеряли $227 миллионов за неделю, что стало шестой неделей подряд с-negative притоком средств. Это продолжение тренда вывода средств из этих инвестиционных фондов.",
+    "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-22T11:48:13.686824+00:00",
+    "awaiting_edit": false
+  },
+  "0073f6b4a1f03d3305e4e1c971c0df57": {
+    "title": "Южная Корея тестирует CBDC",
+    "body": "Банк Южной Кореи запускает второй этап пилотного проекта по внедрению цифровых депозитных токенов в существующие банковские системы. Цель проекта - проверить реальное применение CBDC. Депозитные токены будут интегрированы в существующие банковские системы.",
+    "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-22T11:48:16.590761+00:00",
+    "awaiting_edit": false
+  },
+  "54119f639134977fcb4d461ec992e61b": {
+    "title": "Дебаты об \"налоге\" в Ethereum",
+    "body": "На форуме Ethereum Research предложили разрешить валидаторам голосовать за перенаправление до 10% вознаграждений за стекинг на финансирование общественных благ. Это предложение вызвало дебаты о \"налоге\" в сети Ethereum. Целью предложения является финансирование публичных благ в экосистеме Ethereum.",
+    "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-22T11:48:19.584879+00:00",
+    "awaiting_edit": false
   }
 }
