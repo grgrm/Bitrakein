@@ -8410,5 +8410,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-23T09:34:29.737942+00:00",
     "awaiting_edit": false
+  },
+  "4a7cf838695850446f287d167cf38313": {
+    "title": "Регулирование криптобирж в ЕС ужесточится",
+    "body": "По мнению генерального директора OKX Europe, Гуса, 80% криптовалютных бирж не переживут введение MiCA. Европейский орган по рынкам ценных бумаг (ESMA) намерен закрыть незлицензированные фирмы в ЕС к 1 июля. Это связано с приближением срока введения нового регулирования.",
+    "url": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-23T13:42:16.841945+00:00",
+    "awaiting_edit": false
+  },
+  "e0448f71720a5e31525b60845223b8f0": {
+    "title": "Стратегия компании перед лицом падения биткоина",
+    "body": "Компания Strategy (бывшая MicroStrategy) сталкивается с первым серьезным тестом на прочность своей модели хранения биткоина в казне. В ее портфеле находится 847 363 BTC, приобретенных за $64,1 миллиарда, или в среднем $75 651 за единицу. Стоимость биткоина оказывает влияние на капитальную структуру компании.",
+    "url": "https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-23T13:42:19.939656+00:00",
+    "awaiting_edit": false
+  },
+  "6e558c0e0865adcf8475f7e136ebfd0c": {
+    "title": "Запуск токена mGLOBAL на Aave Horizon",
+    "body": "Токен mGLOBAL, отслеживающий альтернативную стратегию долга Fasanara, теперь доступен на платформе Aave Horizon. Пользователи могут депонировать эти токены, чтобы занимать USDC, сохраняя при этом полное воздействие на основную стратегию.",
+    "url": "https://www.theblock.co/post/405774/midas-mglobal-fasanara-aave-horizon?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-23T13:42:23.632618+00:00",
+    "awaiting_edit": false
+  },
+  "2931a7403aac78ba1fdf2b8318a77458": {
+    "title": "Коалиция для защиты DeFi от киберугроз",
+    "body": "Фонд DeFi Education Fund создал коалицию по улучшению кибербезопасности в секторе DeFi, чтобы повысить защиту от угроз со стороны злоумышленников. Эта инициатива направлена на улучшение безопасности блокчейна. Коалиция станет частью более широких усилий по повышению устойчивости децентрализованных финансовых систем.",
+    "url": "https://www.theblock.co/post/405698/new-defi-education-fund-coalition-seeks-harden-crypto-against-cybersecurity-threats?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-23T13:42:26.809118+00:00",
+    "awaiting_edit": false
+  },
+  "f1904f626035fb04b4b6b4ca973d3b46": {
+    "title": "Allium привлёк $40 млн инвестиций",
+    "body": "Стартап Allium, специализирующийся на blockchain-данных, привлёк $40 млн в рамках раунда Series B для расширения инфраструктуры blockchain-данных для институциональных клиентов, включая Visa и Федеральный резерв. Этот раунд финансирования является свидетельством растущего интереса институциональных инвесторов к аналитике blockchain-данных.",
+    "url": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-23T13:42:29.912329+00:00",
+    "awaiting_edit": false
   }
 }
