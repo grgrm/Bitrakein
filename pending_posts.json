@@ -8530,5 +8530,45 @@
     "source": "The Block",
     "timestamp": "2026-06-24T09:23:25.800344+00:00",
     "awaiting_edit": false
+  },
+  "b70cc73b9145172e2b328c9678bd2b47": {
+    "title": "Tokenизация ипотечных кредитов",
+    "body": "Black Lake и Nuva Labs провели токенизацию ипотечных кредитов на сумму 25 миллионов долларов на блокчейне Provenance. Это было сделано в рамках развития реальных активов (RWA) на блокчейне. Токенизация позволила перевести традиционные финансовые инструменты в цифровой формат.",
+    "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T13:17:11.965669+00:00",
+    "awaiting_edit": false
+  },
+  "b2e5c1374a17000ab883c6c51a82ca45": {
+    "title": "Биткоин ожидает восстановление к 100 000 долларов",
+    "body": "21Shares прогнозирует восстановление цены биткоина до 100 000 долларов к концу года. Сейчас биткоин находится примерно на 50% ниже пика в октябре 2025 года, который составил 126 000 долларов. По мнению 21Shares, нынешняя динамика цены после халвинга выглядит знакомо.",
+    "url": "https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T13:17:15.258177+00:00",
+    "awaiting_edit": false
+  },
+  "21fa350b9f4de04342955c87f174aac7": {
+    "title": "SBI Group запускает стейблкоин JPYSC",
+    "body": "SBI Group выпустила первый в Японии стейблкоин, называемый JPYSC, поддержанный трастовым банком. Доступность JPYSC будет ограничена счетами SBI VC Trade до тех пор, пока не будет прояснено регулирование и налоговое лечение стейблкоина.",
+    "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T13:17:18.478825+00:00",
+    "awaiting_edit": false
+  },
+  "0c66326c3e31cd56bc2e0ea29b8d70e9": {
+    "title": "Правоохранители США критикуют CLARITY Act",
+    "body": "Четыре ассоциации правоохранителей США предупредили Минюст и Белый дом о потенциальных пробелах в надзоре и осложнении расследования криптопреступлений из-за статьи 604 законопроекта CLARITY Act. Эта статья касается некастодиальных разработок в криптосфере. Ассоциации считают, что это может осложнить их работу.",
+    "url": "https://forklog.com/pravoohraniteli-ssha-raskritikovali-statyu-v-clarity-act",
+    "source": "ForkLog",
+    "timestamp": "2026-06-24T13:17:21.729659+00:00",
+    "awaiting_edit": false
+  },
+  "3641e0d5d521d3dc31b1fdc52590acd7": {
+    "title": "Активность биткоина достигла двухгодичного максимума",
+    "body": "Протокол Runes привел к увеличению активности в сети биткоина, число транзакций достигло более 820 000 в сутки. Этот показатель является максимумом с апреля 2021 года. Новость пришлась на период медвежьего рынка, когда цена биткоина составляет около $62 000.",
+    "url": "https://forklog.com/protokol-runes-podnyal-aktivnost-v-seti-bitkoina-do-maksimuma-za-dva-goda",
+    "source": "ForkLog",
+    "timestamp": "2026-06-24T13:17:25.086628+00:00",
+    "awaiting_edit": false
   }
 }
