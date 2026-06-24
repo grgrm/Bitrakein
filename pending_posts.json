@@ -8570,5 +8570,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-24T13:17:25.086628+00:00",
     "awaiting_edit": false
+  },
+  "3a3f9e2b6baf5fbe89447446dfe811c1": {
+    "title": "Финансирование Ground для доступа к доходности",
+    "body": "Компания Ground, основанная сооснователем Superstate, привлекла 3,6 миллиона долларов в раунде предсемьи для giúp фिनटех-компаниям получить доступ к доходности на блокчейне. Раунд был возглавлен Bain Capital Crypto и ParaFi. Ground вышла из stealth-режима.",
+    "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T18:49:12.609483+00:00",
+    "awaiting_edit": false
+  },
+  "9548721dcad488f070e838a6bdd16b3e": {
+    "title": "Cambrian привлёк 6 миллионов на блокчейн-инфраструктуру",
+    "body": "Стартап Cambrian, разрабатывающий блокчейн-инфраструктуру для учреждений и ИИ-агентов, привлёк 6 миллионов долларов в раунде 시д-финансирования. Инвестиции проводили a16z и CSX.Cambrian планирует использовать средства для создания сети orcacle для блокчейна.",
+    "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T18:49:17.770211+00:00",
+    "awaiting_edit": false
+  },
+  "74f405e762d6cdb325a6c9d9899646fc": {
+    "title": "Регулирование прогнозных рынков в США",
+    "body": "Комиссия по товарным фьючерсам США (CFTC) ведет спор с штатами о конечной власти над контрактами на события. Опросы прогнозных рынков показали, что избиратели в США предпочитают федеральные правила над.patchwork штатов. Это противостояние может иметь последствия для криптовалютных рынков и свободы денежных потоков.",
+    "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T18:49:22.418592+00:00",
+    "awaiting_edit": false
+  },
+  "81200ffefa8d0a3d2ffd0cd55689e2ae": {
+    "title": "Binance сохраняет приверженность европейской лицензии",
+    "body": "Binance, крупнейшая криптовалютная биржа, сняла заявку на получение лицензии в Греции. Оставшегося времени у биржи всего одна неделя, чтобы получить лицензию на работу в Европейском Союзе.",
+    "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T18:49:26.146343+00:00",
+    "awaiting_edit": false
+  },
+  "44b6f84cc7f559f687bb78e9f97d4dab": {
+    "title": "Объем Polymarket вырос на 300%",
+    "body": "Объем торгов на платформе Polymarket увеличился на 300% благодаря чемпионату мира. Агрегированная открытая позиция (OI) Kalshi достигла рекорда в 1,16 миллиарда долларов. Это первый случай, когда открытая позиция на платформе превысила миллиард долларов.",
+    "url": "https://www.theblock.co/post/405854/world-cup-boom-sends-polymarket-volume-up-300-while-kalshi-sets-open-interest-records?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-24T18:49:34.735117+00:00",
+    "awaiting_edit": false
   }
 }
