@@ -8690,5 +8690,45 @@
     "source": "The Block",
     "timestamp": "2026-06-25T13:13:49.597434+00:00",
     "awaiting_edit": false
+  },
+  "b045913d7383923d6683bc3a613708a8": {
+    "title": "Прогноз цен на HYPE к 2028 году",
+    "body": "Инвестиционная фирма Multicoin предсказывает, что цена HYPE вырастет до 319 долларов к 2028 году. При этом сообщается, что пользовательская база Hyperliquid увеличилась с 300 тысяч до 923 тысяч пользователей в 2025 году. Эта информация может иметь отношение к рынку криптовалют.",
+    "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T19:03:44.893324+00:00",
+    "awaiting_edit": false
+  },
+  "07f2dab6fddfd206f2ac29b9661c6be5": {
+    "title": "Проблемы с блокчейном Base",
+    "body": "Блокчейн Base, инкубированный компанией Coinbase, испытал сбой в производстве блоков, что привело к задержке транзакций. На депозиты и выводы средств этот сбой также оказал влияние. Транзакции задерживаются или заблокированы, согласно странице статуса Base.",
+    "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T19:03:48.074267+00:00",
+    "awaiting_edit": false
+  },
+  "a933f5b9c2ffb4fe4e01738e52875127": {
+    "title": "Sophon закрывает Layer 2 blockchain",
+    "body": "Sophon, получивший 70 миллионов долларов финансирования, прекращает работу своего Layer 2 blockchain и переходит на Base для создания приложений для потребителей. Это решение направлено на изменение стратегии компании.",
+    "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T19:03:51.041017+00:00",
+    "awaiting_edit": false
+  },
+  "dea3bec21dfa8fab4923dbf0ead82150": {
+    "title": "STRC Strategy падает на 26%",
+    "body": "Снижение курса биткоина привело к падению цены STRC Strategy на 26% ниже номинала. Это происходит на фоне снижения акций MSTR до 16-месячного минимума. Strategy использовала выпуск предпочтительных ценных бумаг для привлечения средств на покупку биткоина.",
+    "url": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T19:03:54.305065+00:00",
+    "awaiting_edit": false
+  },
+  "daf07fa37a9d2ffb6ee4cd08dd508908": {
+    "title": "Объем транзакций USDT достигает 100 млрд",
+    "body": "USDT0, стейблкоин, обеспеченный токенами Tether в соотношении 1:1, достиг объема транзакций в 100 миллиардов долларов. Это событие подчеркивает значительную роль USDT на рынке криптовалют. USDT0 является третьим по величине держателем USDT.",
+    "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T19:03:57.206451+00:00",
+    "awaiting_edit": false
   }
 }
