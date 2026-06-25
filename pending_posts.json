@@ -8650,5 +8650,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-25T08:57:04.106091+00:00",
     "awaiting_edit": false
+  },
+  "1312c95decaf62499df8bc51cfa13386": {
+    "title": "Spark и Uniswap запускают стейблкоин",
+    "body": "Spark и Uniswap создают новый стейблкоин под названием \"FX Layer\" и обеспечивают его ликвидностью в размере $150 миллионов, мигрированных из экосистемы USDS на платформу Uniswap v4. Это сотрудничество направлено на создание нового ликвидного пула.",
+    "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T13:13:34.821635+00:00",
+    "awaiting_edit": false
+  },
+  "e760c7f8bc485f5559dfbfc6ffb267ef": {
+    "title": "Биткоин держит уровень 60 тысяч",
+    "body": "Биткоин упал до низкого уровня 60 тысяч долларов перед квартальным экспайром на сумму 10,6 миллиардов долларов, запланированным на 26 июня. На рынок также повлияли изъятие активов из ETF на сумму 469 миллионов долларов и отрицательная гамма. Это событие оказывает давление на рыночный оптимизм.",
+    "url": "https://www.theblock.co/post/406112/waiting-for-buyers-bitcoin-holds-fragile-60k-floor-ahead-of-10-6b-quarterly-expiry?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T13:13:39.181958+00:00",
+    "awaiting_edit": false
+  },
+  "afbd945f99210b7b71da2a01d0e2bbd8": {
+    "title": "SBI приобрела японскую биржу Bitbank",
+    "body": "SBI Holdings согласилась купить биржу Bitbank за $288,6 миллиона. Сделка ожидается к закрытию в октябре 2026 года. Это покупка является частью стратегии расширения присутствия компании на рынке цифровых активов.",
+    "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T13:13:42.878650+00:00",
+    "awaiting_edit": false
+  },
+  "902149c41dcb03012f0a7335788da250": {
+    "title": "Британские финансовые консультанты не контролируют крипто",
+    "body": "Согласно опросу CoinShares, 52% финансовых консультантов в Великобритании сообщают, что большинство активов клиентов в криптовалютах находятся вне их контроля. Это в основном обусловлено политикой фирм. В Европе 61% финансовых консультантов сталкиваются с ограничениями со стороны своих фирм.",
+    "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares",
+    "source": "The Block",
+    "timestamp": "2026-06-25T13:13:46.179117+00:00",
+    "awaiting_edit": false
+  },
+  "ab2db1fa566324ece02ad4d83eaab60b": {
+    "title": "Kraken расширяет OTC кредитование",
+    "body": "Kraken запускает совместный проект с компанией Maple, в рамках которого кредиторы Maple предоставят Kraken овердрафтное финансирование для поддержки ликвидности в USDC для заемщиков на рынке OTC. Это будет работать через нацепную складскую структуру. Это сотрудничество должно повысить возможности кредитования на платформе Kraken.",
+    "url": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-25T13:13:49.597434+00:00",
+    "awaiting_edit": false
   }
 }
