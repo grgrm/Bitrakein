@@ -8810,5 +8810,45 @@
     "source": "The Block",
     "timestamp": "2026-06-26T13:07:39.389361+00:00",
     "awaiting_edit": false
+  },
+  "d7de088071fbc7bfd8b5fff5aa442ab5": {
+    "title": "Сетка Base испытала вторую остановку",
+    "body": "Производство блоков на Base возобновилось в 16:11 UTC после предупреждения о остановке основной цепочки в 15:33 UTC. Это стало второй остановкой за два дня. Производство блоков на момент сообщения возобновлено.",
+    "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-26T18:28:40.096469+00:00",
+    "awaiting_edit": false
+  },
+  "2a58ad8b27f1b6cb366d5e42d4fcae4b": {
+    "title": "Securitize выходит на NYSE за $400 млн",
+    "body": "Компания Securitize, занимающаяся токенизацией, планирует выйти на Нью-Йоркскую фондовую биржу в начале июля в рамках сделки с SPAC на сумму $400 млн. После размещения Securitize сохранит более 70% доверительного капитала SPAC. Сделка может привести к увеличению капитализации компании.",
+    "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-26T18:28:43.214833+00:00",
+    "awaiting_edit": false
+  },
+  "bf38e79ddcf5304e02a123c6ab561ad2": {
+    "title": "Сенаторы требуют расследования Polymarket",
+    "body": "Сенаторы США призвали Комиссию по товарным фьючерсам (CFTC) провести расследование Polymarket из-за сообщений о фальшивых ставках. По данным сообщений, Polymarket платила создателям за постановку фальшивых выигрышных ставок. Это расследование инициировано сенаторами из обеих партий.",
+    "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-26T18:28:46.513176+00:00",
+    "awaiting_edit": false
+  },
+  "950b793438e49398aecb495d723c2097": {
+    "title": "DraftKings запускает биржу прогнозирования",
+    "body": "DraftKings запустила собственную биржу прогнозирования, поскольку объем потребительских сделок на ее платформе прогнозирования превысил 3 миллиарда долларов в год. Этот шаг направлен на расширение услуг компании в сегменте прогнозирования. Объем потребления на платформе составляет примерно 3,4 миллиарда долларов в год.",
+    "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-26T18:28:49.596033+00:00",
+    "awaiting_edit": false
+  },
+  "81c5f61e27498cd325173044d8e07e15": {
+    "title": "Испания предупреждает Binance и другие криптофирмы",
+    "body": "Испания заявила, что не будет делать исключений или продлений для криптовалютных компаний, включая Binance, в преддверии срока введения в действие нового нормативного акта МиКА (MiCA). Это может повлиять на доступ клиентов к ликвидности. Нормативный акт вызывает разделение мнений среди лидеров отрасли.",
+    "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-26T18:28:52.730124+00:00",
+    "awaiting_edit": false
   }
 }
