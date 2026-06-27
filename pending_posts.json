@@ -8930,5 +8930,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-27T12:06:32.115290+00:00",
     "awaiting_edit": false
+  },
+  "baa9efae1bdec01dbc72af796946e0a8": {
+    "title": "ETF на биткоин показали худшую неделю",
+    "body": "Инвесторы в ETF на биткоин потеряли около 40% своих средств. На прошлой неделе было зафиксировано чистое отток средств в размере 444,51 миллиона долларов, что стало седьмой подряд негативной неделей. Это самый длинный негативный период для данной категории.",
+    "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-27T17:58:49.248529+00:00",
+    "awaiting_edit": false
+  },
+  "e0bb4f36569151ff196173cbb2e15e70": {
+    "title": "CoinEx отрицает обвинения WSJ",
+    "body": "Криптобиржа CoinEx отвергла обвинения в переводе $3,84 млрд иранских средств, как сообщает WSJ. Иранские средства, якобы, были переведены через биржу. CoinEx считает обвинения неправомерными.",
+    "url": "https://forklog.com/news/coinex-otvergla-obvineniya-wsj-v-perevodah-3-84-mlrd-iranskih-sredstv",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T17:58:52.168481+00:00",
+    "awaiting_edit": false
+  },
+  "b5b09da0add6ce9ebe4e6e0764021d7b": {
+    "title": "Арестованные криптоактивы переданы государству",
+    "body": "В Украине впервые арестованные виртуальные активы передали в управление государству. На криптокошелек Национального агентства по розыску и менеджменту активов (АРМА) поступило более 8,3 млн USDT. Это является первым таким случаем в истории Украины.",
+    "url": "https://forklog.com/news/v-ukraine-arestovannye-kriptoaktivy-vpervye-peredali-gosudarstvu",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T17:58:55.323865+00:00",
+    "awaiting_edit": false
+  },
+  "3559586fc0880212ace4438c4f476923": {
+    "title": "Рынок крипто-ETF потерял $2 млрд",
+    "body": "Сектор спотовых биткоин-ETF зафиксировал отток инвестиций на $1,79 млрд с 22 по 26 июня 2026 года. Это седьмая подряд неделя негативной динамики для американских биржевых фондов на базе первой криптовалюты. Наибольший отток капитала пришелся на несколько конкретных фондов.",
+    "url": "https://incrypted.com/rynok-krypto-etf-poterjal-bolee-2-mlrd-za-nedelju/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-27T17:58:58.438932+00:00",
+    "awaiting_edit": false
+  },
+  "bd542973e073925f9e9cc7fa28fe843b": {
+    "title": "Украина передала арестованные криптоактивы государству",
+    "body": "Офис Генерального прокурора Украины сообщил о передаче арестованных виртуальных активов в управление АРМА, на сумму более $8,3 млн в USDT, что эквивалентно более чем 372 млн грн. Это первый случай передачи арестованных криптоактивов государству в истории Украины.",
+    "url": "https://incrypted.com/v-ukrayne-vpervye-peredaly-gosudarstvu-arestovannye-kryptoaktyvy/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-27T17:59:01.572364+00:00",
+    "awaiting_edit": false
   }
 }
