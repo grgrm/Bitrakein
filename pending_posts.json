@@ -8890,5 +8890,45 @@
     "source": "99Bitcoins",
     "timestamp": "2026-06-27T08:32:44.319784+00:00",
     "awaiting_edit": false
+  },
+  "d4faaba9901e0563e9e5dfe3119b8874": {
+    "title": "Meta изучает партнерство с Polymarket",
+    "body": "Meta рассматривает возможность сотрудничества с платформами Polymarket и Kalshi для разработки сервиса для рынков предсказаний. Это может стать частью стратегии компании по расширению своих услуг. Решение о партнерстве еще не принято. Meta продолжает изучать возможности рынка.",
+    "url": "https://forklog.com/news/smi-tsukerberg-poruchil-meta-izuchit-partnerstvo-s-polymarket-i-kalshi",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T12:06:19.680009+00:00",
+    "awaiting_edit": false
+  },
+  "763db2a5789de1e08afdd5e520fdb1fd": {
+    "title": "Framework Ventures привлекла $400 млн",
+    "body": "Венчурная компания Framework Ventures закрыла четвертый фонд FVIV, привлекая $400 млн. Фонд оказался переподписанным, что указывает на широкий интерес инвесторов. Интересы компании включают стейблкоины, токенизацию, цифровые активы, ИИ и робототехнику.",
+    "url": "https://forklog.com/framework-ventures-zakryla-chetvertyj-fond-fviv-na-400-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T12:06:22.705801+00:00",
+    "awaiting_edit": false
+  },
+  "b6a664337c5a7f3fb1ecdbf1bc6c493b": {
+    "title": "DraftKings запускает биржу предсказаний",
+    "body": "Букмекерская компания DraftKings запустила свою биржу предсказаний DKeX и интегрировала ее в приложение DraftKings. Этот шаг позволяет пользователям участвовать в рынках прогнозов. Биржа DKeX доступна в унифицированном приложении DraftKings: Sports & Casino.",
+    "url": "https://forklog.com/draftkings-zapustila-birzhu-rynkov-predskazanij-dkex",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T12:06:25.768184+00:00",
+    "awaiting_edit": false
+  },
+  "1b1163136044a3b56d1beeabcc879509": {
+    "title": "Глава Ripple критикует стратегию покупки биткоина",
+    "body": "Брэд Гарлингхаус, CEO Ripple, заявил, что остается оптимистом по отношению к биткоину, но раскритиковал определенные модели стратегии его покупки. Это было заявлено в интервью CNBC. Гарлингхаус выразил свои мысли о будущем биткоина.",
+    "url": "https://forklog.com/news/glava-ripple-raskritikoval-model-pokupki-bitkoina-strategy",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T12:06:29.155232+00:00",
+    "awaiting_edit": false
+  },
+  "13754b3d6541aa0b58fb2da3ef18996b": {
+    "title": "Binance уходит из Европы",
+    "body": "Binance планирует покинуть европейский рынок. Это событие произошло на фоне ужесточения контроля над крипторынком в России и США. Кроме того, Ethereum Foundation прошла радикальную реструктуризацию.",
+    "url": "https://forklog.com/news/chto-zhdat-ot-uhoda-binance-iz-evropy-i-novyh-kriptozakonov-v-rf",
+    "source": "ForkLog",
+    "timestamp": "2026-06-27T12:06:32.115290+00:00",
+    "awaiting_edit": false
   }
 }
