@@ -8970,5 +8970,29 @@
     "source": "INCRYPTED",
     "timestamp": "2026-06-27T17:59:01.572364+00:00",
     "awaiting_edit": false
+  },
+  "db199057da2622ed27ec15d5dc86cf8f": {
+    "title": "Эксплойт кошелька Cardano",
+    "body": "В результате эксплойта было украдено около 2,4 миллиона долларов в ADA с 374 адресов за три дня из-за уязвимости в программном обеспечении для генерации кошельков SecondFi. SecondFi планирует вернуть средства в течение двух недель. Эксплойт был обнаружен в прошлом.",
+    "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-28T08:47:33.251334+00:00",
+    "awaiting_edit": false
+  },
+  "c8ae13eddbffe91c723ad3adf3284447": {
+    "title": "Base усиливает тестирование после сбоев",
+    "body": "Команда Ethereum-решения второго уровня Base опубликовала отчет о двух сбоях сети, произошедших 25 и 26 июня. Причиной остановки производства блоков стал баг в логике секвенсора. Команда Base намерена усилить тестирование после этих сбоев.",
+    "url": "https://forklog.com/news/base-usilit-testirovanie-posle-dvuh-sboev-seti",
+    "source": "ForkLog",
+    "timestamp": "2026-06-28T08:47:36.222078+00:00",
+    "awaiting_edit": false
+  },
+  "d68bd0c0754077c1531866a94c12e0db": {
+    "title": "Джереми Грентем раскритиковал биткоин",
+    "body": "Миллиардер Джереми Грентем назвал биткоин \"бесполезным\" активом и спрогнозировал упадок криптовалют. Это заявление было сделано им в эфире CNBC. Грентем считает, что биткоин и криптовалюты не имеют долгосрочной ценности и постепенно утратят значение.",
+    "url": "https://incrypted.com/myllyarder-dzheremy-grentem-nazval-bytkoyn-bespoleznym/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-06-28T08:47:39.311813+00:00",
+    "awaiting_edit": false
   }
 }
