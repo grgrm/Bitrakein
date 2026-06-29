@@ -9106,5 +9106,45 @@
     "source": "The Block",
     "timestamp": "2026-06-29T10:51:50.540164+00:00",
     "awaiting_edit": false
+  },
+  "29f66d9680156d2c943c67533e126a52": {
+    "title": "BlackRock расширяет поддержку стейблкоинов",
+    "body": "Платформа Aladdin от BlackRock добавила более глубокую поддержку продуктов стейблкоина USDe от Ethena. Это сделает USDe более доступным для инвестиционных профессионалов, желающих воспользоваться \"цифровым долларовым экспоном\".",
+    "url": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T14:44:24.120541+00:00",
+    "awaiting_edit": false
+  },
+  "6a8a3bc5a830092ca0cd48a07de933c5": {
+    "title": "Strategy приостанавливает покупки биткоина",
+    "body": "Strategy временно прекращает покупки биткоина, общее количество биткоинов в ее владении составляет 847 363 BTC, что эквивалентно более 4% от максимального объема эмиссии в 21 миллион. Общая стоимость ее активов в биткоине оценивается примерно в 51 миллиард долларов.",
+    "url": "https://www.theblock.co/post/406512/strategy-buys-btc-mstr-strc-collapse-bitcoin-holdings-underwater?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T14:44:27.049223+00:00",
+    "awaiting_edit": false
+  },
+  "bbee640ba1815ab8a797a44fca159f0a": {
+    "title": "Биткоин держится у 60 тысяч",
+    "body": "Цена биткоина остается gần уровня 60 тысяч долларов на фоне значительных оттоков средств из биржевых фондов (ETF) в США, а также ожиданий повышения ставок Федеральной резервной системы. За неделю из US-спот ETF было выведено 1,79 миллиарда долларов. Это происходит на фоне страхов перед возможным повышением ставок и продажами, связанными с ИИ.",
+    "url": "https://www.theblock.co/post/406516/bitcoin-clings-to-key-support-level-as-weekly-us-spot-etf-outflows-hit-1-8b-and-fed-rate-hike-bets-mount-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T14:44:30.256935+00:00",
+    "awaiting_edit": false
+  },
+  "421b50f8f8af2d206c8272b4ec0ce84c": {
+    "title": "Премия USDT в Индии выросла",
+    "body": "Премия по стейблкоину USDT в Индии достигла 8,5%, почти вдвое превысив привычный спред. Это указывает на высокий спрос на USDT в стране.",
+    "url": "https://forklog.com/news/premiya-po-usdt-v-indii-prevysila-8-5",
+    "source": "ForkLog",
+    "timestamp": "2026-06-29T14:44:33.378776+00:00",
+    "awaiting_edit": false
+  },
+  "c857236ed6cd81fe932d879b05bcccba": {
+    "title": "Оценка Strategy ниже биткоин-резервов",
+    "body": "Компания Strategy впервые оценивается дешевле своей стоимости биткоин-резервов, показатель enterprise mNAV опустился ниже стоимости биткоин-резервов. Это может указывать на системные риски для рынка из-за моды публичных компаний на биткоин-резервы.",
+    "url": "https://forklog.com/news/otsenka-strategy-vpervye-upala-nizhe-stoimosti-ee-bitkoin-rezervov",
+    "source": "ForkLog",
+    "timestamp": "2026-06-29T14:44:36.852381+00:00",
+    "awaiting_edit": false
   }
 }
