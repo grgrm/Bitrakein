@@ -9146,5 +9146,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-29T14:44:36.852381+00:00",
     "awaiting_edit": false
+  },
+  "f038d3a041151ef92529dab3c06d32e0": {
+    "title": "JPMorgan сравнивает стейблкоины с теневым банкингом",
+    "body": "Руководители JPMorgan считают, что инновации в области стейблкоинов могут легко стать \"теневым банкингом\", если будут разрешены выплаты по доходности. Это может создать риски для финансовой системы. Высказывания руководителей JPMorgan прольют свет на проблемы взаимодействия традиционных финансов и криптовалют.",
+    "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T19:03:07.969175+00:00",
+    "awaiting_edit": false
+  },
+  "e710358f80e3f629fd86a0564c8db1ab": {
+    "title": "BNY и Circle расширяют партнерство",
+    "body": "BNY, крупнейший хранилищный банк мира, планирует добавить поддержку дополнительных стейблкоинов на своей платформе Digital Asset Custody. Это расширение партнерства с Circle включает добавление возможностей создания и уничтожения токенов USDC.",
+    "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T19:03:11.222831+00:00",
+    "awaiting_edit": false
+  },
+  "12feb53b249958642d4a4d0399cbe18f": {
+    "title": "Strategy восстанавливается после падения",
+    "body": "Акции MSTR и STRC компании Strategy начали восстанавливаться после сильного падения на прошлой неделе. Компания представила новый капитальный框, пока как биткоин стабилизировался. Генеральный директор компании Сaylor объявил о новых планах выкупа акций.",
+    "url": "https://www.theblock.co/post/406568/strategy-mstr-strc-shares-recover-after-brutal-week-saylor-unveils-new-buyback-plans?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T19:03:14.590928+00:00",
+    "awaiting_edit": false
+  },
+  "936dcdc4ccae7739a530ba06a534edab": {
+    "title": "Binance близка к одобрению заявки MiCA",
+    "body": "Основатель Binance CZ заявил, что заявка компании на получение лицензии в ЕС по регулированию криптоактивов (MiCA) была почти одобрена, но была вмешана политическая сила. По словам CZ, заявка была полностью соответствует требованиям.",
+    "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T19:03:20.012165+00:00",
+    "awaiting_edit": false
+  },
+  "11ba854ce6489824f2e6504200d5f648": {
+    "title": "Bitmine увеличивает запас эфира",
+    "body": "Bitmine добавила 27 084 ETH за прошлую неделю, доведя общий запас до 5,7 миллиона эфиров стоимостью 8,9 миллиарда долларов. Компания достигла 94% своей цели в 5% от общего количества эфира в обороте. Bitmine также вошла в индекс Russell 1000.",
+    "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-29T19:03:23.159171+00:00",
+    "awaiting_edit": false
   }
 }
