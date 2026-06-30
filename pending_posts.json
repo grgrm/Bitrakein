@@ -9266,5 +9266,45 @@
     "source": "ForkLog",
     "timestamp": "2026-06-30T13:08:18.339714+00:00",
     "awaiting_edit": false
+  },
+  "0d30f34e71ba16a7cbc88bf3542e76fb": {
+    "title": "SEC пересматривает правила ETF",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) начала пересмотр правил, касающихся новых классов биржевых инвестиционных фондов (ETF), связанных с прогнозными рынками. Это происходит на фоне бума криптовалютных фондов и роста прогнозных рынков. Цель пересмотра - определить, как эти новые ETF должны быть регулированы.",
+    "url": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T18:54:16.001748+00:00",
+    "awaiting_edit": false
+  },
+  "74cfa84f697af827c17e3c8276e38064": {
+    "title": "Коммерческие гиганты присоединились к Open USD",
+    "body": "Visa, Stripe и Coinbase присоединились к стейблкоину Open USD, который будет делить доходы от резервов. Запуск Open USD запланирован на этот год. Бизнес сможет производить и погашать Open USD без комиссий и ограничений по объему.",
+    "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T18:54:18.841493+00:00",
+    "awaiting_edit": false
+  },
+  "6794deac4c01b31359e4bde0cee7849d": {
+    "title": "OKX AI запускает рынок для агентов",
+    "body": "OKX AI представила платформу, где агенты могут найти работу и получать оплату в стейблкоинах. Платформа строится на фिनटех-инфраструктуре и масштабе в 150 миллионов. Новый рынок сравнивается с Upwork, но с использованием стейблкоинов.",
+    "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T18:54:21.941459+00:00",
+    "awaiting_edit": false
+  },
+  "6393a1ab563bdbf9912e7a2a822dbcf0": {
+    "title": "Новый инструмент восстановления кошелька ZEC",
+    "body": "Некоммерческая организация Sovright представила инструмент Argos для восстановления средств в кошельках ZEC, которые были заблокированы из-за технических проблем в ZEC Wallet Lite. Это решение помогает longtime сторонникам Zcash восстановить доступ к своим средствам. Инструмент призван решить проблемы, связанные сShielded фондами.",
+    "url": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T18:54:25.056174+00:00",
+    "awaiting_edit": false
+  },
+  "24d4e92400d23b2305f0d7f8d8b46785": {
+    "title": "MetaMask запускает Money Account",
+    "body": "MetaMask представила Money Account, который позволит пользователям получать до 4% годовых на держаниях mUSD. Consensys выбрала Monad в качестве основной сети для Money Account и будет использовать хранилища Morpho для генерации доходности. Сервис является частью расширения предложений MetaMask в области финансовых услуг.",
+    "url": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T18:54:27.945073+00:00",
+    "awaiting_edit": false
   }
 }
