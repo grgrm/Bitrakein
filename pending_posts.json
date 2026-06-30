@@ -9226,5 +9226,45 @@
     "source": "The Block",
     "timestamp": "2026-06-30T09:29:00.640952+00:00",
     "awaiting_edit": false
+  },
+  "8948aac1f2336699a7a9ed501ae23a70": {
+    "title": "Аналитики снизили прогноз цены биткоина",
+    "body": "TD Cowen снизил целевой прогноз цены Strategy до $260 из-за более низкого прогноза цены биткоина. Новый капитальный фреймворк был назван \"конструктивным\". Целевой прогноз был снижен с $400.",
+    "url": "https://www.theblock.co/post/406710/td-cowen-slashes-strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T13:08:04.748841+00:00",
+    "awaiting_edit": false
+  },
+  "a1042ad68e126398ac00af340a4f5f94": {
+    "title": "StarkWare раскрыла постквантовый роадмап Starknet",
+    "body": "StarkWare представила трехэтапный план по превращению Starknet в сеть, устойчивую к квантовым компьютерам, в течение нескольких месяцев. Цель компании - сделать Starknet \"самой сильной\" криптосистемой на данный момент. План включает в себя три этапа, детали которых пока не раскрыты.",
+    "url": "https://www.theblock.co/post/406677/starkware-unveils-starknet-post-quantum-roadmap-calling-it-cryptos-strongest-to-date?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T13:08:07.959730+00:00",
+    "awaiting_edit": false
+  },
+  "03e16b3711c476cc93009f16b9067b7d": {
+    "title": "New York Life tokenизирует корпоративные облигации",
+    "body": "New York Life (NYLIM) сотрудничает с Centrifuge для создания токенизированного фонда, позволяющего инвесторам доступ к стратегии высокодоходных корпоративных облигаций. Этот шаг является первым токенизированным решением компании. Фонд будет доступен для квалифицированных инвесторов.",
+    "url": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T13:08:11.086631+00:00",
+    "awaiting_edit": false
+  },
+  "a7e68e64a4f6a5ea0ad7e51b08654ef3": {
+    "title": "Режиссёр получил срок за хищение средств",
+    "body": "Режиссёр Карл Ринч приговорён к 30 месяцам тюремного заключения за хищение 11 миллионов долларов, предназначенных для производства телешоу на Netflix, часть средств была потрачена на криптовалюту.",
+    "url": "https://www.theblock.co/post/406675/hollywood-director-carl-rinsch-sentenced-to-30-months-for-diverting-11-million-in-tv-production-funds-to-stock-options-crypto-and-luxury-purchases?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-06-30T13:08:14.249904+00:00",
+    "awaiting_edit": false
+  },
+  "eeb37ba3b19157c8cc5fd2666662efca": {
+    "title": "Дубай ждет криптофирмы из Европы",
+    "body": "Дубай ожидает приток европейских криптокомпаний из-за завершения переходного периода MiCA. С 1 июля фирмы без авторизации не смогут оказывать регулируемые услуги клиентам в ЕС. Юристы ожидают значительный приток компаний в Дубай.",
+    "url": "https://forklog.com/dubaj-prigotovilsya-k-pritoku-kriptofirm-iz-evropy",
+    "source": "ForkLog",
+    "timestamp": "2026-06-30T13:08:18.339714+00:00",
+    "awaiting_edit": false
   }
 }
