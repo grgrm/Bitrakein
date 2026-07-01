@@ -9346,5 +9346,45 @@
     "source": "The Block",
     "timestamp": "2026-07-01T09:40:34.147505+00:00",
     "awaiting_edit": false
+  },
+  "d560e0d93f459723f69bb39c1c5193ea": {
+    "title": "Standard Chartered прогнозирует рост Morpho",
+    "body": "Банк Standard Chartered прогнозирует, что стоимость токена Morpho достигнет $60 к 2030 году, обогнав bitcoin и ether. Этот прогноз основан на росте vault, принятии технологий в традиционном финансе и ожидаемом расширении сектора DeFi в 37 раз.",
+    "url": "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-01T13:32:09.080915+00:00",
+    "awaiting_edit": false
+  },
+  "521cb97e92ff98f4416792aba4e6bb3d": {
+    "title": "Panther Hollow запускает мульти-стратегический банк",
+    "body": "Panther Hollow запустил гибридный банк, фонд и инкубатор, ориентированные на Ethereum, Canton, Solana и StarkNet. Банк будет фокусироваться наpliant RWA и yield стратегиях. Это расширение услуг в секторе криптовалют.",
+    "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-01T13:32:12.190320+00:00",
+    "awaiting_edit": false
+  },
+  "43c86318532cd71c176a4ab9c052f5ff": {
+    "title": "Bernstein ожидает 203% роста Circle",
+    "body": "Аналитический центр Bernstein подтвердил рекомендацию \"покупать\" для Circle, установив целевой показатель в 190 долларов. Это произошло после того, как акции CRCL упали на 17% после выхода нового стейблкоина OUSD. Bernstein считает, что Circle имеет потенциал роста на 203%.",
+    "url": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-01T13:32:15.264530+00:00",
+    "awaiting_edit": false
+  },
+  "f5675ec98730070cd7ba8586dc6e7950": {
+    "title": "Токенизированные акции на криптоплатформах",
+    "body": "Интеграция традиционных акций на криптобиржах представляет собой фундаментальный сдвиг в глобальной торговой инфраструктуре. Это позволяет участникам рынка получить единый доступ к различным активам, а не управлять разделенными позициями на отдельных традиционных брокерских компаниях и криптобиржах. Это сближение крипторынка и традиционных капитальных рынков открывает новые возможности для трейдеров.",
+    "url": "https://www.theblock.co/post/406198/the-cross-asset-frontier-tokenized-equities-and-stock-trading-on-crypto-platforms?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-01T13:32:18.458070+00:00",
+    "awaiting_edit": false
+  },
+  "fc52f2203da4a92657d6b7245ded7b5e": {
+    "title": "Symbiotic запустил Core V2",
+    "body": "Компания Symbiotic объявила о запуске Core V2, платформы для поддержки нескольких децентрализованных финансовых услуг, включая страхование, кредитование и управление активами. Эта платформа будет обеспечивать общие коллateralные инфраструктуры для этих сервисов.",
+    "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-01T13:32:21.536034+00:00",
+    "awaiting_edit": false
   }
 }
