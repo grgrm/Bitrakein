@@ -9586,5 +9586,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-03T08:58:17.623589+00:00",
     "awaiting_edit": false
+  },
+  "caf30e4a49965d743272210ea881ad2c": {
+    "title": "Tokenизация и финансовая система",
+    "body": "Международный валютный фонд (IMF) считает, что политические решения будут определять, укрепит или fragmentирует финансовую систему процесс tokenизации. Риски могут перейти от банков к провайдерам рыночного инфраструктуры и смарт-контрактам при расширении tokenизации, заявил Тобиас Адриан из IMF.",
+    "url": "https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T12:54:01.237919+00:00",
+    "awaiting_edit": false
+  },
+  "98dfc2ad8e2dc572e4fe855baf5bf77c": {
+    "title": "Биткоин держит рубеж $61 000",
+    "body": "Биткоин удерживает уровень выше $61 000, а эфир выше $1 700 после публикации мягких данных по рынку труда в США, что снижает ожидания повышения ставок и приводит к остановке 10-дневной серии оттока средств из ETF. Это происходит перед Днем независимости США.",
+    "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T12:54:04.740103+00:00",
+    "awaiting_edit": false
+  },
+  "a719f8601ea200ace5607d7a8ec80a24": {
+    "title": "ЦБ России готов к цифровому рублю",
+    "body": "Банк России заявляет, что всё готово для широкого внедрения цифрового рубля, запланированного на сентябрь. Центральный банк также активно обсуждает использование стейблкоинов для международных расчетов, но только как дополнение к цифровому рублю.",
+    "url": "https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T12:54:07.573175+00:00",
+    "awaiting_edit": false
+  },
+  "59623bf467faaa2ccee46ec5c58cfd9e": {
+    "title": "Биткоин стабилен среди рыночных спадов",
+    "body": "Биткоин и Ethereum заканчивают день с минимальными изменениями, несмотря на падение акций производителей ИИ-чипов. Об этом сообщается в обзоре рыночной ситуации. Биткоин демонстрирует стабильность на фоне волатильности традиционных рынков.",
+    "url": "https://forklog.com/news/ai/bitkoin-i-ethereum-uderzhalis-na-fone-padeniya-aktsij-proizvoditelej-ii-chipov",
+    "source": "ForkLog",
+    "timestamp": "2026-07-03T12:54:10.535253+00:00",
+    "awaiting_edit": false
+  },
+  "744101931848dc9d3590c53a269a430b": {
+    "title": "Крипторынок в III квартале",
+    "body": "Исследовательское подразделение биржи HTX, HTX Research, опубликовало стратегический отчет о крипторынке в III квартале. Согласно отчету, ликвидность и регулирование будут определять рынок. Отчет доступен на сайте HTX.",
+    "url": "https://forklog.com/news/htx-research-likvidnost-i-regulirovanie-opredelyat-kriptorynok-v-iii-kvartale",
+    "source": "ForkLog",
+    "timestamp": "2026-07-03T12:54:13.351255+00:00",
+    "awaiting_edit": false
   }
 }
