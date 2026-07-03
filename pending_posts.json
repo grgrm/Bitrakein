@@ -9626,5 +9626,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-03T12:54:13.351255+00:00",
     "awaiting_edit": false
+  },
+  "da98ffa7951ddc4f1565ad0a0a18e511": {
+    "title": "Биткоин-депозиты на биржи резко выросли",
+    "body": "Депозиты биткоина на биржи недавно достигли почти 49 000 BTC, что, по данным CryptoQuant, является редким экстремумом, наблюдаемым всего четыре раза в этом году. Это может указывать на повышение волатильности на рынке. Данные включают не только биткоин, но и альткоины.",
+    "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T18:10:15.993425+00:00",
+    "awaiting_edit": false
+  },
+  "d1a0310a2efcc44e8cd2f117f3aa002e": {
+    "title": "Samsung и Dunamu не согласовали членство",
+    "body": "Samsung и Dunamu, среди других корейских компаний, заявили, что они были включены в состав консорциума стейблкоина OUSD без предварительной договоренности. Эти компании не давали официального согласия на свое членство. Это заявление вызывает вопросы о прозрачности в управлении консорциумом.",
+    "url": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T18:10:19.187196+00:00",
+    "awaiting_edit": false
+  },
+  "f24a4c278e0a17fdad0b2bf29901b762": {
+    "title": "Громкий рост Perp DEX",
+    "body": "Perp DEX рынок демонстрирует самый быстрый рост в секторе Web3, основанном на децентрализованных венчах для перпетуальных фьючерсов. Доля Perp DEX в общем объеме криптовалютных перпетуальных контрактов значительно увеличилась с марта 2024 года. Децентрализованные биржи стали основными площадками для торговли перпетуальными фьючерсами.",
+    "url": "https://www.theblock.co/post/407075/grvt-and-the-rise-of-composable-onchain-wealth?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-03T18:10:22.221597+00:00",
+    "awaiting_edit": false
+  },
+  "efee56e59202fe30b1c09f09f1db54b6": {
+    "title": "QoreChain внедрила постквантовую защиту",
+    "body": "Швейцарская блокчейн-сеть QoreChain реализовала полный стек постквантовой криптографии по стандартам NIST. Это было сделано в общедоступном мейннете.",
+    "url": "https://forklog.com/qorechain-vnedrila-postkvantovuyu-zashhitu-nist",
+    "source": "ForkLog",
+    "timestamp": "2026-07-03T18:10:25.088818+00:00",
+    "awaiting_edit": false
+  },
+  "57fae413beb6fa7a4c81eebc6545ffa9": {
+    "title": "Иск о правах на неактивные биткоин-адреса",
+    "body": "Псевдонимный ответчик John Doe 33 направил ходатайство в Верховный суд штата Нью-Йорк, оспаривая иск на 234 млрд долларов, связанный с неактивными биткоин-адресами. Это ходатайство направлено в Верховный суд штата Нью-Йорк. Стоимость иска составляет 234 млрд долларов.",
+    "url": "https://forklog.com/news/vladelets-neaktivnogo-bitkoin-adresa-osporil-isk-na-234-mlrd",
+    "source": "ForkLog",
+    "timestamp": "2026-07-03T18:10:28.450209+00:00",
+    "awaiting_edit": false
   }
 }
