@@ -9730,5 +9730,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-07-04T12:03:33.842338+00:00",
     "awaiting_edit": false
+  },
+  "a19b18017bbaa3bfcc0e9751c50dca1b": {
+    "title": "Растёт депозитная база Aave",
+    "body": "Монад-рынок Aave превысил 100 миллионов долларов в депозитах спустя два дня после запуска. В это же время версия V4 достигла нового исторического максимума, превысив 250 миллионов долларов в депозитах. Рост депозитов наблюдается после обновления протокола.",
+    "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-04T17:59:58.368172+00:00",
+    "awaiting_edit": false
+  },
+  "f0384d31ca34ad57b9699c371009aadc": {
+    "title": "TRON тестирует постквантовые подписи",
+    "body": "Команда TRON реализовала поддержку постквантовых цифровых подписей в тестовой сети Nile. FIRST активированным алгоритмом стал FN-DSA-512, также добавлена поддержка ML-DSA-44. Это обновление направлено на защиту от потенциальных будущих атак на ECDSA.",
+    "url": "https://forklog.com/komanda-tron-protestiruet-postkvantovye-podpisi",
+    "source": "ForkLog",
+    "timestamp": "2026-07-04T18:00:01.824332+00:00",
+    "awaiting_edit": false
+  },
+  "f4c1008e96799725eff1f320b31a4702": {
+    "title": "Убытки от мемкоина TRUMP",
+    "body": "Почти 1 млн инвесторов понесли совокупные убытки в $3,81 млрд от мемкоина TRUMP. Это следует из отчета аналитической компании Nansen. Президент США Дональд Трамп продвигал токен и получал комиссии с торговли им. По состоянию на конец июня 2026 года убытки инвесторов составили $3,81 млрд.",
+    "url": "https://incrypted.com/nansen-podschytala-potery-ynvestorov-v-memkoyne-trump/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-04T18:00:05.455497+00:00",
+    "awaiting_edit": false
+  },
+  "50c402d39e49f01df321bc0b8d108846": {
+    "title": "Биткоин ожидает повышенная волатильность",
+    "body": "Биткоин вернулся выше $60 000 на этой неделе, но увеличение волатильности может быть на подходе, поскольку депозиты криптовалюты на биржи резко выросли. Аналитики бьют тревогу из-за спекуляций о потенциальном падении цены до $53 000.",
+    "url": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+    "source": "Decrypt",
+    "timestamp": "2026-07-04T18:00:08.938728+00:00",
+    "awaiting_edit": false
+  },
+  "229804b0116bae455f17cf61929d375e": {
+    "title": "Инфраструктура ChangeNOW раскрыта",
+    "body": "В интервью с Decrypt CSO ChangeNOW Полин Шанжет рассказала об инфраструктуре, лежащей в основе простого и оптимизированного интерфейса биржи. Эта инфраструктура обеспечивает быстрые и безшовные обмены. ChangeNOW является одной из популярных платформ для обмена криптовалют.",
+    "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
+    "source": "Decrypt",
+    "timestamp": "2026-07-04T18:00:13.549617+00:00",
+    "awaiting_edit": false
   }
 }
