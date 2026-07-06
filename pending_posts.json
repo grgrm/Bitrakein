@@ -9866,5 +9866,45 @@
     "source": "99Bitcoins",
     "timestamp": "2026-07-05T17:59:21.611973+00:00",
     "awaiting_edit": false
+  },
+  "126f46940f25f1fd7797441fab952a44": {
+    "title": "Ripple получила разрешение MiCA для ЕЭЗ",
+    "body": "Ripple получила полное разрешение MiCA CASP от Luxembourg, позволяющее компании предоставлять регулируемые криптовалютные услуги во всех 30 странах Европейской экономической зоны. Это расширение позволяет Ripple работать в ЕЭЗ. Разрешение получено в соответствии с законом ЕС о рынках криптоактивов (MiCA).",
+    "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-06T10:13:11.865029+00:00",
+    "awaiting_edit": false
+  },
+  "59b22c3fcb047cde9dd479da4fa6e6df": {
+    "title": "Хакеры атаковали протокол Summer Finance",
+    "body": "Протокол децентрализованного финанса (DeFi) Summer Finance был взломан, что привело к потере около 6 миллионов долларов. Атака произошла с использованием flash loan в размере 65,4 миллиона долларов, что позволило получить возврат в размере 70,9 миллиона долларов в рамках протокола Lazy Summer.",
+    "url": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-06T10:13:15.072236+00:00",
+    "awaiting_edit": false
+  },
+  "4db6ab96585ded1eb066cb3d7febbd73": {
+    "title": "Южная Корея разрабатывает процедуры для криптоактивов",
+    "body": "Власти Южной Кореи разрабатывают специальные процедуры для конфискации и продажи криптоактивов в рамках исполнения судебных решений. Эти изменения направлены на формализацию порядка действий судов при принудительном исполнении гражданских решений, связанных с криптовалютными активами.",
+    "url": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-06T10:13:18.395207+00:00",
+    "awaiting_edit": false
+  },
+  "d3d0a88861bbbe3cc717d12d23918579": {
+    "title": "Инвестиции суверенных фондов в крипто",
+    "body": "Суверенные фонды инвестируют в цифровые активы в основном через регулируемые инструменты, такие как биржевые фонды, торгующиеся на основе биткоина, публичные компании с экспозицией криптовалют, фирмы инфраструктуры блокчейна и венчурные фонды. Прямое владение биткоином или другими токенами остается редким из-за правил управления, требований к хранению и политической подотчетности.",
+    "url": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-06T10:13:21.742986+00:00",
+    "awaiting_edit": false
+  },
+  "89cbf673f98e0caecd08a50da8b7175a": {
+    "title": "Nigel Farage и скрытые крипто-доноры",
+    "body": "Бывший лидер партии Brexit, Найджел Фараж, не раскрыл информацию о получении финансовой поддержки от фигуры, связанной с криптовалютным гэмблингом и осужденной за мошенничество. Ранее Фараж уже был вовлечен в скандал из-за полученной им суммы в £5 миллионов от держателя акций Tether, Кристофера Харборна. Это привело к парламентскому расследованию по стандартам.",
+    "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-06T10:13:25.189943+00:00",
+    "awaiting_edit": false
   }
 }
