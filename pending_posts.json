@@ -10026,5 +10026,45 @@
     "source": "The Block",
     "timestamp": "2026-07-07T09:36:18.106155+00:00",
     "awaiting_edit": false
+  },
+  "cff7cfdb656ef9568663c3b077d5c0aa": {
+    "title": "Bernstein поддержал целевую цену TeraWulf",
+    "body": "Bernstein сохранил целевую цену акций TeraWulf на уровне $36 после заключения 20-летнего договора аренды с Anthropic на $19 миллиардов и продажи доли в проекте Abernathy за $530 миллионов.",
+    "url": "https://www.theblock.co/post/407429/bernstein-maintains-36-terawulf-target-after-19-billion-20-year-anthropic-lease?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T13:15:40.155501+00:00",
+    "awaiting_edit": false
+  },
+  "c36ca2fffa6f479f3341d1c3137bf1e8": {
+    "title": "Bitcoin испытывает летний бум цен",
+    "body": "Цена биткоина достигла $63,500 после шестидневного роста, при этом аналитики из Wintermute и Bitfinex отметили слабый спрос на ETF, а K33 указал, что 50% предложения биткоина находится в зоне убытка. Это происходит на фоне низкой ликвидности рынка в летний период.",
+    "url": "https://www.theblock.co/post/407414/bitcoins-early-july-bounce-rides-thin-summer-liquidity-as-half-of-supply-still-sits-underwater-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T13:15:43.769169+00:00",
+    "awaiting_edit": false
+  },
+  "b0b64b9e4a133d3026072bc76dfe951d": {
+    "title": "Coinbase получил лицензию в Великобритании",
+    "body": "Coinbase получил лицензию на инвестиционные услуги в Великобритании, что позволит компании предложить торговлю деривативами и акциями в дополнение к криптовалютам. Теперь клиенты Coinbase в Великобритании смогут использовать более широкий спектр финансовых услуг. Лицензия открывает новые возможности для расширения деятельности компании.",
+    "url": "https://www.theblock.co/post/407410/coinbase-secures-uk-investment-services-license-to-add-derivatives-and-equities-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T13:15:46.938341+00:00",
+    "awaiting_edit": false
+  },
+  "70522f1e75633f9ae240643b965a42ce": {
+    "title": "Биткоин-майнинг переходит к AI",
+    "body": "Galaxy доставила 133 МВт критической IT-нагрузки в CoreWeave на кампусе Helios, завершив первый этап конверсии объекта в центр искусственного интеллекта. Ранее на этом объекте находился биткоин-майнинг. Проект предполагает переориентацию мощностей на обработку данных для AI-расчетов.",
+    "url": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T13:15:50.281094+00:00",
+    "awaiting_edit": false
+  },
+  "20a8d1606cb4dc701a3548f6ec2dbe54": {
+    "title": "Tether возвращается в сеть Биткоина",
+    "body": "Tether планирует выпуск USDT в сети биткоина через протокол RGB v0.11.1 и инфраструктуру UTEXO, позволяя переводить стейблкоин через биткоин и Lightning Network. USDT был впервые запущен в 2014 году на базе Omni.",
+    "url": "https://forklog.com/tether-vernet-usdt-v-set-bitkoina",
+    "source": "ForkLog",
+    "timestamp": "2026-07-07T13:15:53.487243+00:00",
+    "awaiting_edit": false
   }
 }
