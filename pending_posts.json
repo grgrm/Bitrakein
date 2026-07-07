@@ -10066,5 +10066,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-07T13:15:53.487243+00:00",
     "awaiting_edit": false
+  },
+  "04a16dc13613ca84d8f84271e496b3e8": {
+    "title": "Zcash приближается к математическому доказательству",
+    "body": "Проект Tachyon представил новые детали верификации effort для будущего пула Ironwood в Zcash. Это способствует развитию криптовалюты и повышению её безопасности. Цена ZEC выросла на 12% после этих объявлений.",
+    "url": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T18:58:58.838401+00:00",
+    "awaiting_edit": false
+  },
+  "8c2e15949ce78f7ff7fc61fad0d84670": {
+    "title": "EDX Markets привлёк 76 миллионов",
+    "body": "Инstitutional криптовалютная платформа EDX Markets закрыла раунд финансирования Series C на сумму 76 миллионов долларов. Японская компания SBI Holdings выступила единственным инвестором. Это событие указывает на интерес традиционных финансовых институтов к развитию инфраструктуры для работы с криптовалютами.",
+    "url": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T18:59:02.103220+00:00",
+    "awaiting_edit": false
+  },
+  "f477c4389122f164522a44893454a367": {
+    "title": "Токенизированные акции в качестве коллатерала",
+    "body": "Ondo Finance объявил о возможности использования токенизированных акций в качестве коллатерала для перпетуальных контрактов. Ранее компания запустила круглосуточный доступ к более чем 100 американским акциям и ETF на блокчейне. Это расширение функционала позволяет увеличить ликвидность на рынке.",
+    "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T18:59:05.395888+00:00",
+    "awaiting_edit": false
+  },
+  "4ded8c88c0a07826eeff1365b4ec7145": {
+    "title": "SEC планирует изменения правил для криптобирж",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) планирует внести изменения в правила для криптовалютных бирж и брокерских компаний в рамках своего регуляторного плана на 2026 год. Изменения могут затронуть работу криптовалютных бирж и брокерских фирм. SEC разрабатывает новый регуляторный план, который будет определять правила работы с криптовалютами на биржах и среди брокеров.",
+    "url": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T18:59:08.776395+00:00",
+    "awaiting_edit": false
+  },
+  "2631d725621460635b8acd634fd9d58f": {
+    "title": "KOR Protocol привлекает $7,5 млн",
+    "body": "Компания KOR Protocol привлекла $7,5 млн в раунде Series A при оценке в $100 млн. Инвестиционный раунд осуществили 1kx и Blockchain Capital. KOR Protocol разрабатывает децентрализованную площадку для регистрации и распределения прав на творческие произведения.",
+    "url": "https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T18:59:11.997334+00:00",
+    "awaiting_edit": false
   }
 }
