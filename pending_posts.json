@@ -9986,5 +9986,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-06T18:53:01.998277+00:00",
     "awaiting_edit": false
+  },
+  "ac85b30c82e8af92fd7844ffd65aeeb0": {
+    "title": "Бывший CIO Tether продает долю",
+    "body": "Бывший главный инвестиционный директор Tether Ричард Хиткот предлагает покупателям часть своей 1,26%-ной доли в компании. Это стало известно благодаря данным Bloomberg. Ранее Хиткот занимал ключевую должность в Tether.",
+    "url": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T09:36:05.315305+00:00",
+    "awaiting_edit": false
+  },
+  "cdac284ac2bbee46b483363a6aa6336b": {
+    "title": "Отсрочка сделки Upbit и Naver",
+    "body": "Сделка об обмене акциями между Upbit и Naver была отсрочена во второй раз из-за предлагаемого законопроекта о криптовалютах. Развитие криптовалютного законодательства в стране может повлиять на ход или исход сделки. Компании заявили, что это может повлиять на их дальнейшие шаги.",
+    "url": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T09:36:08.588859+00:00",
+    "awaiting_edit": false
+  },
+  "e3099f758cc7de3238e0036689946482": {
+    "title": "Судебный иск против Polymarket",
+    "body": "Два трейдера подали в суд на Polymarket из-за спора о разрешении рынка продажи биткоинов компании Strategy. Согласно иску, Polymarket ошибочно определил исход рынка как \"Нет\", несмотря на то, что Strategy сообщила о продаже 32 BTC в период с 26 по 31 мая. Судебный иск связан с расхождениями в разрешении рынка и SEC-файлингом Strategy.",
+    "url": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T09:36:11.941594+00:00",
+    "awaiting_edit": false
+  },
+  "88d6792c99c27eb873004e8106df520a": {
+    "title": "США создали стратегический биткоин-резерв",
+    "body": "Правительство США создало стратегический резерв биткоина по исполнительному приказу в марте 2025 года. Резерв рассматривается как долгосрочное резервное актив, подобно золотым резервам. Согласно приказу, биткоины из резерва не будут продаваться. Большая часть биткоинов правительства США теперь хранится в этом резерве.",
+    "url": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T09:36:15.075281+00:00",
+    "awaiting_edit": false
+  },
+  "79baf214b641310d34485b6cbe8c46e3": {
+    "title": "Grayscale продает биткоин для стабилизации",
+    "body": "Grayscale заявила, что продажа биткоина в рамках своей стратегии может восстановить доверие к ее финансовой структуре и помочь биткоину найти более стабильное дно. Продажи направлены на поддержание финансовой стабильности. Эта стратегия может оказать положительное влияние на рынок биткоина.",
+    "url": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-07T09:36:18.106155+00:00",
+    "awaiting_edit": false
   }
 }
