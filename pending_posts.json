@@ -10106,5 +10106,45 @@
     "source": "The Block",
     "timestamp": "2026-07-07T18:59:11.997334+00:00",
     "awaiting_edit": false
+  },
+  "262172a1bf6c3b3e076e96ecbefa810c": {
+    "title": "Bitmine покупает 5,74 млн Эфиров",
+    "body": "Компания Bitmine Томаса Ли расширила свое казначейство, добавив в него примерно 5,74 миллиона Эфиров. Это составляет около 4,8% от общего количества Эфиров в обращении. Стоимость добавленных активов оценивается в 70 миллионов долларов.",
+    "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T08:23:00.674864+00:00",
+    "awaiting_edit": false
+  },
+  "15d17843220d2c67d79f7cc73f8f2bd7": {
+    "title": "Kraken выигрывает арбитраж против Mazars",
+    "body": "Kraken, компания, стоящая за платформой обмена криптовалют Payward, выиграла арбитраж на сумму 22 миллиона долларов против своей бывшей аудиторской фирмы Mazars. Mazars отказалась от почти завершенной аудиторской проверки во время операции Operation Choke Point 2.0. Это решение было принято в результате арбитражного разбирательства.",
+    "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T08:23:04.420823+00:00",
+    "awaiting_edit": false
+  },
+  "eb84366fe05f378a20a1f2b880c5a534": {
+    "title": "CFTC обвиняет в крипто-мошенничестве",
+    "body": "Комиссия по торговле товарными фьючерсами (CFTC) обвинила жителя Северной Каролины и его компанию в мошеннической деятельности, в результате которой около 60 человек потеряли около $14 миллионов. Мошенничество связано с торговлей криптовалютами и фьючерсами.",
+    "url": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T08:23:07.435396+00:00",
+    "awaiting_edit": false
+  },
+  "757dad3c8e8aba69ea9aeb85b6da5b61": {
+    "title": "Strike запускает биткоин-кредиты без волатильности",
+    "body": "Strike, компания Джека Мллера, запустила новый вид кредитов под залог биткоина, который защищает заемщиков от ликвидации в случае падения курса. Залог может быть частично ликвидирован, если заемщик не погасит проценты или не вернет кредит в срок. Новый продукт призван снизить риски для заемщиков.",
+    "url": "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T08:23:10.463662+00:00",
+    "awaiting_edit": false
+  },
+  "65bcfeeff7fdb00c9ad6c2faee4a6677": {
+    "title": "Secret Network предлагает перейти на Arbitrum",
+    "body": "Команда Secret Network предложила перенести токен SCRT из экосистемы Cosmos в Arbitrum из-за рисков безопасности устаревшего кода и возможного удешевления. Это предложение вынесено на голосование сообщества.",
+    "url": "https://forklog.com/secret-network-predlozhila-perejti-na-arbitrum",
+    "source": "ForkLog",
+    "timestamp": "2026-07-08T08:23:13.184105+00:00",
+    "awaiting_edit": false
   }
 }
