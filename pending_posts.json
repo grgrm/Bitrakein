@@ -10186,5 +10186,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-08T12:17:33.875756+00:00",
     "awaiting_edit": false
+  },
+  "8ab7fc37ad29b968bbb76fc53c4334f2": {
+    "title": "Paradigm привлек 1,2 млрд долларов",
+    "body": "Компания Paradigm, специализирующаяся на инвестициях в криптопроекты, привлекла 1,2 миллиарда долларов для своего четвертого фонда. Средства будут направлены на инвестиции в криптовалютные проекты, а также в области искусственного интеллекта и робототехники.",
+    "url": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T18:14:40.886250+00:00",
+    "awaiting_edit": false
+  },
+  "962d18b5b526a5abc8ffed0b2e3508f9": {
+    "title": "Еврокомиссия расширяет правила MiCA",
+    "body": "Еврокомиссия ищет мнения со стороны заинтересованных сторон об扩лении правил MiCA для регуляции токенизации и емиссии стейблкоинов не-европейскими эмитентамидо 30 сентября. Расширение правил будет направлено на покрытие новых тенденций в сфере криптовалют.",
+    "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T18:14:44.123844+00:00",
+    "awaiting_edit": false
+  },
+  "0c4eb3a5b77d83048f4f6000b2c50f9d": {
+    "title": "Cardano: эксплойт кошелька стоил 2,4 млн долларов",
+    "body": "Эксплойт, который использовал уязвимость в системе генерации адресов кошелька, привел к утечке примерно 16 миллионов ADA, что эквивалентно 2,4 миллионам долларов. Основная организация Cardano, EMURGO, покинула пост в управлении Pentad после инцидента.",
+    "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T18:14:47.240513+00:00",
+    "awaiting_edit": false
+  },
+  "3b097cc68d24e9f72793fda17d1764f5": {
+    "title": "Ripple стал спонсором Kansas Jayhawks",
+    "body": "Компания Ripple объявила о партнерстве с спортивной командой Kansas Jayhawks, в рамках которого логотип XRP появится на джерси игроков. Помимо спонсорства, Ripple также намерена финансировать программы финансового и технологического образования для студентов-спортсменов.",
+    "url": "https://www.theblock.co/post/407564/ripple-kansas-jayhawks-sponsor-xrp-patch-on-jerseys?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T18:14:50.555508+00:00",
+    "awaiting_edit": false
+  },
+  "8be86a2aba6f445bafa266e0c3e408d1": {
+    "title": "Продажа 3588 BTC компании Strategy",
+    "body": "Компания Strategy продала 3588 BTC на прошлой неделе, что вызвало беспокойство среди аналитиков о потенциальных последствиях продолжения продаж. По мнению CF Benchmarks, продолжение продаж может стать проблемой, если они перестанут быть добровольным выбором. Аналитики теперь обратили внимание на потенциальные последствия будущих продаж биткоина.",
+    "url": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-08T18:14:53.701017+00:00",
+    "awaiting_edit": false
   }
 }
