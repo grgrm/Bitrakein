@@ -10226,5 +10226,45 @@
     "source": "The Block",
     "timestamp": "2026-07-08T18:14:53.701017+00:00",
     "awaiting_edit": false
+  },
+  "6511e3e07cf7e3161dd4f11271720b0d": {
+    "title": "Альфа Банк запускает сервисы криптовалют",
+    "body": "Российский Альфа Банк планирует запустить цифровой депозитарий, чтобы предложить криптовалютные услуги. Это решение соответствует аналогичным объявлениям других крупных российских банков. Это происходит на фоне разработки российского закона о криптовалютах.",
+    "url": "https://www.theblock.co/post/407679/russia-alfa-bank-crypto?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T09:38:51.672244+00:00",
+    "awaiting_edit": false
+  },
+  "cb3f634cbcac813de9d833824e5f6313": {
+    "title": "Sony Bank одобрена для выпуска стейблкоина",
+    "body": "Дочерняя компания Sony Bank, Connectia Trust, получила условное одобрение OCC на создание трастового банка в США для выпуска долларового стейблкоина. Connectia Trust ожидает окончательного одобрения для начала выпуска и управления стейблкоином. Это развитие может повлиять на рынок цифровых валют и стейблкоинов.",
+    "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T09:38:54.912319+00:00",
+    "awaiting_edit": false
+  },
+  "4391dbcd81cb92b7af726117db3bea27": {
+    "title": "Hyundai Card тестирует стейблкоин на Avalanche",
+    "body": "Компания Hyundai Card завершила пилотный проект по использованию стейблкоина с помощью платформы Avalanche и Tether. В следующем этапе пилота, который стартует в этом месяце, примут участие Visa и Circle. Это будет второй по счёту эксперимент по внедрению стейблкоинов.",
+    "url": "https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T09:38:58.139766+00:00",
+    "awaiting_edit": false
+  },
+  "1e4d7b5c9104d5abffd3981a62081ebf": {
+    "title": "Криптобиржа AscendEX прекратила работу",
+    "body": "Криптобиржа AscendEX объявила о прекращении работы с 1 июля, ссылаясь на проблемы регуляторного, финансового и операционного характера. Неясно, будут ли произведены выплаты пользователей. Биржа столкнулась с серьезными challengeами.",
+    "url": "https://www.theblock.co/post/407654/ascendex-shuts-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T09:39:01.278489+00:00",
+    "awaiting_edit": false
+  },
+  "3821a2fa290b962283b32e0635b0fd49": {
+    "title": "Сенатор выдвинул предложение по защите разработчиков",
+    "body": "Сенатор Рон Уайден призвал лидеров Сената включить в криптовалютный законопроект пункт, защищающий разработчиков блокчейн-программного обеспечения. Это предложение является частью более широкого криптовалютного законопроекта. Сенатор хочет обеспечить защиту разработчиков блокчейна.",
+    "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T09:39:04.526732+00:00",
+    "awaiting_edit": false
   }
 }
