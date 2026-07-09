@@ -10266,5 +10266,45 @@
     "source": "The Block",
     "timestamp": "2026-07-09T09:39:04.526732+00:00",
     "awaiting_edit": false
+  },
+  "3da9b5840f07c6d68464ee612df2b36e": {
+    "title": "Gauntlet привлёк 125 миллионов долларов",
+    "body": "Gauntlet, компания основанная Tarun Chitra, получила 125 миллионов долларов в рамках раунда Series C от инвестора SBI Holdings. По мнению Читры, токенизация и vaults будут расти быстрее рынка стейблкоинов в ближайшие годы. Это ожидается в связи с развитием рынка DeFi.",
+    "url": "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T13:45:20.793099+00:00",
+    "awaiting_edit": false
+  },
+  "4ffb4d023153e9d6b3a61c6cdf40a405": {
+    "title": "Биткоин: сигнал формирования дна",
+    "body": "Аналитики Glassnode отметили, что capitulation долгосрочных держателей биткоина достигла $280M/day, что является самым высоким показателем с декабря 2022 года. Это может означать, что на рынке начинается формирование дна. Этот индикатор, по мнению экспертов, может сигнализировать о конце медвежьего рынка.",
+    "url": "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T13:45:24.052376+00:00",
+    "awaiting_edit": false
+  },
+  "02f61a2e791cf753e42228cda90b4442": {
+    "title": "Хакерские атаки в криптоуменьшаются",
+    "body": "Количество инцидентов хакерских атак в криптосфере в первом полугодии 2026 года достигло рекордных 207 случаев. Несмотря на это, общая сумма убытков от хакерских атак снизилась до 972 миллиона долларов. Ущерб от эксплойтов в DeFi снизился на 74% по сравнению с 2022 годом, согласно данным Immunefi.",
+    "url": "https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T13:45:27.322804+00:00",
+    "awaiting_edit": false
+  },
+  "940b06c1437ec99ac0b7bda205440ee2": {
+    "title": "Aave запускает Stable Vaults",
+    "body": "Aave Labs представила новую функцию под названием Stable Vaults, обеспечивающую стабильный доход от стейблкоинов для широкого круга пользователей. Эта функция непрерывно оптимизирует распределение капитала по различным стратегиям доходности в DeFi, включая рынки Aave V3 и V4. Это может привлечь новых пользователей в экосистему.",
+    "url": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T13:45:30.604499+00:00",
+    "awaiting_edit": false
+  },
+  "137eeaa4d6f089e05e3e502500ba0375": {
+    "title": "Инструмент для транзакций Solana от Privy и Jito",
+    "body": "Привы и Jito, аффилированные с Stripe, разработали инструмент FullSend, автоматически направляющий транзакции в лидера блока Solana. FullSend работает через кошельки Privy, отправляя подписанные транзакции напрямую лидеру блока. Это может улучшить включение транзакций в сеть Solana.",
+    "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-09T13:45:33.896031+00:00",
+    "awaiting_edit": false
   }
 }
