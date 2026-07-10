@@ -10386,5 +10386,45 @@
     "source": "The Block",
     "timestamp": "2026-07-10T09:29:55.160924+00:00",
     "awaiting_edit": false
+  },
+  "95f212758e541f426295ff76d3e818ca": {
+    "title": "Standard Chartered сохраняет прогноз цен на биткоин",
+    "body": "Банк Standard Chartered сохранил свою цель по цене биткоина на уровне $100 000 к концу 2026 года. Причиной недавнего снижения стоимости активов Strategy назвали проблему коммуникации, а не проблемы с ликвидностью. Это означает, что банк не видит в этом событии угрозы для рынка криптовалют.",
+    "url": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T13:08:55.377317+00:00",
+    "awaiting_edit": false
+  },
+  "ecc847b6642253614a19374ea89fb07c": {
+    "title": "Circle получает разрешение на открытие банка",
+    "body": "Компания Circle, выпускающая стейблкоин USDC, получила окончательное разрешение от OCC на открытие национального трастового банка под названием First National Digital Currency Bank. Планируется, что управление резервами USDC будет перенесено на этот банк в более поздней фазе. Это решение позволяет Circle расширить свою деятельность в сфере финансовых услуг.",
+    "url": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T13:08:58.611214+00:00",
+    "awaiting_edit": false
+  },
+  "53cc25758d7fca41333eed657efdf5da": {
+    "title": "Уязвимость в Tangem card",
+    "body": "Исследователи компании Ledger обнаружили уязвимость в карте Tangem, которая позволяет сбросить пароль с помощью лазерной атаки, обходя проверку состояния восстановления в прошивке. Tangem заявляет, что риск для обычных пользователей практически несуществует. Уязвимость обнаружена в прошивке карты.",
+    "url": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T13:09:01.950774+00:00",
+    "awaiting_edit": false
+  },
+  "fcb3a70f0a8876e17905db4d974f5ea9": {
+    "title": "Провал биткоин-бонда в Нью-Гэмпшире",
+    "body": "Законопроект о выпуске биткоин-бонда на сумму 100 миллионов долларов в Нью-Гэмпшире не прошёл окончательное голосование. Губернатор Айотте earlier выражал поддержку этой инициативе, называя ее инновационным способом привлечения инвестиций в штат.",
+    "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T13:09:05.096271+00:00",
+    "awaiting_edit": false
+  },
+  "3e609417aeff032c80ece25a16960405": {
+    "title": "Revolut интегрирует криптообменник с AI",
+    "body": "Компания Revolut интегрировала свою платформу криптовалютного обмена Revolut X с искусственными интеллектами Claude, Gemini, OpenClaw и Cursor. Эта интеграция позволяет пользователям анализировать, тестировать и выполнять торговые операции с помощью запросов к AI-ассистентам.",
+    "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T13:09:08.534127+00:00",
+    "awaiting_edit": false
   }
 }
