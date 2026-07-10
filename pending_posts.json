@@ -10426,5 +10426,45 @@
     "source": "The Block",
     "timestamp": "2026-07-10T13:09:08.534127+00:00",
     "awaiting_edit": false
+  },
+  "53cbd5778393379d3218ea9376dd6406": {
+    "title": "Empery Digital продает 1400 биткоинов",
+    "body": "Компания Empery Digital продала 1400 биткоинов, чтобы частично финансировать развитие проекта по созданию центра обработки данных для искусственного интеллекта, а также выплатить долги. Часть средств была направлена на приобретение 25% доли в проекте центра обработки данных. Это решение означает сдвиг фокуса компании в сторону развития технологий искусственного интеллекта.",
+    "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T18:20:19.423204+00:00",
+    "awaiting_edit": false
+  },
+  "68839a8a351b45037db3819ff836931d": {
+    "title": "Kraken запускает обновлённое мобильное приложение",
+    "body": "Kraken добавляет в своё мобильное приложение автономных AI-агентов, способных отслеживать рынки и предлагать пользователям варианты торговли. Это нововведение позволит пользователям обмениваться криптовалютами с помощью умных советов.",
+    "url": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T18:20:22.624689+00:00",
+    "awaiting_edit": false
+  },
+  "cff7efcac1989d974d0448649f172bb1": {
+    "title": "Ethereum-ноды в США",
+    "body": "Исследование Кембриджского университета показало, что 31% активности узлов Ethereum находится в США, в основном на серверах Amazon Web Services, Hetzner и OVH. Это может создать проблемы с юрисдикцией и контрагентским риском. Отключение каждого третьего узла может нарушить процесс финализации сети.",
+    "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T18:20:25.705414+00:00",
+    "awaiting_edit": false
+  },
+  "61204131f5f35b6ecc4876213763c5d5": {
+    "title": "Binance: 70% выводов в самохранение",
+    "body": "Со-главный исполнительный директор Binance Ричард Тенг заявил, что после приостановки услуг в ЕС 70% выводов средств пользователей ушли в самохранение, тогда как только 30% были переведены на лицензированные платформы. Это произошло после истечения срока MiCA. Пользователи ЕС предпочитают хранить средства самостоятельно, а не переводить их на регулируемые платформы.",
+    "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-10T18:20:29.045344+00:00",
+    "awaiting_edit": false
+  },
+  "b7c524340f1eb5041e9e63329532101b": {
+    "title": "Circle получила одобрение на трастовый банк",
+    "body": "Circle получила финальное одобрение Управления контролера денежного обращения США на создание национального трастового банка Circle National Trust. Этот банк будет хранить резервы компании и криптоактивы институциональных клиентов под федеральным надзором. Это решение позволяет расширить спектр услуг компании в сфере криптовалют.",
+    "url": "https://forklog.com/circle-poluchila-finalnoe-odobrenie-na-trastovyj-bank",
+    "source": "ForkLog",
+    "timestamp": "2026-07-10T18:20:32.134289+00:00",
+    "awaiting_edit": false
   }
 }
