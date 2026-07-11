@@ -10546,5 +10546,37 @@
     "source": "INCRYPTED",
     "timestamp": "2026-07-11T11:49:28.604478+00:00",
     "awaiting_edit": false
+  },
+  "f837125c5022b60435176b79825c71ea": {
+    "title": "Вливания в Bitcoin и Ether ETF",
+    "body": "После восьми недель оттока средств, на этой неделе в Bitcoin и Ether ETF поступило 282 миллиона долларов. Этот приток ознаменовал собой конец восьминедельного спада, однако он компенсирует только около 3% от предыдущего оттока в 9,46 миллиарда долларов.",
+    "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-11T17:52:34.038034+00:00",
+    "awaiting_edit": false
+  },
+  "1b8cba457cfb51914c0613c8b2bb6812": {
+    "title": "МВФ предупредил о рисках стейблкоинов",
+    "body": "Международный валютный фонд (МВФ) выпустил предупреждение о потенциальных рисках, связанных с распространением стейблкоинов, привязанных к доллару США, для стран с фиксированным обменным курсом. Это может увеличить их уязвимость и спровоцировать валютные кризисы.",
+    "url": "https://forklog.com/news/mvf-predupredil-o-riskah-stejblkoinov-dlya-stran-s-fiksirovannym-kursom-valyut",
+    "source": "ForkLog",
+    "timestamp": "2026-07-11T17:52:36.938214+00:00",
+    "awaiting_edit": false
+  },
+  "8b496f13c9ac94d1731f5fb34d40908c": {
+    "title": "Бразилия разоблачает крипто-отмывочные схемы",
+    "body": "Федеральная полиция Бразилии провела рейды против 87 фирм-壳, связанных с отмыванием денег через криптовалюты и нелегальные беттинг-сети. Операция под кодовым названием \"Operation Veil of Maya\" была проведена 10 июля 2026 года.",
+    "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-news-brazil-crypto-crackdown-operation-veil-of-maya/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-07-11T17:52:40.175400+00:00",
+    "awaiting_edit": false
+  },
+  "c44aee85f9e01d3871f61bc55c2f8438": {
+    "title": "Сеть Robinhood Chain на Ethereum",
+    "body": "Robinhood Chain является сетью второго уровня на основе Ethereum, построенной с использованием технологии Arbitrum для токенизированных активов, крипто-приложений и финансовых продуктов на блокчейне. Она предназначена для расширения возможностей токенизированных акций и других финансовых инструментов. Сеть работает на основе технологии Arbitrum.",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "source": "Decrypt",
+    "timestamp": "2026-07-11T17:52:43.168135+00:00",
+    "awaiting_edit": false
   }
 }
