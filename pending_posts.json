@@ -10602,5 +10602,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-07-12T08:12:01.756114+00:00",
     "awaiting_edit": false
+  },
+  "3497f7fabb4de2d935b93286bb45384e": {
+    "title": "BitFuFu сократила добычу биткоина",
+    "body": "Майнинговая компания BitFuFu в июне добыла 125 BTC, что на 29,4% меньше, чем месяцем ранее. Причиной стало сокращение хешрейта под управлением с 19,5 EH/s до 15,3 EH/s после истечения ряда контрактов на облачный майнинг. При этом собственные мощности компании выросли.",
+    "url": "https://forklog.com/bitfufu-sokratila-dobychu-bitkoina-pochti-na-30-no-narastila-sobstvennyj-heshrejt",
+    "source": "ForkLog",
+    "timestamp": "2026-07-12T11:55:15.353079+00:00",
+    "awaiting_edit": false
+  },
+  "4669b971de502e9d67eaedb87434f92f": {
+    "title": "Empery Digital распродала биткоин",
+    "body": "Биткоин-казначейская компания Empery Digital продала 1400 BTC, почти половину своих резервов, за $87,1 млн. Средства будут использованы для покупки 25% доли в проекте по строительству ИИ-центра. Это событие связано с диверсификацией инвестиций компании.",
+    "url": "https://forklog.com/empery-digital-prodala-pochti-polovinu-bitkoin-rezerva-radi-ii-tsentra",
+    "source": "ForkLog",
+    "timestamp": "2026-07-12T11:55:18.355340+00:00",
+    "awaiting_edit": false
+  },
+  "7e5da730f305c13d307320fdbe3f5668": {
+    "title": "Ripple была на грани закрытия",
+    "body": "Генеральный директор Ripple Брэд Гарлингхаус заявил, что компания рассматривала возможность прекращения деятельности после иска SEC США в 2020 году. По словам Гарлингхауса, компания столкнулась с трудным выбором из-за неограниченных ресурсов американского регулятора. Иск SEC был подан в конце 2020 года.",
+    "url": "https://incrypted.com/ceo-ripple-pryznal-chto-kompanyja-byla-v-shage-ot-zakrytyja-yz-za-yska-sec/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-12T11:55:21.291452+00:00",
+    "awaiting_edit": false
+  },
+  "0295af9399ee2990da88a5bb7a826f60": {
+    "title": "Биткоин-ETF привлекли капитал",
+    "body": "Спотовые биткоин-ETF в США завершили неделю с чистым притоком капитала, после двух месяцев оттоков. Инвесторы вложили в биткоин-фонды $197,4 млн с 6 по 10 июля 2026 года. Фонд IBIT от BlackRock привлек $291,89 млн.",
+    "url": "https://incrypted.com/spotovye-bytkoyn-y-ethereum-etf-zavershyly-nedelju/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-12T11:55:23.940214+00:00",
+    "awaiting_edit": false
+  },
+  "c76058e0be0af5da7bd752a08521e9cf": {
+    "title": "CLARITY Act: сроки голосования в Сенате",
+    "body": "В Сенате США предстоят важные даты по принятию CLARITY Act: объединенный проект акта должен быть представлен к 13 июля, а голосование намечено на 20 июля. Это связано с предстоящей августовской паузой, которая может затянуть процесс рассмотрения до 2027 года.",
+    "url": "https://99bitcoins.com/news/altcoins/clarity-act-senate-vote-july-deadline/",
+    "source": "99Bitcoins",
+    "timestamp": "2026-07-12T11:55:26.881164+00:00",
+    "awaiting_edit": false
   }
 }
