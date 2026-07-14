@@ -10874,5 +10874,45 @@
     "source": "The Block",
     "timestamp": "2026-07-14T12:07:32.989141+00:00",
     "awaiting_edit": false
+  },
+  "4d4038a30c07881c8fee2aace04b16d6": {
+    "title": "Дэвид Пакман о проблеме токеномики",
+    "body": "Дэвид Пакман, представитель CoinFund, считает, что криптовалюта еще не решила проблему токеномики. Он предложил оплачивать работу участников проектов стейблкоинами. Эта идея была высказана в интервью на The Starting Block.",
+    "url": "https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-14T17:58:54.525315+00:00",
+    "awaiting_edit": false
+  },
+  "f376a355821f8890d80903260db5132c": {
+    "title": "Аналитики предупреждают об экономических рисках USDC",
+    "body": "Аналитик из Mizuho понижает рейтинг акций Circle, а JPMorgan снижает прогнозы прибыли из-за опасений по поводу экономики USDC. Это связано с давлением на стабильный коин USDC.",
+    "url": "https://www.theblock.co/post/408280/wall-street-cautious-circle-warn-usdc-economics?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-14T17:58:57.593389+00:00",
+    "awaiting_edit": false
+  },
+  "c78a4d1fb2c8a34944fa05475d9aa78a": {
+    "title": "Выпуск биткоинов снижается у CleanSpark",
+    "body": "CleanSpark, BitFuFu и Canaan сообщили о снижении производства биткоинов в июне, несмотря на снижение сложности майнинга более чем на 10%. Это говорит о том, что компании столкнулись с трудностями в производстве. Компании сообщили о снижении выпуска биткоинов за последний месяц.",
+    "url": "https://www.theblock.co/post/408260/bitcoin-mining-production-slips-june-cleanspark-bitfufu-canaan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-14T17:59:00.763842+00:00",
+    "awaiting_edit": false
+  },
+  "00aea36dc5d0fac48928164986e6fbb1": {
+    "title": "Galaxy запускает новый кредитный продукт",
+    "body": "Galaxy объединяет ставки Aave, Morpho и других децентрализованных финансовых протоколов (DeFi) в новом кредитном продукте под названием GOFR. Компания выступит в качестве единственного посредника между аккредитованными заемщиками и блокчейн-ориентированными кредитными протоколами. Новый продукт предлагает инновационный подход к криптовалютному кредитованию.",
+    "url": "https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-14T17:59:04.053332+00:00",
+    "awaiting_edit": false
+  },
+  "28b81d2ab2b65139601c56fb03e24f46": {
+    "title": "Биткоин растет на фоне снижения инфляции",
+    "body": "Индекс потребительских цен (CPI) в июне снизился на 0,4%, что является крупнейшим месячным спадом с 2020 года. Основной CPI остался на уровне 2,6% в годовом выражении. Биткоин в связи с этим поднялся в цене, приблизившись к отметке $64,000.",
+    "url": "https://www.theblock.co/post/408263/soft-print-hard-regime-bitcoin-climbs-64000-june-cpi-falls-largest-monthly-drop-since-2020?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-14T17:59:07.346271+00:00",
+    "awaiting_edit": false
   }
 }
