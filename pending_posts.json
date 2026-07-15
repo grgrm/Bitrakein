@@ -10994,5 +10994,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-15T12:11:21.101596+00:00",
     "awaiting_edit": false
+  },
+  "9a6dea275a7dbb448a637b8f32085000": {
+    "title": "Coinbase передал руководство приложением Base",
+    "body": "Руководитель Coinbase Джесси Поллак покидает пост руководителя приложения Base и будет сосредоточен на развитии инфраструктуры базовой блокчейн-платформы, приоритeting торговлю, платежи стейблкоинами и интеграцию ИИ-агентов. Руководство приложением Base передано Коби.",
+    "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-15T18:02:41.290390+00:00",
+    "awaiting_edit": false
+  },
+  "018b8d5b4496a215e6f2b1fe2e90cf42": {
+    "title": "BlackRock объединяет крипто и Traditional Finance",
+    "body": "BlackRock представляет видение слияния криптовалют и традиционного финансирования (TradFi) путем расширения продукции. Компания планирует предлагать токенизированные долгосрочные инвестиции, включая фонд казначейства, ETF iShares и даже частные рынки. Этот шаг демонстрирует возросший интерес к криптовалютам со стороны традиционных финансовых институтов.",
+    "url": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-15T18:02:44.853704+00:00",
+    "awaiting_edit": false
+  },
+  "0ec9d14dd6c2c320f8e0f869f65ef073": {
+    "title": "Glacis Labs привлекает 6,8 млн долларов",
+    "body": "Crypto clearinghouse Glacis Labs привлекла 6,8 миллиона долларов в рамках раунда финансирования, чтобы расширить свою мультичейн платформу ZeroDelta. Платформа изначально ориентирована на стейблкоины, но планирует расшириться на токенизированные ценные бумаги и валютный обмен.",
+    "url": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-15T18:02:48.052214+00:00",
+    "awaiting_edit": false
+  },
+  "8877db4fd17549cd6503baa12a354e52": {
+    "title": "Kraken合作ает с Upshift для вывода на доход",
+    "body": "Kraken Institutional заключила соглашение с компанией Upshift для создания специализированных хранилищ, позволяющих институциональным клиентам получать доход от неактивных биткоинов, ETH и стейблкоинов. Upshift разработает индивидуальные решения в соответствии со стратегией и рисками каждого клиента. Это сотрудничество направлено на повышение доходности цифровых активов.",
+    "url": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-15T18:02:51.399860+00:00",
+    "awaiting_edit": false
+  },
+  "db204f9d07e9326164eba84cc3bb1a14": {
+    "title": "Рост крипто-активов в Х1 2026",
+    "body": "В первом полугодии 2026 года крипто-активы упали на 36%, тогда как крипто-акции выросли на 23%. Tokenизированные RWAs достигли рекордных $33 миллиардов во втором квартале.",
+    "url": "https://www.theblock.co/post/408449/bull-markets-everywhere-bitwise-crypto-equities-beat-major-asset-class-h1?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-15T18:02:54.640846+00:00",
+    "awaiting_edit": false
   }
 }
