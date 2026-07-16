@@ -11114,5 +11114,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-16T12:17:55.077931+00:00",
     "awaiting_edit": false
+  },
+  "6da41366cad7b0036b7384a778bc2215": {
+    "title": "Citadel Securities инвестирует в Crypto.com",
+    "body": "Citadel Securities инвестирует 400 миллионов долларов в Crypto.com при оценке в 20 миллиардов долларов. Crypto.com планирует использовать эти средства для расширения своих операций по токенизации и деривативам. Это первый раунд институционального финансирования для Crypto.com.",
+    "url": "https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-16T18:03:11.228208+00:00",
+    "awaiting_edit": false
+  },
+  "f6fe68fe17fbf070bf48be6e81699cd2": {
+    "title": "T. Rowe Price запускает крипто-ETF",
+    "body": "T. Rowe Price, управляющий активами на сумму 1,9 трлн долларов, запустил первый активно управляемый многотокенный крипто-ETF под названием TKNZ Active Crypto ETF. Фонд начал торговаться вursday после подачи заявки в октябре.",
+    "url": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-16T18:03:14.879272+00:00",
+    "awaiting_edit": false
+  },
+  "6166e3b403dd496c9ee8c654509c419e": {
+    "title": "Multicoin Capital инвестирует в Trasia",
+    "body": "Multicoin Capital сделала первое инвестиционное вложение в экосистему Hyperliquid, выбрав платформу Trasia, ориентированную на азиатских трейдеров. Trasia была основана совместно с бывшим партнером Multicoin Capital Мейбл Джианг. Платформа ориентирована на обслуживание торговли в Азии.",
+    "url": "https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-16T18:03:18.072985+00:00",
+    "awaiting_edit": false
+  },
+  "7aafad0849887c863d72b8766b7ab90e": {
+    "title": "Visa запускает платформу стейблкоина",
+    "body": "Visa запускает внутреннюю платформу стейблкоина для своих клиентов, которая обеспечивает доступ к OUSD. Ожидается, что стейблкоин Open Standard станет основным конкурентом стейблкоина USDC от Circle, который сейчас является доминирующим в США. Платформа будет предоставлять клиентам Visa доступ к OUSD.",
+    "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-16T18:03:21.390653+00:00",
+    "awaiting_edit": false
+  },
+  "67017de577ae8d115dd522cda56de6b9": {
+    "title": "Американский инвестор обвиняем в мошенничестве",
+    "body": "Джури США предъявила обвинение инвестору из Южной Дакоты Бенджамину Полу Винеру по 29 пунктам за якобы совершенное мошенничество на сумму 20 миллионов долларов. Судебный процесс назначен на 15 сентября. Обвинения связаны с деятельностью инвестора в сфере криптовалют.",
+    "url": "https://www.theblock.co/post/408654/us-jury-indicts-south-dakota-crypto-investor-29-counts-alleged-20m-investor-fraud?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-16T18:03:24.862881+00:00",
+    "awaiting_edit": false
   }
 }
