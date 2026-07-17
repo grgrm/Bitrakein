@@ -11154,5 +11154,45 @@
     "source": "The Block",
     "timestamp": "2026-07-16T18:03:24.862881+00:00",
     "awaiting_edit": false
+  },
+  "25f047e16998846805a8fb088ca4e11b": {
+    "title": "Stablecoins USDT и USDC сравниваются",
+    "body": "USDT и USDC являются стейблкоинами, привязанными к доллару США, с резервами, покрывающими каждый токен в обращении. USDT от Tether является крупнейшим стейблкоином, с самой глубокой ликвидностью на глобальных биржах, а USDC от Circle занимает второе место.",
+    "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T08:04:34.940342+00:00",
+    "awaiting_edit": false
+  },
+  "3a8f6f25ef4fea2ef16721ea1d61d594": {
+    "title": "Регулирование криптовалют в США",
+    "body": "В США регулирование криптовалют разделяют две основные агентства: Комиссия по ценным бумагам и биржам (SEC) и Комиссия по торговле товарными фьючерсами (CFTC). SEC отвечает за криptoактивы, которые выступают как инвестиции в компании, а CFTC регулирует активы, которые ведут себя как товары, включая фьючерсы и другие деривативы. Это разделение регулирования криптовалют в США является ключевым аспектом финансового регулирования.",
+    "url": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T08:04:38.174153+00:00",
+    "awaiting_edit": false
+  },
+  "cfacfa3cf2a7f6f0b276a64029219bfd": {
+    "title": "Polygon Labs сократила сотрудников",
+    "body": "Polygon Labs объявила о новых сокращениях после финализации сделки по покупке Coinme и Sequence на $250 млн. Число уволенных не раскрыто. Компания перестраивается из блокчейн-фонда.",
+    "url": "https://forklog.com/polygon-labs-obyavila-o-novyh-sokrashheniyah-na-fone-sdelki-na-250-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T08:04:41.205303+00:00",
+    "awaiting_edit": false
+  },
+  "dde8a1e87dc0bd1603631f26823be674": {
+    "title": "Citadel Securities инвестирует в Crypto.com",
+    "body": "Маркетмейкер Citadel Securities инвестировал $400 млн в Crypto.com при оценке биржи в $20 млрд. Это первый институциональный раунд за десять лет работы биржи. Средства будут использованы для расширения линейки активов, включая токенизированные активы.",
+    "url": "https://forklog.com/citadel-securities-vlozhila-400-mln-v-crypto-com",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T08:04:44.230761+00:00",
+    "awaiting_edit": false
+  },
+  "20887fb229ad5ef5d8e8a6c0ce40d357": {
+    "title": "JPMorgan оценивает перспективы биткоина",
+    "body": "Аналитики JPMorgan связывают перспективы биткоина с увеличением долларового резерва Strategy и притоком капитала во фьючерсы, рассматривая эти факторы как позитивные сигналы. Это мнение основано на分析е текущей рыночной ситуации. Увеличение резервов и приток капитала могут оказать положительное влияние на цены биткоина.",
+    "url": "https://forklog.com/news/jpmorgan-svyazal-perspektivy-bitkoina-s-rezervami-strategy",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T08:04:47.155904+00:00",
+    "awaiting_edit": false
   }
 }
