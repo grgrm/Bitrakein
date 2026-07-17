@@ -11234,5 +11234,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-17T12:05:21.348222+00:00",
     "awaiting_edit": false
+  },
+  "3ed803d4871f77d4a4f28fb2991f2d62": {
+    "title": "Биткоин падает до 63 тысяч",
+    "body": "Биткоин опустился до уровня около 63 тысяч долларов, одновременно с продажами акций компаний-производителей чипов. Премия биржи Coinbase остается отрицательной уже 60 дней, что является рекордом. Потоки капитала в фонды, торгуемые на бирже (ETF), остаются незначительными.",
+    "url": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T18:01:44.255054+00:00",
+    "awaiting_edit": false
+  },
+  "4f8c3573ae7a92e0e49bc14882123128": {
+    "title": "Bitcoin ETFs могут повторить историю золота",
+    "body": "Аналитик Bloomberg ETF Эрик Балчунас сравнил кратковременный рост активов Bitcoin ETF IBIT выше $100 млрд с быстрым ростом золота в 2011 году. По его мнению, Bitcoin ETFs могут повторить историю золота с \"замечательными прибылями\" и \"болезненными коррекциями\".",
+    "url": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T18:01:47.491815+00:00",
+    "awaiting_edit": false
+  },
+  "c1897efe77aaabd2ece8fae5b3ff6c9d": {
+    "title": "Galaxy Digital спонсирует стадион",
+    "body": "Компания Galaxy Digital заключила 15-летний партнерский контракт с футбольным стадионом Техасского технического университета, назвав его в свою честь. Сумму контракта не разглашают, но по данным Yahoo Sports, она превышает 70 миллионов долларов. Это сотрудничество представляет собой один из примеров участия компаний, связанных с криптовалютами, в спонсировании крупных спортивных объектов.",
+    "url": "https://www.theblock.co/post/408772/galaxy-digital-puts-name-texas-tech-football-stadium-15-year-partnership?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T18:01:50.819418+00:00",
+    "awaiting_edit": false
+  },
+  "5f1ff7564da7f90ba63ca0be3001c7b8": {
+    "title": "SBI Holdings покупает Coinhako",
+    "body": "Японская компания SBI Holdings завершила покупку большинства акций криптовалютной платформы Coinhako из Сингапура после одобрения Монетарной власти Сингапура (MAS). Coinhako теперь войдёт в состав расширяющейся сети цифровых активов SBI Holdings.",
+    "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T18:01:54.004659+00:00",
+    "awaiting_edit": false
+  },
+  "9d5254a57768369168d223a8f661851c": {
+    "title": "Derivatives на AI-компьютеры впереди планов",
+    "body": "Crypto-style перпетуальные контракты и предсказательные рынки опередили планы CME и ICE по запуску фьючерсов на AI-компьютинг, отмечает Bernstein. Регулируемые фьючерсы на GPU ожидаются в конце 2026 года. Это развитие происходит на фоне роста интереса к применению технологий AI в финансовых рынках.",
+    "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T18:01:57.295145+00:00",
+    "awaiting_edit": false
   }
 }
