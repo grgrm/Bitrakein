@@ -11194,5 +11194,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-17T08:04:47.155904+00:00",
     "awaiting_edit": false
+  },
+  "5d167afcecb2a40e4d8db6cc43e732d4": {
+    "title": "Taiwan судит создателя криптобиржи",
+    "body": "Лидер группы, подозреваемой в мошенничестве с криптовалютой на сумму 39 миллионов долларов, приговорен к 22 годам тюремного заключения. Биржа BitShine ранее была зарегистрирована в финансовом регуляторе. Ранее она работала под прикрытием законной деятельности.",
+    "url": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T12:05:08.828110+00:00",
+    "awaiting_edit": false
+  },
+  "6b430cc89cda6e8d2673feae7a527af1": {
+    "title": "Группа арестована за крипто-скам",
+    "body": "В Великобритании арестована группа лиц, которые под видом полицейских обманули восемь жертв, похитив более 4 миллионов фунтов стерлингов в криптовалюте. Мошенники использовали фальшивые полицейские веб-сайты для обмана своих жертв. Общий ущерб составил примерно 5,4 миллиона долларов.",
+    "url": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-17T12:05:12.040676+00:00",
+    "awaiting_edit": false
+  },
+  "dd80daccc3b66c1a1110b3dd6f9643b8": {
+    "title": "Экономисты бьют тревогу об ИИ",
+    "body": "Более 200 экономистов и исследователей, включая 16 нобелевских лауреатов, призвали готовиться к влиянию ИИ на занятость и экономику. Они считают, что ИИ может преобразить экономику в ближайшие десять лет. Это может иметь значительные последствия для рынка труда и экономики в целом.",
+    "url": "https://forklog.com/ekonomisty-prizvali-gotovitsya-k-vliyaniyu-ii-na-zanyatost",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T12:05:15.207384+00:00",
+    "awaiting_edit": false
+  },
+  "5e9a30a2c7b5f227dfaaa8cacbc75859": {
+    "title": "Исследователь перешел в EthLabs",
+    "body": "Франческо Д’Амато покинул Ethereum Foundation после пяти лет работы и присоединился к независимой некоммерческой лаборатории EthLabs, где продолжит исследовать механизмы консенсуса и MEV. Он проработал в Ethereum Foundation пять лет.",
+    "url": "https://forklog.com/issledovatel-ethereum-foundation-pereshel-v-ethlabs",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T12:05:18.513732+00:00",
+    "awaiting_edit": false
+  },
+  "4daac615662fb6ff77cec1e13c531d51": {
+    "title": "Биткоин-резерв США приостановлен",
+    "body": "Президент США Дональд Трамп подписал указ о создании биткоин-резерва в марте 2025 года, однако реализация плана пока не продвинулась. Индустрия изначально положительно отреагировала на это решение. Реализация резерва пока остается на бумажном уровне.",
+    "url": "https://forklog.com/exclusive/pochemu-bitkoin-rezerv-ssha-zavis-na-bumage",
+    "source": "ForkLog",
+    "timestamp": "2026-07-17T12:05:21.348222+00:00",
+    "awaiting_edit": false
   }
 }
