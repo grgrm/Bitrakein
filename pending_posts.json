@@ -11314,5 +11314,45 @@
     "source": "Decrypt",
     "timestamp": "2026-07-18T07:44:21.593434+00:00",
     "awaiting_edit": false
+  },
+  "242513b324d080e69e2fc4d0ba5b2869": {
+    "title": "Франция блокирует Polymarket",
+    "body": "Национальное управление по азартным играм Франции обязало интернет-провайдеров заблокировать доступ к платформе Polymarket, которая была приравнена к нелегальному гемблингу. Геоблокировка транзакций действовала с 2024 года, но пользователи находили обходные пути. В июне платформу посетили более 205 тысяч пользователей.",
+    "url": "https://forklog.com/frantsuzskij-regulyator-obyazal-provajderov-zablokirovat-polymarket",
+    "source": "ForkLog",
+    "timestamp": "2026-07-18T11:50:44.324506+00:00",
+    "awaiting_edit": false
+  },
+  "4a6a8607b8dea5ff53ac75d1f8f8bc6b": {
+    "title": "Cardano передал контроль узла сообществу",
+    "body": "Разработчики Cardano из компании IOG передали сообществу управление узлом сети на языке Haskell. Это шаг по децентрализации сети. Узел на языке Haskell теперь находится под контролем сообщества.",
+    "url": "https://forklog.com/news/razrabotchiki-cardano-predali-upravlenie-uzlom-soobshhestvu",
+    "source": "ForkLog",
+    "timestamp": "2026-07-18T11:50:47.306058+00:00",
+    "awaiting_edit": false
+  },
+  "bc419e1ed3f0771c7fdabd04e4c4f402": {
+    "title": "Trezor ответил на критику",
+    "body": "Коммерческий директор Trezor Дэнни Сандерс признал, что аппаратные кошельки компании могут быть неудобными и не подходят для всех сценариев. Это было ответом на критику ончейн-детектива ZachXBT. Сандерс признал ограничения своих продуктов.",
+    "url": "https://forklog.com/v-trezor-otvetili-zachxbt-na-kritiku-apparatnyh-koshelkov",
+    "source": "ForkLog",
+    "timestamp": "2026-07-18T11:50:50.057042+00:00",
+    "awaiting_edit": false
+  },
+  "f1aadad31a098b537811e7fe89a23c43": {
+    "title": "РФ вводит заморозку крипты на 48 часов",
+    "body": "Российские власти вводят новое правило, требующее принудительной заморозки криптовалюты на 48 часов. Это изменение регулирования крипторынка в России. Подробности изменений доступны в источнике.",
+    "url": "https://forklog.com/news/zachem-rf-vvodit-prinuditelnuyu-zamorozku-kripty-na-48-chasov",
+    "source": "ForkLog",
+    "timestamp": "2026-07-18T11:50:52.889326+00:00",
+    "awaiting_edit": false
+  },
+  "be45a32e4a7eef73b755563217a157df": {
+    "title": "Разработчик из КНДР работал с MetaMask",
+    "body": "Блокчейн-компания ConsenSys по ошибке предоставила доступ к своим системам разработчику, связанному с Северной Кореей, который работал над кодом MetaMask в течение месяца. Разработчик был привлечен через стороннего поставщика. Главный юриконсульт фирмы Мэтт Корва подтвердил эту информацию.",
+    "url": "https://forklog.com/svyazannyj-s-kndr-razrabotchik-mesyats-rabotal-nad-kodom-metamask",
+    "source": "ForkLog",
+    "timestamp": "2026-07-18T11:50:55.677482+00:00",
+    "awaiting_edit": false
   }
 }
