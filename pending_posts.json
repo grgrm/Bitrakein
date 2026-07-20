@@ -11562,5 +11562,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-20T13:02:39.154890+00:00",
     "awaiting_edit": false
+  },
+  "87c4ace76a235ff6cb8ff8d0ae6cd868": {
+    "title": "Угрозы блокчейн-безопасности возрастут",
+    "body": "Сооснователь NEAR Полосухин заявил, что традиционный код-ревью уже не может противостоять хакерским атакам с помощью ИИ. Поэтому необходима формальная верификация для защиты кода блокчейна. Это вызвано значительными уязвимостями в традиционных методах проверки кода.",
+    "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-20T18:50:39.887806+00:00",
+    "awaiting_edit": false
+  },
+  "d5c2eab93108c031b6de449a6b714848": {
+    "title": "Бывший губернатор Нью-Йорка присоединился к OKX",
+    "body": "Эндрю Куомо, бывший губернатор Нью-Йорка, присоединился к правлению криптовалютной биржи OKX. По мнению Куомо, OKX может помочь ввести в США торговлю круглосуточно и привлечь больше международного капитала через токенизированную торговлю. Это может способствовать развитию криптовалютных рынков.",
+    "url": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-20T18:50:43.124482+00:00",
+    "awaiting_edit": false
+  },
+  "9110907cbc322a4387ebe90742c7b2ba": {
+    "title": "Exodus сократил штат на 25%",
+    "body": "Компания Exodus объявила о сокращении штата на 25%, ожидая от этого экономию в 10-13 миллионов долларов в год. Инвестор Benchmark поддержал это решение, отметив, что Exodus совершает поворот в сторону стейблкоинов.",
+    "url": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-20T18:50:46.401315+00:00",
+    "awaiting_edit": false
+  },
+  "b4123427794595aff9e12b84f4de1d29": {
+    "title": "Hut 8 развертывает AI-campus в Техасе",
+    "body": "Hut 8 полностью коммерциализировала свой 1 ГВт AI-campus в Техасе, заключив второй договор аренды на $9,8 млрд. Кроме того, IREN подписала контракты на $2,8 млрд. Акции обеих компаний заметно выросли после объявления этой новости.",
+    "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-20T18:50:49.877113+00:00",
+    "awaiting_edit": false
+  },
+  "90d3eb391eb879acda561b2a37d6bac2": {
+    "title": "Bitmine расширяет запасы эфира",
+    "body": "Bitmine расширила свой запас эфира до 5,78 миллиона ETH и выкупила 5,5 миллиона акций в рамках программы обратного выкупа акций на сумму 4 миллиарда долларов. Это расширение указывает на значительный интерес к эфиру и потенциальное влияние на крипторынок. Bitmine продолжает инвестировать в эфириум, увеличивая свои активы.",
+    "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-20T18:50:53.079652+00:00",
+    "awaiting_edit": false
   }
 }
