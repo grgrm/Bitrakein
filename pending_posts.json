@@ -11682,5 +11682,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-21T12:21:32.680708+00:00",
     "awaiting_edit": false
+  },
+  "9208be015b3d90d4486d8f3493dd4783": {
+    "title": "Solana ETF доминирует на рынке",
+    "body": "ЭТФ Solana имеют активы под управлением в размере 904 миллионов долларов, а ЭТФ Hyperliquid имеют чистый приток средств в размере 350 миллионов долларов. Эти фонды демонстрируют значительный интерес к альткоинам. ЭТФ Solana и Hyperliquid привлекают внимание на рынке криптовалютных инвестиций.",
+    "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-21T18:13:58.654352+00:00",
+    "awaiting_edit": false
+  },
+  "de95d5b3b6a27a123c6bf59c29e9d4ee": {
+    "title": "Россией принят законопроект о криптовалютах",
+    "body": "Государственная Дума России приняла законопроект, разрешающий регулируемые розничные торговые операции с криптовалютами. Неквалифицированные инвесторы в России теперь столкнутся с лимитом в 300 000 рублей на год на покупку криптовалют.",
+    "url": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-21T18:14:01.972914+00:00",
+    "awaiting_edit": false
+  },
+  "571b1b430277b8aa0db0a46fee256c9a": {
+    "title": "Augustus привлекает $180 миллионов",
+    "body": "Компания Augustus привлекла $180 миллионов в раунде финансирования Series B при оценке в $1 миллиард. Augustus поддерживает стейблкоины, а также традиционные системы оплаты, включая Swift, ACH и SEPA. Цель компании - создание \"Глобального долларового банка\".",
+    "url": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-21T18:14:05.284889+00:00",
+    "awaiting_edit": false
+  },
+  "6be66cac3c56ee2d497564fac287e43c": {
+    "title": "Bitget планирует расширение в США",
+    "body": "Генеральный директор криптовалютной биржи Bitget Грейси Чен ведет расширение биржи на рынок США, несмотря на первоначальную отсрочку планов в 2022 году. Расширение будет проводиться \"с или без\" Закона о прозрачности.",
+    "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-21T18:14:08.386021+00:00",
+    "awaiting_edit": false
+  },
+  "e8a6c6389a7a3e0d63dca4e92c2c0a62": {
+    "title": "Uphold запускает фракционную торговлю акциями",
+    "body": "Uphold запустил фракционную торговлю более чем 4000 акциями и ETF на рынке США. Теперь клиенты Uphold могут продать биткоин и купить акции, например Berkshire Hathaway, в один шаг через приложение. Это расширяет возможности инвестирования для пользователей Uphold.",
+    "url": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-21T18:14:11.537394+00:00",
+    "awaiting_edit": false
   }
 }
