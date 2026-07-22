@@ -11762,5 +11762,45 @@
     "source": "The Block",
     "timestamp": "2026-07-22T08:23:29.006809+00:00",
     "awaiting_edit": false
+  },
+  "3e5dd6d275ea918b4a59bbadf9c4c8cd": {
+    "title": "Конгрессмены США вмешиваются в рынки предсказаний",
+    "body": "Подкомитет по цифровым активам Комитета по сельскому хозяйству Палаты представителей США провел слушание о ставках на спорт через рынки предсказаний. Конгрессмены допустили возможность вмешательства в этот вопрос. Слушание состоялось 21 июля.",
+    "url": "https://forklog.com/news/kongressmeny-ssha-dopustili-vmeshatelstvo-v-spor-vokrug-rynkov-predskazanij",
+    "source": "ForkLog",
+    "timestamp": "2026-07-22T12:23:02.970896+00:00",
+    "awaiting_edit": false
+  },
+  "0cab42f083aeb3858ef439042741d178": {
+    "title": "Дата-центры США увеличат потребление электроэнергии",
+    "body": "Исследователи из BloombergNEF ожидает, что дата-центры в США будут потреблять 20% вырабатываемой электроэнергии к 2035 году, что в 4 раза больше текущего уровня. Рост обусловлен увеличением ИИ-вычислений. Это может повлиять на энергетический сектор и экономику в целом.",
+    "url": "https://forklog.com/bloombergnef-data-tsentry-ssha-potrebyat-20-elektroenergii-k-2035-godu",
+    "source": "ForkLog",
+    "timestamp": "2026-07-22T12:23:06.166143+00:00",
+    "awaiting_edit": false
+  },
+  "604df44b06a5d05a9dcf3f9a569b0489": {
+    "title": "Криптоказначейства потеряли десятки миллиардов",
+    "body": "Криптоказначейства потеряли десятки миллиардов долларов из-за падения биткоина с октябрьского пика на уровне выше $126 000. Сокращение активов криптовалютных kazначейств более чем.",
+    "url": "https://forklog.com/news/bloomberg-kriptokaznachejstva-poteryali-desyatki-milliardov-iz-za-padeniya-bitkoina",
+    "source": "ForkLog",
+    "timestamp": "2026-07-22T12:23:09.175802+00:00",
+    "awaiting_edit": false
+  },
+  "255506b88817fa83844d094bef40b3cb": {
+    "title": "Google проиндексировал диалоги DeepSeek",
+    "body": "Google начал индексировать публичные ссылки на диалоги DeepSeek, включая рабочие документы, финансовую аналитику и личные переписки. Это было обнаружено SEO-специалистом Дэвидом Коницни 21 июля. Удаление таких ссылок возможно через настройки. Это может иметь последствия для конфиденциальности пользователей.",
+    "url": "https://forklog.com/google-proindeksiroval-chast-dialogov-polzovatelej-deepseek",
+    "source": "ForkLog",
+    "timestamp": "2026-07-22T12:23:12.228069+00:00",
+    "awaiting_edit": false
+  },
+  "83c6bf75eff83382611ab0c4ae8745de": {
+    "title": "Суд оспорит налог на крипто в Иллинойсе",
+    "body": "Отраслевая ассоциация The Digital Chamber попросила суд заблокировать Закон о налоге на операции с цифровыми активами штата Иллинойс. С 1 января 2027 года планировалась ставка 0,2% на обмен, перевод и хранение активов. The Digital Chamber таким образом оспаривает введение налога.",
+    "url": "https://forklog.com/the-digital-chamber-osporila-kriptonalog-illinojsa",
+    "source": "ForkLog",
+    "timestamp": "2026-07-22T12:23:15.269121+00:00",
+    "awaiting_edit": false
   }
 }
