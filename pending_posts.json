@@ -11802,5 +11802,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-22T12:23:15.269121+00:00",
     "awaiting_edit": false
+  },
+  "9c71670e73b5e4e444ca1ff2a9fb0e46": {
+    "title": "Влияние Clarity Act на Circle",
+    "body": "Законопроект Clarity Act продвинулся к утверждению, что может негативно повлиять на компанию Circle в долгосрочной перспективе, как считает Mizuho. Законопроект был представлен республиканцами. Ожидается, что он повлияет на рынок криптовалют.",
+    "url": "https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-22T18:05:36.365151+00:00",
+    "awaiting_edit": false
+  },
+  "1b18c50b1193751aa3e4dc017a831a88": {
+    "title": "Kraken расширяет xStocks на новые рынки",
+    "body": "Компания Payward, материнская структура Kraken, заключила партнерское соглашение с GTN для расширения платформы xStocks на международные рынки. xStocks планирует токенизировать акции с Гонконгской биржи, затем расшириться на рынки Великобритании, Европы, Южной Кореи и других стран. Это расширение следует за первоначальным токенизированием акций на рынке США.",
+    "url": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-22T18:05:40.126257+00:00",
+    "awaiting_edit": false
+  },
+  "80bb54fc5a162224aa2b17f520f8eeb6": {
+    "title": "SEC урегулировала конфликт с Coinbase",
+    "body": "Комиссия по ценным бумагам и биржам США (SEC) достигла соглашения с Coinbase, завершив многолетний юридический спор относительно обработки запросов на предоставление документов. Спор возник в эпоху руководства Генслера.",
+    "url": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-22T18:05:43.578427+00:00",
+    "awaiting_edit": false
+  },
+  "64b3744aca07d04d9ce53328e8645420": {
+    "title": "Сенат опубликовал обновленный вариант Закона о ясности",
+    "body": "Республиканцы после месяцев обсуждений опубликовали最新ную версию cryptocurrency законодательства, включая защиту разработчиков программного обеспечения и этические положения с сроком действия до 2029 года. Этот законопроект является частью более широкой законодательной инициативы в области криптовалют.",
+    "url": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-22T18:05:46.663458+00:00",
+    "awaiting_edit": false
+  },
+  "791db1e2004d41ecb51fc6817c42f47a": {
+    "title": "Криптоиндустрия вносит вклад в США",
+    "body": "В США криптоиндустрия обеспечивает работу 34 000 человек и вносит вклад в экономику на сумму 55 миллиардов долларов в 2026 году, согласно отчету, финансируемому NCA. Этот отчет подчеркивает значимость криптоиндустрии в американской экономике.",
+    "url": "https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-22T18:05:49.778170+00:00",
+    "awaiting_edit": false
   }
 }
