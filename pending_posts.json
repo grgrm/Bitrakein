@@ -11842,5 +11842,45 @@
     "source": "The Block",
     "timestamp": "2026-07-22T18:05:49.778170+00:00",
     "awaiting_edit": false
+  },
+  "9b6897070c605293ef165499a492802c": {
+    "title": "Южнокорейская компания купила биржу Korbit",
+    "body": "Mirae Asset завершила приобретение криптовалютной биржи Korbit, при этом планируя увеличить свою долю с 92,06% до 97,15% в рамках дополнительной сделки. Сделка является значимой для южнокорейского рынка криптовалют.",
+    "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-23T08:24:35.600409+00:00",
+    "awaiting_edit": false
+  },
+  "6b713b7bb529b817757472e5b97c8a06": {
+    "title": "Эксплойт на протоколе Arbitrum",
+    "body": "На протоколе Arbitrum произошел эксплойт, в результате которого был украден капитал в размере 24 миллиона долларов. Атакующий переместил украденные средства из Arbitrum в сеть Ethereum и обменял их на 12 467 ETH. Инцидент был обнаружен компанией PeckShield.",
+    "url": "https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-23T08:24:38.853939+00:00",
+    "awaiting_edit": false
+  },
+  "234039a64c5d26930ada7b34aae42e73": {
+    "title": "Демократы критикуют законопроект о криптовалютах",
+    "body": "Демократы США критикуют новый законопроект о криптовалютах, предложенный республиканцами, ссылаясь на этические основания. Проект закона получил поддержку от криптовалютной индустрии, но также подвергся критике со стороны банковских кругов. Это подчеркивает глубокие разногласия между сторонниками различных подходов к регулированию криптовалют.",
+    "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-23T08:24:42.147639+00:00",
+    "awaiting_edit": false
+  },
+  "02164757e51eec7e20bb6d1809ac9595": {
+    "title": "AFX Trade приостановила мост после хACKа",
+    "body": "AFX Trade сообщила об инциденте с мостом в сети Arbitrum, из-за которого было выведено 24,15 млн USDC. Работа моста была приостановлена, начато расследование с привлечением внешних специалистов по безопасности.",
+    "url": "https://forklog.com/news/afx-trade-priostanovila-rabotu-mosta-posle-vyvoda-24-15-mln-usdc",
+    "source": "ForkLog",
+    "timestamp": "2026-07-23T08:24:45.225603+00:00",
+    "awaiting_edit": false
+  },
+  "a725e5ba459ae9dd33863b9bdc3115b8": {
+    "title": "S&P и Pantera запустили индекс цифровых активов",
+    "body": "S&P Dow Jones Indices и Pantera Capital представили S&P Pantera Digital Asset Index, который включает 18 активов, отобранных по доходам протоколов, капитализации и ликвидности. Это совместный проект двух компаний.",
+    "url": "https://forklog.com/s-p-i-pantera-zapustili-indeks-tsifrovyh-aktivov",
+    "source": "ForkLog",
+    "timestamp": "2026-07-23T08:24:48.232078+00:00",
+    "awaiting_edit": false
   }
 }
