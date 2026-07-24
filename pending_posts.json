@@ -12002,5 +12002,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-24T08:22:29.765231+00:00",
     "awaiting_edit": false
+  },
+  "da822557aaba8ff104166c5d9b9e19f9": {
+    "title": "Poolin подал заявление о банкротстве",
+    "body": "Компания Poolin Technology,曾 одна из ведущих компаний по добыче биткоина, подала заявление о банкротстве по главе 11 с долгами в размере 173 миллионов долларов. На ее активы в Техасе уже есть заявленная ставка в размере 52 миллионов долларов. Это заявление о банкротстве может иметь влияние на рынок биткоина и криптовалют.",
+    "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-24T12:16:40.189564+00:00",
+    "awaiting_edit": false
+  },
+  "68cb9e7c414ec251ced974cfb352ad90": {
+    "title": "Компании отказываются от биткоина",
+    "body": "Публичные компании начали массово отказываться от стратегии накопления биткоина из-за падения котировок, долговых обязательств и сложных рыночных условий. По данным главы отдела цифровых активов VanEck, многие компании принимают решение продавать свои запасы биткоина. Это происходит на фоне сложной рыночной ситуации и финансовых проблем у некоторых компаний.",
+    "url": "https://forklog.com/news/publichnye-kompanii-nachali-massovo-otkazyvatsya-ot-strategii-nakopleniya-bitkoina",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T12:16:43.500847+00:00",
+    "awaiting_edit": false
+  },
+  "39a7f12625fa83a036427434bf35070d": {
+    "title": "Samsung支持ивает стейблкоины",
+    "body": "Samsung анонсировала прямую поддержку стейблкоинов в приложении Samsung Wallet. Компания показала макет интерфейса с USDC, но не назвала доступные активы, партнеров, регионы и сроки запуска. Функция будет доступна в приложении Samsung Wallet.",
+    "url": "https://forklog.com/samsung-dobavit-podderzhku-stejblkoinov-v-samsung-wallet",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T12:16:46.892985+00:00",
+    "awaiting_edit": false
+  },
+  "eaf6f190019b63ceaf24e24da3eed563": {
+    "title": "Индия требует удалить Bitchat с GitHub",
+    "body": "Индийский центр координации борьбы с киберпреступностью потребовал от GitHub ограничить доступ к репозиториям децентрализованного мессенджера Джека Дорси Bitchat. Это связано с требованиями по борьбе с потенциальными угрозами. Bitchat является децентрализованным мессенджером, который привлекает внимание из-за своей связи с крипто-сообществом.",
+    "url": "https://forklog.com/news/indiya-potrebovala-ot-github-udalit-repozitorii-bitchat",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T12:16:50.063342+00:00",
+    "awaiting_edit": false
+  },
+  "3f6874d87819e9377e727d4814e7b80a": {
+    "title": "Ripple запускает платформу для RLUSD",
+    "body": "Финтех-компания Ripple представила платформу Mint, позволяющую институциональным клиентам управлять стейблкоином RLUSD через веб-интерфейс или API. Решение поддерживает выпуск, погашение, перевод и отслеживание активов. Платформа также обеспечивает автоматизацию операций и интеграцию RLUSD.",
+    "url": "https://forklog.com/ripple-zapustila-platformu-dlya-institutsionalnyh-operatsij-s-rlusd",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T12:16:53.649427+00:00",
+    "awaiting_edit": false
   }
 }
