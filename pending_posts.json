@@ -12042,5 +12042,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-24T12:16:53.649427+00:00",
     "awaiting_edit": false
+  },
+  "de01935cbbd726fc98202c5a2d4bbe6d": {
+    "title": "Wise планирует заявку на национальный банк",
+    "body": "Wise планирует повторно подать заявку на статус национального банка trust, используя рамки закона GENIUS Act. Управление контролера валюты (OCC) ранее предоставило условительное одобрение нескольким сущностям, ориентированным на стейблкоины. Это решение может иметь последствия для развития финансовой инфраструктуры.",
+    "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-24T18:15:54.198461+00:00",
+    "awaiting_edit": false
+  },
+  "d5a62120f282abbe48f42364f9999df0": {
+    "title": "Законопроект Clarity Act в сомнении",
+    "body": "Galaxy снизила вероятность принятия законопроекта Clarity Act до 30%. Согласно сообщениям, 7 демократических переговорщиков полагают, что последняя редакция законопроекта требует более сильных этических и потребительских защит. Это указывает на то, что принятию документа требуется последняя попытка доработки.",
+    "url": "https://www.theblock.co/post/409608/galaxy-says-clarity-act-now-needs-last-ditch-effort-cuts-passage-odds-30?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-24T18:15:57.617034+00:00",
+    "awaiting_edit": false
+  },
+  "25c96462af4141ec6294942c3bf620cf": {
+    "title": "БитМЕКС столкнулся с иском за инсайдерскую торговлю",
+    "body": "Компанию БитМЕКС и ее сооснователей, включая Артура Хейза, Сэмюэла Рида и Бенджамина Дело, обвиняют в инсайдерской торговле и намеренных сбоях сервера. Это происходит на фоне сворачивания деятельности биржи. Иск предъявлен в рамках коллективного иска.",
+    "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-24T18:16:01.279632+00:00",
+    "awaiting_edit": false
+  },
+  "7c2855c8c0136dfd4a79a2c2a153afcb": {
+    "title": "DEX-агрегатор Odos закроется",
+    "body": "Команда DEX-агрегатора Odos Protocol объявила о закрытии проекта с 30 июля. С момента запуска в 2022 году площадка обработала сделки более чем на $100 млрд и обслужила свыше 3,2 млн кошельков. Причины решения разработчики не раскрыли.",
+    "url": "https://forklog.com/dex-agregator-odos-zakroetsya-posle-chetyreh-let-raboty",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T18:16:04.258346+00:00",
+    "awaiting_edit": false
+  },
+  "edf899830cde111436378fa6f9b74975": {
+    "title": "Mubadala капитал токенизировал стратегию",
+    "body": "Mubadala Capital, связанная с суверенным фондом Абу-Даби, токенизировала одну из своих стратегий на частных рынках в сетях Base, Solana и Sui. Продукт предназначен для квалифицированных инвесторов и работает на инфраструктуре KAIO.",
+    "url": "https://forklog.com/krupnejshij-investfond-abu-dabi-tokeniziroval-chast-kapitala",
+    "source": "ForkLog",
+    "timestamp": "2026-07-24T18:16:07.393970+00:00",
+    "awaiting_edit": false
   }
 }
