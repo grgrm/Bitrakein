@@ -12146,5 +12146,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-07-25T11:59:42.621131+00:00",
     "awaiting_edit": false
+  },
+  "72e2c684652334c87979fbcd516eb0f1": {
+    "title": "Robinhood и Crypto.com о предикшн-маркетах",
+    "body": "Robinhood ведет переговоры о добавлении предикшн-маркетов Crypto.com, что позволит клиентам торговать контрактами на основе прогнозов. Сделка еще не заключена. Этот шаг происходит на фоне конкуренции с Kalshi.",
+    "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-25T17:56:06.079919+00:00",
+    "awaiting_edit": false
+  },
+  "9450e47ab18fb6a3cf89e55a0032d0ab": {
+    "title": "Объем торговли Bitcoin ETF снижается",
+    "body": "Объем.weekly торговли Bitcoin ETF упал до lowest с октября 2024 года, в то время как фонд ether привлекает наиболее значительные средства. За последние три недели ether фонды привлекли почти столько же капитала, сколько Bitcoin ETF, несмотря на то, что держат в 8 раз меньше чистых активов.",
+    "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-25T17:56:09.084823+00:00",
+    "awaiting_edit": false
+  },
+  "df9d58cebea0e0918e7b57704771d275": {
+    "title": "Аресты в КНДР за криптовалютные операции",
+    "body": "В КНДР задержали группу ИТ-специалистов за взлом внутренних сетей государственных банков и вывод похищенных активов через криптовалюту. Они взломали сети двух банков и вывели средства через криптовалюту. Детали дела не разглашаются.",
+    "url": "https://forklog.com/news/smi-v-kndr-arestovali-it-spetsialistov-za-otmyvanie-gossredstv-cherez-kriptovalyutu",
+    "source": "ForkLog",
+    "timestamp": "2026-07-25T17:56:12.089853+00:00",
+    "awaiting_edit": false
+  },
+  "f5f98d803e6a14727fc24d130cd5be2e": {
+    "title": "Robinhood ведет переговоры с Crypto.com",
+    "body": "Финтех-компания Robinhood ведет переговоры с биржей Crypto.com о запуске рынков предсказаний на своей платформе. Это позволит пользователям брокера покупать бинарные контракты Crypto.com прямо в приложении. Стороны обсуждают условия потенциальной сделки.",
+    "url": "https://forklog.com/smi-robinhood-nachal-peregovory-s-crypto-com-o-rynkah-predskazanij",
+    "source": "ForkLog",
+    "timestamp": "2026-07-25T17:56:14.861533+00:00",
+    "awaiting_edit": false
+  },
+  "10c5092d5c8f6ff019ad8bbb8bcc6886": {
+    "title": "Galaxy снижает шансы на Clarity Act",
+    "body": "Аналитики Galaxy Research понизили вероятность принятия Clarity Act в 2026 году до 30%, с предыдущих 50%. Это изменение связано с сокращающимся временным окном до августовских каникул Сената. Глава исследований компании Алекс Торн отметил, что коалиция голосов пока не сформирована.",
+    "url": "https://forklog.com/galaxy-snizila-shansy-na-prinyatie-clarity-act-do-30",
+    "source": "ForkLog",
+    "timestamp": "2026-07-25T17:56:18.152482+00:00",
+    "awaiting_edit": false
   }
 }
