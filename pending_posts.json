@@ -12210,5 +12210,29 @@
     "source": "INCRYPTED",
     "timestamp": "2026-07-26T08:21:50.154222+00:00",
     "awaiting_edit": false
+  },
+  "8788d6b964171190dbaac5bc951dd7e6": {
+    "title": "Доля низкоуглеродной энергии в биткоин-майнинге выросла",
+    "body": "По состоянию на декабрь 2025 года на низкоуглеродные источники приходилось 59,4% энергобаланса добычи биткоина. Это указывает на увеличение доли экологически чистой энергии в процессе майнинга. В июне 2024 года этот показатель составлял 52,4%.",
+    "url": "https://forklog.com/news/dolya-nizkouglerodnoj-energii-v-bitkoin-majninge-prevysila-59",
+    "source": "ForkLog",
+    "timestamp": "2026-07-26T11:59:16.703996+00:00",
+    "awaiting_edit": false
+  },
+  "238d458b86889ac4788914fd0a50d75a": {
+    "title": "Продвижение CLARITY Act в США",
+    "body": "В США продвигается законопроект CLARITY Act, касающийся структуры крипторынка. Кроме того, администрация президента Дональда Трампа ввела новые пошлины. Также анонсирован некастодиальный кошелек в Telegram.",
+    "url": "https://incrypted.com/weekly-prodvyzhenye-clarity-act-novye-poshlyny-trampa-y-nekastodyalnyj-koshelek-v-telegram/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-26T11:59:19.921368+00:00",
+    "awaiting_edit": false
+  },
+  "a53eecf212c0fb8bae0cac7d1037c868": {
+    "title": "BitMart закрывает торговую платформу",
+    "body": "Криптовалютная биржа BitMart объявила о поэтапном прекращении работы торговой платформы из-за пересмотра бизнес-стратегии и рыночных условий. Биржа начала сворачивать основные сервисы, а полное прекращение операций запланировано на 31 января 2027 года. Это решение принято после тщательной оценки операционных условий компании и рыночной среды.",
+    "url": "https://incrypted.com/kryptobyrzha-bitmart-zajavyla-o-polnom-zakrytyy/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-26T11:59:22.835905+00:00",
+    "awaiting_edit": false
   }
 }
