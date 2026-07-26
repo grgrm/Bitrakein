@@ -12186,5 +12186,29 @@
     "source": "ForkLog",
     "timestamp": "2026-07-25T17:56:18.152482+00:00",
     "awaiting_edit": false
+  },
+  "ddb862ca86276d7d1d08f62348eff301": {
+    "title": "ЕС включает HTX в санкционный список",
+    "body": "Евросоюз добавил криптоплатформу HTX в список санкций против России, запретив транзакции с 23 августа. В список также вошли другие криптоплатформы, такие как EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto и Exnode.",
+    "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-26T08:21:44.177796+00:00",
+    "awaiting_edit": false
+  },
+  "3123cf4cc41e5ec1ac528d1934aa2a59": {
+    "title": "Биткоин-биржа BitMart закрывается",
+    "body": "Централизованная криптобиржа BitMart запустила процедуру закрытия после девяти лет работы. Платформа окончательно прекратит все операции 31 января 2027 года. Closure будет проходить поэтапно.",
+    "url": "https://forklog.com/news/bitkoin-birzha-bitmart-obyavila-o-poetapnom-zakrytii",
+    "source": "ForkLog",
+    "timestamp": "2026-07-26T08:21:47.023694+00:00",
+    "awaiting_edit": false
+  },
+  "8e0be02d4d12ed77aae25be4793326cd": {
+    "title": "США конфисковали криптовалюты на $112 млн",
+    "body": "Министерство юстиции США (DOJ) конфисковало криптовалюты на сумму около $112 млн, связанных со схемами инвестиционного мошенничества типа pig butchering. Операцию провели при участии ФБР и других специализированных подразделений. Конфискация была проведена в рамках борьбы с криптопреступлениями.",
+    "url": "https://incrypted.com/ssha-konfyskovaly-kryptovaljuty/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-07-26T08:21:50.154222+00:00",
+    "awaiting_edit": false
   }
 }
