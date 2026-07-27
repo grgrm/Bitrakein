@@ -12298,5 +12298,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-27T09:44:10.083904+00:00",
     "awaiting_edit": false
+  },
+  "5f4847c7b025e3cf45416515470ab9e9": {
+    "title": "Микастратеджи расширяет паузу в покупках биткоина",
+    "body": "Strategy не покупала биткоин уже пять недель, увеличив при этом свои долларовые резервы до $3.75 миллиардов и продав $544.5 миллиона в MSTR. Компания продолжает корректировать свои инвестиционные стратегии на рынке криптовалют.",
+    "url": "https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-27T13:35:54.726285+00:00",
+    "awaiting_edit": false
+  },
+  "c3a0943ab3676002aad7fce943149585": {
+    "title": "Kraken приобретает бизнес эмбеддед-кошельков Magic Labs",
+    "body": "Компания Payward, mẹ rodzic криптобиржи Kraken, приобретает бизнес эмбеддед-кошельков у Magic Labs. Magic Labs меняет бренд на Newton Labs и сконцентрируется на развитии фондированной финансы на блокчейне.",
+    "url": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-27T13:35:58.063155+00:00",
+    "awaiting_edit": false
+  },
+  "6db6f8466498362495b07060dbcc7775": {
+    "title": "Токен STORJ падает на 20%",
+    "body": "Токен STORJ упал на 19% до $0,06 после того, как компания Storj Labs подала заявление о добровольном банкротстве по главе 11. Это связано с решением проблем с наследственными обязательствами.",
+    "url": "https://www.theblock.co/post/409712/storj-token-falls-20-as-decentralized-storage-firm-files-for-chapter-11-bankruptcy-amid-crypto-shutdown-wave?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-27T13:36:01.290830+00:00",
+    "awaiting_edit": false
+  },
+  "05bebda9b433fb6e106b4553bc56fb08": {
+    "title": "Malware SparkKitty крадет крипто-ключи",
+    "body": "Check Point раскрыла детали о вредоносном ПО SparkKitty, которое прячется в мобильных приложениях и сканирует фотографии для кражи фраз восстановления криптовалютных кошельков. Это вредоносное ПО может представлять угрозу безопасности криптовалютных активов.",
+    "url": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-27T13:36:04.728854+00:00",
+    "awaiting_edit": false
+  },
+  "8f97953e49939478f64d98dd81184a80": {
+    "title": "Kraken покупает Magic Labs",
+    "body": "Материнская компания Kraken Payward заключила соглашение о покупке бизнеса Magic Labs по созданию встроенных некастодиальных кошельков. Технологию планируют интегрировать в платформу Payward Service. Сделка направлена на развитие инфраструктуры криптовалютных услуг.",
+    "url": "https://forklog.com/materinskaya-kompaniya-kraken-kupit-magic-labs",
+    "source": "ForkLog",
+    "timestamp": "2026-07-27T13:36:07.784521+00:00",
+    "awaiting_edit": false
   }
 }
