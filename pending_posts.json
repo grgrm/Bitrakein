@@ -12418,5 +12418,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-28T08:28:42.611517+00:00",
     "awaiting_edit": false
+  },
+  "1bf362651536884f3831e57e9f647aa0": {
+    "title": "1inch запускает Aqua для DeFi",
+    "body": "1inch объявил о публичном запуске Aqua, слоя совместной ликвидности для DeFi на 13 блокчейнах. Программа стимулирования в 10 миллионов токенов 1INCH будет доступна для участников, предоставляющих ликвидность на условиях самохранения. Этот шаг направлен на развитие децентрализованных финансовых сервисов.",
+    "url": "https://www.theblock.co/post/409866/1inch-launches-aqua-publicly-a-shared-liquidity-layer-for-defi-across-13-chains?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T12:50:52.949344+00:00",
+    "awaiting_edit": false
+  },
+  "237cdf6c2ab65641d1cf49ae7afd653d": {
+    "title": "Узбекистан вводит льготы для майнеров",
+    "body": "Власти Узбекистана освободили резидентов специальной майнинговой зоны Besqala Mining Valley от уплаты сборов до 1 января 2035 года. Это решение касается осуществления деятельности в области майнинга.",
+    "url": "https://forklog.com/uzbekistan-vvel-lgoty-dlya-ryada-majnerov-do-2035-goda",
+    "source": "ForkLog",
+    "timestamp": "2026-07-28T12:50:55.948939+00:00",
+    "awaiting_edit": false
+  },
+  "ca450969444f79cd7a14abeef4fd9fc9": {
+    "title": "Критика публикации базы данных по недвижимости Нью-Йорка",
+    "body": "Власти Нью-Йорка опубликовали базу данных по недвижимости, что вызвало критику со стороны представителей криптоиндустрии, которые считают, что это может повысить риски физического давления и нападений на владельцев дорогих объектов. Они обеспокоены безопасностью частных лиц. Опубликованная информация может привести к нежелательным последствиям.",
+    "url": "https://forklog.com/news/v-kriptosoobshhestve-raskritikovali-publikatsiyu-bazy-dannyh-po-nedvizhimosti-nyu-jorka",
+    "source": "ForkLog",
+    "timestamp": "2026-07-28T12:50:59.355300+00:00",
+    "awaiting_edit": false
+  },
+  "3095a581be9de3e5243d8f6edb9a608b": {
+    "title": "Ondo Finance запустила новый слой исполнения",
+    "body": "Ondo Finance представила Ondo Network, слой исполнения для финансовых рынков, заменив ранее анонсированный блокчейн Ondo Chain. Ondo Network использует защищенные аппаратные анклавы и децентрализованный набор аттестаторов для проверки и хранения ключей. Первым приложением на новой инфраструктуре стала платформа бессрочных фьючерсов Ondo Perps.",
+    "url": "https://forklog.com/ondo-finance-predstavila-novyj-sloj-ispolneniya-i-perp-dex",
+    "source": "ForkLog",
+    "timestamp": "2026-07-28T12:51:02.514384+00:00",
+    "awaiting_edit": false
+  },
+  "2e9a4ba317db2d25e4027d2d913bbbba": {
+    "title": "Риски DeFi-фронтендов",
+    "body": "DeFi-проекты часто ограничиваются анализом юридических рисков на уровне протокола и ончейн-механик. Это может привести к слепым зонам и упущению ряда рисков. Сюда входят механизмы контроля и обращения активов.",
+    "url": "https://forklog.com/exclusive/defi-frontendy-slepye-zony-i-riski-kotorye-legko-upustit",
+    "source": "ForkLog",
+    "timestamp": "2026-07-28T12:51:05.580184+00:00",
+    "awaiting_edit": false
   }
 }
