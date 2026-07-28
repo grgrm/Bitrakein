@@ -12458,5 +12458,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-28T12:51:05.580184+00:00",
     "awaiting_edit": false
+  },
+  "28bbd6c2148eb43cd40c1dbf6f5cf898": {
+    "title": "Обновление Ironwood для Zcash",
+    "body": "Обновление Ironwood для сети Zcash было активировано, что включает в себя новый защищенный пул после обнаружения уязвимости в протоколе Orchard. Это обновление является результатом совместных усилий разработчиков Zcash после обнаружения буга. Новый пул призван повысить безопасность и защищенность транзакций в сети.",
+    "url": "https://www.theblock.co/post/409934/zcash-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T18:10:25.223220+00:00",
+    "awaiting_edit": false
+  },
+  "2fa5d1eeb58e6b0949e290a354204658": {
+    "title": "Снижение активности на Robinhood Chain",
+    "body": "Количество активных счетов на Robinhood Chain в среднем составило около 275 000 в день, что на 7% меньше, чем на прошлой неделе. Несмотря на это, объем депозитов вырос. Это произошло после запуска, который был подогрет популярностью мем-коинов.",
+    "url": "https://www.theblock.co/post/409813/robinhood-chain-deposits-climb-volume-users-fade-memecoin-fueled-launch?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T18:10:28.518740+00:00",
+    "awaiting_edit": false
+  },
+  "8c42d48cef7a6c97933588ddbeb7d3a1": {
+    "title": "AI-трединг заменит людей в два года",
+    "body": "Алекс Сваник, генеральный директор Nansen, считает, что системы искусственного интеллекта (AI) заменят человеческих трейдеров в течение двух лет. Компания планирует расширить свои возможности с аналитики до агентского трейдинга. Это означает, что AI будет принимать решения о сделках вместо людей.",
+    "url": "https://www.theblock.co/post/409914/nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T18:10:31.992345+00:00",
+    "awaiting_edit": false
+  },
+  "b94798fe444d3ee94d4a4be25cef91f7": {
+    "title": "Zcash-майнер Fortitude оптимизирует производство",
+    "body": "Компания Fortitude, поддерживаемая Barry Silbert, запустила новую 12-мегаваттную майнинговую ферму в Небраске, рассчитывая снизить свои затраты на производство ZEC с 70 до 40 долларов за единицу. Это новое предприятие должно увеличить эффективность их операций.",
+    "url": "https://www.theblock.co/post/409899/barry-silbert-zcash-miner-fortitude-nebraska-facility-online-cut-zec-mining-costs?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T18:10:35.268635+00:00",
+    "awaiting_edit": false
+  },
+  "0cd05edc045be32c2ac97bdeeedc2869": {
+    "title": "Morgan Stanley запускает ETF на Ethereum и Solana",
+    "body": "Morgan Stanley запустила ETF-фонды на основе Ethereum и Solana с минимальной комиссией на рынке и вознаграждением за стейкинг. Это произошло примерно через два с половиной года после начала торговли первыми биржевыми фондами, привязанными к биткоину. Новые ETF предлагают инвесторам способ инвестировать в эти криптовалюты.",
+    "url": "https://www.theblock.co/post/409898/morgan-stanley-debuts-ethereum-solana-etfs-markets-lowest-fee-staking-rewards?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-28T18:10:38.658509+00:00",
+    "awaiting_edit": false
   }
 }
