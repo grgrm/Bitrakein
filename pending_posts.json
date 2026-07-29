@@ -12578,5 +12578,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-29T12:57:45.482052+00:00",
     "awaiting_edit": false
+  },
+  "6244ad635c2fb01174c8428a22f5bcca": {
+    "title": "Автор манифеста Ethereum присоединяется к фонду",
+    "body": "Создатель манифеста \"Ethereum Cypherpunk\" стал четвертым членом совета директоров Ethereum Foundation. Он также является сооснователем компании SEAL 911, занимающейся вопросами безопасности, и известен своей деятельностью в защите прав на приватность и комментариями о культуре киперпанков.",
+    "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-29T18:03:26.216522+00:00",
+    "awaiting_edit": false
+  },
+  "a270758e533b5ce27c45c3d17547a350": {
+    "title": "Visa оценивает место стейблкоинов на рынке",
+    "body": "Visa намерена оставаться мульти-коиновой и мульти-чейновой, не поддерживая конкретные стейблкоины, такие как Tether и USDC. Цель компании - обеспечить нейтральную позицию на рынке стейблкоинов. Это заявление было сделано в контексте роста популярности стейблкоинов.",
+    "url": "https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-29T18:03:29.300921+00:00",
+    "awaiting_edit": false
+  },
+  "0c58589af06530eb0a92781aa1326136": {
+    "title": "Anchorage Digital раскритиковала предложение ФРС",
+    "body": "Anchorage Digital заявила, что предложенный Федеральной резервной системой США (ФРС) счёт для оплаты, который даст некоторым криптовалютным компаниям доступ к центральному банку, не является рабочей альтернативой счёту-мастеру. Это предложение не удовлетворяет потребностям криптовалютных компаний. Anchorage Digital считает, что предложение ФРС не является жизнеспособным решением.",
+    "url": "https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-29T18:03:32.732768+00:00",
+    "awaiting_edit": false
+  },
+  "fee94bfbffa09cc0fbb080f5e0c456fe": {
+    "title": "Рост выручки SoFi от криптовалютных транзакций",
+    "body": "Выручка от криптовалютных транзакций в SoFi выросла на 10% и составила $134 миллиона во втором квартале. Это часть общей скорректированной чистой выручки в $1,2 миллиарда. Криптовалютные транзакции остаются небольшим, но растущим компонентом бизнеса SoFi.",
+    "url": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-29T18:03:35.865065+00:00",
+    "awaiting_edit": false
+  },
+  "c65bd0efd3b2a150b7303f4d7cc24d71": {
+    "title": "Solana Policy Institute призывает Сенат к действию",
+    "body": "Solana Policy Institute призывает лидеров Сената принять законопроект о криптовалютах, поскольку время для принятия решений сокращается. Институт считает необходимым скорейшее принятие крипто-законодательства. Это связано с приближением окончания сессии Конгресса.",
+    "url": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-29T18:03:38.921710+00:00",
+    "awaiting_edit": false
   }
 }
