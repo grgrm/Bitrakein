@@ -12698,5 +12698,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-30T12:26:33.651365+00:00",
     "awaiting_edit": false
+  },
+  "34bfa5b80086c96710efc7e478086a32": {
+    "title": "Законопроект о криптовалютах: снижаются шансы",
+    "body": "Аналитики JPMorgan заявили, что снижение вероятности принятия законопроекта Clarity Act до конца года может негативно повлиять на рынки криптовалют. Снижение шансов на принятие этого законопроекта может отпугнуть институциональных инвесторов от входа на рынок.",
+    "url": "https://www.theblock.co/post/410185/jpmorgan-crypto-bill-clarity-act-market-outlook?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T18:12:51.919386+00:00",
+    "awaiting_edit": false
+  },
+  "f12d52019979a9d34325e721525828a6": {
+    "title": "Акции майнинговых компаний взлетели",
+    "body": "Согласно сообщению The Block, акции компаний IREN и Core Scientific стремительно выросли после сообщения о ликвидации фонда Aschenbrenner стоимостью $1 млрд, инвестированного в инфраструктуру ИИ. Инвестиции в эти компании соответствуют мнению Aschenbrenner о важности мощности и емкости дата-центров для масштабирования ИИ. Эти компании также являются ключевыми игроками в области майнинга биткоина.",
+    "url": "https://www.theblock.co/post/410173/iren-core-scientific-bitcoin-mining-stocks-surge-aschenbrenner-funds-portfolio-liquidation?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T18:12:55.297891+00:00",
+    "awaiting_edit": false
+  },
+  "f18975a45a6a3a4b635d0f2e0a7117c2": {
+    "title": "Fortitude увеличивает мощность майнинга Zcash",
+    "body": "Fortitude заказала у Bitmain оборудование для майнинга Zcash на сумму 31,5 миллиона долларов, что должно увеличить мощность майнинга на 145%. Новые майнеры будут отгружены в четвертом квартале и развернуты на имеющейся мощности более 60 МВт. Это оборудование позволит компанией расширить свои возможности по майнингу Zcash.",
+    "url": "https://www.theblock.co/post/410161/fortitude-targets-145-zcash-mining-capacity-increase-31-5-million-bitmain-order?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T18:12:58.614053+00:00",
+    "awaiting_edit": false
+  },
+  "a12efa42fe7fdff4dfce3fb23793ce3e": {
+    "title": "Биткоин приближается к 65 000",
+    "body": "Биткоин поднялся к 65 000 долларов на фоне снижения экономических показателей и уменьшения страхов по поводу повышения ставок Федеральной резервной системы в сентябре. Объем торгов на спотовом рынке находится gần многолетних минимумов. Казначейские облигации США в настоящее время выдают более высокие доходы, чем операции по кэрри-трейду, что наблюдается только во второй раз в истории.",
+    "url": "https://www.theblock.co/post/410163/paid-to-wait-bitcoin-presses-toward-65000-as-treasuries-out-yield-carry-trade-for-only-second-time-on-record?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T18:13:02.215955+00:00",
+    "awaiting_edit": false
+  },
+  "e071c22682aa9209b02ea0d19946c363": {
+    "title": "Австралийский регулятор судится с Telegram",
+    "body": "Регулятор цифровой безопасности Австралии подал в суд на Telegram за якобы непринятие мер по удалению контента, оправдывающего терроризм. Регулятор требует штраф в размере 54,6 миллиона австралийских долларов. Суд проходит в федеральном суде Австралии.",
+    "url": "https://www.theblock.co/post/410152/australias-esafety-regulator-sues-telegram-over-alleged-failure-to-remove-pro-terror-content-seeks-a54-6-million-penalty?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T18:13:05.541397+00:00",
+    "awaiting_edit": false
   }
 }
