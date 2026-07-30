@@ -12658,5 +12658,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-30T08:20:27.611064+00:00",
     "awaiting_edit": false
+  },
+  "8ddcf07c03a22e3ef3b08f2df324e40d": {
+    "title": "Сделка Core Scientific и AMD оценивается",
+    "body": "Аналитики Bernstein оценили потенциальную прибыль от партнерства Core Scientific и AMD в $14 млрд за 15 лет. Согласно условиям партнерства, AMD выступает гарanntом лизингового соглашения neocloud и владеет опционами на 30 млн акций CORZ. Это сотрудничество может значительно увеличить выручку Core Scientific.",
+    "url": "https://www.theblock.co/post/410140/bernstein-says-core-scientifics-amd-partnership-could-generate-14b-over-15-years?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T12:26:19.816926+00:00",
+    "awaiting_edit": false
+  },
+  "ccde767bdb06b53c4f7b2e5a4be1f155": {
+    "title": "Ark Invest продает акции крипто-компаний",
+    "body": "Ark Invest продала акции компаний Bitmine, Bullish и Block, при этом купив 128 932 акции SpaceX Элона Маска на сумму примерно 14,5 миллиона долларов. Это происходит на фоне снижения цен акций крипто-контрактов. Инвестируя в SpaceX, Ark Invest диверсифицирует свой портфель.",
+    "url": "https://www.theblock.co/post/410131/ark-invest-sells-bitmine-bullish-block?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T12:26:23.017870+00:00",
+    "awaiting_edit": false
+  },
+  "f9d7f640d647cb34a1acb03d69984143": {
+    "title": "Aave предлагает депрециацию резервов",
+    "body": "Aave предлагает депрециацию 75 резервов и шести деплоев, что затронет активы на сумму 98,1 миллиона долларов и долг на 15,6 миллиона долларов. Эта мера может повлиять на ликвидность платформы. Процедура депрециации предназначена для оптимизации работы протокола.",
+    "url": "https://www.theblock.co/post/410127/aave-proposes-reserve-deprecations-affecting-98-million-in-supplied-assets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-30T12:26:26.194636+00:00",
+    "awaiting_edit": false
+  },
+  "af229cff7914d457bad4f4944c94b513": {
+    "title": "Ethereum Institutional привлекла инвесторов",
+    "body": "Ориентированная на институциональное внедрение сети Ethereum организация Ethereum Institutional закрыла раунд финансирования, в котором приняли участие более 100 инвесторов, включая BitMine, SharpLink, 21Shares и другие. Среди участников также были сооснователи Ethereum.",
+    "url": "https://forklog.com/ethereum-institutional-privlekla-bolee-100-investorov-v-ramkah-raunda-finansirovaniya-ekosistemy",
+    "source": "ForkLog",
+    "timestamp": "2026-07-30T12:26:30.076521+00:00",
+    "awaiting_edit": false
+  },
+  "48e8d0f1be5766802a254ccfc5754bc7": {
+    "title": "Китай предупреждает о биткоин-вымогателях",
+    "body": "Китайская экономическая газета China Business Journal сообщила о мошенниках, действующих от ее имени, которые якобы рассылают компаниям электронные письма и пытаются выманить у них биткоины. Мошенники используют фейковые сайты с WalletConnect и Metamask SCAM скам для обмана жертв.",
+    "url": "https://forklog.com/kitajskaya-ekonomicheskaya-gazeta-predupredila-o-bitkoin-vymogatelyah",
+    "source": "ForkLog",
+    "timestamp": "2026-07-30T12:26:33.651365+00:00",
+    "awaiting_edit": false
   }
 }
