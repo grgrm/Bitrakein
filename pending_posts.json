@@ -12738,5 +12738,45 @@
     "source": "The Block",
     "timestamp": "2026-07-30T18:13:05.541397+00:00",
     "awaiting_edit": false
+  },
+  "e4f6a64bfdc4a75d42ea10ec857afe6e": {
+    "title": "Coinkite предупреждает пользователей Coldcard Mk3",
+    "body": "Компания Coinkite выявила потенциальную угрозу безопасности для своих пользователей Coldcard Mk3, из-за которой уже было украдено 594 биткоина. Рекомендуется создать сильный и уникальный BIP-39 пароль на устройстве и перевести средства в результирующий кошелек. Это необходимо для минимизации потенциальных рисков.",
+    "url": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T08:44:41.571653+00:00",
+    "awaiting_edit": false
+  },
+  "c3ab4eeaf677ef5b4a0cbf10652615dd": {
+    "title": "Резервные требования стейблкоинов",
+    "body": "Стейблкоины предназначены для поддержания стабильной цены путем привязки к другим активам, обычно к фиатным валютам, таким как доллар США. Резервные требования стейблкоинов определяют активы, которые эмитент должен держать для обеспечения каждой стейблкоины, выпущенной в обращение. Основные юрисдикции имеют свои собственные правила резервных требований для стейблкоинов.",
+    "url": "https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T08:44:44.630986+00:00",
+    "awaiting_edit": false
+  },
+  "8eb100074c3fbe62e28ec69a7094e28f": {
+    "title": "Stablecoins в международных платежах",
+    "body": "Stablecoins — это тип криптовалюты, предназначенный для сохранения фиксированной стоимости по отношению к базовой валюте, чаще всего одному доллару США. Передача stablecoins через границы отличается от банковских переводов: отправитель конвертирует свою местную валюту в stablecoin, отправляет его на блокчейн-адрес получателя через блокчейн-сеть. Получатель затем может конвертировать полученные stablecoins обратно в свою местную валюту.",
+    "url": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T08:44:47.806044+00:00",
+    "awaiting_edit": false
+  },
+  "e08100bfe9457b2a6c002185fc8864c1": {
+    "title": "Strategy терпит убыток 8,2 млрд долларов",
+    "body": "Компания Strategy сообщила об убытке в размере 8,2 миллиарда долларов во втором квартале, при этом ее резервы биткоина увеличились на 11%. Цена биткоина к концу второго квартала снизилась более чем на 40% по сравнению с тем же периодом 2025 года.",
+    "url": "https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T08:44:50.899665+00:00",
+    "awaiting_edit": false
+  },
+  "ec33dbf3fe7b2aba53e1fc5f0cd94a4b": {
+    "title": "Coinbase расширяет источники дохода",
+    "body": "Coinbase сообщила, что 88% ее чистой выручки теперь поступает из источников,除以外 биткойн-спот-трейдинга. Это происходит на фоне роста доли Coinbase на глобальном рынке криптовалют. Доля Coinbase на рынке достигла рекордных значений, а объемы на рынках прогнозов увеличились вдвое.",
+    "url": "https://www.theblock.co/post/410208/coinbase-shares-slip-after-q2-results-despite-prediction-markets-doubling-and-record-trading-market-share?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T08:44:54.116227+00:00",
+    "awaiting_edit": false
   }
 }
