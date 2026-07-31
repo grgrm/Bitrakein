@@ -12818,5 +12818,45 @@
     "source": "ForkLog",
     "timestamp": "2026-07-31T12:53:10.698522+00:00",
     "awaiting_edit": false
+  },
+  "bcbd9a29d33309ab0ba778e7a22fa34c": {
+    "title": "Убытки Tether превышают 4 миллиарда долларов",
+    "body": "Компания Tether сообщила, что ее избыточные резервы уменьшились более чем на 4 миллиарда долларов. В втором квартале текущего года компания показала 1,5 миллиарда долларов чистой операционной прибыли, что значительно меньше показателя второго квартала 2025 года, когда чистая прибыль составила 4,9 миллиарда долларов.",
+    "url": "https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T18:16:40.632186+00:00",
+    "awaiting_edit": false
+  },
+  "f94b2c64d11ab00395fd247b62161962": {
+    "title": "Uniswap запускает сервис Earn",
+    "body": "Uniswap объединился с Morpho для запуска нового кредитного продукта Earn, который позволяет пользователям зарабатывать прибыль через хранилища, отобранные компанией Gauntlet. Этот продукт предназначен для получения дохода от неактивных криптовалютных активов.",
+    "url": "https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T18:16:44.140253+00:00",
+    "awaiting_edit": false
+  },
+  "869be39f99a7b795c02f74075967f788": {
+    "title": "Ethereum стейкинг-очередь не показатель спроса",
+    "body": "По мнению Томаса Бруннера из Sygnum, 43-дневная очередь стейкинга в Ethereum отражает механику системы, а не только свежий спрос инвесторов. Это может указывать на то, что высокий спрос на стейкинг не является полностью искренним.",
+    "url": "https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T18:16:47.221693+00:00",
+    "awaiting_edit": false
+  },
+  "64333880bcb9f0efd345111b12cd5a72": {
+    "title": "Circle получает доверительную хартию от NYDFS",
+    "body": "Circle Internet Financial получила ограниченную доверительную хартию от Департамента финансовых услуг штата Нью-Йорк (NYDFS) для компании Circle Internet Trust. Это произошло после того, как Circlesecured получила окончательное одобрение национального доверительного управления (OCC). Теперь к федеральному надзору за стейблкоином USDC добавляется еще и штатный слой надзора.",
+    "url": "https://www.theblock.co/post/410275/circle-secures-nydfs-trust-charter-adding-state-layer-to-federal-usdc-oversight?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-07-31T18:16:50.739625+00:00",
+    "awaiting_edit": false
+  },
+  "cb7949e7202fffc7807bf65e2cf9a331": {
+    "title": "Circle получила лицензию Нью-Йорка для USDC",
+    "body": "Компания Circle, эмитент стейблкоина USDC, получила трастовую лицензию с ограниченными функциями от Департамента финансовых услуг штата Нью-Йорк (NYDFS). Это позволяет дочерней структуре Circle New York Trust работать под прямым надзором регулятора. Лицензия также дополняет федеральную банковскую лицензию.",
+    "url": "https://forklog.com/circle-poluchila-trastovuyu-litsenziyu-nyu-jorka-dlya-usdc",
+    "source": "ForkLog",
+    "timestamp": "2026-07-31T18:16:53.865664+00:00",
+    "awaiting_edit": false
   }
 }
