@@ -12898,5 +12898,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-08-01T08:14:57.333755+00:00",
     "awaiting_edit": false
+  },
+  "456321409c5ce1f8d72315a9039accb5": {
+    "title": "Запрет на майнинг в России до 2032",
+    "body": "Правительство России ввело запрет на майнинг в Москве, Подмосковье и части Курской области. Ограничение будет действовать с 15 августа 2026 по 31 декабря 2032 года. Регионы включены в перечень с запретом на майнинг.",
+    "url": "https://forklog.com/v-moskve-i-podmoskove-zapretili-majning-do-2032-goda",
+    "source": "ForkLog",
+    "timestamp": "2026-08-01T11:59:28.831228+00:00",
+    "awaiting_edit": false
+  },
+  "99b99893b5bb5edb80aa7c92f76ef9be": {
+    "title": "Strategy меняет структуру резервов",
+    "body": "Инвестиционные компании TD Cowen и Benchmark поддержали решение Strategy держать в резервах больше долларов, вместо чистого биткоин-резерва. Это решение подтверждено рекомендацией \"покупать\" по акциям Strategy. Компании одобрили стратегию фирмы по диверсификации резервов.",
+    "url": "https://forklog.com/news/analitiki-podderzhali-othod-strategy-ot-chistogo-bitkoin-rezerva",
+    "source": "ForkLog",
+    "timestamp": "2026-08-01T11:59:31.975542+00:00",
+    "awaiting_edit": false
+  },
+  "80d7bdbe9ae4d1e598bf95b6e3a9603a": {
+    "title": "Банк Италии оценил стейблкоины",
+    "body": "Банк Италии провел исследование использования стейблкоинов в переводах и не обнаружил систематических преимуществ по скорости или стоимости по сравнению с традиционными переводами. Основными препятствиями остаются процесс конвертации цифровых активов в фиатную валюту и характеристики платежной инфраструктуры.",
+    "url": "https://forklog.com/bank-italii-ne-vyyavil-preimushhestv-stejblkoinov-pri-perevodah",
+    "source": "ForkLog",
+    "timestamp": "2026-08-01T11:59:35.157847+00:00",
+    "awaiting_edit": false
+  },
+  "99abed2603ae9900fac7ea9d3aca8399": {
+    "title": "Заморозка активов Дурова",
+    "body": "На этой неделе сообщается о давлении на Telegram и заморозке активов его основателя. Это может повлиять на переводы внутри Telegram. В США также обсуждаются ограничения открытого ИИ и закон против скам-центров в Мьянме.",
+    "url": "https://forklog.com/news/zamorozka-aktivov-durova-chto-budet-s-perevodami-vnutri-telegram",
+    "source": "ForkLog",
+    "timestamp": "2026-08-01T11:59:38.261747+00:00",
+    "awaiting_edit": false
+  },
+  "379aff02eec60ec676d86720df2ef9c9": {
+    "title": "Tether раскрыла структуру USDT",
+    "body": "Компания Tether International опубликовала отчет о резервах и финансовых показателях за II квартал 2026 года, подтвержденный аудиторской компанией BDO. Отчет показал $1,5 млрд чистой операционной прибыли и резервный буфер в $4,11 млрд сверх обязательств. Запасы физического золота увеличились до более чем 146 тонн.",
+    "url": "https://incrypted.com/tether-raskryla-strukturu-obespechenyja-usdt/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-01T11:59:41.328457+00:00",
+    "awaiting_edit": false
   }
 }
