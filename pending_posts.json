@@ -13018,5 +13018,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-08-02T11:58:18.271283+00:00",
     "awaiting_edit": false
+  },
+  "19c0f539f19e60b5e612ca5769d23c1b": {
+    "title": "Trump Media перевела $165 млн в Bitcoin",
+    "body": "Компания Trump Media перевела $165 млн в Bitcoin на биржу Crypto.com, заявив, что это было частью торговой стратегии, и не представляло собой продажу активов. Ранее, в мае, компания осуществила подобный перевод. В данный момент в отслеживаемых кошельках компании осталось 4261 BTC.",
+    "url": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-02T17:58:06.850137+00:00",
+    "awaiting_edit": false
+  },
+  "e5d0bd33368d630a7f8ccbb5e2a910b9": {
+    "title": "Кража биткоинов на $89 млн",
+    "body": "В России было украдено не менее 1367 BTC, стоимость которых составляет около $89 млн, у пользователей кошельков Coldcard. ФРС оставила ставку без изменений. Также Павла Дурова обвинили в пособничестве терроризму в РФ.",
+    "url": "https://forklog.com/news/itogi-nedeli-presledovanie-durova-v-rf-i-krazha-bitkoinov-na-89-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-08-02T17:58:10.012683+00:00",
+    "awaiting_edit": false
+  },
+  "72c785a9f4f381c6e70f8e509f41e273": {
+    "title": "ЕЦБ представил приложение цифрового евро",
+    "body": "Европейский центральный банк (ЕЦБ) представил дизайн приложения цифрового евро с функциями доступности, включая поддержку экранных дикторов и упрощенный язык. Приложение также будет иметь навигацию с клавиатуры и предупреждения об истечении времени операций. Основная цель - сделать цифровой евро более доступным для широкой аудитории.",
+    "url": "https://forklog.com/etsb-predstavil-prilozhenie-tsifrovogo-evro-s-rasshirennymi-funktsiyami-dostupnosti",
+    "source": "ForkLog",
+    "timestamp": "2026-08-02T17:58:13.258456+00:00",
+    "awaiting_edit": false
+  },
+  "28825758ffc183bb030bc39c17beeba4": {
+    "title": "Банк Италии о стейблкоинах",
+    "body": "Исследование Банка Италии показало, что стейблкоины не обладают системными преимуществами в переводах. Исследование доступно на официальном сайте банка. Банк не увидел значительных выгод от использования стейблкоинов в платежных системах.",
+    "url": "https://forklog.com/news/bank-italii-ne-uvidel-sistemnyh-preimushhestv-stejblkoinov-v-perevodah",
+    "source": "ForkLog",
+    "timestamp": "2026-08-02T17:58:16.334187+00:00",
+    "awaiting_edit": false
+  },
+  "3ea53632418e2216c877cdd7986d803a": {
+    "title": "Обзор событий в крипто за неделю",
+    "body": "В Украине выявлена псевдокриптоакадемия, участвующая в мошеннической деятельности. Также сообщается об убытках компании Strategy и о продолжающихся дискуссиях вокруг регулирования крипторынка в США и Украине. Помимо этого, ФРС приняла решение по ставке, а основатель Telegram Дуров объявлен в розыск.",
+    "url": "https://incrypted.com/weekly-psevdokryptoakademyja-ukrayny-ubytky-strategy-durov-v-rozyske-y-neopredelennost-clarity-act/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-02T17:58:19.539838+00:00",
+    "awaiting_edit": false
   }
 }
