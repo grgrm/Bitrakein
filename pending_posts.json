@@ -13098,5 +13098,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-03T09:37:27.765310+00:00",
     "awaiting_edit": false
+  },
+  "8a986f0f5b90686a79242e3df7195b17": {
+    "title": "Компания Эрика Трампа увеличила запас биткоина",
+    "body": "Компания American Bitcoin, связанная с Эриком Трампом, увеличila свой запас биткоина до 8002 BTC после добычи 932 BTC во втором квартале. Выручка компании за этот период выросла на 8% и составила 67 миллионов долларов. Это достижение стало рекордом для компании в плане добычи BTC.",
+    "url": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-03T13:36:33.264600+00:00",
+    "awaiting_edit": false
+  },
+  "19e29a444eb127713f7a37ded99e7eb6": {
+    "title": "Стратегия Майкла Сейлора продает BTC",
+    "body": "Компания Майкла Сейлора Strategies продала 1638 BTC за $105 миллионов, сократив свои запасы до 842 138 BTC, что составляет примерно 4% от максимальной возможной эмиссии Биткоина. Теперь общая стоимость их запасов составляет примерно $53 миллиарда. Это событие произошло на фоне продолжающегося развития рынка криптовалют.",
+    "url": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-03T13:36:36.439718+00:00",
+    "awaiting_edit": false
+  },
+  "6ced43e078473348914b1e7c0c88cdfb": {
+    "title": "BitGo запускает платформу Link",
+    "body": "BitGo запустила платформу Link, которая предоставляет единый интерфейс для просмотра и передачи цифровых активов, хранящихся как в хранилище BitGo, так и на централизованных биржах. Сервис позволяет клиентам подключаться к биржам Coinbase, Kraken, Crypto.com и другим. Это упрощает управление цифровыми активами.",
+    "url": "https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-03T13:36:39.550231+00:00",
+    "awaiting_edit": false
+  },
+  "c71338bf0266307c82e91b599b59eeb1": {
+    "title": "Bernstein о ускорении регулирования крипто",
+    "body": "Компания Bernstein ожидает, чтоSEC и CFTC ускорят процесс создания правил для криптовалют, если законопроект Clarity Act не будет принят в текущем году. Это может произойти в рамках проекта Project Crypto. Bernstein предлагает, что провал законопроекта приведет к более быстрому регулированию.",
+    "url": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-03T13:36:42.543029+00:00",
+    "awaiting_edit": false
+  },
+  "79db082ba05dcee707a889585072ecbc": {
+    "title": "Ripple инвестирует в ZILO и Licuido",
+    "body": "Ripple инвестировала в компании ZILO и Licuido, чтобы расширить использование токенизированных рынков капитала на инфраструктуре XRP Ledger. Это позволит использовать регулируемые услуги по переводу, выпуску и обеспечению мобильности залогов.",
+    "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-03T13:36:45.403865+00:00",
+    "awaiting_edit": false
   }
 }
