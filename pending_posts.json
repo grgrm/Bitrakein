@@ -13178,5 +13178,45 @@
     "source": "The Block",
     "timestamp": "2026-08-03T18:48:01.125978+00:00",
     "awaiting_edit": false
+  },
+  "c120d731e3bec49a0a04aa0b1ce4ea32": {
+    "title": "Хакерские атаки на Coldcard могут достигнуть 130 млн.",
+    "body": "Компания Galaxy Research оценила потенциальные потери от хакерских атак на устройства Coldcard в размере 130 миллионов долларов. Вероятно, что окончательная сумма ущерба увеличится после анализа еще одного, пока не подтвержденного волны атак. Galaxy Research опубликовала эту информацию на платформе X.",
+    "url": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T08:31:24.904613+00:00",
+    "awaiting_edit": false
+  },
+  "073754b19930f6b674eed55bcdeadcd6": {
+    "title": "Фонд суверенности для NEAR",
+    "body": "Сососнователь платформы NEAR предложил создать фонд суверенности для долгосрочной устойчивости проекта. Концепция фonda основана на суверенных фондах богатства, существующих в странах как Норвегия и Сингапур, а также на университетских эндаументах.",
+    "url": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T08:31:28.156333+00:00",
+    "awaiting_edit": false
+  },
+  "006938827ac83c14a3853ef4bb8bb790": {
+    "title": "Mastercard купила BVNK для расширения инфраструктуры стейблкоинов",
+    "body": "Mastercard завершила приобретение компании BVNK, чтобы расширить возможности по выпуску и использованию стейблкоинов и токенизированных активов. Эта сделка позволит Mastercard использовать опыт BVNK для масштабирования использования стейблкоинов и токенизированных активов среди предприятий.",
+    "url": "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T08:31:31.318924+00:00",
+    "awaiting_edit": false
+  },
+  "f3ba2a977b26ee721f4b03a475e476b3": {
+    "title": "Blockchain Association ответила на претензии",
+    "body": "Blockchain Association выступила против претензий Национальной ассоциации шерифов, заявив, что законодательство поддержит органы правопорядка. Это заявление было сделано в ответ на претензии Национальной ассоциации шерифов. Законопроект направлен на поддержку правоохранительных органов.",
+    "url": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T08:31:34.416976+00:00",
+    "awaiting_edit": false
+  },
+  "7be1a113ba3a793a9abe51c985dfc848": {
+    "title": "DEX превосходят CEX по объёму торгов",
+    "body": "Объем торгов на спотовых биржах может установить 12-месячный минимум в $670 миллионов, снизившись с годового максимума в $2,23 триллиона. DEX теперь занимают рекордные 24% объема спотовых торгов. Это снижение объема торгов происходит на фоне сокращения активности на централизованных биржах (CEX).",
+    "url": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T08:31:37.571593+00:00",
+    "awaiting_edit": false
   }
 }
