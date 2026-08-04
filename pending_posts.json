@@ -13258,5 +13258,45 @@
     "source": "The Block",
     "timestamp": "2026-08-04T12:57:02.114563+00:00",
     "awaiting_edit": false
+  },
+  "aeb6ec778704fa3f1cacd01bc96431cb": {
+    "title": "Сенаторы требуют расследования мемкоина Трампа",
+    "body": "Сенаторы Уоррен и Блюменталь обратились в Комиссию по ценным бумагам и биржам (SEC) с просьбой расследовать мемкоин бывшего президента Дональда Трампа. Это происходит на фоне ключевой недели для законопроекта о криптовалютах. Сенаторы обеспокоены возможным нарушением правил безопасности.",
+    "url": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T18:24:49.649668+00:00",
+    "awaiting_edit": false
+  },
+  "f1a213f445d25d77acaeea523e2263f4": {
+    "title": "Robinhood и Coinbase переживают снижение торгов",
+    "body": "Деятельность на криптобирже Robinhood и Coinbase снижается вместе с общими рыночными условиями. Однако Robinhood смог компенсировать эту слабость, в то время как активность на Coinbase остается привязанной к торговому циклу. Об этом сообщает The Block.",
+    "url": "https://www.theblock.co/post/410478/robinhood-shrugs-off-crypto-slump-coinbase-activity-remains-tied-trading-cycle?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T18:24:53.267671+00:00",
+    "awaiting_edit": false
+  },
+  "166fa018196d58cc4f7774f3b6bdba0f": {
+    "title": "Dinari запускает токенизированные акции S&P 500",
+    "body": "Dinari начал предлагать токенизированные акции S&P 500 для американских пользователей, хранящих средства в своих собственных кошельках. Это используется в сочетании с стейблкоином USDC. Интерес к токенизации акций проявляют как криптосообщество, так и традиционные финансовые учреждения.",
+    "url": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T18:24:57.027271+00:00",
+    "awaiting_edit": false
+  },
+  "040fdbf8b989e35f8a3530f71a596a82": {
+    "title": "BitGo переводит 7,4 млрд Wrapped Bitcoins",
+    "body": "Компания BitGo перевела 7,4 млрд долларов Wrapped Bitcoins из LayerZero в Chainlink CCIP. Этот шаг увеличивает общую стоимость активов, мигрирующих из LayerZero в Chainlink, до почти 15 млрд долларов. Wrapped Bitcoin (WBTC) представляет собой крупнейший сдвиг активов на данный момент.",
+    "url": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T18:25:00.300007+00:00",
+    "awaiting_edit": false
+  },
+  "65932e5741de2277ddcd459dbb9e34fa": {
+    "title": "Hut 8 отчиталась о доходах за Q2",
+    "body": "Акции Hut 8 упали после незначительного недополучения доходов во втором квартале. Компания сообщила о росте трубопровода для центров обработки данных на основе ИИ. По словам генерального директора Hut 8 Эшера Дженоота, будущая экспозиция биткоина будет в основном обеспечена через ее американскую дочернюю компанию American Bitcoin.",
+    "url": "https://www.theblock.co/post/410581/hut-8-shares-slip-mild-q2-revenue-miss-ai-data-center-pipeline-grows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-04T18:25:03.398993+00:00",
+    "awaiting_edit": false
   }
 }
