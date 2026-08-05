@@ -13298,5 +13298,45 @@
     "source": "The Block",
     "timestamp": "2026-08-04T18:25:03.398993+00:00",
     "awaiting_edit": false
+  },
+  "cfa9af2cfbb52afa04451977659f6cc7": {
+    "title": "Crypto PAC побеждает на праймериз",
+    "body": "Crypto PAC Fairshake поддержал кандидатов на праймериз в штатах Мичиган и Вашингтон. Среди поддержанных кандидатов - Билл Хуизенга в Мичигане и Сузан ДельБене, Ким Шрайер, Марилин Стрикленд и Аманда Маккинни в Вашингтоне.",
+    "url": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T08:30:21.691697+00:00",
+    "awaiting_edit": false
+  },
+  "c8e0dc87f66588e9a69ba18491c14d6d": {
+    "title": "Обвинения по делу о краже биткоина",
+    "body": "Трем мужчинам из Миссури предъявлены обвинения в заговоре с целью кражи биткоина через домашнее нападение. Они не признали себя виновными. Дело связано с попыткой вымогательства криптовалюты у жертвы.",
+    "url": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T08:30:26.165944+00:00",
+    "awaiting_edit": false
+  },
+  "82e8545446008e029f00e97333762250": {
+    "title": "Будущее криптовалют без Clarity",
+    "body": "СИО компании Bitwise Мэтт Хоуган считает, что криптовалюта будет развиваться даже если законопроект Clarity не пройдёт в сенате США в течение трёх дней. Конгресс США вступает в месячную паузу. Сенату осталось трое суток, чтобы рассмотреть законопроект.",
+    "url": "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T08:30:29.450146+00:00",
+    "awaiting_edit": false
+  },
+  "7c67295beb454e9ead79e3cbb8666ddc": {
+    "title": "BlackRock делит акции Ethereum ETF",
+    "body": "BlackRock проводит обратный раздел акций своего ETF на Ethereum в соотношении 1 к 3. Это означает, что каждые три акции ETHA будут объединены в одну, увеличивая стоимость чистых активов фонда на одну акцию. Процесс раздела состоится в октябре.",
+    "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T08:30:33.182933+00:00",
+    "awaiting_edit": false
+  },
+  "b36f47a3f39e50d4d8ef8b269924b180": {
+    "title": "Криптоиндустрия переживет провал CLARITY Act",
+    "body": "Инвестиционный директор Bitwise Мэтт Хоуган заявил, что криптоиндустрия продолжит развитие даже в случае провала законопроекта CLARITY Act в Сенате США. Это связано с его уверенностью в продолжении роста и развития индустрии.",
+    "url": "https://forklog.com/news/mnenie-kriptoindustriya-perezhivet-proval-clarity-act-v-senate",
+    "source": "ForkLog",
+    "timestamp": "2026-08-05T08:30:36.239865+00:00",
+    "awaiting_edit": false
   }
 }
