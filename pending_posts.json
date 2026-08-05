@@ -13338,5 +13338,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-05T08:30:36.239865+00:00",
     "awaiting_edit": false
+  },
+  "fa6cbb9a4279c3380f65b421b4577d35": {
+    "title": "Circle назвала валидаторы Arc",
+    "body": "Компания Circle объявила о валидаторах своей сети Arc, среди которых BlackRock, Visa и DTCC. Выручка Circle во втором квартале составила $701 миллион. Общий объем циркуляции USDC достиг $73,3 миллиарда.",
+    "url": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T12:49:07.814185+00:00",
+    "awaiting_edit": false
+  },
+  "a0162343c6bfb922773d27c37bdfc84a": {
+    "title": "Visa расширяет возможности стейблкоинов",
+    "body": "Visa заключила сотрудничество с zerohash для расширения возможностей стейблкоинов на платформе Visa Direct, которая связана с более чем 18 миллиардами конечных точек, включая карты, банковские счета и цифровые кошельки. Это сотрудничество позволит повысить использование стейблкоинов в системе Visa.",
+    "url": "https://www.theblock.co/post/410657/stablecoin-capabilities-visa-direct-zerohash?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T12:49:10.788275+00:00",
+    "awaiting_edit": false
+  },
+  "995368e9fc7812bfed96c06131a5542a": {
+    "title": "Активность биткоина достигла максимума 2026",
+    "body": "За последнюю неделю было перемещено около 890 000 BTC, достигнув максимума 2026 года. Это происходит на фоне атаки на Coldcard. К33 отметил потенциальный образец дна рынка.",
+    "url": "https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T12:49:13.880644+00:00",
+    "awaiting_edit": false
+  },
+  "c34bae112362200e02ca1ac9f9bee684": {
+    "title": "Cipher сообщает о потерях в 267,5 млн",
+    "body": "Компания Cipher, ранее занимавшаяся майнингом биткоина, теперь развивающая технологии высокопроизводительных вычислений, сообщила о чистом убытке в размере 267,5 миллионов долларов за второй квартал. Это более чем в пять раз превышает убытки, зарегистрированные компанией в прошлом году.",
+    "url": "https://www.theblock.co/post/410820/cipher-wider-q2-losses?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T12:49:16.876260+00:00",
+    "awaiting_edit": false
+  },
+  "869ccd5571ddad4bd54f5e045d68d0a3": {
+    "title": "Бывший полицейский осуждён за кражу биткоина",
+    "body": "Бывший офицер LAPD Эрик Хейлем приговорён к пожизненному заключению плюс 15 лет за похищение подростка и кражу 350 000 долларов в биткоинах. Эта кража была одной из громких в истории криптовалют. Суд признал его виновным в преступлении.",
+    "url": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T12:49:20.230677+00:00",
+    "awaiting_edit": false
   }
 }
