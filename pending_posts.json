@@ -13378,5 +13378,45 @@
     "source": "The Block",
     "timestamp": "2026-08-05T12:49:20.230677+00:00",
     "awaiting_edit": false
+  },
+  "e8bee85cf44aaab902895f23a68039a7": {
+    "title": "Биткоин стабилен на уровне $64K",
+    "body": "Биткоин удерживается на уровне $64 000. В спотовые ETF поступило $211,5 миллиона на этой неделе. Аналитики отмечают формирование сигналов дна без驱ящего спроса.",
+    "url": "https://www.theblock.co/post/410905/analysts-see-bitcoin-bottom-forming-through-boredom-price-clings-64k-amid-spot-etf-inflows?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T18:17:45.923300+00:00",
+    "awaiting_edit": false
+  },
+  "aafc00943c4a68cb7b7bd7cac7b23291": {
+    "title": "TeraWulf увеличил выручку от HPC",
+    "body": "Компания TeraWulf сообщила, что ее выручка от аренды мощностей высокопроизводительных вычислений (HPC) выросла на 52% и составила 71% от общей выручки в размере 44,8 миллиона долларов в втором квартале. Это указывает на расширение роли HPC в деятельности компании по сравнению с майнингом биткоина. В предыдущем квартале доля HPC в выручке составляла 62%.",
+    "url": "https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T18:17:49.180587+00:00",
+    "awaiting_edit": false
+  },
+  "76ca3687dd75f77761ac62bbff81e852": {
+    "title": "Создатель NFT обвинен в хищении средств",
+    "body": "Создатель NFT faces обвинения в мошенничестве после обвинений в том, что он присвоил миллионы долларов у инвесторов для финансирования своего образа жизни, включая хобби диджея и азартные игры. Проект NFT расследуется по подозрению в хищении средств.",
+    "url": "https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T18:17:52.454350+00:00",
+    "awaiting_edit": false
+  },
+  "0f279c8a295d4195ab22b74128107dc6": {
+    "title": "Kraken меняет позицию по токенизированным активам",
+    "body": "Компания Payward, владелец Kraken, изменила свою позицию по токенизированным акциям, теперь позволяя эligибельным инвесторам отправлять предпочтения по прокси-голосованию. Ранее держатели xStocks не имели права голоса.",
+    "url": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T18:17:55.587325+00:00",
+    "awaiting_edit": false
+  },
+  "5e799ecb0efb632b88606a036c5376f0": {
+    "title": "World Chain активирует Block Access Lists",
+    "body": "компания World Chain станет первой производственной L2, которая обеспечит потоковый доступ к Block Access Lists посредством Flashblocks. Эта функция будет активирована на основной сети (mainnet) 17 августа. Это событие предшествует запланированному апгрейду Ethereum под названием \"Glamsterdam\", который намечен на позже в этом году.",
+    "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-05T18:17:59.494913+00:00",
+    "awaiting_edit": false
   }
 }
