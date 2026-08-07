@@ -13578,5 +13578,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-07T11:41:33.703743+00:00",
     "awaiting_edit": false
+  },
+  "a619bc6d259f0245bb0dfd36a7246f2a": {
+    "title": "Уязвимость в BTCPay может сливать средства",
+    "body": "Разработчики открытого процессора биткоин-платежей BTCPay призывают пользователей обновить серверы до версии 2.4.2 из-за обнаруженной уязвимости, которая может导致 слив средств. Эта уязвимость активно эксплуатируется. Обновление необходимо для защиты средств.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-07T17:44:41.185779+00:00",
+    "awaiting_edit": false
+  },
+  "e00b7e599fed9df57547877f60b1afa7": {
+    "title": "Уязвимость Coldcard раскрыла риск приватных ключей",
+    "body": "Возможная уязвимость в аппаратных кошельках Coldcard, используемых для хранения биткоинов, подчеркивает проблемы безопасности в криптосфере, в частности, связанные с хранением приватных ключей. Эта уязвимость может иметь значительное влияние на общую безопасность криптовалют. Риски, связанные с искусственным интеллектом и кибербезопасностью, становятся все более актуальными для криптоиндустрии.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-07T17:44:44.459621+00:00",
+    "awaiting_edit": false
+  },
+  "e4edbd5bc95578d9b5a8c57121ee3c7d": {
+    "title": "Биткоин превышает 65 000 долларов",
+    "body": "После неожиданного снижения показателей занятости в США биткоин достиг рубежа в 65 000 долларов. В июле США зафиксировали снижение занятости на 23 000, тогда как прогнозировался рост на 80 000. Это привело к переоценке вероятности увеличения ставки Федерального резерва в сентябре.",
+    "url": "https://www.theblock.co/news/markets/2026-08-07-bitcoin-tops-65000-after-massive-surprise-us-jobs-miss-411154?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-07T17:44:47.569572+00:00",
+    "awaiting_edit": false
+  },
+  "507a554f2cbf3b6c2390f684c25397b2": {
+    "title": "Судья штата Мичиган отклонил иск Coinbase",
+    "body": "Федеральный судья Шалина Кумар отклонила иск Coinbase, направленный на блокирование действий штата Мичиган в отношении контрактов на спортивные мероприятия. Судья назвала заявления Coinbase \"апельсиновым пюре\". Решение было принято в четверг.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-07-michigan-judge-denies-coinbase-bid-prediction-markets-411128?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-07T17:44:50.751112+00:00",
+    "awaiting_edit": false
+  },
+  "d5faf7cf124bdce5244e821e5d86801b": {
+    "title": "Оборот бессрочных фьючерсов упал",
+    "body": "Объем торгов бессрочными фьючерсами на централизованных криптобиржах в июле составил $4 трлн, что является минимумом с декабря 2022 года. Это следует из данных CryptoRank. Данные указывают на снижение активности на рынке криптовалютных деривативов.",
+    "url": "https://forklog.com/news/oborot-bessrochnyh-fyuchersov-na-cex-upal-do-minimumov-2023-goda",
+    "source": "ForkLog",
+    "timestamp": "2026-08-07T17:44:54.098814+00:00",
+    "awaiting_edit": false
   }
 }
