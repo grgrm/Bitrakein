@@ -13538,5 +13538,45 @@
     "source": "The Block",
     "timestamp": "2026-08-07T07:10:09.194848+00:00",
     "awaiting_edit": false
+  },
+  "4bfc86be2930d883669ad0c9ec3b0db1": {
+    "title": "Суд США отклонил иск Coinbase",
+    "body": "Судья Шалина Кумар отклонила ходатайство Coinbase о блокировке действий штата Мичиган в отношении контрактов на спортивные события. Coinbase пыталась оспорить требования штата. Решение было принято в четверг.",
+    "url": "https://www.theblock.co/post/411128/michigan-judge-denies-coinbase-bid-prediction-markets?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-07T11:41:21.199906+00:00",
+    "awaiting_edit": false
+  },
+  "6fcc5992e9bdc18db6524c4d6a298c32": {
+    "title": "Хакер потерял украденное из-за MEV-бота",
+    "body": "Хакер вывел 500 000 USDC из чужого кошелька в сети Base, но при обмене средств через децентрализованную биржу подвергся сэндвич-атаке MEV-бота. В результате хакер потерял почти все украденное. По данным PeckShield, атака была успешной из-за отсутствия защиты от проскальзывания при обмене средств.",
+    "url": "https://forklog.com/haker-poteryal-pochti-vse-ukradennoe-iz-za-sendvich-ataki-mev-bota",
+    "source": "ForkLog",
+    "timestamp": "2026-08-07T11:41:24.405545+00:00",
+    "awaiting_edit": false
+  },
+  "90daaea70bfb761b619328cb1a58442b": {
+    "title": "Уязвимость постквантовой криптографии обнаружена",
+    "body": "Исследователь Amazon Web Services Дэниел Саймон представил новый квантовый алгоритм, который потенциально может быстро решать некоторые математические задачи, связанные с постквантовой криптографией. Этот алгоритм может иметь последствия для безопасности криптографических систем. Исследователь опубликовал соответствующую статью.",
+    "url": "https://forklog.com/news/issledovatel-aws-nashel-potentsialnuyu-uyazvimost-postkvantovoj-kriptografii",
+    "source": "ForkLog",
+    "timestamp": "2026-08-07T11:41:27.574997+00:00",
+    "awaiting_edit": false
+  },
+  "d4cace2cf399a36161a9746ca47da300": {
+    "title": "Ether.fi меняет подход к рестейкингу",
+    "body": "Разработчики протокола Ether.fi упразднили функцию рестейкинга из weETH и перенесли ее в отдельный токен ликвидности — weETHs на базе Symbiotic. Это изменение коснулось подхода к управлению токеном ликвидности.",
+    "url": "https://forklog.com/news/ether-fi-perenesla-restejking-iz-weeth-v-otdelnyj-token",
+    "source": "ForkLog",
+    "timestamp": "2026-08-07T11:41:30.635171+00:00",
+    "awaiting_edit": false
+  },
+  "f0b036002c1ac271f3bb5c9631926d13": {
+    "title": "Древний кошелек перевел 50 BTC",
+    "body": "Биткоин-кошелек, не активный с 2011 года, перевел почти 50 BTC на сумму $3,2 млн. Монеты были переведены на адрес, связанный с криптоброкером FalconX. Перевод был совершен после 15-летнего периода неактивности.",
+    "url": "https://forklog.com/spyashhij-15-let-bitkoin-koshelek-perevel-50-btc",
+    "source": "ForkLog",
+    "timestamp": "2026-08-07T11:41:33.703743+00:00",
+    "awaiting_edit": false
   }
 }
