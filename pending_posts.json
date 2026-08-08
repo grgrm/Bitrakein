@@ -13698,5 +13698,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-08T11:23:16.442519+00:00",
     "awaiting_edit": false
+  },
+  "7e6e85ed6405aaa61acc73be00d5b58b": {
+    "title": "Инвестиции в биткоин-ETF выросли на $1,1 млрд",
+    "body": "За неделю в биткоин и эфир-ETF поступило $1,1 млрд инвестиций, что является лучшим показателем с апреля. Этот рост связан с хакерской атакой на кошелек Coldcard. С тех пор несколько биткоин-фондов получают инвестиции ежедневно.",
+    "url": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-08T17:25:02.824375+00:00",
+    "awaiting_edit": false
+  },
+  "df3cf9552756e3fbf855f27369776577": {
+    "title": "Фишинг-атака на пользователя Trezor",
+    "body": "Пользователь похитил сбережения после перехода по рекламной ссылке в выдаче Google, где была поддельная страница с запросом сид-фразы. Ущерб был нанесен после ввода конфиденциальной информации на поддельной странице. Адрес, на который были переведены похищенные средства, был опубликован пострадавшим.",
+    "url": "https://forklog.com/polzovatel-trezor-lishilsya-sberezhenij-iz-za-fishinga-v-vydache-google",
+    "source": "ForkLog",
+    "timestamp": "2026-08-08T17:25:06.108909+00:00",
+    "awaiting_edit": false
+  },
+  "d74261e6e42f3e370da19a7802124622": {
+    "title": "Риск потери биткоинов из-за BIP-110",
+    "body": "Блокчейн-специалист Кевин Лоак предупредил о потенциальном риске потери биткоинов из-за предложения BIP-110. Это может произойти в случае продажи полученных в результате возможного форка сети Биткоин. Лоак указывает на потенциальные проблемы безопасности.",
+    "url": "https://forklog.com/news/razrabotchik-ukazal-na-risk-poteri-bitkoinov-iz-za-bip-110",
+    "source": "ForkLog",
+    "timestamp": "2026-08-08T17:25:09.748823+00:00",
+    "awaiting_edit": false
+  },
+  "a75f6bfd0810534c25faaf6dcd4871d7": {
+    "title": "Санкции США против иранских криптобирж",
+    "body": "Минфин США расширил санкции против иранских криптобирж Shelbit и Aban Tether, обвинив их в отмывании средств в интересах Корпуса стражей исламской революции. Управление по контролю за иностранными активами (OFAC) Минфина США внесло эти биржи в санкционный список.",
+    "url": "https://forklog.com/news/minfin-ssha-rasshiril-sanktsii-protiv-iranskih-kriptobirzh",
+    "source": "ForkLog",
+    "timestamp": "2026-08-08T17:25:13.193543+00:00",
+    "awaiting_edit": false
+  },
+  "bd29cbb9a9c532859143a3503bf72ce6": {
+    "title": "Ethereum под угрозой лишился преимущества",
+    "body": "Генеральный директор SharpLink Джозеф Шалом заявил, что предложение EIP-8363 лишит Ethereum главного преимущества над биткоином. Это предложение касается изменений в механизме эмиссии и сжигания монет. По мнению Шалома, это изменение может существенно повлиять на конкурентоспособность Ethereum.",
+    "url": "https://forklog.com/news/v-sharplink-predupredili-ob-ugroze-glavnomu-preimushhestvu-ethereum-nad-bitkoinom",
+    "source": "ForkLog",
+    "timestamp": "2026-08-08T17:25:16.468013+00:00",
+    "awaiting_edit": false
   }
 }
