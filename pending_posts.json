@@ -13618,5 +13618,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-07T17:44:54.098814+00:00",
     "awaiting_edit": false
+  },
+  "3ebe072f624dcdee0922affa6108afff": {
+    "title": "Trump Media и Crypto.com прекращают партнерство",
+    "body": "Trump Media и Crypto.com завершили свои партнерские отношения, что означает конец планам сделать Yorkville Acquisition Corp. казной CRO. Это изменение приоритетов компаний привело к прекращению сотрудничества. Компании сформировали партнерство, чтобы работать над казной в области криптовалют.",
+    "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-08T06:45:35.870402+00:00",
+    "awaiting_edit": false
+  },
+  "b11c95ae431021f6e531433434c999a2": {
+    "title": "США наложили санкции на иранские криптобиржи",
+    "body": "Министерство финансов США обнаружило более 3 миллионов долларов переводов между Shelbit и кошельками, связанными с IRGC. Санкции были введены в рамках кампании \"Economic Fury\". Иранские криптобиржи попали под действие ограничений.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-08T06:45:38.985557+00:00",
+    "awaiting_edit": false
+  },
+  "8fa85393f3789f1d593e04730ce11919": {
+    "title": "EIP-8363 угрожает ETH",
+    "body": "Предложение \"Tapered Issuance Burn\" предполагает поэтапное introduction повышения сжигания консенсусных вознаграждений для ограничения количества стейкнутого ETH. Это может нанести ущерб основному преимуществу Ethereum перед Bitcoin, считает CEO SharpLink. Принятие этого предложения может изменить динамику Proof-of-Stake сети.",
+    "url": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-08T06:45:42.012253+00:00",
+    "awaiting_edit": false
+  },
+  "a13ce4303f8427dd3182e31cfcf025f1": {
+    "title": "Кража криптовалюты из-за устаревшего генератора",
+    "body": "Устаревший генератор случайных чисел стал причиной кражи $5,7 млн в криптовалюте. Этот инцидент произошел недавно и является одним из значимых событий в сфере кибербезопасности.",
+    "url": "https://forklog.com/news/neobychnyj-kriptostiler-dlya-macos-shpionazh-v-otelyah-cherez-wi-fi-i-drugie-sobytiya-kiberbezopasnosti",
+    "source": "ForkLog",
+    "timestamp": "2026-08-08T06:45:44.831265+00:00",
+    "awaiting_edit": false
+  },
+  "45ee94580bc35ea832112382bf9bf208": {
+    "title": "Trump Media покидает рынок криптовалют",
+    "body": "Компания Trump Media, материнская компания Truth Social, отказывается от двух крупных сделок с Crypto.com. Новое руководство смещает фокус на медиа, лицензирование данных и запланированное слияние с компанией TAE, специализирующейся на энергии слияния. Это решение предполагает отход от криптовалютных проектов.",
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "source": "Decrypt",
+    "timestamp": "2026-08-08T06:45:47.751015+00:00",
+    "awaiting_edit": false
   }
 }
