@@ -13746,5 +13746,45 @@
     "source": "The Block",
     "timestamp": "2026-08-09T06:50:57.833966+00:00",
     "awaiting_edit": false
+  },
+  "f26d2a6a94536e2f790236c6eb7c5baf": {
+    "title": "MARA заложила 18 750 BTC",
+    "body": "Майнинг-компания MARA закрыла два кредита под залог 18 750 BTC на общую сумму $600 млн. Сумма кредита от Coinbase Credit составила $450 млн, из которых $150 млн было выделено на рефинансирование действующей кредитной линии. Второй кредит на сумму $300 млн был выдан Two Prime Lending.",
+    "url": "https://forklog.com/mara-zalozhila-18-750-btc-pod-kredity-na-600-mln",
+    "source": "ForkLog",
+    "timestamp": "2026-08-09T11:23:22.927029+00:00",
+    "awaiting_edit": false
+  },
+  "eadf6e3b08cbf353a4537b54af06e362": {
+    "title": "Основатель BitMart отвергает обвинения",
+    "body": "Основатель BitMart Шелдон Ся заявил, что не скрывается и не присваивал средства пользователей. Пользователи биржи жалуются на невозможность вывести деньги с 26 июля. Шелдон Ся впервые ответил на претензии клиентов 8 августа.",
+    "url": "https://forklog.com/news/osnovatel-bitmart-otverg-obvineniya-v-prisvoenii-sredstv-polzovatelej",
+    "source": "ForkLog",
+    "timestamp": "2026-08-09T11:23:25.732788+00:00",
+    "awaiting_edit": false
+  },
+  "403f5c1da320460aa3295f00fa59e830": {
+    "title": "Слабый отчет по занятости США",
+    "body": "Бюро статистики труда США сообщило о снижении числа рабочих мест вне сельского хозяйства в июле на 23 000, что ниже ожидаемого прироста на 80 000. Это может повлиять на ожидания повышения ставки ФРС. Показатели за май и июнь также были пересмотрены в сторону понижения.",
+    "url": "https://forklog.com/slabyj-otchet-po-zanyatosti-snizil-ozhidaniya-povysheniya-stavki-frs",
+    "source": "ForkLog",
+    "timestamp": "2026-08-09T11:23:28.569891+00:00",
+    "awaiting_edit": false
+  },
+  "b9b4b9a4468a6f0c69429d6a98b04de6": {
+    "title": "Сеть биткоина разделилась из-за BIP-110",
+    "body": "Сеть биткоина разделилась на высоте блока #961 632 из-за софтфорка BIP-110. Новая ветка добыла два блока за восемь часов. Блокчейн теперь существует в двух параллельных ветках.",
+    "url": "https://forklog.com/news/set-bitkoina-razdelilas-iz-za-softforka-bip-110",
+    "source": "ForkLog",
+    "timestamp": "2026-08-09T11:23:31.340296+00:00",
+    "awaiting_edit": false
+  },
+  "32719cf3ad555896358fa0afcb0d5986": {
+    "title": "Trump Media отказалась от криптопроектов",
+    "body": "Trump Media and Technology Group (TMTG) решила отказаться от двух договоренностей с Crypto.com. Это решение связано с новым направлением компании на медийный бизнес и ожидаемое слияние с компанией TAE. Об этом сообщил исполняющий обязанности CEO TMTG Кевин МакГурн.",
+    "url": "https://incrypted.com/trump-media-otkazalas-ot-dvuh-kryptoproektov-s-crypto-com/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-09T11:23:34.216295+00:00",
+    "awaiting_edit": false
   }
 }
