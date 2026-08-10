@@ -13826,5 +13826,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-08-09T17:27:30.752684+00:00",
     "awaiting_edit": false
+  },
+  "cffaf6716f7a836f639e7dd14e5076b2": {
+    "title": "Robinhood запускает торговлю криптой в основном приложении для UK",
+    "body": "Комиссия по ценным бумагам и биржам Robinhood добавила возможность торговли криптовалютами в своем основным приложении для пользователей из Великобритании, расширяя свой экосистему криптовалют. Эта возможность реализована через партнёрство с Bitstamp.",
+    "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss",
+    "source": "The Block",
+    "timestamp": "2026-08-10T07:25:36.132464+00:00",
+    "awaiting_edit": false
+  },
+  "153a19ec64b12bc48911592ba8817ce3": {
+    "title": "Австралия отключает 96 криптоматов",
+    "body": "Австралийский отчетно-аналитический центр транзакций (AUSTRAC) приостановил лицензию компании Cryptolink на три месяца из-за опасений по поводу рисков отмывания денег. Это приведет к отключению 96 криптоматов компании в стране. Регулятор мотивировал это решение несоблюдением фирмой обязательств по борьбе с отмыванием денег.",
+    "url": "https://forklog.com/v-avstralii-otklyuchat-96-kriptomatov-cryptolink-iz-za-riskov-otmyvaniya-deneg",
+    "source": "ForkLog",
+    "timestamp": "2026-08-10T07:25:39.277284+00:00",
+    "awaiting_edit": false
+  },
+  "519777ad76ee9aaf4d6e94c77e4657d5": {
+    "title": "Квантовые взломы без следов возможны",
+    "body": "Глава Quantus Network Кристофер Смит предупредил о потенциальных квантовых взломах, которые могут оставаться незаметными. По его мнению, такие атаки могут быть особенно опасны для криптовалют. Смит подчеркнул важность подготовки к таким рискам.",
+    "url": "https://forklog.com/news/glava-quantus-predupredil-o-kvantovyh-vzlomah-bez-sledov",
+    "source": "ForkLog",
+    "timestamp": "2026-08-10T07:25:42.801033+00:00",
+    "awaiting_edit": false
+  },
+  "2a9acd2c0088a0df1d6502e3155de060": {
+    "title": "Grayscale отозвала заявки на ETF",
+    "body": "Grayscale Investments подала в SEC запросы на отзыв регистрационных заявок для трех ETF на базе криптоактивов Cardano, Polkadot и Hedera. Отозванные заявки относятся к Grayscale Cardano Trust ETF, Grayscale Polkadot Trust ETF и Grayscale Hedera Trust ETF.",
+    "url": "https://incrypted.com/grayscale-otozvala-zayavki-na-zapusk-treh-kriptofondov-v-ssha/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-10T07:25:45.762109+00:00",
+    "awaiting_edit": false
+  },
+  "05a05d4dcb2ae1240fc5f91d2124ca33": {
+    "title": "Coinsbuy потерял $8 млн после взлома",
+    "body": "Платформа Coinsbuy была взломана, что привело к потере около $7,9 млн в криптоактивах. Подозрительная активность была зафиксирована на кошельках, связанных с площадкой, 9 августа 2026 года. Инцидент затронул счета в сетях TRON и Ethereum. Злоумышленник начал отмывать украденные средства.",
+    "url": "https://incrypted.com/proekt-coinsbuy-poterjal-pochty-8-mln-v-rezultate-vzloma/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-10T07:25:48.658270+00:00",
+    "awaiting_edit": false
   }
 }
