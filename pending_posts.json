@@ -14026,5 +14026,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-11T11:40:20.246145+00:00",
     "awaiting_edit": false
+  },
+  "52d5c127dcdf50dd18f657fa790db442": {
+    "title": "SEC рассматривает новые правила для криптовалют",
+    "body": "Комиссия по ценным бумагам и биржам (SEC) может предложить новые правила для регулирования криптовалют, которые могут начаться с создания безопасной гавани для токенов. Эта инициатива может стать ключевым этапом в развитии крипторегуляций. По мнению TD Cowen, это может быть \"переломным\" процессом в регулировании криптовалют.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455",
+    "source": "The Block",
+    "timestamp": "2026-08-11T17:56:01.071933+00:00",
+    "awaiting_edit": false
+  },
+  "8acab53299d3952c845efa7a50061744": {
+    "title": "Рост новых адресов Bitcoin",
+    "body": "Количество новых адресов Bitcoin увеличилось с 260 000 до 330 000, что является резким отклонением от снижения, наблюдаемого большую часть года. Это изменение связано с эксплойтом Coldcard, который заставил пользователей перемещать средства.",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317",
+    "source": "The Block",
+    "timestamp": "2026-08-11T17:56:04.057534+00:00",
+    "awaiting_edit": false
+  },
+  "21ac735e3a3abf4234ed33b10e101baf": {
+    "title": "CEO Keel меняет мнение о биткоине",
+    "body": "Генеральный директор Keel ранее называл бизнес компании по биткоину \"сильным\" и выражал оптимизм по поводу экономики майнинга. Однако теперь он изменил свою позицию и делает ставку на большую ценность искусственного интеллекта. Это изменение мнения произошло менее чем за год.",
+    "url": "https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435",
+    "source": "The Block",
+    "timestamp": "2026-08-11T17:56:07.194694+00:00",
+    "awaiting_edit": false
+  },
+  "a2bbde3705c0973fd726fdcdac917336": {
+    "title": "Twenty One Capital понесла убытки",
+    "body": "Компания Twenty One Capital сообщила о убытках в размере 414 миллионов долларов во втором квартале. Новый генеральный директор компании изложил планы по расширению бизнеса за пределы биткоин-активов. Это следует после того, как компания понесла существенные убытки.",
+    "url": "https://www.theblock.co/news/business/2026-08-11-twenty-one-capital-414-million-q2-loss-new-ceo-plots-path-bitcoin-treasury-411432",
+    "source": "The Block",
+    "timestamp": "2026-08-11T17:56:10.663743+00:00",
+    "awaiting_edit": false
+  },
+  "19551e8f2d0abad0b54489918bcbdf1c": {
+    "title": "Биткоин снижается к 64 000 долларов",
+    "body": "Биткоин опустился к 64 000 долларов перед публикацией данных о потребительской инфляции (CPI) в США. Аналитики разделились во мнениях о том, как поведет себя котировка после этого события. Рынок ждет обновления экономических показателей.",
+    "url": "https://www.theblock.co/news/markets/2026-08-11-bitcoin-slips-toward-64000-as-traders-await-wednesdays-inflation-test-411418",
+    "source": "The Block",
+    "timestamp": "2026-08-11T17:56:13.654390+00:00",
+    "awaiting_edit": false
   }
 }
