@@ -14266,5 +14266,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-13T11:41:50.035043+00:00",
     "awaiting_edit": false
+  },
+  "4fb0f9e28ed3a7bbc97497ab22cde28b": {
+    "title": "Citigroup CEO поддерживает законопроект о криптовалютах",
+    "body": "CEO Citigroup Джейн Фрейзер заявила, что хочет увидеть принятие хорошего законопроекта о криптовалютах. Она борется за изменения в законодательстве вместе с другими участниками отрасли. Законопроект касается регулирования стейблкоинов и их вознаграждений.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751",
+    "source": "The Block",
+    "timestamp": "2026-08-13T17:54:11.208124+00:00",
+    "awaiting_edit": false
+  },
+  "7ee20d2b15a87d0a9bd207255c941642": {
+    "title": "Компания Figure почти утроила прибыль",
+    "body": "Чистая прибыль компании Figure увеличилась на 192% и достигла $87 миллионов по сравнению с $30 миллионами в том же периоде прошлого года. Объем рынка кредитования на платформе компании вырос до $4,3 миллиарда.",
+    "url": "https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736",
+    "source": "The Block",
+    "timestamp": "2026-08-13T17:54:14.385693+00:00",
+    "awaiting_edit": false
+  },
+  "122d0cdfe9edcc2cc27e7eccae81e9b4": {
+    "title": "Утечка данных клиентов Trezor",
+    "body": "Была обнаружена утечка персональных данных около 14 000 клиентов Trezor, использующих аппаратные кошельки, из-за взлома системы логистического провайдера ShipMonk. В числе раскрытых данных оказались некоторые адреса доставки. Взлом затронул клиентов, чьи данные были переданы ShipMonk для доставки устройств.",
+    "url": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702",
+    "source": "The Block",
+    "timestamp": "2026-08-13T17:54:17.767102+00:00",
+    "awaiting_edit": false
+  },
+  "639ef745382627cf351eee16923a7cde": {
+    "title": "Биткоин продолжает торговать в диапазоне",
+    "body": "Стоимость биткоина остается ниже $64,000 из-за отсутствия значительного роста после публикации данных о промышленной производительности (PPI) и потребительских ценах (CPI) в США. Аналитики из Glassnode отметили отсутствие покупателей на рынке. Данные об отсутствии существенного движения на рынке являются одними из самых низких с 2019 года.",
+    "url": "https://www.theblock.co/news/markets/2026-08-13-bitcoin-continues-ranging-as-crowded-longs-meet-soft-inflation-the-quietest-tape-since-2019-analysts-411708",
+    "source": "The Block",
+    "timestamp": "2026-08-13T17:54:21.215656+00:00",
+    "awaiting_edit": false
+  },
+  "03e85f6b6fb05f3949962d4cf88ad5fa": {
+    "title": "Биржа Bullish сообщила о значительном убытке",
+    "body": "Биржа Bullish, поддерживаемая Питером Тилем, сообщила о чистом убытке в размере 280 миллионов долларов за второй квартал из-за снижения продаж цифровых активов на 44%. При этом скорректированная выручка биржи увеличилась на 62%.",
+    "url": "https://www.theblock.co/news/business/2026-08-13-peter-thiel-backed-bullish-posts-280-million-q2-net-loss-as-digital-asset-sales-fall-44-411695",
+    "source": "The Block",
+    "timestamp": "2026-08-13T17:54:25.218846+00:00",
+    "awaiting_edit": false
   }
 }
