@@ -14386,5 +14386,45 @@
     "source": "ForkLog",
     "timestamp": "2026-08-14T11:40:43.536656+00:00",
     "awaiting_edit": false
+  },
+  "6507ede9a46004f28c1e1306ab66fcfd": {
+    "title": "Крупнейший банк Израиля начинает торговать криптовалютой",
+    "body": "Крупнейший банк Израиля заключил партнерское соглашение с компанией Galaxy для предложения своим клиентам возможности торговать биткоином, эфириумом и соланой. За последние 12 месяцев, закончившиеся июнем 2025 года, в Израиль поступило примерно 22 млрд долларов США в виде криптовалютных транзакций. Это партнерство позволит банку расширить свои финансовые услуги.",
+    "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+    "source": "The Block",
+    "timestamp": "2026-08-14T17:48:41.548496+00:00",
+    "awaiting_edit": false
+  },
+  "385885b655fdd2c74a63107510863d29": {
+    "title": "Binance блокирует транзакции с 11 биржами",
+    "body": "Binance намерена прекратить обработку транзакций с 11 биржами, включая HTX, в связи с требованиями по соблюдению нормативных требований ЕС. Этот шаг связан с санкциями ЕС в отношении России. Ранее были заблокированы пять бирж.",
+    "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
+    "source": "The Block",
+    "timestamp": "2026-08-14T17:48:44.665572+00:00",
+    "awaiting_edit": false
+  },
+  "a2860a558c59a96a1295ec8b3684faf6": {
+    "title": "Акции StablecoinX выросли на 12%",
+    "body": "Компания StablecoinX, thuộc компании Ethena, объявила о том, что владеет 20% общего запаса ENA. После этого объявления акции StablecoinX выросли на 12%. Это новое развитие в мире стейблкоинов и цифровых активов.",
+    "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
+    "source": "The Block",
+    "timestamp": "2026-08-14T17:48:47.776396+00:00",
+    "awaiting_edit": false
+  },
+  "f89590fb5ba9c178a30285f3b12225cf": {
+    "title": "Продажа 685 биткоинов за $43 миллиона",
+    "body": "Компания Hyperscale Data продала 685 биткоинов за примерно $43 миллиона для снижения долга и финансирования центра данных в Мичигане, посвященного искусственному интеллекту. Средства от продажи будут направлены на развитие инфраструктуры компании. Это значительная сделка на рынке биткоина.",
+    "url": "https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827",
+    "source": "The Block",
+    "timestamp": "2026-08-14T17:48:50.725143+00:00",
+    "awaiting_edit": false
+  },
+  "7ee00ab4140b9fe6cb8efca6d3db5c2e": {
+    "title": "Фонд норвежских богатств инвестировал в биткоин",
+    "body": "Фонд норвежских богатств достиг рекордного уровня индиректного воздействия на биткоин, что составляет 86% от общей стратегии. Также было объявлено о новых инвестициях в размере 88 миллионов долларов в фирму Bitmine, которая занимается казной Ethereum.",
+    "url": "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815",
+    "source": "The Block",
+    "timestamp": "2026-08-14T17:48:53.644697+00:00",
+    "awaiting_edit": false
   }
 }
