@@ -14466,5 +14466,45 @@
     "source": "The Block",
     "timestamp": "2026-08-15T06:32:24.737570+00:00",
     "awaiting_edit": false
+  },
+  "54ee61d3d3e2fb2dff9c493eb4b473b5": {
+    "title": "Ирландия представляет AML-стратегию",
+    "body": "Министерство финансов Ирландии опубликовало первую национальную стратегию по противодействию отмыванию денег и финансированию терроризма на крипторынке. Документ вводит усиленные проверки при переводах с приватных криптокошельков и повышенный due diligence при работе с зарубежными криптокомпаниями. Цель стратегии — повысить прозрачность и безопасность на рынке криптовалют в Ирландии.",
+    "url": "https://forklog.com/irlandiya-predstavila-aml-strategiyu-dlya-kriptorynka",
+    "source": "ForkLog",
+    "timestamp": "2026-08-15T11:15:15.829195+00:00",
+    "awaiting_edit": false
+  },
+  "7d8a9b7ed21dcc9d528e445a5a1d292e": {
+    "title": "Хакеры украли 1700 BTC из Coldcard",
+    "body": "Хакеры атаковали уязвимые аппаратные кошельки Coldcard и похитили как минимум 1778,84 BTC, что эквивалентно примерно $112,7 млн. Новых случаев взлома после 6 августа не зафиксировано.",
+    "url": "https://forklog.com/news/hakery-ukrali-bolee-1700-btc-iz-uyazvimyh-koshelkov-coldcard",
+    "source": "ForkLog",
+    "timestamp": "2026-08-15T11:15:18.655923+00:00",
+    "awaiting_edit": false
+  },
+  "986c6640eae08562c8669b672a2e5ad3": {
+    "title": "Tether опубликовал результаты аудита резервов",
+    "body": "Были опубликованы результаты первого независимого аудита резервов Tether. Российские банки блокируют транзакции с USDT.",
+    "url": "https://forklog.com/news/chto-nashli-v-rezervah-tether-i-za-chto-banki-rf-blokiruyut-usdt",
+    "source": "ForkLog",
+    "timestamp": "2026-08-15T11:15:21.713834+00:00",
+    "awaiting_edit": false
+  },
+  "9f8b07d17f2be59a1d04a86656eddef2": {
+    "title": "Закрытие фейковых обменников в Украине",
+    "body": "В Украине обнаружена и ликвидирована сеть фейковых криптообменников Money 24/7. В результате операции было изъято более 20 млн гривен. Это часть более широкого обзора кибербезопасности, включая события с вымогателем DeadLock в Polygon.",
+    "url": "https://forklog.com/news/vymogatel-deadlock-v-polygon-zakrytie-fejkovyh-kriptoobmennikov-v-ukraine-i-drugie-sobytiya-kiberbezopasnosti",
+    "source": "ForkLog",
+    "timestamp": "2026-08-15T11:15:25.323147+00:00",
+    "awaiting_edit": false
+  },
+  "98734c47558e4aaf02bc9c17cb6ecacc": {
+    "title": "Binance блокирует транзакции с платформами",
+    "body": "Криптобиржа Binance прекратила обработку транзакций с рядом криптоплатформ, включая A7, HTX, EXMO и другие. Это решение было принято для выполнения регуляторных требований в юрисдикциях работы биржи. Пользователям Binance рекомендуется не отправлять средства и не получать активы с этих платформ после определенных дат.",
+    "url": "https://incrypted.com/binance-nachala-blokyrovat-tranzaktsyy-s-rjadom-kryptoplatform/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-15T11:15:28.203214+00:00",
+    "awaiting_edit": false
   }
 }
