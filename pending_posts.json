@@ -14546,5 +14546,21 @@
     "source": "INCRYPTED",
     "timestamp": "2026-08-15T17:16:46.816654+00:00",
     "awaiting_edit": false
+  },
+  "8a8f63d85fb46a89045ad843b807edb2": {
+    "title": "JPMorgan разрывает с Polymarket",
+    "body": "JPMorgan прекратил банковское обслуживание Polymarket в октябре, но все еще намерен участвовать в потенциальном IPO. Polymarket перенес свои счета в другой банк. Компания поддерживает \"близкие и активные отношения\" с JPMorgan.",
+    "url": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+    "source": "The Block",
+    "timestamp": "2026-08-16T06:33:26.806364+00:00",
+    "awaiting_edit": false
+  },
+  "70d6b8d5f337059f7afbe9fd2c5ca15b": {
+    "title": "Harvard не меняет свой bitcoin ETF",
+    "body": "Второй квартал года характеризовался отсутствием изменений в портфеле bitcoin ETF Гарварда после сокращения на 43% в предыдущем квартале. Инвестиционная компания Mubadala Investment Company и Совет по инвестициям Абу-Даби также сохранили свои 22,9 миллиона акций IBIT. Это означает, что эти инвесторы не внесли изменений в свои позиции по биткоин-ETF.",
+    "url": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
+    "source": "The Block",
+    "timestamp": "2026-08-16T06:33:30.113560+00:00",
+    "awaiting_edit": false
   }
 }
