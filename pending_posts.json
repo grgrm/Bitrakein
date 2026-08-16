@@ -14594,5 +14594,45 @@
     "source": "INCRYPTED",
     "timestamp": "2026-08-16T11:15:53.538577+00:00",
     "awaiting_edit": false
+  },
+  "7a461173ab27fb219f41caf08b574d31": {
+    "title": "Хакеры атакуют macOS через уязвимость",
+    "body": "Хакеры использовали уязвимость в функции Screen Sharing macOS, чтобы устанавливать майнеры Monero. Американские власти оценили опасность уязвимости на уровне 9,8 из 10 по шкале CVSS. Эксперты рекомендуют пользователям обновить свои устройства.",
+    "url": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+    "source": "The Block",
+    "timestamp": "2026-08-16T17:15:24.429208+00:00",
+    "awaiting_edit": false
+  },
+  "21c64d414f9c0002f0d5a316515ae159": {
+    "title": "Майнеры распродают биткоин",
+    "body": "Майнеры продали монеты на миллиарды долларов для перехода в ИИ-инфраструктуру. Это привело к значительному влиянию на рынок. Рост ИИ-инфраструктуры также затронул сферу кибербезопасности.",
+    "url": "https://forklog.com/news/itogi-nedeli-rasprodazha-bitkoina-majnerami-i-ii-v-rukah-hakerov",
+    "source": "ForkLog",
+    "timestamp": "2026-08-16T17:15:27.520252+00:00",
+    "awaiting_edit": false
+  },
+  "a968c254c5b922d1e6734615fb3abdc7": {
+    "title": "Утечка данных в SafePal",
+    "body": "Производитель аппаратных криптокошельков SafePal сообщил об утечке данных примерно 39 798 пользователей. В распоряжении третьих лиц оказались имена, адреса доставки, телефоны, электронные почты.",
+    "url": "https://forklog.com/news/v-safepal-soobshhili-ob-utechke-dannyh-okolo-40-000-polzovatelej",
+    "source": "ForkLog",
+    "timestamp": "2026-08-16T17:15:30.611081+00:00",
+    "awaiting_edit": false
+  },
+  "4f10fac6465a5fcf6b0548e7d4b19c37": {
+    "title": "UBS наращивает экспозицию по биткоин-ETF",
+    "body": "Швейцарский банк UBS увеличил количество колл-опционов на биткоин-ETF IBIT от BlackRock с 80 000 до 1,95 млн акций за квартал. Прямая позиция в IBIT выросла на 12% и теперь составляет 407 890 акций, а экспозиция по пут-опционам сократилась на 53%. Экспозиция по колл-опционам увеличилась в 24 раза.",
+    "url": "https://forklog.com/ubs-narastil-ekspozitsiyu-po-koll-optsionam-na-bitkoin-etf-v-24-raza",
+    "source": "ForkLog",
+    "timestamp": "2026-08-16T17:15:33.811102+00:00",
+    "awaiting_edit": false
+  },
+  "57add06d0d486646f43c55eb82043108": {
+    "title": "Утечка данных SafePal затронула 40 000 клиентов",
+    "body": "Производитель аппаратных кошельков SafePal раскрыл утечку данных почти 40 000 клиентов из-за ошибки авторизации в функции отслеживания заказов. Это может привести к целенаправленным фишинговым и мошенническим атакам. Компания уведомила своих клиентов об инциденте безопасности.",
+    "url": "https://incrypted.com/proyzvodytel-apparatnogo-koshelka-safepal-raskryl-utechku-dannyh-pochty-40-000-klyentov/",
+    "source": "INCRYPTED",
+    "timestamp": "2026-08-16T17:15:37.038587+00:00",
+    "awaiting_edit": false
   }
 }
